@@ -2,30 +2,56 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz Cancillería Pro</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Quiz Cancillería</title>
+    <style>
+        body { font-family: sans-serif; background: #f4f4f9; display: flex; justify-content: center; padding: 20px; }
+        .card { background: white; padding: 20px; border-radius: 10px; width: 100%; max-width: 500px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .cat { color: #555; font-size: 0.8em; text-transform: uppercase; }
+        h2 { color: #004a99; }
+        button { display: block; width: 100%; margin: 10px 0; padding: 12px; border: 1px solid #004a99; border-radius: 5px; cursor: pointer; background: white; color: #004a99; font-weight: bold; }
+        button:hover { background: #004a99; color: white; }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Cancillería Quiz</h1>
-            <div id="stats">Preguntas respondidas: <span id="count">0</span></div>
-        </header>
 
-        <main id="quiz-area">
-            <p id="categoria">Cargando...</p>
-            <h2 id="pregunta">Cargando pregunta...</h2>
-            
-            <div id="opciones"></div>
-            
-            <div id="feedback" style="margin-top: 20px; display: none;">
-                <p id="mensaje-resultado"></p>
-                <button onclick="siguientePregunta()">Siguiente pregunta</button>
-            </div>
-        </main>
-    </div>
-    
-    <script src="script.js" defer></script>
+<div class="card">
+    <div id="cat" class="cat">Cargando...</div>
+    <h2 id="pregunta">Cargando...</h2>
+    <div id="opciones"></div>
+</div>
+
+<script>
+    let banco = [];
+    let indice = 0;
+
+    async function cargar() {
+        try {
+            const res = await fetch('preguntas.json');
+            banco = await res.json();
+            mostrar();
+        } catch (e) { document.body.innerHTML = "Error: Asegúrate de tener preguntas.json en la misma carpeta."; }
+    }
+
+    function mostrar() {
+        const p = banco[indice];
+        document.getElementById('cat').innerText = p.c;
+        document.getElementById('pregunta').innerText = p.p;
+        const div = document.getElementById('opciones');
+        div.innerHTML = '';
+        p.o.forEach((op, i) => {
+            const btn = document.createElement('button');
+            btn.innerText = op;
+            btn.onclick = () => {
+                if (i === p.r) alert("¡Correcto!");
+                else alert("Incorrecto, la respuesta era: " + p.o[p.r]);
+                indice = (indice + 1) % banco.length;
+                mostrar();
+            };
+            div.appendChild(btn);
+        });
+    }
+
+    cargar();
+</script>
 </body>
 </html>
