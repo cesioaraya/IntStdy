@@ -445,4 +445,972 @@
         ],
         "r": 1
     }
+    {
+        "c": "Alianza del Pacífico - Naturaleza Jurídica",
+        "p": "La Alianza del Pacífico se diferencia de otros bloques regionales latinoamericanos por su modelo de integración. ¿Qué caracteriza a este mecanismo en su diseño institucional?",
+        "o": [
+            "Es un bloque supranacional que impone leyes vinculantes a los congresos nacionales.",
+            "Es una plataforma de integración profunda basada en el regionalismo abierto y pragmático, sin una burocracia supranacional excesiva.",
+            "Se centra exclusivamente en la defensa política y la seguridad regional frente a potencias externas.",
+            "Es una unión aduanera con un arancel externo común obligatorio para todos sus miembros."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Alianza del Pacífico - Pilares Fundamentales",
+        "p": "El núcleo de la Alianza del Pacífico se fundamenta en la libre circulación de cuatro elementos. ¿Cuál de las siguientes opciones describe correctamente este mandato?",
+        "o": [
+            "Libre tránsito de bienes, servicios, capitales y personas.",
+            "Integración de mercados laborales, moneda única, fuerzas armadas conjuntas y libertad de prensa.",
+            "Exención de visas para turismo, libre importación de armas, homologación de títulos técnicos y tratados de extradición automáticos.",
+            "Cooperación en investigación espacial, patentes farmacéuticas, cuotas pesqueras y política de defensa común."
+        ],
+        "r": 0
+    },
+    {
+        "c": "Alianza del Pacífico - Estrategia Externa",
+        "p": "Históricamente, ¿cuál es el objetivo estratégico de la Alianza del Pacífico respecto a su proyección geopolítica global?",
+        "o": [
+            "Reemplazar a los Estados Unidos como principal socio comercial de la región.",
+            "Fortalecer la articulación comercial y diplomática con el Asia-Pacífico, aprovechando la ubicación geográfica de sus miembros.",
+            "Establecer una alianza militar para contener la expansión de potencias extrarregionales.",
+            "Centralizar todas las decisiones de política exterior en una secretaría con sede en Ciudad de México."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Alianza del Pacífico - Reglas de Origen",
+        "p": "Un elemento técnico clave de la Alianza es la 'acumulación de origen'. ¿Qué permite este mecanismo a las empresas de los países miembros?",
+        "o": [
+            "Pagar impuestos en el país de destino en lugar del país de origen.",
+            "Utilizar insumos provenientes de otros Estados miembros y ser considerados como 'originarios' de la Alianza para acceder a beneficios arancelarios en las cadenas de valor.",
+            "Vender productos en cualquier país miembro sin necesidad de registros sanitarios.",
+            "Acceder automáticamente a licitaciones públicas en los cuatro países sin cumplir requisitos técnicos previos."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Alianza del Pacífico - Diplomacia y Pragmática",
+        "p": "A diferencia de otros bloques que han sufrido parálisis por cambios de gobierno, la Alianza del Pacífico ha mantenido una relativa estabilidad. ¿Qué factor explica principalmente esta resiliencia?",
+        "o": [
+            "La existencia de una fuerza militar de paz que garantiza la estabilidad democrática.",
+            "Un enfoque pragmático que prioriza la agenda técnica y comercial sobre las afinidades ideológicas de los gobiernos de turno.",
+            "La prohibición estatutaria de discutir temas políticos internos en las reuniones de cancilleres.",
+            "El control ejercido por el sector privado que tiene poder de veto sobre las decisiones presidenciales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Alianza del Pacífico - Cooperación",
+        "p": "Más allá del comercio, la Alianza contempla la 'Plataforma de Movilidad Estudiantil y Académica'. ¿Cuál es el propósito diplomático de esta iniciativa?",
+        "o": [
+            "Sustituir las universidades nacionales por centros de formación regionales.",
+            "Fomentar la integración regional mediante la formación de capital humano y la creación de una identidad compartida entre los jóvenes líderes.",
+            "Reclutar talento técnico para las embajadas de los países miembros exclusivamente.",
+            "Reducir los costos de los programas de becas gubernamentales a través de fondos comunes."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Alianza del Pacífico - Comercio e Inversión",
+        "p": "Uno de los objetivos del Protocolo Comercial es la facilitación del comercio. ¿Qué implica esto en la práctica para la gestión de las cancillerías y autoridades aduaneras?",
+        "o": [
+            "La eliminación de controles fronterizos para el flujo de personas sin restricción alguna.",
+            "La simplificación y armonización de trámites, uso de ventanillas únicas de comercio exterior y gestión de riesgos para reducir tiempos y costos logísticos.",
+            "La anulación de los aranceles para todos los productos agrícolas sin excepciones.",
+            "La obligación de las autoridades aduaneras de certificar la calidad de los productos antes de ser producidos."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Alianza del Pacífico - Geopolítica Regional",
+        "p": "Analizando la Alianza del Pacífico en el contexto latinoamericano, ¿cómo suele ser percibida su relación con otros bloques como el MERCOSUR?",
+        "o": [
+            "Como una rivalidad abierta que busca la disolución del MERCOSUR.",
+            "Como un modelo alternativo de integración abierta que busca la convergencia en la diversidad, más que una sustitución de otros bloques.",
+            "Como un grupo subordinado a las políticas de seguridad de la OEA.",
+            "Como un club exclusivo que prohíbe a sus miembros tener tratados comerciales con países del Atlántico."
+        ],
+        "r": 1
+    }
+    {
+        "c": "CAN - Fundamentos Jurídicos",
+        "p": "La Comunidad Andina tiene su origen en el Acuerdo de Cartagena de 1969. ¿Cuál es el rasgo distintivo de su sistema jurídico en comparación con otros mecanismos de integración regional?",
+        "o": [
+            "Es una organización puramente intergubernamental sin capacidad de emitir normas vinculantes.",
+            "Posee un carácter supranacional con órganos que pueden emitir normas de aplicación directa y prevalencia sobre el derecho interno de los Estados Miembros.",
+            "Sus decisiones solo tienen valor de recomendación política, sin obligatoriedad legal para los Estados.",
+            "Es una zona de libre comercio que requiere ratificación parlamentaria de cada una de sus decisiones para entrar en vigor."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CAN - Composición",
+        "p": "¿Cuál es la composición actual de los Estados Miembros de la Comunidad Andina?",
+        "o": [
+            "Colombia, Ecuador, Perú, Bolivia y Chile (como miembro pleno).",
+            "Colombia, Ecuador, Perú y Bolivia.",
+            "Colombia, Venezuela, Ecuador y Perú.",
+            "Colombia, Ecuador, Perú, Bolivia y Panamá."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CAN - Institucionalidad",
+        "p": "El Tribunal de Justicia de la Comunidad Andina es un órgano clave para garantizar la legalidad. ¿Cuál es una de sus funciones jurisdiccionales más importantes?",
+        "o": [
+            "La resolución de conflictos territoriales entre los países miembros.",
+            "La interpretación prejudicial del Derecho Comunitario Andino para asegurar su aplicación uniforme.",
+            "La auditoría externa de las cuentas fiscales de los Estados Miembros.",
+            "La negociación de tratados de libre comercio con terceros Estados en representación de la región."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CAN - Derechos Ciudadanos",
+        "p": "El 'Estatuto Andino de Migraciones' es un instrumento relevante para la movilidad humana en la región. ¿Qué derecho principal garantiza este estatuto a los ciudadanos andinos?",
+        "o": [
+            "La posibilidad de residir y trabajar en cualquier país miembro con derechos equivalentes a los nacionales.",
+            "La eliminación automática de pasaportes para viajar dentro del bloque.",
+            "La transferencia directa de pensiones y jubilaciones entre los sistemas de seguridad social de los cuatro países.",
+            "El derecho a votar en las elecciones presidenciales de cualquier país miembro de la CAN."
+        ],
+        "r": 0
+    },
+    {
+        "c": "CAN - Derecho Comunitario",
+        "p": "El principio de 'Aplicabilidad Directa' en el ordenamiento jurídico andino implica que:",
+        "o": [
+            "Las decisiones de la Comisión de la CAN deben ser aprobadas por los Congresos nacionales para ser ley.",
+            "Las normas andinas forman parte del ordenamiento jurídico nacional desde su publicación en la Gaceta Oficial del Acuerdo de Cartagena sin necesidad de transposición.",
+            "Los ciudadanos pueden ignorar las normas nacionales si consideran que son más beneficiosas que las andinas.",
+            "El Presidente de la República puede suspender la aplicación de una norma comunitaria mediante decreto ejecutivo."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CAN - Estrategia Regional",
+        "p": "¿Cuál es la relación principal entre la Comunidad Andina y la Alianza del Pacífico en el marco de la integración latinoamericana?",
+        "o": [
+            "Son bloques totalmente excluyentes; un país no puede pertenecer a ambos.",
+            "Ambos mecanismos coexisten y buscan la convergencia en la diversidad, permitiendo la flexibilización de reglas de origen para facilitar el comercio intra-regional.",
+            "La CAN ha sido absorbida institucionalmente por la Alianza del Pacífico.",
+            "Son organizaciones con objetivos opuestos: la CAN busca el proteccionismo y la Alianza del Pacífico el libre mercado absoluto."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CAN - Secretaría General",
+        "p": "La Secretaría General de la Comunidad Andina, con sede en Lima, ejerce funciones de carácter técnico-administrativo. ¿Qué órgano ejerce la principal función de decisión política y normativa en la CAN?",
+        "o": [
+            "El Parlamento Andino.",
+            "El Consejo Andino de Ministros de Relaciones Exteriores y la Comisión de la Comunidad Andina.",
+            "El Comité Andino de Expertos Jurídicos.",
+            "El Banco de Desarrollo de América Latina (CAF)."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CAN - Propiedad Intelectual",
+        "p": "La CAN cuenta con un régimen común sobre Propiedad Industrial (Decisión 486). ¿Por qué es este un tema crítico en la diplomacia andina?",
+        "o": [
+            "Porque permite que un solo registro de patente proteja al inventor en los cuatro países miembros de forma unificada.",
+            "Porque es un tema que los países han decidido privatizar totalmente, excluyendo la participación de la Secretaría General.",
+            "Porque es un área donde las normativas nacionales difieren tanto que la CAN ha renunciado a regularla.",
+            "Porque la Decisión 486 es opcional y solo se aplica si el país decide ratificarla individualmente cada año."
+        ],
+        "r": 0
+    }
+    {
+        "c": "MERCOSUR - Naturaleza Jurídica",
+        "p": "A diferencia de una simple zona de libre comercio, el MERCOSUR se define técnicamente como una Unión Aduanera. ¿Cuál es la característica principal que define este estadio de integración?",
+        "o": [
+            "La eliminación de todos los aranceles entre los miembros y la adopción de una moneda única.",
+            "La libre circulación de bienes y la adopción de un Arancel Externo Común (AEC) frente a terceros países.",
+            "La creación de un Parlamento con facultades legislativas vinculantes para los Estados nacionales.",
+            "La renuncia absoluta de los Estados a ejercer soberanía en temas de política exterior."
+        ],
+        "r": 1
+    },
+    {
+        "c": "MERCOSUR - Origen",
+        "p": "¿Qué instrumentos fundacionales dieron origen al MERCOSUR en 1991, estableciendo el compromiso de conformar un mercado común?",
+        "o": [
+            "El Tratado de Asunción.",
+            "El Protocolo de Ouro Preto.",
+            "El Pacto Andino.",
+            "La Declaración de Lima."
+        ],
+        "r": 0
+    },
+    {
+        "c": "MERCOSUR - Institucionalidad",
+        "p": "En el MERCOSUR, la toma de decisiones en los órganos principales (Consejo del Mercado Común y Grupo Mercado Común) se rige por un principio fundamental. ¿Cuál es?",
+        "o": [
+            "Votación por mayoría ponderada según el PIB de cada Estado.",
+            "Consenso, con la presencia de todos los Estados Partes.",
+            "Votación por mayoría simple de los miembros presentes.",
+            "Decisión ejecutiva tomada por la Secretaría del MERCOSUR."
+        ],
+        "r": 1
+    },
+    {
+        "c": "MERCOSUR - Solución de Controversias",
+        "p": "El Protocolo de Olivos es el instrumento vigente para la solución de controversias en el bloque. ¿Cuál es la instancia jurisdiccional permanente prevista en este sistema?",
+        "o": [
+            "El Tribunal de Justicia de la Unión Sudamericana.",
+            "El Tribunal Permanente de Revisión (TPR).",
+            "La Corte Internacional de Justicia de La Haya.",
+            "El Consejo de Arbitraje Ad Hoc permanente."
+        ],
+        "r": 1
+    },
+    {
+        "c": "MERCOSUR - Relaciones Externas",
+        "p": "Debido a su naturaleza de Unión Aduanera, ¿qué restricción formal enfrentan los Estados Partes del MERCOSUR al momento de negociar acuerdos comerciales con terceros países?",
+        "o": [
+            "Pueden negociar individualmente, pero deben notificar a los demás miembros seis meses antes.",
+            "Deben negociar de manera conjunta o en bloque, manteniendo la coherencia del Arancel Externo Común.",
+            "Tienen prohibido negociar cualquier tipo de acuerdo comercial fuera de la región.",
+            "Pueden negociar libremente siempre que no incluyan productos agrícolas."
+        ],
+        "r": 1
+    },
+    {
+        "c": "MERCOSUR - Estados Asociados",
+        "p": "Países como Colombia, Chile, Perú y Ecuador participan en el MERCOSUR bajo una categoría jurídica específica. ¿Cuál es esa categoría?",
+        "o": [
+            "Miembros observadores sin derecho a voz.",
+            "Estados Asociados.",
+            "Miembros Plenos con voto condicionado.",
+            "Estados Cooperantes sin tratados comerciales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "MERCOSUR - Cláusula Democrática",
+        "p": "Ante una ruptura del orden democrático en un Estado Parte, el MERCOSUR cuenta con un instrumento jurídico para suspender los derechos del Estado afectado. ¿Cómo se denomina?",
+        "o": [
+            "Protocolo de Ushuaia sobre Compromiso Democrático.",
+            "Cláusula de Salvaguardia de la Carta Democrática.",
+            "Decisión 01/91 de Asunción.",
+            "Convenio de Defensa de la Integridad Institucional."
+        ],
+        "r": 0
+    },
+    {
+        "c": "MERCOSUR - Desafíos Actuales",
+        "p": "Uno de los debates recurrentes en la agenda actual del MERCOSUR es la propuesta de 'flexibilización'. ¿Qué busca esta postura principalmente?",
+        "o": [
+            "La disolución del bloque para priorizar tratados bilaterales.",
+            "La posibilidad de que los Estados Partes puedan negociar tratados de libre comercio con terceros países de manera individual o a distintas velocidades.",
+            "La eliminación de la necesidad de consenso para todas las decisiones políticas.",
+            "La creación de una fuerza de seguridad regional bajo mando único."
+        ],
+        "r": 1
+    }
+    {
+        "c": "CELAC - Naturaleza Jurídica",
+        "p": "La CELAC se distingue de la OEA principalmente por su composición y alcance. ¿Cuál es la diferencia fundamental en cuanto a sus miembros?",
+        "o": [
+            "La CELAC incluye a Estados Unidos y Canadá, mientras que la OEA los excluye.",
+            "La CELAC está integrada exclusivamente por los 33 países de América Latina y el Caribe, excluyendo a Estados Unidos y Canadá.",
+            "La CELAC es una unión aduanera que excluye a los países del Caribe.",
+            "La CELAC es una organización militar que reemplazó a la Junta Interamericana de Defensa."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CELAC - Objetivos Estratégicos",
+        "p": "¿Cuál es el objetivo principal de la CELAC como mecanismo de concertación regional?",
+        "o": [
+            "Establecer una moneda única para toda la región antes de 2030.",
+            "Promover la integración política, la concertación de intereses y la cooperación regional en temas globales con una voz unificada.",
+            "Eliminar todas las fronteras territoriales entre los países miembros.",
+            "Crear una zona de libre comercio que obligue a todos los miembros a eliminar aranceles."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CELAC - Origen",
+        "p": "¿En qué año y contexto histórico se formalizó la creación de la CELAC como mecanismo de integración?",
+        "o": [
+            "En 1948, durante la Conferencia de Bogotá.",
+            "En 2011, durante la Cumbre de Caracas, consolidando la voluntad de unidad expresada en cumbres previas (CALC y Grupo de Río).",
+            "En 1991, junto con la creación del MERCOSUR.",
+            "En 1969, con la firma del Acuerdo de Cartagena."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CELAC - Institucionalidad",
+        "p": "A diferencia de la CAN o el MERCOSUR, la CELAC se caracteriza por un diseño institucional específico. ¿Cómo se define su estructura?",
+        "o": [
+            "Es un organismo supranacional con un parlamento de elección directa y jueces permanentes.",
+            "Es un mecanismo de carácter intergubernamental, flexible, sin una burocracia supranacional permanente ni sede fija, que basa su toma de decisiones en el consenso.",
+            "Es una secretaría general con facultades para imponer sanciones comerciales a los miembros.",
+            "Es un foro de expertos técnicos sin ninguna capacidad de decisión política."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CELAC - Gestión",
+        "p": "¿Cómo se coordina la dirección política y operativa de la CELAC?",
+        "o": [
+            "A través de un Secretario General elegido de forma vitalicia.",
+            "Mediante una Presidencia Pro Tempore que rota anualmente entre los Estados miembros.",
+            "Por decisión de los países con mayor Producto Interno Bruto de la región.",
+            "Por votación de mayoría simple en el Parlamento Andino."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CELAC - Diplomacia Regional",
+        "p": "Una de las funciones más relevantes de la CELAC en la política exterior es:",
+        "o": [
+            "La negociación de tratados bilaterales de inversión en representación de cada país miembro.",
+            "La interlocución con otros bloques y potencias extrarregionales (como la Unión Europea o China) para presentar una agenda regional coordinada.",
+            "La supervisión de los procesos electorales internos de todos los países miembros.",
+            "La gestión de la deuda externa soberana de sus miembros ante el FMI."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CELAC - Alcance Temático",
+        "p": "La agenda de la CELAC abarca diversos temas. ¿Qué área ha sido históricamente prioritaria para el bloque desde su creación?",
+        "o": [
+            "La creación de una alianza de defensa mutua contra ataques externos.",
+            "La cooperación en desarrollo social, seguridad alimentaria, reducción de desigualdades y crisis climática.",
+            "La privatización de todos los recursos naturales de los Estados miembros.",
+            "La adopción de un sistema de leyes penales unificado para toda la región."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CELAC - Relación con otros mecanismos",
+        "p": "Dado el 'hiper-regionalismo' latinoamericano, ¿cómo convive la CELAC con otros mecanismos como la CAN o el MERCOSUR?",
+        "o": [
+            "La CELAC absorbió y disolvió a todos los demás mecanismos comerciales.",
+            "La CELAC actúa como un foro de diálogo político de alto nivel que complementa a los mecanismos de integración económica y técnica preexistentes.",
+            "La CELAC prohíbe a sus miembros pertenecer a otros bloques regionales.",
+            "La CELAC es simplemente el nombre actual de la OEA."
+        ],
+        "r": 1
+    }
+    {
+        "c": "ONU - Carta de las Naciones Unidas",
+        "p": "La Carta de las Naciones Unidas es el tratado internacional fundador. Desde el punto de vista del Derecho Internacional, ¿cuál es la característica jurídica más relevante de este documento?",
+        "o": [
+            "Es una norma de carácter declarativo sin fuerza vinculante para los Estados miembros.",
+            "Establece una jerarquía normativa, donde las obligaciones contenidas en la Carta prevalecen sobre cualquier otro tratado internacional (Art. 103).",
+            "Su cumplimiento es voluntario y depende exclusivamente de la voluntad política de las grandes potencias.",
+            "Fue redactada exclusivamente por los países vencedores de la Segunda Guerra Mundial sin derecho a adhesión de terceros países."
+        ],
+        "r": 1
+    },
+    {
+        "c": "ONU - Consejo de Seguridad",
+        "p": "El Consejo de Seguridad es el único órgano de la ONU con capacidad de tomar decisiones vinculantes para todos los miembros. ¿En qué consiste el 'poder de veto' de los miembros permanentes?",
+        "o": [
+            "La facultad de un solo miembro permanente (P5) para bloquear la adopción de cualquier resolución de fondo, independientemente del apoyo del resto de los miembros.",
+            "La potestad de vetar las decisiones tomadas por la Asamblea General en temas de presupuesto.",
+            "La capacidad de prohibir el ingreso de nuevos miembros a la organización de manera permanente.",
+            "El derecho a solicitar la expulsión inmediata de cualquier país que incumpla sus directrices."
+        ],
+        "r": 0
+    },
+    {
+        "c": "ONU - Corte Internacional de Justicia",
+        "p": "Existe a menudo confusión entre la Corte Internacional de Justicia (CIJ) y la Corte Penal Internacional (CPI). ¿Cuál es la diferencia fundamental en cuanto a su competencia?",
+        "o": [
+            "La CIJ juzga individuos, mientras que la CPI resuelve controversias entre Estados.",
+            "La CIJ es el principal órgano judicial de la ONU para resolver controversias entre Estados; la CPI es un tribunal independiente que juzga individuos por crímenes internacionales graves.",
+            "Ambas tienen la misma competencia y funciones, diferenciándose solo por su ubicación geográfica (La Haya y Ginebra).",
+            "La CIJ solo interviene en conflictos internos de países en desarrollo."
+        ],
+        "r": 1
+    },
+    {
+        "c": "ONU - Secretario General",
+        "p": "El cargo de Secretario General es, según la Carta, el 'más alto funcionario administrativo'. ¿Qué facultad específica del Artículo 99 refuerza su peso político?",
+        "o": [
+            "La facultad de emitir sentencias judiciales en casos de violación de Derechos Humanos.",
+            "La posibilidad de llamar la atención del Consejo de Seguridad sobre cualquier asunto que, a su juicio, pueda amenazar el mantenimiento de la paz y seguridad internacionales.",
+            "La capacidad de imponer sanciones económicas a Estados miembros unilateralmente.",
+            "El derecho a dirigir las fuerzas militares de los cascos azules sin necesidad de autorización del Consejo."
+        ],
+        "r": 1
+    },
+    {
+        "c": "ONU - Asamblea General",
+        "p": "A diferencia del Consejo de Seguridad, las resoluciones de la Asamblea General tienen un carácter jurídico particular. ¿Cuál es?",
+        "o": [
+            "Son leyes internacionales de aplicación directa y obligatoria para todos los Estados.",
+            "Tienen, por regla general, el valor de recomendaciones y no son vinculantes, aunque pueden constituir evidencia de derecho consuetudinario o 'soft law'.",
+            "Son vinculantes solo para los países desarrollados.",
+            "Requieren ratificación individual de cada Congreso nacional para tener validez alguna."
+        ],
+        "r": 1
+    },
+    {
+        "c": "ONU - Misiones de Paz",
+        "p": "Las Operaciones de Mantenimiento de la Paz (OMP), conocidas como 'Cascos Azules', se rigen por tres principios fundamentales. ¿Cuáles son?",
+        "o": [
+            "Imposición de la paz, uso ofensivo de la fuerza y soberanía absoluta.",
+            "Consentimiento de las partes, imparcialidad y no uso de la fuerza (salvo en defensa propia o del mandato).",
+            "Intervención humanitaria, apoyo a regímenes democráticos y libre comercio.",
+            "Financiamiento privado, mandato permanente e independencia del Consejo de Seguridad."
+        ],
+        "r": 1
+    },
+    {
+        "c": "ONU - Agenda 2030",
+        "p": "Los Objetivos de Desarrollo Sostenible (ODS) forman parte de la Agenda 2030. ¿Qué enfoque caracteriza a esta agenda frente a los anteriores Objetivos de Desarrollo del Milenio (ODM)?",
+        "o": [
+            "Es una agenda exclusivamente para países pobres, financiada solo por países ricos.",
+            "Es una agenda universal y multidimensional que integra el desarrollo económico, la inclusión social y la sostenibilidad ambiental.",
+            "Busca la eliminación de las fronteras nacionales para facilitar la migración masiva.",
+            "Es una agenda de carácter técnico-militar para la defensa regional."
+        ],
+        "r": 1
+    },
+    {
+        "c": "ONU - ECOSOC",
+        "p": "El Consejo Económico y Social (ECOSOC) es uno de los órganos principales de la ONU. ¿Cuál es su rol principal en el sistema?",
+        "o": [
+            "Coordinar el trabajo de las agencias especializadas y abordar los problemas económicos, sociales y ambientales de la agenda global.",
+            "Actuar como la instancia máxima de justicia para conflictos comerciales.",
+            "Gestionar exclusivamente los recursos financieros para las misiones militares.",
+            "Ejercer como órgano legislativo que dicta leyes para los países miembros."
+        ],
+        "r": 0
+    }
+    {
+        "c": "OEA - Marco Jurídico",
+        "p": "La OEA tiene su origen en la Carta de Bogotá de 1948. ¿Cuál es el estatus de este documento en el derecho internacional regional?",
+        "o": [
+            "Es un tratado de asistencia militar exclusivamente.",
+            "Es el instrumento fundamental que define los propósitos, principios y la estructura institucional de la organización.",
+            "Es una resolución de la Asamblea General sin carácter vinculante para los Estados.",
+            "Es un acuerdo comercial que regula las tarifas arancelarias entre América y Europa."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OEA - Carta Democrática",
+        "p": "Adoptada en 2001, la Carta Democrática Interamericana es un hito de la OEA. ¿Cuál es su objetivo principal ante una ruptura del orden democrático en un Estado miembro?",
+        "o": [
+            "Autorizar una intervención militar directa por parte de los Estados vecinos.",
+            "Establecer mecanismos colectivos de preservación y defensa de la democracia cuando esta se vea afectada o amenazada.",
+            "Permitir que el Secretario General asuma el mando del poder ejecutivo del país afectado.",
+            "Expulsar automáticamente a cualquier país que tenga elecciones con baja participación."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OEA - Sistema Interamericano de Derechos Humanos",
+        "p": "El Sistema Interamericano de Derechos Humanos es uno de los mecanismos más robustos del continente. ¿Qué órgano ejerce la función de recibir peticiones individuales sobre presuntas violaciones de derechos humanos?",
+        "o": [
+            "La Asamblea General de la OEA.",
+            "La Comisión Interamericana de Derechos Humanos (CIDH).",
+            "El Consejo Permanente.",
+            "El Comité Jurídico Interamericano."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OEA - Órganos Principales",
+        "p": "El Consejo Permanente de la OEA es un órgano de carácter político esencial. ¿Cuál es una de sus funciones permanentes?",
+        "o": [
+            "Ejecutar el presupuesto de la organización sin control de los Estados.",
+            "Velar por el mantenimiento de las relaciones de amistad entre los Estados miembros y asistir a la Asamblea General.",
+            "Juzgar delitos penales cometidos por ciudadanos de los Estados miembros.",
+            "Negociar tratados comerciales de libre comercio a nombre de toda la región."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OEA - Seguridad Regional",
+        "p": "El Tratado Interamericano de Asistencia Recíproca (TIAR), estrechamente vinculado a la OEA, se fundamenta en un principio básico. ¿Cuál es?",
+        "o": [
+            "El principio de neutralidad absoluta frente a conflictos globales.",
+            "El principio de 'defensa hemisférica': un ataque contra un Estado americano se considera un ataque contra todos.",
+            "La renuncia voluntaria a tener fuerzas armadas nacionales.",
+            "La subordinación de las fuerzas militares nacionales al mando único del Secretario General."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OEA - Alcance Geopolítico",
+        "p": "En comparación con la CELAC, ¿cuál es una diferencia estructural clave de la OEA en cuanto a su composición?",
+        "o": [
+            "La OEA excluye a los países del Caribe.",
+            "La OEA incluye a Estados Unidos y Canadá, abarcando así a todo el continente americano.",
+            "La OEA no permite la participación de países con regímenes republicanos.",
+            "La OEA es una organización exclusiva de países que hablan español."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OEA - Secretaría General",
+        "p": "El Secretario General de la OEA es elegido por la Asamblea General. ¿Cuál es su rol según la Carta?",
+        "o": [
+            "Es el jefe de Estado de la organización con facultades legislativas.",
+            "Es el funcionario administrativo superior y tiene la facultad de llamar la atención del Consejo Permanente sobre asuntos que afecten la paz y seguridad.",
+            "Es un juez con potestad de dictar sentencias definitivas sobre conflictos limítrofes.",
+            "Es un cargo honorífico sin ninguna capacidad de gestión administrativa o política."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OEA - Corte IDH",
+        "p": "La Corte Interamericana de Derechos Humanos (Corte IDH) tiene funciones jurisdiccionales. ¿Cuál es su competencia principal?",
+        "o": [
+            "Supervisar la recaudación de impuestos aduaneros en los Estados miembros.",
+            "Interpretar y aplicar la Convención Americana sobre Derechos Humanos, dictando sentencias vinculantes para los Estados que han aceptado su competencia.",
+            "Organizar las elecciones presidenciales de los países miembros para garantizar transparencia.",
+            "Redactar leyes constitucionales obligatorias para todas las naciones del hemisferio."
+        ],
+        "r": 1
+    }
+    {
+        "c": "OCDE - Naturaleza Jurídica",
+        "p": "A diferencia de organismos como la ONU o la CAN, la OCDE no tiene facultades legislativas supranacionales. ¿Qué define mejor su funcionamiento institucional?",
+        "o": [
+            "Es un organismo judicial internacional encargado de dirimir controversias comerciales entre Estados.",
+            "Es un foro de expertos y gobiernos donde se comparten experiencias, se recopilan datos y se generan recomendaciones de políticas públicas ('soft law').",
+            "Es una unión aduanera obligatoria que impone aranceles externos comunes a sus miembros.",
+            "Es un banco multilateral de desarrollo que financia exclusivamente proyectos de infraestructura."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OCDE - Antecedentes Históricos",
+        "p": "¿Cuál fue el antecedente directo de la OCDE, creado en 1948 para gestionar la reconstrucción de Europa tras la Segunda Guerra Mundial?",
+        "o": [
+            "La Organización Europea para la Cooperación Económica (OECE).",
+            "El Consejo de Europa.",
+            "La Comunidad Económica Europea (CEE).",
+            "El Fondo Monetario Internacional (FMI)."
+        ],
+        "r": 0
+    },
+    {
+        "c": "OCDE - Adhesión y Estándares",
+        "p": "El proceso de ingreso a la OCDE se caracteriza por ser extremadamente riguroso. ¿Qué mecanismo utiliza la Organización para evaluar a un país candidato?",
+        "o": [
+            "Votación popular en el país candidato.",
+            "Exámenes de pares ('peer reviews') y evaluaciones técnicas en múltiples comités especializados.",
+            "Auditoría externa realizada por empresas privadas de consultoría.",
+            "Referéndum obligatorio de los ciudadanos de todos los países miembros existentes."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OCDE - Política Fiscal (BEPS)",
+        "p": "La OCDE ha liderado el proyecto BEPS (Base Erosion and Profit Shifting). ¿Cuál es el objetivo principal de este proyecto en la diplomacia económica actual?",
+        "o": [
+            "Eliminar los impuestos corporativos en todos los países miembros.",
+            "Combatir la evasión fiscal internacional mediante la lucha contra la erosión de la base imponible y el traslado de beneficios por parte de empresas multinacionales.",
+            "Crear un impuesto global único gestionado directamente por la Secretaría de la OCDE.",
+            "Prohibir la inversión extranjera directa en los países en desarrollo."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OCDE - Instrumentos Jurídicos",
+        "p": "Las normas y recomendaciones de la OCDE se conocen como 'acervos'. ¿Qué valor jurídico tienen las recomendaciones adoptadas por el Consejo de la OCDE?",
+        "o": [
+            "Son vinculantes y obligan a los Estados a reformar su constitución de inmediato.",
+            "No son jurídicamente vinculantes por derecho internacional, pero los Estados se comprometen políticamente a su implementación para alinear sus estándares.",
+            "Solo aplican si el Parlamento nacional aprueba un tratado específico para cada recomendación.",
+            "Carecen de cualquier valor práctico, siendo documentos de carácter puramente académico."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OCDE - Colombia en la OCDE",
+        "p": "Tras el ingreso de Colombia a la OCDE (completado en 2020), ¿cuál es uno de los principales beneficios diplomáticos y técnicos que obtiene el país?",
+        "o": [
+            "Acceso directo a préstamos de emergencia ilimitados para la deuda externa.",
+            "Posicionamiento como un país con estándares robustos de gobernanza, transparencia y políticas públicas comparables con economías avanzadas.",
+            "La potestad de vetar las decisiones comerciales de Estados Unidos dentro del bloque.",
+            "La exención total de aranceles para todos los productos colombianos en el mercado mundial."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OCDE - Gobernanza",
+        "p": "¿Quiénes toman las decisiones finales sobre las políticas y el presupuesto de la OCDE?",
+        "o": [
+            "El Consejo, compuesto por representantes de todos los Estados miembros (Embajadores ante la OCDE).",
+            "El Secretario General, que tiene poderes ejecutivos absolutos.",
+            "El Parlamento Europeo.",
+            "Una junta elegida exclusivamente por el sector privado de los países miembros."
+        ],
+        "r": 0
+    },
+    {
+        "c": "OCDE - Áreas de Acción",
+        "p": "La OCDE realiza estudios comparativos en diversas áreas. ¿Cuál de los siguientes es quizás su programa de evaluación educativa más conocido globalmente?",
+        "o": [
+            "PISA (Programa para la Evaluación Internacional de Alumnos).",
+            "Ranking de Universidades Globales.",
+            "Índice de Desarrollo Humano (IDH).",
+            "Protocolo de Kioto sobre educación."
+        ],
+        "r": 0
+    }
+    {
+        "c": "CIDH - Naturaleza Jurídica",
+        "p": "¿Cuál es la fuente jurídica principal que define la competencia y el funcionamiento de la CIDH en relación con los Estados que han ratificado dicho instrumento?",
+        "o": [
+            "La Carta Democrática Interamericana.",
+            "La Convención Americana sobre Derechos Humanos (Pacto de San José).",
+            "La Declaración Universal de los Derechos Humanos de la ONU.",
+            "El Tratado Interamericano de Asistencia Recíproca (TIAR)."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CIDH - Funciones",
+        "p": "La CIDH tiene un doble mandato: la promoción y la protección de los derechos humanos. ¿Cuál de las siguientes acciones es una función típica de protección?",
+        "o": [
+            "Organizar seminarios académicos sobre la importancia de la democracia.",
+            "Elaborar informes temáticos sobre la situación de los grupos vulnerables.",
+            "Recibir, analizar e investigar peticiones en las que se alegue que un Estado miembro ha violado derechos humanos.",
+            "Promover la firma de nuevos tratados internacionales entre los Estados miembros."
+        ],
+        "r": 2
+    },
+    {
+        "c": "CIDH - Sistema de Peticiones",
+        "p": "Para que la CIDH pueda admitir una petición individual, ¿cuál es uno de los requisitos fundamentales que debe cumplir el peticionario respecto a la jurisdicción interna?",
+        "o": [
+            "Haber agotado los recursos de la jurisdicción interna del Estado al que se acusa.",
+            "Haber ganado el caso previamente en la Corte Suprema de su país.",
+            "Contar con la autorización expresa del Presidente de la República del país demandado.",
+            "Que el caso haya sido presentado simultáneamente ante la Corte Internacional de Justicia de la ONU."
+        ],
+        "r": 0
+    },
+    {
+        "c": "CIDH - Medidas Cautelares",
+        "p": "La CIDH tiene la facultad de solicitar a los Estados miembros la adopción de medidas cautelares. ¿Bajo qué criterios se otorgan estas medidas?",
+        "o": [
+            "Solo cuando el Estado ha sido condenado previamente por la Corte IDH.",
+            "En situaciones de gravedad y urgencia, cuando se presenta un riesgo de daño irreparable a las personas o al objeto de la petición.",
+            "Únicamente para casos relacionados con temas económicos y comerciales.",
+            "Solo si el gobierno del Estado miembro acepta voluntariamente la solicitud de la Comisión."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CIDH - Relación con la Corte IDH",
+        "p": "¿Qué papel desempeña la CIDH en el proceso ante la Corte Interamericana de Derechos Humanos (Corte IDH)?",
+        "o": [
+            "Es el tribunal que juzga las sentencias de la Corte.",
+            "Actúa como una parte procesal (similar a una fiscalía), presentando el caso ante la Corte y compareciendo en todas las etapas del proceso.",
+            "Es un órgano de apelación que revisa las sentencias de la Corte.",
+            "No tiene ninguna participación en el proceso ante la Corte."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CIDH - Composición",
+        "p": "¿Cómo está compuesta la Comisión Interamericana de Derechos Humanos?",
+        "o": [
+            "Por jueces nombrados por el Consejo de Seguridad de la ONU.",
+            "Por 7 miembros elegidos por la Asamblea General de la OEA a título personal, expertos en derechos humanos.",
+            "Por los ministros de relaciones exteriores de los Estados miembros.",
+            "Por 33 representantes gubernamentales, uno por cada Estado miembro."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CIDH - Alcance",
+        "p": "La CIDH promueve la observancia de los derechos humanos en todos los Estados miembros de la OEA. ¿Qué sucede con los Estados que no han ratificado la Convención Americana sobre Derechos Humanos?",
+        "o": [
+            "La CIDH no tiene ninguna competencia sobre ellos.",
+            "La CIDH ejerce sus funciones con base en la Declaración Americana de los Derechos y Deberes del Hombre.",
+            "La CIDH actúa como un tribunal civil en sus territorios.",
+            "Deben abandonar la OEA automáticamente."
+        ],
+        "r": 1
+    },
+    {
+        "c": "CIDH - Informes de País",
+        "p": "Los informes de país publicados por la CIDH tienen como objetivo principal:",
+        "o": [
+            "Imponer sanciones económicas directas a los países analizados.",
+            "Visibilizar la situación de derechos humanos, analizar las causas estructurales y formular recomendaciones para mejorar la situación en el Estado.",
+            "Justificar una intervención militar en el país mencionado.",
+            "Cerrar las fronteras comerciales del Estado reportado."
+        ],
+        "r": 1
+    }
+    {
+        "c": "Corte IDH - Naturaleza Jurídica",
+        "p": "¿Cuál es la función principal de la Corte Interamericana de Derechos Humanos dentro del Sistema Interamericano?",
+        "o": [
+            "Es un órgano político encargado de mediar conflictos diplomáticos entre Estados.",
+            "Es una institución judicial autónoma cuyo objetivo es la aplicación e interpretación de la Convención Americana sobre Derechos Humanos.",
+            "Es un organismo administrativo que gestiona el presupuesto de la OEA.",
+            "Es un tribunal de arbitraje comercial para resolver disputas entre empresas multinacionales y Estados."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Corte IDH - Competencias",
+        "p": "La Corte IDH posee dos tipos de competencias principales. ¿Cuáles son?",
+        "o": [
+            "Competencia legislativa y ejecutiva.",
+            "Competencia contenciosa (resolución de casos) y competencia consultiva (interpretación de normas).",
+            "Competencia penal (cárcel) y competencia civil (multas económicas).",
+            "Competencia de veto y competencia de intervención militar."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Corte IDH - Acceso a la Justicia",
+        "p": "Un ciudadano que considera que sus derechos humanos han sido violados por un Estado parte, ¿puede presentar una demanda directamente ante la Corte IDH?",
+        "o": [
+            "Sí, cualquier ciudadano puede acudir directamente a la Corte si agota los recursos internos.",
+            "No, las personas no tienen 'locus standi' directo; primero deben acudir a la Comisión Interamericana (CIDH), la cual puede someter el caso a la Corte.",
+            "Sí, pero solo si el Estado demandado autoriza expresamente la demanda por escrito.",
+            "No, la Corte solo admite casos presentados por organizaciones no gubernamentales internacionales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Corte IDH - Vinculatoriedad",
+        "p": "Cuando la Corte IDH dicta una sentencia en un caso contencioso, ¿qué efecto jurídico tiene para el Estado condenado?",
+        "o": [
+            "Es una recomendación política que el Estado puede decidir ignorar sin consecuencias.",
+            "Es una decisión obligatoria y vinculante para el Estado, que debe cumplir con las reparaciones ordenadas.",
+            "Requiere la ratificación de los Congresos nacionales para ser válida.",
+            "Es una opinión técnica que solo sirve como guía doctrinal."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Corte IDH - Control de Convencionalidad",
+        "p": "¿Qué implica la doctrina del 'control de convencionalidad' desarrollada por la Corte IDH?",
+        "o": [
+            "La obligación de los jueces nacionales de verificar que sus actos y leyes internas sean compatibles con la Convención Americana y la jurisprudencia de la Corte.",
+            "La potestad de la Corte para anular directamente leyes nacionales desde San José sin notificar al Estado.",
+            "La obligación de los Estados de adoptar leyes idénticas a las de los países europeos.",
+            "El derecho de la Corte a revisar los procesos electorales en tiempo real."
+        ],
+        "r": 0
+    },
+    {
+        "c": "Corte IDH - Composición",
+        "p": "¿Cuántos jueces componen la Corte IDH y cómo son elegidos?",
+        "o": [
+            "7 jueces, elegidos por la Asamblea General de la OEA.",
+            "11 jueces, designados por el Secretario General de la OEA.",
+            "5 jueces, nombrados por el Consejo Permanente de la OEA.",
+            "15 jueces, elegidos por votación universal en todo el continente."
+        ],
+        "r": 0
+    },
+    {
+        "c": "Corte IDH - Reparaciones",
+        "p": "En sus sentencias, la Corte IDH suele ordenar reparaciones. ¿Cuál es el objetivo principal de estas medidas?",
+        "o": [
+            "Castigar económicamente a los funcionarios públicos responsables.",
+            "La 'restitutio in integrum' o reparación integral, que busca devolver a la víctima a la situación anterior a la violación y, de no ser posible, ofrecer indemnizaciones y medidas de satisfacción.",
+            "Limitar la soberanía del Estado mediante la ocupación temporal de sus instituciones.",
+            "Eliminar todas las fuerzas militares del país condenado."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Corte IDH - Alcance Jurisdiccional",
+        "p": "Para que un Estado sea juzgado por la Corte IDH en un caso contencioso, ¿qué requisito indispensable debe cumplirse?",
+        "o": [
+            "Que el Estado haya aceptado la competencia contenciosa de la Corte, ya sea de forma general o para un caso específico.",
+            "Que el Estado tenga un gobierno democrático reconocido por todos los demás miembros.",
+            "Que el Estado sea miembro de la Unión Europea.",
+            "Que el Estado haya pagado previamente una tasa judicial a la Secretaría de la OEA."
+        ],
+        "r": 0
+    }
+    {
+        "c": "DDHH - Fundamentos Normativos",
+        "p": "La 'Carta Internacional de Derechos Humanos' se compone de tres instrumentos principales. ¿Cuáles son?",
+        "o": [
+            "La Declaración Universal de los Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos y el Pacto Internacional de Derechos Económicos, Sociales y Culturales.",
+            "La Convención Americana, la Carta Democrática Interamericana y el Pacto de San José.",
+            "El Estatuto de Roma, la Convención de Ginebra y la Carta de la ONU.",
+            "La Declaración de Viena, el Pacto de derechos del niño y la Convención contra la Tortura."
+        ],
+        "r": 0
+    },
+    {
+        "c": "DDHH - Naturaleza de los Derechos",
+        "p": "El principio de 'indivisibilidad' de los derechos humanos implica que:",
+        "o": [
+            "Los derechos civiles y políticos son más importantes que los derechos económicos, sociales y culturales.",
+            "Los Estados pueden elegir qué derechos proteger según sus capacidades económicas.",
+            "No existe jerarquía entre los derechos; todos son interdependientes y el avance de uno facilita el avance de los demás.",
+            "Los derechos humanos solo pueden ser ejercidos en tiempos de paz absoluta."
+        ],
+        "r": 2
+    },
+    {
+        "c": "DDHH - Obligaciones del Estado",
+        "p": "En el Derecho Internacional de los Derechos Humanos, se reconoce que el Estado tiene tres niveles de obligaciones frente a los derechos: respetar, proteger y garantizar. ¿Qué implica la obligación de 'proteger'?",
+        "o": [
+            "Que el Estado debe abstenerse de interferir en el disfrute de los derechos.",
+            "Que el Estado debe prevenir que terceros (particulares o empresas) violen los derechos humanos de las personas bajo su jurisdicción.",
+            "Que el Estado debe realizar esfuerzos progresivos para asegurar la satisfacción plena de los derechos.",
+            "Que el Estado puede suspender derechos durante estados de excepción."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DDHH - Derechos Intransferibles",
+        "p": "¿Qué caracteriza a los derechos denominados 'de no derogación' (non-derogable rights)?",
+        "o": [
+            "Que solo pueden ser suspendidos si el Congreso lo autoriza.",
+            "Que son derechos que no pueden ser suspendidos ni siquiera en situaciones de guerra, emergencia pública o amenaza a la seguridad nacional.",
+            "Que solo aplican para los ciudadanos nacionales y no para los extranjeros.",
+            "Que solo son aplicables durante procesos judiciales penales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DDHH - DIDH vs DIH",
+        "p": "Una distinción crucial en la práctica diplomática es la diferencia entre el DIDH (Derechos Humanos) y el DIH (Derecho Internacional Humanitario). ¿Cuál es la diferencia principal en su ámbito de aplicación?",
+        "o": [
+            "El DIDH se aplica en todo momento, mientras que el DIH se aplica primordialmente en situaciones de conflicto armado (conflicto internacional o no internacional).",
+            "El DIDH solo aplica en tiempo de paz y el DIH solo aplica en tiempo de guerra.",
+            "El DIDH es vinculante para las personas y el DIH solo para los Estados.",
+            "No existe diferencia; son términos sinónimos usados indistintamente por la ONU."
+        ],
+        "r": 0
+    },
+    {
+        "c": "DDHH - Institucionalidad ONU",
+        "p": "El Consejo de Derechos Humanos de la ONU es el principal órgano intergubernamental. ¿Cuál es uno de sus mecanismos más importantes para evaluar la situación de DDHH en todos los Estados miembros?",
+        "o": [
+            "El Examen Periódico Universal (EPU).",
+            "La Corte Penal Internacional.",
+            "El Consejo de Seguridad.",
+            "La Asamblea General de la OEA."
+        ],
+        "r": 0
+    },
+    {
+        "c": "DDHH - Derechos Económicos, Sociales y Culturales (DESC)",
+        "p": "Respecto a los DESC, el Pacto Internacional exige a los Estados su cumplimiento bajo el principio de 'realización progresiva'. ¿Qué significa esto en términos prácticos?",
+        "o": [
+            "Que el Estado puede no hacer nada hasta que tenga presupuesto suficiente.",
+            "Que el Estado debe adoptar medidas hasta el máximo de los recursos de que disponga para lograr gradualmente la plena efectividad de los derechos.",
+            "Que los derechos solo serán efectivos cuando el sector privado lo decida.",
+            "Que los derechos son aspiraciones políticas sin fuerza legal alguna."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DDHH - Responsabilidad Internacional",
+        "p": "Cuando un Estado ratifica un tratado de derechos humanos, ¿ante quién responde por su cumplimiento?",
+        "o": [
+            "Únicamente ante sus propios tribunales nacionales.",
+            "Ante la comunidad internacional, mediante los órganos de control establecidos en los tratados (Comités o Cortes).",
+            "Ante el país vecino más cercano.",
+            "Ante el sector privado que financia las políticas públicas."
+        ],
+        "r": 1
+    }
+    {
+        "c": "DIH - Instrumentos Fundamentales",
+        "p": "¿Cuál es la piedra angular del Derecho Internacional Humanitario moderno, compuesto por cuatro tratados adoptados en 1949?",
+        "o": [
+            "La Carta de las Naciones Unidas.",
+            "Los cuatro Convenios de Ginebra.",
+            "El Estatuto de Roma de la Corte Penal Internacional.",
+            "Los Tratados de Versalles."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DIH - Principios Generales",
+        "p": "El principio de 'Distinción' es fundamental en el DIH. ¿Qué exige este principio a las partes en conflicto?",
+        "o": [
+            "Que deben hacer todo lo posible por ganar el conflicto lo más rápido posible.",
+            "Que deben hacer una distinción entre los combatientes y la población civil, dirigiendo ataques únicamente contra objetivos militares.",
+            "Que deben distinguir entre diferentes nacionalidades de los soldados enemigos.",
+            "Que deben evitar el uso de armas nucleares exclusivamente."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DIH - Proporcionalidad",
+        "p": "En la conducción de hostilidades, ¿qué establece el principio de 'Proporcionalidad'?",
+        "o": [
+            "Que el daño colateral a civiles o bienes civiles no debe ser excesivo en relación con la ventaja militar directa y concreta prevista.",
+            "Que el número de bajas enemigas debe ser proporcional a las bajas propias.",
+            "Que el ataque solo es legal si el enemigo tiene una fuerza militar equivalente.",
+            "Que todas las armas utilizadas deben tener el mismo nivel de letalidad."
+        ],
+        "r": 0
+    },
+    {
+        "c": "DIH - Conflictos no Internacionales",
+        "p": "¿Qué norma del DIH es considerada el 'mini-tratado' aplicable a los conflictos armados no internacionales (conflicto interno)?",
+        "o": [
+            "El Artículo 3 común a los cuatro Convenios de Ginebra.",
+            "El Protocolo Adicional II.",
+            "La Convención de La Haya.",
+            "El Estatuto de la Corte Internacional de Justicia."
+        ],
+        "r": 0
+    },
+    {
+        "c": "DIH - Prisioneros de Guerra",
+        "p": "¿Cuál es la protección jurídica principal que otorga el III Convenio de Ginebra a los combatientes capturados por el enemigo?",
+        "o": [
+            "El derecho a ser liberados inmediatamente tras el fin de las hostilidades principales.",
+            "El estatus de Prisionero de Guerra, que implica trato humano, protección contra la violencia y el derecho a no ser procesado por participar en las hostilidades.",
+            "La obligación de trabajar en obras de infraestructura para el estado captor.",
+            "La pérdida total de derechos humanos hasta que se firme un tratado de paz."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DIH - Rol del CICR",
+        "p": "¿Cuál es la función principal del Comité Internacional de la Cruz Roja (CICR) en el contexto de un conflicto armado?",
+        "o": [
+            "Actuar como una fuerza de paz armada bajo mandato de la ONU.",
+            "Ser el guardián de los Convenios de Ginebra, visitando prisioneros de guerra y brindando asistencia humanitaria neutral e imparcial.",
+            "Juzgar crímenes de guerra cometidos por los combatientes.",
+            "Negociar el fin político del conflicto en representación de las partes."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DIH - Prohibiciones",
+        "p": "¿Qué establece el DIH respecto al uso de armas?",
+        "o": [
+            "Que todas las armas son permitidas siempre que causen la victoria rápida.",
+            "Que se prohíben las armas que causan sufrimientos innecesarios o males superfluos, así como las de efectos indiscriminados.",
+            "Que solo se prohíben las armas de fuego automáticas.",
+            "Que el uso de armas químicas está permitido si se utiliza contra objetivos militares lejanos."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DIH - Protección Sanitaria",
+        "p": "¿Qué simbolizan los emblemas de la Cruz Roja, la Media Luna Roja y el Cristal Rojo?",
+        "o": [
+            "La nacionalidad de los combatientes en el campo de batalla.",
+            "La protección especial de las unidades médicas, hospitales y personal sanitario durante un conflicto armado.",
+            "La pertenencia a una organización religiosa específica.",
+            "La ubicación de los campos de refugiados en el territorio."
+        ],
+        "r": 1
+    }
 ]
