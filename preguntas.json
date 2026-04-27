@@ -272,23 +272,13 @@
     {
         "c": "GATT y OMC - Evolución Normativa",
         "p": "El GATT de 1947 operó durante décadas como un acuerdo provisional sin una estructura institucional robusta. ¿Cuál fue el cambio jurídico-institucional más trascendental que introdujo la creación de la OMC en 1995?",
-        "o": [
-            "La eliminación inmediata de todas las barreras arancelarias globales.",
-            "La consolidación de una organización internacional con personalidad jurídica propia y un Sistema de Solución de Diferencias (SSD) con carácter vinculante.",
-            "La subordinación de las políticas comerciales nacionales a la jurisdicción exclusiva de la Corte Internacional de Justicia.",
-            "La obligatoriedad de que todos los miembros adoptaran una moneda única para el comercio internacional."
-        ],
+        "o": ["La eliminación inmediata de todas las barreras arancelarias globales.", "La consolidación de una organización internacional con personalidad jurídica propia y un Sistema de Solución de Diferencias (SSD) con carácter vinculante.", "La subordinación de las políticas comerciales nacionales a la jurisdicción exclusiva de la Corte Internacional de Justicia.", "La obligatoriedad de que todos los miembros adoptaran una moneda única para el comercio internacional."],
         "r": 1
     },
     {
         "c": "OMC - Principios Fundamentales",
         "p": "La cláusula de la Nación Más Favorecida (NMF), pilar del comercio multilateral, exige que un Estado miembro otorgue a los productos de otros miembros un trato no menos favorable que el que concede a productos de cualquier otro país. ¿Qué objetivo persigue esta norma?",
-        "o": [
-            "Garantizar la protección de las industrias nacionales frente a la competencia desleal.",
-            "Evitar la discriminación entre socios comerciales y promover la no-discriminación multilateral.",
-            "Fomentar la creación de bloques comerciales regionales exclusivos.",
-            "Establecer niveles máximos de aranceles obligatorios para todos los sectores económicos."
-        ],
+        "o": ["Garantizar la protección de las industrias nacionales frente a la competencia desleal.", "Evitar la discriminación entre socios comerciales y promover la no-discriminación multilateral.", "Fomentar la creación de bloques comerciales regionales exclusivos.", "Establecer niveles máximos de aranceles obligatorios para todos los sectores económicos."],
         "r": 1
     },
     {
@@ -1482,22 +1472,13 @@
     {
         "c": "DAI - Agenda 2030",
         "p": "Los Objetivos de Desarrollo Sostenible (ODS) integran la dimensión ambiental. ¿Qué principio rige la relación entre desarrollo y medio ambiente?",
-        "o": [
-            "El desarrollo económico tiene prioridad absoluta sobre la conservación.",
-            "La sostenibilidad, integrando equitativamente los pilares económico, social y ambiental.",
-            "La conservación es incompatible con el crecimiento económico.",
-            "El desarrollo es un concepto que solo aplica a los países desarrollados."
-        ],
+        "o": ["El desarrollo económico tiene prioridad absoluta sobre la conservación.", "La sostenibilidad, integrando equitativamente los pilares económico, social y ambiental.", "La conservación es incompatible con el crecimiento económico.", "El desarrollo es un concepto que solo aplica a los países desarrollados."],
         "r": 1
     },
     {
         "c": "TLC Colombia-EE.UU. - Temas Transversales",
         "p": "Los capítulos sobre Trabajo y Medio Ambiente fueron integrados con fuerza en el TLC Colombia-EE.UU. ¿Qué obligación imponen fundamentalmente a las Partes?",
-        "o": [
-            "La adopción de leyes laborales y ambientales idénticas a las de los Estados Unidos.",
-            "La garantía de aplicación efectiva de sus propias leyes laborales y ambientales nacionales para evitar ventajas competitivas desleales.",
-            "La creación de una corte transnacional con jurisdicción sobre todos los conflictos laborales."
-        ],
+        "o": ["La adopción de leyes laborales y ambientales idénticas a las de los Estados Unidos.", "La garantía de aplicación efectiva de sus propias leyes laborales y ambientales nacionales para evitar ventajas competitivas desleales.", "La creación de una corte transnacional con jurisdicción sobre todos los conflictos laborales."],
         "r": 1
-    }
+    },
 ]
