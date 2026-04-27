@@ -89,5 +89,169 @@
         "r": 1,
         "c": "Viena 1969 - Tratados"
     }
-
+    {
+        "p": "Según la Convención de Viena de 1961, ¿cuál es el propósito de los privilegios e inmunidades diplomáticas?",
+        "o": [
+            "Beneficiar a los agentes diplomáticos personalmente.",
+            "Garantizar el desempeño eficaz de las funciones de las misiones diplomáticas.",
+            "Otorgar un estatus superior a los funcionarios frente al Estado receptor.",
+            "Evitar que el Estado acreditante pague impuestos en el extranjero."
+        ],
+        "r": 1,
+        "c": "Convención Viena 1961"
+    },
+    {
+        "p": "De acuerdo con la Convención de Viena de 1963, ¿qué sucede si las autoridades del Estado receptor sospechan que la valija consular contiene objetos ilícitos?",
+        "o": [
+            "Pueden abrirla inmediatamente sin autorización.",
+            "Deben confiscarla permanentemente.",
+            "Pueden pedir que sea abierta en su presencia por un representante del Estado que envía; si se rehúsan, la valija se devuelve al origen.",
+            "Deben solicitar permiso a la ONU para inspeccionarla."
+        ],
+        "r": 2,
+        "c": "Convención Viena 1963"
+    },
+    {
+        "p": "El principio 'Pacta sunt servanda', pilar del Derecho de los Tratados, significa que:",
+        "o": [
+            "Los tratados pueden ser modificados unilateralmente por cualquier parte.",
+            "Todo tratado en vigor obliga a las partes y debe ser cumplido por ellas de buena fe.",
+            "Los tratados solo son válidos si son ratificados por el Consejo de Seguridad.",
+            "Las partes pueden ignorar el tratado si cambian sus políticas internas."
+        ],
+        "r": 1,
+        "c": "Convención Viena 1969"
+    },
+    {
+        "p": "Según la Convención de 1961, ¿qué constituye la inviolabilidad de la misión diplomática?",
+        "o": [
+            "Los locales de la misión no pueden ser objeto de registro, requisa, embargo o medida de ejecución.",
+            "La misión tiene derecho a portar armas de fuego dentro del Estado receptor.",
+            "El jefe de misión tiene inmunidad absoluta contra cualquier ley del Estado receptor.",
+            "La misión puede realizar actividades comerciales para financiarse sin pagar impuestos."
+        ],
+        "r": 0,
+        "c": "Convención Viena 1961"
+    },
+    {
+        "p": "Para la Convención de 1969, un tratado es un acuerdo internacional celebrado por escrito entre:",
+        "o": [
+            "Únicamente Estados soberanos.",
+            "Estados y organizaciones no gubernamentales (ONGs).",
+            "Estados y regido por el derecho internacional.",
+            "Individuos y Estados con capacidad jurídica plena."
+        ],
+        "r": 2,
+        "c": "Convención Viena 1969"
+    }
+    {
+        "c": "Política Exterior - PEI 2023-2026",
+        "p": "Según el Plan Estratégico Institucional 2023-2026, ¿cuál es el eje central de la nueva política migratoria colombiana?",
+        "o": [
+            "Fomentar la migración ordenada exclusivamente hacia países desarrollados.",
+            "Una aproximación humana con énfasis en la protección de connacionales y gestión bajo responsabilidad compartida.",
+            "Limitar la entrada de extranjeros para proteger el mercado laboral nacional.",
+            "Descentralizar la expedición de pasaportes exclusivamente a los consulados fronterizos."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Contexto Colombiano - Comisión de la Verdad",
+        "p": "En el informe 'Colombia Adentro', ¿qué término describe la estrategia mediante la cual se omitieron deliberadamente las dinámicas del conflicto armado en el Eje Cafetero para mantener una imagen de prosperidad?",
+        "o": [
+            "Resiliencia territorial.",
+            "Invisibilización del conflicto.",
+            "Desarrollo endógeno pacífico.",
+            "Institucionalidad de excepción."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Política Exterior - PEI 2023-2026",
+        "p": "¿Qué implica la propuesta de 'Fronteras para la vida' en la política exterior actual?",
+        "o": [
+            "El cierre militar de las fronteras para evitar la entrada de grupos ilegales.",
+            "Que las zonas limítrofes funcionen como polos de desarrollo nacional e integración con naciones vecinas.",
+            "La delegación de la seguridad fronteriza exclusivamente a organizaciones internacionales.",
+            "La eliminación de los pasos fronterizos oficiales para fomentar el comercio libre."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Política Exterior - PEI 2023-2026",
+        "p": "La 'política exterior feminista' mencionada en el Plan Estratégico Institucional tiene como fin principal:",
+        "o": [
+            "Promover exclusivamente la contratación de mujeres en cargos diplomáticos.",
+            "Garantizar la igualdad, el empoderamiento y la participación de mujeres y personas LGBTIQ+ en asuntos internacionales.",
+            "Reducir la participación de los hombres en las misiones diplomáticas.",
+            "Alinear la política exterior exclusivamente con los intereses de los movimientos sociales de género."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Contexto Colombiano - Comisión de la Verdad",
+        "p": "Según la metodología de la Comisión de la Verdad, ¿por qué el testimonio de las víctimas no se considera simplemente como un instrumento de recolección de información fáctica?",
+        "o": [
+            "Porque la Comisión solo acepta testimonios verificados judicialmente.",
+            "Porque busca el encuentro humano para la construcción de identidad y sentido, más allá del dato estadístico.",
+            "Porque el testimonio tiene valor legal superior a cualquier prueba documental.",
+            "Porque la Comisión de la Verdad no tiene mandato para recolectar datos fácticos."
+        ],
+        "r": 1
+    }
+    {
+        "c": "Análisis Estratégico (PEI + Comisión)",
+        "p": "El PEI 2023-2026 propone una 'Diplomacia para la Vida'. ¿Cuál es el desafío principal al intentar implementar esta estrategia en territorios descritos por la Comisión de la Verdad como marcados por la 'invisibilización institucional'?",
+        "o": [
+            "Convencer a los organismos internacionales de que el Estado ya tiene control total del territorio.",
+            "Superar la desconfianza histórica de las comunidades hacia la presencia del Estado, que tradicionalmente fue solo militar o ausente.",
+            "Excluir a los actores locales del diseño de la política exterior para evitar sesgos territoriales.",
+            "Priorizar la inversión en grandes infraestructura urbana sobre la construcción de tejido social rural."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Política Exterior (PEI - Migración)",
+        "p": "Bajo el enfoque de 'aproximación humana' a la migración planteado en el PEI 2023-2026, ¿cómo debe gestionarse la tensión entre los derechos de los migrantes y la soberanía estatal?",
+        "o": [
+            "Priorizando la securitización de las fronteras para impedir la entrada de cualquier flujo no regulado.",
+            "Entendiendo la migración como un fenómeno global que requiere cooperación y corresponsabilidad, desplazando el enfoque de 'amenaza' al de 'potencialidad'.",
+            "Delegando la responsabilidad de protección exclusivamente a las agencias de la ONU.",
+            "Limitando el acceso a servicios básicos para desincentivar la llegada de nuevas poblaciones."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Contexto Territorial (Comisión de la Verdad)",
+        "p": "En los relatos territoriales del Eje Cafetero, la Comisión de la Verdad identifica que el conflicto fue 'invisibilizado' para proteger la reputación económica regional. ¿Qué implica esto para la proyección diplomática de Colombia?",
+        "o": [
+            "Que la diplomacia debe mantener la narrativa de 'país seguro' a toda costa para no afectar la inversión.",
+            "Que la diplomacia colombiana debe basarse en la transparencia y el reconocimiento de los hechos históricos como mecanismo de reparación y garantías de no repetición.",
+            "Que los temas de memoria histórica deben ser excluidos de las agendas diplomáticas para no politizar las relaciones comerciales.",
+            "Que el Estado debe rechazar los informes de la Comisión ante la comunidad internacional por ser contrarios a los intereses nacionales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Análisis Estratégico (PEI)",
+        "p": "El PEI define a Colombia como una 'Potencia Mundial de la Vida'. En términos operativos para la Cancillería, esto se traduce en:",
+        "o": [
+            "Un liderazgo diplomático basado únicamente en la exportación de bienes primarios.",
+            "Una política exterior que pone en el centro la justicia ambiental, la paz total y la defensa de los derechos humanos como pilares de legitimidad.",
+            "Una política exterior que se aísla de las tendencias globales para enfocarse solo en temas internos.",
+            "La reducción del presupuesto en embajadas para favorecer la cooperación técnica internacional."
+        ],
+        "r": 1
+    },
+    {
+        "c": "Nivel Experto: Integración",
+        "p": "Si un diplomático debe explicar el informe de la Comisión de la Verdad ante un foro internacional, ¿cuál es la postura coherente con el PEI 2023-2026?",
+        "o": [
+            "Negar la existencia de relatos sobre actores estatales involucrados en el conflicto.",
+            "Utilizar el informe como base para demostrar el compromiso de Colombia con la verdad, la democracia y la paz, posicionando al país como un referente en resolución de conflictos.",
+            "Argumentar que el informe es una opinión minoritaria que no refleja el sentir de la mayoría nacional.",
+            "Sugerir que el conflicto es un tema del pasado que no debe ser traído a colación en debates actuales."
+        ],
+        "r": 1
+    }
 ]
