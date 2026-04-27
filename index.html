@@ -25,30 +25,46 @@
 <script>
     let banco = [];
     let indice = 0;
-    // Cargamos estadísticas de memoria persistente
+    // Cargamos estadísticas y la lista de preguntas falladas (pendientes)
     let stats = JSON.parse(localStorage.getItem('quizStats')) || { aciertos: 0, total: 0 };
+    let pendientes = JSON.parse(localStorage.getItem('pendientes')) || [];
 
     async function cargar() {
         try {
             const res = await fetch('preguntas.json');
             banco = await res.json();
             actualizarStats();
+            // Elegimos la primera pregunta al azar para empezar
+            indice = Math.floor(Math.random() * banco.length);
             mostrar();
         } catch (e) { document.body.innerHTML = "Error: Asegúrate de tener preguntas.json en la misma carpeta."; }
     }
 
     function actualizarStats() {
         const porcentaje = stats.total > 0 ? Math.round((stats.aciertos / stats.total) * 100) : 0;
-        document.getElementById('stats').innerText = `Éxito: ${porcentaje}% (${stats.aciertos}/${stats.total})`;
+        document.getElementById('stats').innerText = `Éxito: ${porcentaje}% (${stats.aciertos}/${stats.total}) - Refuerzo: ${pendientes.length}`;
         localStorage.setItem('quizStats', JSON.stringify(stats));
+        localStorage.setItem('pendientes', JSON.stringify(pendientes));
+    }
+
+    function seleccionarSiguiente() {
+        // Probabilidad del 40% de elegir una pregunta de la lista de falladas (si hay)
+        if (pendientes.length > 0 && Math.random() < 0.4) {
+            const azar = Math.floor(Math.random() * pendientes.length);
+            indice = pendientes[azar];
+        } else {
+            // Secuencia normal (la siguiente en la lista del JSON)
+            indice = (indice + 1) % banco.length;
+        }
     }
 
     function mostrar() {
         const p = banco[indice];
-        document.getElementById('cat').innerText = p.c;
+        document.getElementById('cat').innerText = p.c + (pendientes.includes(indice) ? " (¡REFUERZO!)" : "");
         document.getElementById('pregunta').innerText = p.p;
         const div = document.getElementById('opciones');
         div.innerHTML = '';
+        
         p.o.forEach((op, i) => {
             const btn = document.createElement('button');
             btn.innerText = op;
@@ -57,11 +73,19 @@
                 if (i === p.r) {
                     stats.aciertos++;
                     alert("¡Correcto!");
+                    // Si la teníamos en pendientes, la quitamos porque ya la aprendiste
+                    if (pendientes.includes(indice)) {
+                        pendientes = pendientes.filter(id => id !== indice);
+                    }
                 } else {
                     alert("Incorrecto, la respuesta era: " + p.o[p.r]);
+                    // Si fallamos y no estaba en la lista, la agregamos
+                    if (!pendientes.includes(indice)) {
+                        pendientes.push(indice);
+                    }
                 }
                 actualizarStats();
-                indice = (indice + 1) % banco.length;
+                seleccionarSiguiente();
                 mostrar();
             };
             div.appendChild(btn);
