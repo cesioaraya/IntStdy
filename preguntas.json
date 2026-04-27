@@ -1,257 +1,272 @@
 [
     {
         "c": "Contexto, Historia y Estado",
-        "p": "¿Qué norma regula actualmente el ingreso a la Carrera Diplomática y Consular de Colombia?",
-        "o": ["Decreto Ley 274 de 2000", "Constitución de 1991", "Ley 80 de 1993", "Resolución 10847"],
+        "p": "Un comité de evaluación de la Carrera Diplomática debe fundamentar legalmente la selección de nuevos funcionarios. ¿Cuál es el marco normativo vigente que articula este proceso?",
+        "o": ["Decreto Ley 274 de 2000", "Constitución Política de 1991 (prevalencia)", "Ley 80 de 1993 (estatuto de contratación)", "Resolución 10847 de la Cancillería"],
         "r": 0
     },
     {
         "c": "Derecho Internacional Público",
-        "p": "¿Cuál es el propósito fundamental de la Convención de Viena sobre Relaciones Diplomáticas de 1961?",
-        "o": ["Regular el comercio internacional", "Establecer las normas de las misiones diplomáticas", "Definir límites marítimos", "Regular el asilo político"],
+        "p": "En una disputa sobre el alcance de las funciones de una misión diplomática, un Estado receptor cuestiona ciertas actividades. ¿Cuál es el propósito central de la Convención de Viena de 1961 que sirve para resolver esta controversia?",
+        "o": ["Regular los flujos comerciales bilaterales", "Garantizar el desempeño eficaz de las misiones diplomáticas", "Establecer la delimitación de espacios marítimos", "Codificar las normas sobre el derecho de asilo"],
         "r": 1
     },
     {
         "c": "Desarrollo Económico",
-        "p": "Según la Guía, ¿cuál es el porcentaje del PIB que representaron las remesas en 2023?",
+        "p": "Analizando la política migratoria y su impacto financiero, el PEI destaca un indicador clave de las remesas en el PIB de 2023. ¿Cuál es la cifra que permite dimensionar la dependencia de esta fuente de divisas?",
         "o": ["1.5%", "3.3%", "5.0%", "2.1%"],
         "r": 1
     },
     {
         "c": "Diplomacia y RRII",
-        "p": "¿Cuál es la función principal de la Academia Diplomática Augusto Ramírez Ocampo?",
-        "o": ["Realizar los concursos de ingreso", "Fijar la política monetaria", "Representar al país en la ONU", "Gestionar pasaportes"],
+        "p": "Un diplomático de carrera recién ingresado busca comprender la estructura de formación del Ministerio. ¿Cuál es la función misional de la Academia Diplomática Augusto Ramírez Ocampo?",
+        "o": ["Gestionar y realizar los concursos de ingreso a la Carrera", "Determinar la política monetaria nacional", "Representar al país ante los órganos de la ONU", "Centralizar la expedición de pasaportes"],
         "r": 0
     },
     {
         "c": "Sostenibilidad",
-        "p": "¿Cuál es el reto principal de Colombia frente al Acuerdo de París según la guía?",
-        "o": ["Depender de ayuda externa", "Articular transición energética, deforestación y minería ilegal", "Limitarse solo al sector agrícola", "No incluir medidas de uso del suelo"],
+        "p": "En una cumbre ambiental, Colombia debe defender su posición ante el Acuerdo de París. ¿Cuál es el reto estructural que, según la guía de orientación, define el compromiso del país?",
+        "o": ["Depender de la ayuda financiera externa para la conservación", "Articular la transición energética con el control de deforestación y minería ilegal", "Limitar la política ambiental al sector agrícola", "Excluir el uso del suelo de los planes de mitigación"],
         "r": 1
-    }
-    {
-        "p": "En la Convención de 1961, si el Estado receptor declara a un agente diplomático 'persona non grata', ¿está obligado a explicar las razones de su decisión?",
-        "o": ["Sí, debe presentar pruebas ante la CIJ.", "No, no está obligado a motivar su decisión.", "Solo si el agente es un Jefe de Misión.", "Sí, siempre que el Estado acreditante lo solicite formalmente."],
-        "r": 1,
-        "c": "Viena 1961 - Diplomacia"
     },
     {
-        "p": "A diferencia de los agentes diplomáticos, los funcionarios consulares de carrera, según la Convención de 1963:",
-        "o": ["Gozan de inmunidad absoluta en materia civil.", "Están sujetos a la jurisdicción de los tribunales del Estado receptor por actos realizados en el ejercicio de sus funciones.", "Solo pueden ser detenidos en caso de delitos graves de más de 5 años de prisión.", "No gozan de inviolabilidad personal en ningún caso."],
-        "r": 2,
-        "c": "Viena 1963 - Consular"
+        "c": "Viena 1961 - Diplomacia",
+        "p": "Un Estado receptor decide declarar 'persona non grata' a un Jefe de Misión. El Estado acreditante exige una justificación detallada. Bajo la Convención de 1961, ¿qué responde el derecho internacional?",
+        "o": ["Debe probar los cargos ante la Corte Internacional de Justicia", "No tiene obligación de motivar o explicar la decisión", "Solo debe hacerlo si se trata de un Jefe de Misión de alto rango", "Solo si el Estado acreditante solicita una audiencia formal"],
+        "r": 1
     },
     {
-        "p": "Según la Convención de 1969, ¿qué ocurre si un tratado está en conflicto con una norma imperativa de derecho internacional general (ius cogens)?",
-        "o": ["El tratado es anulable a petición de una parte.", "El tratado es nulo.", "El tratado sigue vigente pero la norma es inaplicable.", "El tratado debe ser revisado por la Asamblea General de la ONU."],
-        "r": 1,
-        "c": "Viena 1969 - Tratados"
+        "c": "Viena 1963 - Consular",
+        "p": "Un funcionario consular es demandado civilmente por un ciudadano local debido a un altercado en un restaurante. Según la Convención de 1963, ¿cómo se evalúa su inmunidad?",
+        "o": ["Tiene inmunidad absoluta en materia civil igual que el diplomático", "Está sujeto a la jurisdicción local por actos fuera de sus funciones oficiales", "La inmunidad solo aplica si el delito es menor a 5 años", "No goza de inviolabilidad personal en ningún escenario"],
+        "r": 1
     },
     {
-        "p": "¿Cuál es la regla general sobre la valija diplomática en la Convención de 1961?",
-        "o": ["Puede ser abierta si se sospecha de contrabando.", "Debe ser escaneada por seguridad en todos los casos.", "No podrá ser abierta ni retenida bajo ninguna circunstancia.", "Puede ser abierta solo en presencia del Jefe de Misión."],
-        "r": 2,
-        "c": "Viena 1961 - Diplomacia"
+        "c": "Viena 1969 - Tratados",
+        "p": "Durante una auditoría de un tratado, se descubre que una de sus cláusulas contraviene una norma de *jus cogens*. ¿Cuál es la consecuencia jurídica según la Convención de 1969?",
+        "o": ["La cláusula es anulable previa solicitud de parte", "El tratado completo es nulo", "El tratado sobrevive, pero la cláusula se suspende temporalmente", "Se requiere la intervención de la Asamblea General de la ONU"],
+        "r": 1
     },
     {
-        "p": "En la Convención de 1963, ¿qué obligación tiene el Estado receptor cuando un nacional del Estado que envía es arrestado o detenido?",
-        "o": ["Informar a la familia del detenido inmediatamente.", "Informar sin dilación a la oficina consular competente si el interesado lo solicita.", "Mantener al detenido incomunicado hasta el juicio.", "Solo informar si el tratado bilateral así lo estipula."],
-        "r": 1,
-        "c": "Viena 1963 - Consular"
+        "c": "Viena 1961 - Diplomacia",
+        "p": "Unas autoridades aduaneras sospechan que una valija diplomática contiene contrabando de alta gama. ¿Cuál es la regla general sobre la inviolabilidad de la valija según la Convención de 1961?",
+        "o": ["Es inviolable solo si porta sellos oficiales visibles", "Puede ser escaneada obligatoriamente por seguridad", "No podrá ser abierta ni retenida bajo ninguna circunstancia", "Solo puede abrirse ante la presencia del Jefe de Misión"],
+        "r": 2
     },
     {
-        "p": "Respecto a las reservas en un tratado (Viena 1969), ¿qué condición es indispensable para que una reserva sea válida?",
-        "o": ["Que sea aceptada por todos los Estados firmantes.", "Que no sea incompatible con el objeto y fin del tratado.", "Que sea presentada antes de la firma del texto.", "Que sea aprobada por el Secretario General de la ONU."],
-        "r": 1,
-        "c": "Viena 1969 - Tratados"
+        "c": "Viena 1963 - Consular",
+        "p": "Un nacional del Estado acreditante es arrestado en el extranjero. ¿Qué obligación surge para el Estado receptor bajo la Convención de 1963?",
+        "o": ["Informar inmediatamente a la familia del detenido", "Informar sin dilación a la oficina consular competente si el interesado lo solicita", "Mantener al detenido incomunicado hasta que se asigne abogado", "Esperar a que el tratado bilateral mencione específicamente la detención"],
+        "r": 1
     },
     {
-        "p": "¿Qué diferencia sustancial existe entre la inmunidad de jurisdicción de un diplomático y un funcionario consular?",
-        "o": ["El diplomático tiene inmunidad casi total; el consular solo por actos funcionales.", "El consular tiene más inmunidad por temas comerciales.", "Ambos tienen inmunidad total e idéntica.", "Ninguno tiene inmunidad en materia civil."],
-        "r": 0,
-        "c": "Viena 1961 vs 1963"
+        "c": "Viena 1969 - Tratados",
+        "p": "Un Estado quiere adherirse a un tratado multilateral pero formula una reserva. ¿Cuál es el criterio para determinar su validez jurídica según la Convención de 1969?",
+        "o": ["Debe tener la aprobación unánime de los firmantes originales", "Que no sea incompatible con el objeto y fin del tratado", "Debe ser ratificada antes de la firma del texto base", "Debe ser avalada expresamente por el Secretario General de la ONU"],
+        "r": 1
     },
     {
-        "p": "Según Viena 1969, ¿cuál es el efecto de la 'coacción' sobre un representante de un Estado para celebrar un tratado?",
-        "o": ["El tratado es terminable si hay cambio de gobierno.", "El tratado carece de todo valor jurídico (nulo).", "El tratado es válido, pero el representante es responsable penalmente.", "El tratado requiere ratificación adicional para ser válido."],
-        "r": 1,
-        "c": "Viena 1969 - Tratados"
+        "c": "Viena 1961 vs 1963",
+        "p": "Usted debe asesorar sobre la protección de un diplomático frente a un cónsul en un caso de posible litigio. ¿Cuál es la diferencia sustancial en sus inmunidades?",
+        "o": ["El diplomático tiene inmunidad casi total; el consular solo por actos funcionales", "El consular tiene más inmunidad al manejar temas comerciales", "Ambos tienen inmunidad total e idéntica", "Ninguno de los dos tiene inmunidad en materia civil"],
+        "r": 0
     },
     {
-        "p": "Bajo la Convención de 1961, ¿puede un Estado acreditar a un mismo jefe de misión ante varios Estados?",
-        "o": ["No, está prohibido.", "Sí, salvo que alguno de los Estados receptores se oponga expresamente.", "Solo si son Estados miembros de la OEA.", "Sí, pero solo si es un organismo internacional."],
-        "r": 1,
-        "c": "Viena 1961 - Diplomacia"
+        "c": "Viena 1969 - Tratados",
+        "p": "Se descubre que el representante de un Estado firmó un tratado tras ser amenazado con represalias contra su familia. ¿Qué efecto tiene esto bajo la Convención de 1969?",
+        "o": ["El tratado es terminable si cambia el gobierno", "El tratado es nulo desde su origen por coacción", "El tratado es válido, pero el representante debe ser juzgado", "El tratado requiere un protocolo de ratificación adicional"],
+        "r": 1
     },
     {
-        "p": "En la Convención de 1969, ¿qué significa que un tratado sea 'autenticado'?",
-        "o": ["Que el tratado ya está en vigor.", "Que el texto se establece como definitivo y auténtico.", "Que el tratado ha sido ratificado por el Congreso.", "Que el tratado no admite más enmiendas."],
-        "r": 1,
-        "c": "Viena 1969 - Tratados"
-    }
-    {
-        "p": "Según la Convención de Viena de 1961, ¿cuál es el propósito de los privilegios e inmunidades diplomáticas?",
-        "o": [
-            "Beneficiar a los agentes diplomáticos personalmente.",
-            "Garantizar el desempeño eficaz de las funciones de las misiones diplomáticas.",
-            "Otorgar un estatus superior a los funcionarios frente al Estado receptor.",
-            "Evitar que el Estado acreditante pague impuestos en el extranjero."
-        ],
-        "r": 1,
-        "c": "Convención Viena 1961"
+        "c": "Viena 1961 - Diplomacia",
+        "p": "Un Estado pequeño desea reducir costos acreditando a un mismo jefe de misión ante tres países vecinos simultáneamente. ¿Qué establece la Convención de 1961?",
+        "o": ["Está terminantemente prohibido", "Es posible, salvo que un Estado receptor se oponga expresamente", "Solo aplica si son Estados miembros de la OEA", "Es posible solo si el acreditante es un organismo internacional"],
+        "r": 1
     },
     {
-        "p": "De acuerdo con la Convención de Viena de 1963, ¿qué sucede si las autoridades del Estado receptor sospechan que la valija consular contiene objetos ilícitos?",
-        "o": [
-            "Pueden abrirla inmediatamente sin autorización.",
-            "Deben confiscarla permanentemente.",
-            "Pueden pedir que sea abierta en su presencia por un representante del Estado que envía; si se rehúsan, la valija se devuelve al origen.",
-            "Deben solicitar permiso a la ONU para inspeccionarla."
-        ],
-        "r": 2,
-        "c": "Convención Viena 1963"
+        "c": "Viena 1969 - Tratados",
+        "p": "En el proceso de creación de un tratado, las partes han llegado a la fase de 'autenticación'. ¿Qué implica jurídicamente este momento?",
+        "o": ["El tratado entra en vigor inmediatamente", "El texto se establece como definitivo y auténtico", "El tratado ha sido ratificado por el Legislativo", "El tratado ya no admite más enmiendas ni cambios"],
+        "r": 1
     },
     {
-        "p": "El principio 'Pacta sunt servanda', pilar del Derecho de los Tratados, significa que:",
-        "o": [
-            "Los tratados pueden ser modificados unilateralmente por cualquier parte.",
-            "Todo tratado en vigor obliga a las partes y debe ser cumplido por ellas de buena fe.",
-            "Los tratados solo son válidos si son ratificados por el Consejo de Seguridad.",
-            "Las partes pueden ignorar el tratado si cambian sus políticas internas."
-        ],
-        "r": 1,
-        "c": "Convención Viena 1969"
+        "c": "Convención Viena 1961",
+        "p": "Un diplomático argumenta que sus privilegios son un derecho personal para evitar impuestos locales. ¿Cómo se refuta este argumento basándose en la Convención de 1961?",
+        "o": ["Los privilegios son inalienables del individuo", "Los privilegios garantizan el desempeño eficaz de las funciones de la misión", "Otorgan un estatus superior al funcionario frente al receptor", "Buscan específicamente la exención de impuestos del Estado acreditante"],
+        "r": 1
     },
     {
-        "p": "Según la Convención de 1961, ¿qué constituye la inviolabilidad de la misión diplomática?",
-        "o": [
-            "Los locales de la misión no pueden ser objeto de registro, requisa, embargo o medida de ejecución.",
-            "La misión tiene derecho a portar armas de fuego dentro del Estado receptor.",
-            "El jefe de misión tiene inmunidad absoluta contra cualquier ley del Estado receptor.",
-            "La misión puede realizar actividades comerciales para financiarse sin pagar impuestos."
-        ],
-        "r": 0,
-        "c": "Convención Viena 1961"
+        "c": "Convención Viena 1963",
+        "p": "Las autoridades locales sospechan que una valija consular contiene explosivos. ¿Cuál es el procedimiento legal estricto?",
+        "o": ["Pueden abrirla inmediatamente por razones de seguridad", "Deben confiscarla permanentemente hasta la investigación", "Pedir su apertura ante representante del Estado que envía; si rechazan, se devuelve al origen", "Solicitar permiso al Consejo de Seguridad de la ONU"],
+        "r": 2
     },
     {
-        "p": "Para la Convención de 1969, un tratado es un acuerdo internacional celebrado por escrito entre:",
-        "o": [
-            "Únicamente Estados soberanos.",
-            "Estados y organizaciones no gubernamentales (ONGs).",
-            "Estados y regido por el derecho internacional.",
-            "Individuos y Estados con capacidad jurídica plena."
-        ],
-        "r": 2,
-        "c": "Convención Viena 1969"
-    }
+        "c": "Convención Viena 1969",
+        "p": "Un Estado se niega a cumplir un tratado alegando cambios en su política interna. ¿Cómo se invoca el principio *Pacta sunt servanda*?",
+        "o": ["Los tratados son modificables unilateralmente por necesidad", "Todo tratado obliga a las partes y debe cumplirse de buena fe", "Los tratados solo valen si los aprueba el Consejo de Seguridad", "Las partes pueden ignorar el tratado si cambian sus políticas internas"],
+        "r": 1
+    },
+    {
+        "c": "Convención Viena 1961",
+        "p": "Se intenta realizar una requisa en los archivos de una embajada sin consentimiento. ¿Cómo se protege la misión según la Convención?",
+        "o": ["Los locales no pueden ser objeto de registro, requisa o medida de ejecución", "La misión tiene derecho a repeler la requisa mediante fuerza", "El jefe de misión tiene inmunidad absoluta, pero no los locales", "La misión puede realizar actividades comerciales para pagar la defensa"],
+        "r": 0
+    },
+    {
+        "c": "Convención Viena 1969",
+        "p": "En un debate jurídico sobre quiénes pueden firmar tratados, se analiza el concepto de sujeto de derecho internacional. ¿Qué define un tratado según la Convención de 1969?",
+        "o": ["Acuerdo entre Estados soberanos exclusivamente", "Acuerdo entre Estados y organizaciones no gubernamentales", "Acuerdo entre Estados regido por el derecho internacional", "Acuerdo entre individuos y Estados con capacidad plena"],
+        "r": 2
+    },
     {
         "c": "Política Exterior - PEI 2023-2026",
-        "p": "Según el Plan Estratégico Institucional 2023-2026, ¿cuál es el eje central de la nueva política migratoria colombiana?",
-        "o": [
-            "Fomentar la migración ordenada exclusivamente hacia países desarrollados.",
-            "Una aproximación humana con énfasis en la protección de connacionales y gestión bajo responsabilidad compartida.",
-            "Limitar la entrada de extranjeros para proteger el mercado laboral nacional.",
-            "Descentralizar la expedición de pasaportes exclusivamente a los consulados fronterizos."
-        ],
+        "p": "El PEI establece un giro en la política migratoria. ¿Cuál es el eje central frente a los flujos migratorios?",
+        "o": ["Fomentar la migración ordenada hacia países desarrollados", "Aproximación humana, protección de connacionales y responsabilidad compartida", "Limitar la entrada de extranjeros para proteger el mercado interno", "Descentralizar la expedición de pasaportes exclusivamente a zonas fronterizas"],
         "r": 1
     },
     {
         "c": "Contexto Colombiano - Comisión de la Verdad",
-        "p": "En el informe 'Colombia Adentro', ¿qué término describe la estrategia mediante la cual se omitieron deliberadamente las dinámicas del conflicto armado en el Eje Cafetero para mantener una imagen de prosperidad?",
-        "o": [
-            "Resiliencia territorial.",
-            "Invisibilización del conflicto.",
-            "Desarrollo endógeno pacífico.",
-            "Institucionalidad de excepción."
-        ],
+        "p": "El informe 'Colombia Adentro' analiza cómo ciertas regiones mantuvieron una fachada de calma durante el conflicto. ¿Qué término usa para este fenómeno en el Eje Cafetero?",
+        "o": ["Resiliencia territorial", "Invisibilización del conflicto", "Desarrollo endógeno pacífico", "Institucionalidad de excepción"],
         "r": 1
     },
     {
         "c": "Política Exterior - PEI 2023-2026",
-        "p": "¿Qué implica la propuesta de 'Fronteras para la vida' en la política exterior actual?",
-        "o": [
-            "El cierre militar de las fronteras para evitar la entrada de grupos ilegales.",
-            "Que las zonas limítrofes funcionen como polos de desarrollo nacional e integración con naciones vecinas.",
-            "La delegación de la seguridad fronteriza exclusivamente a organizaciones internacionales.",
-            "La eliminación de los pasos fronterizos oficiales para fomentar el comercio libre."
-        ],
+        "p": "La estrategia 'Fronteras para la vida' redefine la gestión limítrofe. ¿Cuál es su objetivo principal?",
+        "o": ["El cierre militar estricto de los pasos fronterizos", "Convertir zonas limítrofes en polos de desarrollo e integración con vecinos", "Delegar la seguridad fronteriza a organismos internacionales", "Eliminar los pasos oficiales para facilitar comercio libre"],
         "r": 1
     },
     {
         "c": "Política Exterior - PEI 2023-2026",
-        "p": "La 'política exterior feminista' mencionada en el Plan Estratégico Institucional tiene como fin principal:",
-        "o": [
-            "Promover exclusivamente la contratación de mujeres en cargos diplomáticos.",
-            "Garantizar la igualdad, el empoderamiento y la participación de mujeres y personas LGBTIQ+ en asuntos internacionales.",
-            "Reducir la participación de los hombres en las misiones diplomáticas.",
-            "Alinear la política exterior exclusivamente con los intereses de los movimientos sociales de género."
-        ],
+        "p": "La 'política exterior feminista' del PEI busca impactar en la diplomacia. ¿Cuál es su fin primordial?",
+        "o": ["Contratar únicamente mujeres en misiones diplomáticas", "Garantizar la igualdad, empoderamiento y participación de mujeres y LGBTIQ+ en asuntos internacionales", "Reducir la participación masculina en la Cancillería", "Alinear la política exterior solo con movimientos de género"],
         "r": 1
     },
     {
         "c": "Contexto Colombiano - Comisión de la Verdad",
-        "p": "Según la metodología de la Comisión de la Verdad, ¿por qué el testimonio de las víctimas no se considera simplemente como un instrumento de recolección de información fáctica?",
-        "o": [
-            "Porque la Comisión solo acepta testimonios verificados judicialmente.",
-            "Porque busca el encuentro humano para la construcción de identidad y sentido, más allá del dato estadístico.",
-            "Porque el testimonio tiene valor legal superior a cualquier prueba documental.",
-            "Porque la Comisión de la Verdad no tiene mandato para recolectar datos fácticos."
-        ],
+        "p": "Ante la crítica de que los testimonios de las víctimas carecen de rigor científico, ¿cómo justifica la Comisión su metodología?",
+        "o": ["Solo aceptan testimonios judicialmente verificados", "Buscan el encuentro humano y la construcción de sentido más allá del dato estadístico", "Tienen valor legal superior a cualquier prueba documental", "La Comisión no tiene mandato para recolectar datos fácticos"],
         "r": 1
-    }
+    },
     {
         "c": "Análisis Estratégico (PEI + Comisión)",
-        "p": "El PEI 2023-2026 propone una 'Diplomacia para la Vida'. ¿Cuál es el desafío principal al intentar implementar esta estrategia en territorios descritos por la Comisión de la Verdad como marcados por la 'invisibilización institucional'?",
-        "o": [
-            "Convencer a los organismos internacionales de que el Estado ya tiene control total del territorio.",
-            "Superar la desconfianza histórica de las comunidades hacia la presencia del Estado, que tradicionalmente fue solo militar o ausente.",
-            "Excluir a los actores locales del diseño de la política exterior para evitar sesgos territoriales.",
-            "Priorizar la inversión en grandes infraestructura urbana sobre la construcción de tejido social rural."
-        ],
+        "p": "Al implementar la 'Diplomacia para la Vida' en zonas de 'invisibilización institucional', ¿cuál es el obstáculo mayor para la Cancillería?",
+        "o": ["Convencer a la comunidad internacional de que el Estado tiene control total", "Superar la desconfianza histórica de las comunidades hacia el Estado (militar o ausente)", "Excluir a actores locales del diseño de la política exterior", "Priorizar grandes obras urbanas sobre el tejido rural"],
         "r": 1
     },
     {
         "c": "Política Exterior (PEI - Migración)",
-        "p": "Bajo el enfoque de 'aproximación humana' a la migración planteado en el PEI 2023-2026, ¿cómo debe gestionarse la tensión entre los derechos de los migrantes y la soberanía estatal?",
-        "o": [
-            "Priorizando la securitización de las fronteras para impedir la entrada de cualquier flujo no regulado.",
-            "Entendiendo la migración como un fenómeno global que requiere cooperación y corresponsabilidad, desplazando el enfoque de 'amenaza' al de 'potencialidad'.",
-            "Delegando la responsabilidad de protección exclusivamente a las agencias de la ONU.",
-            "Limitando el acceso a servicios básicos para desincentivar la llegada de nuevas poblaciones."
-        ],
+        "p": "Bajo la 'aproximación humana' del PEI, ¿cómo se equilibra la soberanía con los derechos de los migrantes?",
+        "o": ["Priorizando la securitización total de las fronteras", "Entendiendo la migración como un fenómeno global de corresponsabilidad y potencialidad", "Delegando la responsabilidad solo a agencias ONU", "Limitando servicios básicos para desincentivar la llegada"],
         "r": 1
     },
     {
         "c": "Contexto Territorial (Comisión de la Verdad)",
-        "p": "En los relatos territoriales del Eje Cafetero, la Comisión de la Verdad identifica que el conflicto fue 'invisibilizado' para proteger la reputación económica regional. ¿Qué implica esto para la proyección diplomática de Colombia?",
-        "o": [
-            "Que la diplomacia debe mantener la narrativa de 'país seguro' a toda costa para no afectar la inversión.",
-            "Que la diplomacia colombiana debe basarse en la transparencia y el reconocimiento de los hechos históricos como mecanismo de reparación y garantías de no repetición.",
-            "Que los temas de memoria histórica deben ser excluidos de las agendas diplomáticas para no politizar las relaciones comerciales.",
-            "Que el Estado debe rechazar los informes de la Comisión ante la comunidad internacional por ser contrarios a los intereses nacionales."
-        ],
+        "p": "El informe revela que el conflicto fue ocultado para no afectar la reputación económica del Eje Cafetero. ¿Qué implica esto para el diplomático colombiano hoy?",
+        "o": ["La diplomacia debe mantener la narrativa de 'país seguro' a toda costa", "La diplomacia debe basarse en la transparencia y reconocimiento de la historia como garantía de no repetición", "La memoria histórica debe excluirse de agendas diplomáticas", "El Estado debe rechazar los informes de la Comisión ante el exterior"],
         "r": 1
     },
     {
         "c": "Análisis Estratégico (PEI)",
-        "p": "El PEI define a Colombia como una 'Potencia Mundial de la Vida'. En términos operativos para la Cancillería, esto se traduce en:",
-        "o": [
-            "Un liderazgo diplomático basado únicamente en la exportación de bienes primarios.",
-            "Una política exterior que pone en el centro la justicia ambiental, la paz total y la defensa de los derechos humanos como pilares de legitimidad.",
-            "Una política exterior que se aísla de las tendencias globales para enfocarse solo en temas internos.",
-            "La reducción del presupuesto en embajadas para favorecer la cooperación técnica internacional."
-        ],
+        "p": "La definición de Colombia como 'Potencia Mundial de la Vida' operativa para la Cancillería se traduce en:",
+        "o": ["Liderazgo diplomático centrado en exportación de bienes primarios", "Política exterior que prioriza justicia ambiental, paz total y DDHH como pilares", "Aislamiento de tendencias globales para enfocarse en lo interno", "Reducción de presupuesto en embajadas para ahorrar"],
         "r": 1
     },
     {
         "c": "Nivel Experto: Integración",
-        "p": "Si un diplomático debe explicar el informe de la Comisión de la Verdad ante un foro internacional, ¿cuál es la postura coherente con el PEI 2023-2026?",
-        "o": [
-            "Negar la existencia de relatos sobre actores estatales involucrados en el conflicto.",
-            "Utilizar el informe como base para demostrar el compromiso de Colombia con la verdad, la democracia y la paz, posicionando al país como un referente en resolución de conflictos.",
-            "Argumentar que el informe es una opinión minoritaria que no refleja el sentir de la mayoría nacional.",
-            "Sugerir que el conflicto es un tema del pasado que no debe ser traído a colación en debates actuales."
-        ],
+        "p": "Un diplomático debe presentar el informe de la Comisión de la Verdad en el exterior. Según el PEI, ¿qué enfoque es el adecuado?",
+        "o": ["Negar la existencia de relatos sobre agentes estatales", "Usar el informe para demostrar compromiso con la paz y la democracia", "Argumentar que el informe es una opinión minoritaria", "Sugerir que el conflicto es un tema irrelevante del pasado"],
+        "r": 1
+    },
+    {
+        "c": "Indicadores - Economía y Migración",
+        "p": "Las remesas son cruciales en la economía colombiana. Según el PEI 2023-2026, ¿cómo las aborda la política exterior?",
+        "o": ["Como un indicador de éxito de exportación de servicios", "Como una fuente clave de divisas que requiere políticas de vinculación humana y financiera", "Como un ingreso fiscal directo del Ministerio", "Como excusa para no invertir en zonas rurales"],
+        "r": 1
+    },
+    {
+        "c": "Indicadores - Comercio Exterior",
+        "p": "La UNCTAD cataloga las 'medidas no arancelarias' como críticas. ¿En qué consisten principalmente?",
+        "o": ["Impuestos directos a las importaciones de lujo", "Medidas técnicas, sanitarias o fitosanitarias que condicionan el acceso", "Subsidios gubernamentales a exportadores", "Tratados de libre comercio de nueva generación"],
+        "r": 1
+    },
+    {
+        "c": "Indicadores - Sostenibilidad",
+        "p": "En el marco de 'Potencia Mundial de la Vida', ¿qué indicador define el cumplimiento frente al Acuerdo de París?",
+        "o": ["Aumento de capacidad extractiva de hidrocarburos", "Reducción de deforestación y transición energética justa", "Incremento de importación de vehículos eléctricos", "Eliminación de todas las licencias mineras actuales"],
+        "r": 1
+    },
+    {
+        "c": "Contexto - Geopolítica",
+        "p": "La política exterior multipolar (Restrepo Parra, 2024) propone cambios. ¿Qué significa diversificar socios para Colombia?",
+        "o": ["Romper relaciones con socios tradicionales", "Fortalecer mercados emergentes y alianzas Sur-Sur sin depender de un solo bloque", "Limitar inversión extranjera solo a países asiáticos", "Adoptar una moneda única regional"],
+        "r": 1
+    },
+    {
+        "c": "Indicadores - Social y Conflicto",
+        "p": "El sistema de paz requiere claridad conceptual. ¿Qué distingue la 'verdad judicial' de la 'verdad restauradora'?",
+        "o": ["La judicial busca pena; la restauradora busca comprensión y dignidad", "Son exactamente lo mismo en impacto jurídico", "La restauradora obliga a la cárcel inmediata", "La judicial es opcional, la restauradora obligatoria"],
+        "r": 0
+    },
+    {
+        "c": "DIP - Teoría de las Fuentes",
+        "p": "En una disputa ante la CIJ, el abogado debe argumentar sobre las fuentes del Art. 38. ¿Cuál es la postura jurídica correcta?",
+        "o": ["Existe una jerarquía rígida donde los tratados siempre prevalecen sobre la costumbre", "No hay jerarquía formal, aunque la costumbre y tratados interactúan dinámicamente", "La doctrina es fuente principal al mismo nivel que los tratados", "Las resoluciones de la Asamblea General son fuentes vinculantes"],
+        "r": 1
+    },
+    {
+        "c": "DIP - Jus Cogens vs Erga Omnes",
+        "p": "Durante un seminario de DI, se solicita aclarar la diferencia entre *jus cogens* y obligaciones *erga omnes*. ¿Cuál es la respuesta académica correcta?",
+        "o": ["Son sinónimos absolutos", "Jus cogens es jerarquía normativa; Erga omnes es alcance de la obligación (frente a todos)", "Jus cogens requiere tratado; Erga omnes costumbre", "Jus cogens es solo para Estados; Erga omnes solo para individuos"],
+        "r": 1
+    },
+    {
+        "c": "DIP - Teoría de la Responsabilidad",
+        "p": "Un Estado es acusado por actos de paramilitares. Según la CDI, ¿cuándo es atribuible esta conducta al Estado?",
+        "o": ["Solo si son agentes públicos mediante decreto", "Si actúan bajo dirección o control del Estado en ese acto específico", "Nunca, la responsabilidad es solo por órganos principales", "Solo si ocurre dentro del territorio nacional"],
+        "r": 1
+    },
+    {
+        "c": "DIP - Monismo vs Dualismo",
+        "p": "En un Estado monista, una ley nacional contradice un tratado internacional vigente. ¿Qué principio aplica?",
+        "o": ["La ley nacional prevalece siempre", "El tratado prevalece automáticamente sobre la ley, incluso si la ley es posterior", "El tratado debe transformarse en ley para aplicarse", "Se requiere referéndum constitucional para decidir"],
+        "r": 1
+    },
+    {
+        "c": "DIP - Reconocimiento",
+        "p": "En un examen de teoría de Estados, le preguntan la diferencia entre tesis constitutivas y declarativas. ¿Qué responde?",
+        "o": ["La constitutiva depende de ciudadanos; la declarativa de reconocimiento", "La constitutiva dice que el reconocimiento crea al Estado; la declarativa que solo lo confirma", "No hay diferencia, son sobre gobiernos", "La constitutiva es para nuevos; la declarativa para sucesores"],
+        "r": 1
+    },
+    {
+        "c": "Teoría IR - Waltz (Neorrealismo)",
+        "p": "Un diplomático analiza la estructura internacional. Bajo Waltz, ¿cómo se define el sistema?",
+        "o": ["Jerárquico, con leyes globales", "Anárquico, de autoayuda y distribución de capacidades", "Cooperativo, bajo instituciones globales", "Ideológico, según choque de valores"],
+        "r": 1
+    },
+    {
+        "c": "Teoría IR - Wallerstein (Sistemas-Mundo)",
+        "p": "Un analista de comercio exterior utiliza a Wallerstein para explicar la brecha Norte-Sur. ¿Cuál es su premisa?",
+        "o": ["Relación de beneficio mutuo", "Transferencia de excedente de la periferia al centro que consolida la desigualdad", "Ausencia de comercio entre zonas", "Igualdad absoluta de oportunidades para todos los Estados"],
+        "r": 1
+    },
+    {
+        "c": "Teoría IR - Nye (Soft Power)",
+        "p": "En una charla sobre el nuevo poder de Colombia, se menciona el concepto de Nye. ¿Qué es el *Soft Power*?",
+        "o": ["Presupuesto militar y capacidad de invasión", "Capacidad de atraer por valores culturales, prestigio y política exterior", "Control absoluto de recursos naturales", "Imposición de aranceles punitivos"],
+        "r": 1
+    },
+    {
+        "c": "Aplicación - Análisis de Colombia",
+        "p": "Usted debe manejar una crisis migratoria con un enfoque neorrealista (Waltz). ¿Qué prioriza?",
+        "o": ["La ética de DDHH como valor supremo", "El impacto de la migración en la seguridad nacional y equilibrio de poder", "Ignorar el tema y buscar inversión extranjera", "Delegar totalmente la responsabilidad a ONG"],
+        "r": 1
+    },
+    {
+        "c": "Integración Teórica",
+        "p": "La 'Diplomacia para la Vida' del PEI desafía visiones clásicas. ¿Qué aspecto se aleja de la *Realpolitik*?",
+        "o": ["El fortalecimiento nuclear disuasorio", "Enfoque en paz total, justicia ambiental y diplomacia ciudadana sobre la lógica de poder", "Consolidación de alianzas militares defensivas", "Incremento de gasto armamentista fronterizo"],
         "r": 1
     }
 ]
