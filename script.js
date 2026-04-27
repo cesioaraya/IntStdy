@@ -2,19 +2,33 @@ let bancoPreguntas = [];
 let indiceActual = 0;
 
 async function init() {
-    const res = await fetch('preguntas.json');
-    bancoPreguntas = await res.json();
-    renderizarPregunta();
+    try {
+        console.log("Intentando cargar preguntas...");
+        const res = await fetch('preguntas.json');
+        
+        if (!res.ok) {
+            throw new Error(`Error HTTP: ${res.status}`);
+        }
+        
+        bancoPreguntas = await res.json();
+        console.log("Preguntas cargadas con éxito:", bancoPreguntas);
+        renderizarPregunta();
+        
+    } catch (error) {
+        console.error("Error en la carga:", error);
+        alert("¡Error al cargar el archivo! Revisa la consola (F12). Error: " + error.message);
+        document.getElementById('categoria').innerText = "Error cargando archivo.";
+    }
 }
 
 function renderizarPregunta() {
     const p = bancoPreguntas[indiceActual];
+    // Asegúrate de que los elementos existan antes de modificar el innerText
     document.getElementById('categoria').innerText = p.c;
     document.getElementById('pregunta').innerText = p.p;
-    document.getElementById('feedback').style.display = 'none';
     
     const divOpciones = document.getElementById('opciones');
-    divOpciones.innerHTML = ''; // Limpiar opciones anteriores
+    divOpciones.innerHTML = ''; 
 
     p.o.forEach((opcion, index) => {
         const btn = document.createElement('button');
@@ -25,24 +39,6 @@ function renderizarPregunta() {
     });
 }
 
-function verificarRespuesta(indexElegido) {
-    const p = bancoPreguntas[indiceActual];
-    const feedback = document.getElementById('mensaje-resultado');
-    
-    if (indexElegido === p.r) {
-        feedback.innerText = "✅ ¡Correcto!";
-    } else {
-        feedback.innerText = `❌ Incorrecto. La respuesta era: ${p.o[p.r]}`;
-    }
-    
-    document.getElementById('feedback').style.display = 'block';
-    // Deshabilitar botones para que no cambien la respuesta
-    document.querySelectorAll('.btn-opcion').forEach(b => b.disabled = true);
-}
-
-function siguientePregunta() {
-    indiceActual = (indiceActual + 1) % bancoPreguntas.length;
-    renderizarPregunta();
-}
+// ... resto de tus funciones verificarRespuesta y siguientePregunta ...
 
 init();
