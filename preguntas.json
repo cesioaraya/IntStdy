@@ -29,4 +29,65 @@
         "o": ["Depender de ayuda externa", "Articular transición energética, deforestación y minería ilegal", "Limitarse solo al sector agrícola", "No incluir medidas de uso del suelo"],
         "r": 1
     }
+    {
+        "p": "En la Convención de 1961, si el Estado receptor declara a un agente diplomático 'persona non grata', ¿está obligado a explicar las razones de su decisión?",
+        "o": ["Sí, debe presentar pruebas ante la CIJ.", "No, no está obligado a motivar su decisión.", "Solo si el agente es un Jefe de Misión.", "Sí, siempre que el Estado acreditante lo solicite formalmente."],
+        "r": 1,
+        "c": "Viena 1961 - Diplomacia"
+    },
+    {
+        "p": "A diferencia de los agentes diplomáticos, los funcionarios consulares de carrera, según la Convención de 1963:",
+        "o": ["Gozan de inmunidad absoluta en materia civil.", "Están sujetos a la jurisdicción de los tribunales del Estado receptor por actos realizados en el ejercicio de sus funciones.", "Solo pueden ser detenidos en caso de delitos graves de más de 5 años de prisión.", "No gozan de inviolabilidad personal en ningún caso."],
+        "r": 2,
+        "c": "Viena 1963 - Consular"
+    },
+    {
+        "p": "Según la Convención de 1969, ¿qué ocurre si un tratado está en conflicto con una norma imperativa de derecho internacional general (ius cogens)?",
+        "o": ["El tratado es anulable a petición de una parte.", "El tratado es nulo.", "El tratado sigue vigente pero la norma es inaplicable.", "El tratado debe ser revisado por la Asamblea General de la ONU."],
+        "r": 1,
+        "c": "Viena 1969 - Tratados"
+    },
+    {
+        "p": "¿Cuál es la regla general sobre la valija diplomática en la Convención de 1961?",
+        "o": ["Puede ser abierta si se sospecha de contrabando.", "Debe ser escaneada por seguridad en todos los casos.", "No podrá ser abierta ni retenida bajo ninguna circunstancia.", "Puede ser abierta solo en presencia del Jefe de Misión."],
+        "r": 2,
+        "c": "Viena 1961 - Diplomacia"
+    },
+    {
+        "p": "En la Convención de 1963, ¿qué obligación tiene el Estado receptor cuando un nacional del Estado que envía es arrestado o detenido?",
+        "o": ["Informar a la familia del detenido inmediatamente.", "Informar sin dilación a la oficina consular competente si el interesado lo solicita.", "Mantener al detenido incomunicado hasta el juicio.", "Solo informar si el tratado bilateral así lo estipula."],
+        "r": 1,
+        "c": "Viena 1963 - Consular"
+    },
+    {
+        "p": "Respecto a las reservas en un tratado (Viena 1969), ¿qué condición es indispensable para que una reserva sea válida?",
+        "o": ["Que sea aceptada por todos los Estados firmantes.", "Que no sea incompatible con el objeto y fin del tratado.", "Que sea presentada antes de la firma del texto.", "Que sea aprobada por el Secretario General de la ONU."],
+        "r": 1,
+        "c": "Viena 1969 - Tratados"
+    },
+    {
+        "p": "¿Qué diferencia sustancial existe entre la inmunidad de jurisdicción de un diplomático y un funcionario consular?",
+        "o": ["El diplomático tiene inmunidad casi total; el consular solo por actos funcionales.", "El consular tiene más inmunidad por temas comerciales.", "Ambos tienen inmunidad total e idéntica.", "Ninguno tiene inmunidad en materia civil."],
+        "r": 0,
+        "c": "Viena 1961 vs 1963"
+    },
+    {
+        "p": "Según Viena 1969, ¿cuál es el efecto de la 'coacción' sobre un representante de un Estado para celebrar un tratado?",
+        "o": ["El tratado es terminable si hay cambio de gobierno.", "El tratado carece de todo valor jurídico (nulo).", "El tratado es válido, pero el representante es responsable penalmente.", "El tratado requiere ratificación adicional para ser válido."],
+        "r": 1,
+        "c": "Viena 1969 - Tratados"
+    },
+    {
+        "p": "Bajo la Convención de 1961, ¿puede un Estado acreditar a un mismo jefe de misión ante varios Estados?",
+        "o": ["No, está prohibido.", "Sí, salvo que alguno de los Estados receptores se oponga expresamente.", "Solo si son Estados miembros de la OEA.", "Sí, pero solo si es un organismo internacional."],
+        "r": 1,
+        "c": "Viena 1961 - Diplomacia"
+    },
+    {
+        "p": "En la Convención de 1969, ¿qué significa que un tratado sea 'autenticado'?",
+        "o": ["Que el tratado ya está en vigor.", "Que el texto se establece como definitivo y auténtico.", "Que el tratado ha sido ratificado por el Congreso.", "Que el tratado no admite más enmiendas."],
+        "r": 1,
+        "c": "Viena 1969 - Tratados"
+    }
+
 ]
