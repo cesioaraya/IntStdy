@@ -1,8 +1,32 @@
 [
     {
-        "p": "¿Ejemplo de pregunta?",
-        "o": ["Opción A", "Opción B", "Opción C", "Opción D"],
-        "r": 0,
-        "c": "Categoría"
+        "c": "Contexto, Historia y Estado",
+        "p": "¿Qué norma regula actualmente el ingreso a la Carrera Diplomática y Consular de Colombia?",
+        "o": ["Decreto Ley 274 de 2000", "Constitución de 1991", "Ley 80 de 1993", "Resolución 10847"],
+        "r": 0
+    },
+    {
+        "c": "Derecho Internacional Público",
+        "p": "¿Cuál es el propósito fundamental de la Convención de Viena sobre Relaciones Diplomáticas de 1961?",
+        "o": ["Regular el comercio internacional", "Establecer las normas de las misiones diplomáticas", "Definir límites marítimos", "Regular el asilo político"],
+        "r": 1
+    },
+    {
+        "c": "Desarrollo Económico",
+        "p": "Según la Guía, ¿cuál es el porcentaje del PIB que representaron las remesas en 2023?",
+        "o": ["1.5%", "3.3%", "5.0%", "2.1%"],
+        "r": 1
+    },
+    {
+        "c": "Diplomacia y RRII",
+        "p": "¿Cuál es la función principal de la Academia Diplomática Augusto Ramírez Ocampo?",
+        "o": ["Realizar los concursos de ingreso", "Fijar la política monetaria", "Representar al país en la ONU", "Gestionar pasaportes"],
+        "r": 0
+    },
+    {
+        "c": "Sostenibilidad",
+        "p": "¿Cuál es el reto principal de Colombia frente al Acuerdo de París según la guía?",
+        "o": ["Depender de ayuda externa", "Articular transición energética, deforestación y minería ilegal", "Limitarse solo al sector agrícola", "No incluir medidas de uso del suelo"],
+        "r": 1
     }
 ]
