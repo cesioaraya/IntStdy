@@ -1,22 +1,52 @@
-#opciones {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    margin-top: 20px;
+/* Limpieza y tipografía moderna */
+* { box-sizing: border-box; }
+body { 
+    font-family: 'Segoe UI', system-ui, sans-serif; 
+    background-color: #f4f7f9; 
+    margin: 0; 
+    display: flex; 
+    justify-content: center; 
+    padding: 20px;
+    min-height: 100vh;
 }
 
-.btn-opcion {
-    background: #fff;
-    border: 2px solid #007bff;
-    color: #007bff;
-    padding: 12px;
-    border-radius: 8px;
-    cursor: pointer;
-    text-align: left;
-    transition: 0.3s;
+/* Contenedor principal estilo "tarjeta" */
+.container { 
+    background: white; 
+    width: 100%; 
+    max-width: 500px; 
+    padding: 30px; 
+    border-radius: 16px; 
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
-.btn-opcion:hover {
-    background: #007bff;
-    color: white;
+header { border-bottom: 2px solid #004a99; margin-bottom: 20px; padding-bottom: 10px; }
+h1 { color: #004a99; font-size: 1.5rem; margin: 0; }
+#stats { color: #666; font-size: 0.9rem; margin-top: 5px; }
+
+/* Área de pregunta */
+#categoria { color: #888; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1px; font-weight: bold; }
+#pregunta { color: #333; font-size: 1.2rem; line-height: 1.4; margin: 15px 0; }
+
+/* Botones de opciones */
+#opciones { display: flex; flex-direction: column; gap: 12px; margin-top: 20px; }
+
+button { 
+    background: white; 
+    border: 2px solid #004a99; 
+    color: #004a99; 
+    padding: 12px 20px; 
+    border-radius: 8px; 
+    cursor: pointer; 
+    font-weight: 600; 
+    transition: all 0.2s ease;
 }
+
+button:hover { 
+    background: #004a99; 
+    color: white; 
+}
+
+/* Feedback */
+#feedback { background: #eef6ff; padding: 15px; border-radius: 8px; border-left: 5px solid #004a99; }
+#mensaje-resultado { font-weight: bold; margin: 0 0 10px 0; }
