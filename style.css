@@ -1,7 +1,22 @@
-body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; display: flex; justify-content: center; padding: 20px; }
-.container { background: white; width: 100%; max-width: 600px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-h2 { color: #333; }
-#categoria { color: #666; font-size: 0.9em; text-transform: uppercase; }
-button { background: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin-top: 10px; }
-button:hover { background: #0056b3; }
-.actions { display: flex; gap: 10px; margin-top: 15px; }
+#opciones {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.btn-opcion {
+    background: #fff;
+    border: 2px solid #007bff;
+    color: #007bff;
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: left;
+    transition: 0.3s;
+}
+
+.btn-opcion:hover {
+    background: #007bff;
+    color: white;
+}
