@@ -6,26 +6,31 @@
     <style>
         body { font-family: sans-serif; background: #f4f4f9; display: flex; justify-content: center; padding: 20px; }
         .card { background: white; padding: 20px; border-radius: 10px; width: 100%; max-width: 500px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        .stats-bar { background: #004a99; color: white; padding: 10px; border-radius: 5px; text-align: center; margin-bottom: 20px; font-weight: bold; }
-        .cat { color: #555; font-size: 0.8em; text-transform: uppercase; }
-        h2 { color: #004a99; font-size: 1.2rem; }
-        button { display: block; width: 100%; margin: 10px 0; padding: 12px; border: 1px solid #004a99; border-radius: 5px; cursor: pointer; background: white; color: #004a99; font-weight: bold; }
-        button:hover { background: #004a99; color: white; }
+        .stats-bar { background: #004a99; color: white; padding: 10px; border-radius: 5px; text-align: center; margin-bottom: 20px; font-weight: bold; font-size: 0.9em; }
+        .cat { color: #555; font-size: 0.75em; text-transform: uppercase; margin-bottom: 5px; }
+        h2 { color: #333; font-size: 1.1rem; margin-top: 0; line-height: 1.4; }
+        button { display: block; width: 100%; margin: 8px 0; padding: 12px; border: 1px solid #004a99; border-radius: 5px; cursor: pointer; background: white; color: #004a99; font-weight: bold; transition: 0.2s; }
+        button:hover:not(:disabled) { background: #004a99; color: white; }
+        button:disabled { cursor: default; opacity: 0.8; }
+        /* Nuevas clases para feedback */
+        .correct { background-color: #28a745 !important; border-color: #28a745 !important; color: white !important; }
+        .incorrect { background-color: #dc3545 !important; border-color: #dc3545 !important; color: white !important; }
+        .reset-btn { background: #e0e0e0; color: #555; border: none; font-size: 0.7em; margin-top: 20px; text-align: center; }
     </style>
 </head>
 <body>
 
 <div class="card">
-    <div class="stats-bar" id="stats">Éxito: 0% (0/0)</div>
+    <div class="stats-bar" id="stats">Cargando...</div>
     <div id="cat" class="cat">Cargando...</div>
     <h2 id="pregunta">Cargando...</h2>
     <div id="opciones"></div>
+    <button class="reset-btn" onclick="resetApp()">Reiniciar progreso</button>
 </div>
 
 <script>
     let banco = [];
     let indice = 0;
-    // Cargamos estadísticas y la lista de preguntas falladas (pendientes)
     let stats = JSON.parse(localStorage.getItem('quizStats')) || { aciertos: 0, total: 0 };
     let pendientes = JSON.parse(localStorage.getItem('pendientes')) || [];
 
@@ -34,7 +39,6 @@
             const res = await fetch('preguntas.json');
             banco = await res.json();
             actualizarStats();
-            // Elegimos la primera pregunta al azar para empezar
             indice = Math.floor(Math.random() * banco.length);
             mostrar();
         } catch (e) { document.body.innerHTML = "Error: Asegúrate de tener preguntas.json en la misma carpeta."; }
@@ -42,25 +46,22 @@
 
     function actualizarStats() {
         const porcentaje = stats.total > 0 ? Math.round((stats.aciertos / stats.total) * 100) : 0;
-        document.getElementById('stats').innerText = `Éxito: ${porcentaje}% (${stats.aciertos}/${stats.total}) - Refuerzo: ${pendientes.length}`;
+        document.getElementById('stats').innerText = `Éxito: ${porcentaje}% (${stats.aciertos}/${stats.total}) | Pendientes: ${pendientes.length}`;
         localStorage.setItem('quizStats', JSON.stringify(stats));
         localStorage.setItem('pendientes', JSON.stringify(pendientes));
     }
 
     function seleccionarSiguiente() {
-        // Probabilidad del 40% de elegir una pregunta de la lista de falladas (si hay)
         if (pendientes.length > 0 && Math.random() < 0.4) {
-            const azar = Math.floor(Math.random() * pendientes.length);
-            indice = pendientes[azar];
+            indice = pendientes[Math.floor(Math.random() * pendientes.length)];
         } else {
-            // Secuencia normal (la siguiente en la lista del JSON)
             indice = (indice + 1) % banco.length;
         }
     }
 
     function mostrar() {
         const p = banco[indice];
-        document.getElementById('cat').innerText = p.c + (pendientes.includes(indice) ? " (¡REFUERZO!)" : "");
+        document.getElementById('cat').innerText = p.c + (pendientes.includes(indice) ? " (REFUERZO)" : "");
         document.getElementById('pregunta').innerText = p.p;
         const div = document.getElementById('opciones');
         div.innerHTML = '';
@@ -69,27 +70,37 @@
             const btn = document.createElement('button');
             btn.innerText = op;
             btn.onclick = () => {
+                // Desactivar todos los botones inmediatamente
+                document.querySelectorAll('button').forEach(b => b.disabled = true);
+                
                 stats.total++;
                 if (i === p.r) {
+                    btn.classList.add('correct');
                     stats.aciertos++;
-                    alert("¡Correcto!");
-                    // Si la teníamos en pendientes, la quitamos porque ya la aprendiste
-                    if (pendientes.includes(indice)) {
-                        pendientes = pendientes.filter(id => id !== indice);
-                    }
+                    if (pendientes.includes(indice)) pendientes = pendientes.filter(id => id !== indice);
                 } else {
-                    alert("Incorrecto, la respuesta era: " + p.o[p.r]);
-                    // Si fallamos y no estaba en la lista, la agregamos
-                    if (!pendientes.includes(indice)) {
-                        pendientes.push(indice);
-                    }
+                    btn.classList.add('incorrect');
+                    document.querySelectorAll('button')[p.r].classList.add('correct'); // Resalta la correcta
+                    if (!pendientes.includes(indice)) pendientes.push(indice);
                 }
+                
                 actualizarStats();
-                seleccionarSiguiente();
-                mostrar();
+                
+                // Esperar 1 segundo para mostrar el resultado antes de pasar a la siguiente
+                setTimeout(() => {
+                    seleccionarSiguiente();
+                    mostrar();
+                }, 1000);
             };
             div.appendChild(btn);
         });
+    }
+
+    function resetApp() {
+        if(confirm("¿Borrar todo el progreso y reiniciar?")) {
+            localStorage.clear();
+            location.reload();
+        }
     }
 
     cargar();
