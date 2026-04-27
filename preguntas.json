@@ -269,4 +269,180 @@
         "o": ["El fortalecimiento nuclear disuasorio", "Enfoque en paz total, justicia ambiental y diplomacia ciudadana sobre la lógica de poder", "Consolidación de alianzas militares defensivas", "Incremento de gasto armamentista fronterizo"],
         "r": 1
     }
+    {
+        "c": "GATT y OMC - Evolución Normativa",
+        "p": "El GATT de 1947 operó durante décadas como un acuerdo provisional sin una estructura institucional robusta. ¿Cuál fue el cambio jurídico-institucional más trascendental que introdujo la creación de la OMC en 1995?",
+        "o": [
+            "La eliminación inmediata de todas las barreras arancelarias globales.",
+            "La consolidación de una organización internacional con personalidad jurídica propia y un Sistema de Solución de Diferencias (SSD) con carácter vinculante.",
+            "La subordinación de las políticas comerciales nacionales a la jurisdicción exclusiva de la Corte Internacional de Justicia.",
+            "La obligatoriedad de que todos los miembros adoptaran una moneda única para el comercio internacional."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OMC - Principios Fundamentales",
+        "p": "La cláusula de la Nación Más Favorecida (NMF), pilar del comercio multilateral, exige que un Estado miembro otorgue a los productos de otros miembros un trato no menos favorable que el que concede a productos de cualquier otro país. ¿Qué objetivo persigue esta norma?",
+        "o": [
+            "Garantizar la protección de las industrias nacionales frente a la competencia desleal.",
+            "Evitar la discriminación entre socios comerciales y promover la no-discriminación multilateral.",
+            "Fomentar la creación de bloques comerciales regionales exclusivos.",
+            "Establecer niveles máximos de aranceles obligatorios para todos los sectores económicos."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OMC - Principios Fundamentales",
+        "p": "El principio de 'Trato Nacional' (Artículo III del GATT) es fundamental en la OMC. ¿Cuál es su alcance operativo una vez que las mercancías extranjeras han cruzado la frontera y pagado los derechos de aduana?",
+        "o": [
+            "Las mercancías deben recibir el mismo trato que los productos nacionales en cuanto a impuestos internos y reglamentaciones.",
+            "Las mercancías pueden ser gravadas con impuestos adicionales superiores a los productos nacionales para proteger la industria local.",
+            "Las mercancías quedan exentas de toda regulación técnica hasta que sean vendidas al consumidor final.",
+            "El Estado receptor puede prohibir su venta si considera que compiten con productos locales de sectores estratégicos."
+        ],
+        "r": 0
+    },
+    {
+        "c": "OMC - Solución de Diferencias",
+        "p": "A diferencia del sistema del GATT, el Sistema de Solución de Diferencias (SSD) de la OMC se caracteriza por ser 'cuasi-judicial'. ¿Qué implica el mecanismo de 'adopción por consenso negativo'?",
+        "o": [
+            "Que las decisiones del Órgano de Solución de Diferencias requieren la aprobación unánime de todos los miembros, incluyendo el demandante.",
+            "Que un informe del Grupo Especial es adoptado automáticamente a menos que exista un consenso de todos los miembros para rechazarlo.",
+            "Que el país perdedor puede vetar la decisión final si considera que afecta su soberanía nacional.",
+            "Que el SSD solo puede actuar si ambas partes en disputa renuncian voluntariamente a su derecho de apelación."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OMC - Medidas de Defensa Comercial",
+        "p": "Un Estado miembro observa que productos importados están siendo vendidos en su mercado a un precio inferior a su valor normal, causando un daño a su industria nacional. ¿Qué instrumento jurídico de la OMC permite imponer derechos adicionales?",
+        "o": [
+            "Medidas de Salvaguardia.",
+            "Derechos Antidumping.",
+            "Subvenciones a la exportación.",
+            "Restricciones cuantitativas de cuotas."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OMC - Ronda de Doha",
+        "p": "La 'Agenda de Doha para el Desarrollo' fue lanzada en 2001. ¿Por qué el componente de 'desarrollo' es el núcleo de este mandato negociador?",
+        "o": [
+            "Porque busca centralizar la economía mundial bajo las reglas de las potencias industriales exclusivamente.",
+            "Porque pretende integrar las preocupaciones de los países en desarrollo, especialmente en temas agrícolas y acceso a mercados.",
+            "Porque fue el primer acuerdo en prohibir totalmente los subsidios en todos los sectores sin excepciones.",
+            "Porque su objetivo principal es la disolución de la OMC para retornar a acuerdos bilaterales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "OMC - Regulación Sanitaria",
+        "p": "El Acuerdo sobre Medidas Sanitarias y Fitosanitarias (MSF) permite a los Estados limitar importaciones por razones de salud. ¿Qué condición impone la OMC para evitar que estas medidas se conviertan en 'proteccionismo disfrazado'?",
+        "o": [
+            "Que todas las medidas estén basadas en principios científicos y evaluación de riesgos adecuada.",
+            "Que las medidas sean aprobadas por el Consejo de Seguridad de la ONU antes de su implementación.",
+            "Que el país exportador sea un país desarrollado.",
+            "Que se prohíba cualquier tipo de regulación técnica sobre alimentos importados."
+        ],
+        "r": 0
+    },
+    {
+        "c": "OMC - Geopolítica",
+        "p": "En el contexto actual de crisis del sistema multilateral, ¿qué desafío enfrenta el Órgano de Apelación de la OMC?",
+        "o": [
+            "Su falta de competencia para revisar temas de propiedad intelectual.",
+            "La parálisis operativa debido al bloqueo en el nombramiento de sus miembros por parte de actores clave.",
+            "La excesiva rapidez con la que resuelve los conflictos comerciales.",
+            "La imposibilidad de imponer sanciones económicas a los países desarrollados."
+        ],
+        "r": 1
+    }
+    {
+        "c": "TLC Colombia-EE.UU. - Objetivos Estratégicos",
+        "p": "Como diplomático, usted debe explicar ante un foro de empresarios cuál es el objetivo central del TLC con EE.UU. en términos de política exterior y comercial. ¿Cuál es la respuesta correcta?",
+        "o": [
+            "Establecer una unión aduanera que elimina todas las fronteras físicas y regulatorias.",
+            "Garantizar un acceso preferencial y permanente al mercado estadounidense, atrayendo inversión extranjera mediante seguridad jurídica.",
+            "Eliminar unilateralmente la capacidad del Estado colombiano para regular sectores estratégicos como el financiero.",
+            "Crear una moneda común para facilitar las transacciones comerciales bilaterales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "TLC Colombia-EE.UU. - Reglas de Origen",
+        "p": "Un exportador colombiano le consulta por qué sus productos pagan arancel en EE.UU. a pesar de la vigencia del TLC. ¿Qué concepto técnico debe usted aclarar para que el producto sea elegible para la desgravación?",
+        "o": [
+            "La obligatoriedad de que el producto sea transportado exclusivamente por navieras estadounidenses.",
+            "La necesidad de que el producto tenga un precio de venta superior al mercado interno.",
+            "El cumplimiento de las 'Reglas de Origen' para acreditar que el producto es originario de Colombia.",
+            "El pago previo de una tasa de verificación administrativa ante el Departamento de Comercio de EE.UU."
+        ],
+        "r": 2
+    },
+    {
+        "c": "TLC Colombia-EE.UU. - Propiedad Intelectual",
+        "p": "El capítulo de Propiedad Intelectual fue uno de los más debatidos. Desde una perspectiva normativa, ¿cuál fue el interés principal de Estados Unidos en este apartado?",
+        "o": [
+            "Fortalecer los estándares de protección de patentes, derechos de autor y marcas para fomentar la innovación y proteger sus industrias tecnológicas.",
+            "Prohibir la producción de cualquier medicamento genérico en el territorio colombiano.",
+            "Exigir que todas las empresas colombianas cedan sus patentes al gobierno federal estadounidense.",
+            "Anular la vigencia de los derechos de propiedad intelectual nacionales en favor de tratados multilaterales."
+        ],
+        "r": 0
+    },
+    {
+        "c": "TLC Colombia-EE.UU. - Agricultura",
+        "p": "El sector agrícola colombiano enfrentó retos significativos en la negociación. ¿Qué mecanismo previó el TLC para los productos denominados 'sensibles' frente a la entrada de productos estadounidenses?",
+        "o": [
+            "La prohibición total de importación de productos estadounidenses competitivos.",
+            "Periodos de desgravación gradual y contingentes arancelarios para permitir el ajuste competitivo de los productores locales.",
+            "La eliminación inmediata de todos los aranceles para evitar la inflación de alimentos.",
+            "La sustitución de la producción nacional por importaciones subsidiadas por el gobierno de Colombia."
+        ],
+        "r": 1
+    },
+    {
+        "c": "TLC Colombia-EE.UU. - Solución de Controversias",
+        "p": "Si el Estado colombiano considera que Estados Unidos ha incumplido una norma del tratado afectando sus exportaciones, ¿qué procedimiento debe seguirse según el capítulo de Solución de Diferencias?",
+        "o": [
+            "Denunciar el tratado ante la Asamblea General de la ONU.",
+            "Presentar una demanda ante los tribunales civiles de Washington D.C.",
+            "Iniciar un proceso formal que incluye consultas bilaterales y, de no haber acuerdo, la conformación de un panel arbitral.",
+            "Suspender inmediatamente todas las relaciones comerciales sin aviso previo."
+        ],
+        "r": 2
+    },
+    {
+        "c": "TLC Colombia-EE.UU. - Temas Transversales",
+        "p": "Los capítulos sobre Trabajo y Medio Ambiente fueron integrados con fuerza en el TLC Colombia-EE.UU. ¿Qué obligación imponen fundamentalmente a las Partes?",
+        "o": [
+            "La adopción de leyes laborales y ambientales idénticas a las de los Estados Unidos.",
+            "La garantía de aplicación efectiva de sus propias leyes laborales y ambientales nacionales para evitar ventajas competitivas desleales.",
+            "La creación de una corte transnacional con jurisdicción sobre todos los conflictos laborales internos.",
+            "La prohibición absoluta de actividades extractivas en áreas protegidas sin importar la legislación local."
+        ],
+        "r": 1
+    },
+    {
+        "c": "TLC Colombia-EE.UU. - Compras Públicas",
+        "p": "El capítulo de Compras Públicas establece reglas para el acceso a licitaciones estatales. ¿Cuál es el alcance del beneficio para los proveedores colombianos?",
+        "o": [
+            "Tienen derecho a ganar cualquier licitación federal sin competir con empresas de otros países.",
+            "Tienen acceso en condiciones de no discriminación a licitaciones del gobierno federal de EE.UU. (sujeto a umbrales).",
+            "Están exentos de presentar garantías bancarias en todas las licitaciones estadounidenses.",
+            "Pueden vender servicios de defensa y seguridad sin restricciones de seguridad nacional."
+        ],
+        "r": 1
+    },
+    {
+        "c": "TLC Colombia-EE.UU. - Servicios",
+        "p": "En cuanto al comercio de servicios, ¿qué implica el principio de 'Acceso al Mercado' bajo el tratado?",
+        "o": [
+            "La obligación de los Estados de privatizar todos sus servicios públicos como salud y educación.",
+            "La reducción de barreras injustificadas a la prestación transfronteriza de servicios, basada en la transparencia y no discriminación.",
+            "La libre circulación de trabajadores no calificados entre ambos países.",
+            "La eliminación de cualquier requerimiento de licencia profesional para ejercer en el otro país."
+        ],
+        "r": 1
+    }
 ]
