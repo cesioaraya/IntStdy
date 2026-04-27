@@ -1,14 +1,8 @@
 [
     {
-        "p": "¿Qué artículo de la Constitución Política de Colombia otorga al Presidente la facultad de dirigir las relaciones internacionales?",
-        "o": ["Artículo 188", "Artículo 189", "Artículo 190", "Artículo 191"],
-        "r": 1, 
-        "c": "Constitución"
-    },
-    {
-        "p": "¿Cuál es el rango de ingreso a la Carrera Diplomática y Consular de Colombia?",
-        "o": ["Embajador", "Ministro Plenipotenciario", "Consejero", "Tercer Secretario"],
-        "r": 3,
-        "c": "Decreto 274"
+        "p": "¿Ejemplo de pregunta?",
+        "o": ["Opción A", "Opción B", "Opción C", "Opción D"],
+        "r": 0,
+        "c": "Categoría"
     }
 ]
