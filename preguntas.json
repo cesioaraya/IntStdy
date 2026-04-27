@@ -268,7 +268,7 @@
         "p": "La 'Diplomacia para la Vida' del PEI desafía visiones clásicas. ¿Qué aspecto se aleja de la *Realpolitik*?",
         "o": ["El fortalecimiento nuclear disuasorio", "Enfoque en paz total, justicia ambiental y diplomacia ciudadana sobre la lógica de poder", "Consolidación de alianzas militares defensivas", "Incremento de gasto armamentista fronterizo"],
         "r": 1
-    }
+    },
     {
         "c": "GATT y OMC - Evolución Normativa",
         "p": "El GATT de 1947 operó durante décadas como un acuerdo provisional sin una estructura institucional robusta. ¿Cuál fue el cambio jurídico-institucional más trascendental que introdujo la creación de la OMC en 1995?",
@@ -356,7 +356,7 @@
             "La imposibilidad de imponer sanciones económicas a los países desarrollados."
         ],
         "r": 1
-    }
+    },
     {
         "c": "TLC Colombia-EE.UU. - Objetivos Estratégicos",
         "p": "Como diplomático, usted debe explicar ante un foro de empresarios cuál es el objetivo central del TLC con EE.UU. en términos de política exterior y comercial. ¿Cuál es la respuesta correcta?",
@@ -444,7 +444,7 @@
             "La eliminación de cualquier requerimiento de licencia profesional para ejercer en el otro país."
         ],
         "r": 1
-    }
+    },
     {
         "c": "Alianza del Pacífico - Naturaleza Jurídica",
         "p": "La Alianza del Pacífico se diferencia de otros bloques regionales latinoamericanos por su modelo de integración. ¿Qué caracteriza a este mecanismo en su diseño institucional?",
@@ -620,7 +620,7 @@
             "Porque la Decisión 486 es opcional y solo se aplica si el país decide ratificarla individualmente cada año."
         ],
         "r": 0
-    }
+    },
     {
         "c": "MERCOSUR - Naturaleza Jurídica",
         "p": "A diferencia de una simple zona de libre comercio, el MERCOSUR se define técnicamente como una Unión Aduanera. ¿Cuál es la característica principal que define este estadio de integración?",
@@ -708,7 +708,7 @@
             "La creación de una fuerza de seguridad regional bajo mando único."
         ],
         "r": 1
-    }
+    },
     {
         "c": "CELAC - Naturaleza Jurídica",
         "p": "La CELAC se distingue de la OEA principalmente por su composición y alcance. ¿Cuál es la diferencia fundamental en cuanto a sus miembros?",
@@ -796,7 +796,7 @@
             "La CELAC es simplemente el nombre actual de la OEA."
         ],
         "r": 1
-    }
+    },
     {
         "c": "ONU - Carta de las Naciones Unidas",
         "p": "La Carta de las Naciones Unidas es el tratado internacional fundador. Desde el punto de vista del Derecho Internacional, ¿cuál es la característica jurídica más relevante de este documento?",
@@ -884,7 +884,7 @@
             "Ejercer como órgano legislativo que dicta leyes para los países miembros."
         ],
         "r": 0
-    }
+    },
     {
         "c": "OEA - Marco Jurídico",
         "p": "La OEA tiene su origen en la Carta de Bogotá de 1948. ¿Cuál es el estatus de este documento en el derecho internacional regional?",
@@ -972,7 +972,7 @@
             "Redactar leyes constitucionales obligatorias para todas las naciones del hemisferio."
         ],
         "r": 1
-    }
+    },
     {
         "c": "OCDE - Naturaleza Jurídica",
         "p": "A diferencia de organismos como la ONU o la CAN, la OCDE no tiene facultades legislativas supranacionales. ¿Qué define mejor su funcionamiento institucional?",
@@ -1060,7 +1060,7 @@
             "Protocolo de Kioto sobre educación."
         ],
         "r": 0
-    }
+    },
     {
         "c": "CIDH - Naturaleza Jurídica",
         "p": "¿Cuál es la fuente jurídica principal que define la competencia y el funcionamiento de la CIDH en relación con los Estados que han ratificado dicho instrumento?",
@@ -1148,7 +1148,7 @@
             "Cerrar las fronteras comerciales del Estado reportado."
         ],
         "r": 1
-    }
+    },
     {
         "c": "Corte IDH - Naturaleza Jurídica",
         "p": "¿Cuál es la función principal de la Corte Interamericana de Derechos Humanos dentro del Sistema Interamericano?",
@@ -1236,7 +1236,7 @@
             "Que el Estado haya pagado previamente una tasa judicial a la Secretaría de la OEA."
         ],
         "r": 0
-    }
+    },
     {
         "c": "DDHH - Fundamentos Normativos",
         "p": "La 'Carta Internacional de Derechos Humanos' se compone de tres instrumentos principales. ¿Cuáles son?",
@@ -1324,7 +1324,7 @@
             "Ante el sector privado que financia las políticas públicas."
         ],
         "r": 1
-    }
+    },
     {
         "c": "DIH - Instrumentos Fundamentales",
         "p": "¿Cuál es la piedra angular del Derecho Internacional Humanitario moderno, compuesto por cuatro tratados adoptados en 1949?",
@@ -1412,7 +1412,7 @@
             "La ubicación de los campos de refugiados en el territorio."
         ],
         "r": 1
-    }
+    },
     {
         "c": "DAI - Caso Fundacional",
         "p": "¿Qué caso arbitral internacional, fallado en 1941, estableció el principio consuetudinario de que un Estado no tiene derecho a utilizar su territorio de modo que cause daños por emanaciones a otro Estado?",
