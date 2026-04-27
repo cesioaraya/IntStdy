@@ -1413,4 +1413,92 @@
         ],
         "r": 1
     }
+    {
+        "c": "DAI - Caso Fundacional",
+        "p": "¿Qué caso arbitral internacional, fallado en 1941, estableció el principio consuetudinario de que un Estado no tiene derecho a utilizar su territorio de modo que cause daños por emanaciones a otro Estado?",
+        "o": [
+            "El Caso de la Plataforma Continental del Mar del Norte.",
+            "El Caso de la Fundición de Trail (Trail Smelter).",
+            "El Caso de las Pesquerías Islandesas.",
+            "El Caso Gabčíkovo-Nagymaros."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DAI - Estructura Institucional",
+        "p": "¿Cuál es la función principal de la Conferencia de las Partes (COP) en los grandes tratados ambientales como la CMNUCC?",
+        "o": [
+            "Sancionar económicamente a los países que no cumplan sus metas de emisiones.",
+            "Revisar la implementación de la convención y adoptar decisiones para promover su aplicación efectiva.",
+            "Redactar nuevas leyes constitucionales para los países miembros.",
+            "Ejecutar los proyectos de infraestructura climática en los países en desarrollo."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DAI - Protocolo de Montreal",
+        "p": "El Protocolo de Montreal se considera el acuerdo ambiental más exitoso de la historia. ¿Qué regula específicamente?",
+        "o": [
+            "La emisión de gases de efecto invernadero (GEI).",
+            "La protección de la capa de ozono mediante la eliminación de sustancias agotadoras del ozono (SAO).",
+            "El tráfico ilícito de especies en peligro de extinción.",
+            "La gestión de residuos nucleares en alta mar."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DAI - Acuerdo de París",
+        "p": "A diferencia del Protocolo de Kioto, el Acuerdo de París (2015) utiliza un mecanismo de abajo hacia arriba ('bottom-up'). ¿En qué consiste?",
+        "o": [
+            "En la imposición de metas obligatorias fijadas por la ONU para todos los países.",
+            "En las Contribuciones Determinadas a Nivel Nacional (NDC), que son compromisos voluntarios y progresivos de cada Estado.",
+            "En la prohibición total de combustibles fósiles a nivel mundial.",
+            "En la transferencia de soberanía ambiental a una autoridad central de la ONU."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DAI - Biodiversidad",
+        "p": "El Convenio sobre la Diversidad Biológica (CDB) tiene tres objetivos fundamentales. ¿Cuáles son?",
+        "o": [
+            "Comercio, pesca y minería responsable.",
+            "Conservación de la biodiversidad, uso sostenible de sus componentes y participación justa y equitativa en los beneficios de los recursos genéticos.",
+            "Deforestación, caza deportiva y biotecnología aplicada.",
+            "Patentes de semillas, exportación de madera y protección de parques nacionales."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DAI - Derecho Consuetudinario",
+        "p": "¿Cómo se define el concepto de 'Evaluación de Impacto Ambiental' (EIA) en el Derecho Internacional Público?",
+        "o": [
+            "Una sugerencia académica sin relevancia jurídica.",
+            "Una obligación procesal de origen consuetudinario que requiere examinar los posibles efectos ambientales transfronterizos de una actividad antes de autorizarla.",
+            "Una medida que solo aplica para proyectos financiados por el Banco Mundial.",
+            "Un procedimiento interno que no compete a la diplomacia internacional."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DAI - Agenda 2030",
+        "p": "Los Objetivos de Desarrollo Sostenible (ODS) integran la dimensión ambiental. ¿Qué principio rige la relación entre desarrollo y medio ambiente?",
+        "o": [
+            "El desarrollo económico tiene prioridad absoluta sobre la conservación.",
+            "La sostenibilidad, integrando equitativamente los pilares económico, social y ambiental.",
+            "La conservación es incompatible con el crecimiento económico.",
+            "El desarrollo es un concepto que solo aplica a los países desarrollados."
+        ],
+        "r": 1
+    },
+    {
+        "c": "DAI - Principios Emergentes",
+        "p": "El Acuerdo de Escazú es un instrumento regional de gran relevancia para América Latina y el Caribe. ¿Cuál es su tema central?",
+        "o": [
+            "La reducción de emisiones de metano en la ganadería.",
+            "El acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.",
+            "La regulación de la explotación minera transfronteriza.",
+            "La creación de una fuerza de policía ambiental regional."
+        ],
+        "r": 1
+    }
 ]
