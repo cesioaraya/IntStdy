@@ -1,10 +1,31 @@
-<main id="quiz-area">
-    <p id="categoria">Cargando...</p>
-    <h2 id="pregunta">...</h2>
-    <div id="opciones">
-        </div>
-    <div id="feedback" style="margin-top: 20px; display: none;">
-        <p id="mensaje-resultado"></p>
-        <button onclick="siguientePregunta()">Siguiente pregunta</button>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Cancillería Pro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cancillería Quiz</h1>
+            <div id="stats">Preguntas respondidas: <span id="count">0</span></div>
+        </header>
+
+        <main id="quiz-area">
+            <p id="categoria">Cargando...</p>
+            <h2 id="pregunta">Cargando pregunta...</h2>
+            
+            <div id="opciones"></div>
+            
+            <div id="feedback" style="margin-top: 20px; display: none;">
+                <p id="mensaje-resultado"></p>
+                <button onclick="siguientePregunta()">Siguiente pregunta</button>
+            </div>
+        </main>
     </div>
-</main>
+    
+    <script src="script.js" defer></script>
+</body>
+</html>
