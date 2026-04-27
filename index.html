@@ -59,34 +59,52 @@
         }
     }
 
-    function mostrar() {
+   function mostrar() {
         const p = banco[indice];
         document.getElementById('cat').innerText = p.c + (pendientes.includes(indice) ? " (REFUERZO)" : "");
         document.getElementById('pregunta').innerText = p.p;
+        
+        // 1. Creamos una lista de objetos que contenga el texto y si es la correcta
+        let opcionesMezcladas = p.o.map((texto, i) => ({
+            texto: texto,
+            esCorrecta: (i === p.r)
+        }));
+
+        // 2. Mezclamos la lista (Algoritmo Fisher-Yates)
+        for (let i = opcionesMezcladas.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [opcionesMezcladas[i], opcionesMezcladas[j]] = [opcionesMezcladas[j], opcionesMezcladas[i]];
+        }
+
         const div = document.getElementById('opciones');
         div.innerHTML = '';
         
-        p.o.forEach((op, i) => {
+        // 3. Renderizamos los botones basándonos en la lista mezclada
+        opcionesMezcladas.forEach((op) => {
             const btn = document.createElement('button');
-            btn.innerText = op;
+            btn.innerText = op.texto;
             btn.onclick = () => {
-                // Desactivar todos los botones inmediatamente
                 document.querySelectorAll('button').forEach(b => b.disabled = true);
                 
                 stats.total++;
-                if (i === p.r) {
+                if (op.esCorrecta) {
                     btn.classList.add('correct');
                     stats.aciertos++;
                     if (pendientes.includes(indice)) pendientes = pendientes.filter(id => id !== indice);
                 } else {
                     btn.classList.add('incorrect');
-                    document.querySelectorAll('button')[p.r].classList.add('correct'); // Resalta la correcta
+                    // Buscamos y resaltamos la opción que sí era correcta
+                    Array.from(div.children).forEach(b => {
+                        // Verificamos cuál botón corresponde a la respuesta correcta
+                        const index = opcionesMezcladas.findIndex(o => o.texto === b.innerText);
+                        if (opcionesMezcladas[index].esCorrecta) b.classList.add('correct');
+                    });
+                    
                     if (!pendientes.includes(indice)) pendientes.push(indice);
                 }
                 
                 actualizarStats();
                 
-                // Esperar 1 segundo para mostrar el resultado antes de pasar a la siguiente
                 setTimeout(() => {
                     seleccionarSiguiente();
                     mostrar();
