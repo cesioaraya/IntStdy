@@ -1,12 +1,14 @@
 [
     {
-        "p": "¿Qué norma regula la carrera diplomática?",
-        "r": "Decreto Ley 274 de 2000.",
-        "c": "Carrera Diplomática"
+        "p": "¿Qué artículo de la Constitución Política de Colombia otorga al Presidente la facultad de dirigir las relaciones internacionales?",
+        "o": ["Artículo 188", "Artículo 189", "Artículo 190", "Artículo 191"],
+        "r": 1, 
+        "c": "Constitución"
     },
     {
-        "p": "¿Qué artículo de la Constitución trata la dirección de relaciones exteriores?",
-        "r": "Artículo 189, numeral 2.",
-        "c": "Constitución"
+        "p": "¿Cuál es el rango de ingreso a la Carrera Diplomática y Consular de Colombia?",
+        "o": ["Embajador", "Ministro Plenipotenciario", "Consejero", "Tercer Secretario"],
+        "r": 3,
+        "c": "Decreto 274"
     }
 ]
