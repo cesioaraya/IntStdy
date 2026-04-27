@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Cancillería Pro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cancillería Quiz</h1>
+            <div id="stats">Preguntas respondidas: <span id="count">0</span></div>
+        </header>
+
+        <main id="quiz-area">
+            <p id="categoria">Cargando...</p>
+            <h2 id="pregunta">...</h2>
+            <button id="btn-show" onclick="mostrarRespuesta()">Ver Respuesta</button>
+            <div id="respuesta-container" style="display:none;">
+                <p id="respuesta"></p>
+                <div class="actions">
+                    <button onclick="registrarResultado(true)">✅ Conocida</button>
+                    <button onclick="registrarResultado(false)">❌ Difícil</button>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
