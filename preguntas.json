@@ -1550,333 +1550,166 @@
         "p": "¿Qué es la Zona Económica Exclusiva (ZEE)?",
         "o": ["Un área de 12 millas de soberanía absoluta", "Un área hasta las 200 millas donde el Estado tiene derechos de exploración y explotación de recursos", "El lecho marino de los océanos profundos", "Una zona donde no rigen las leyes nacionales"],
         "r": 1
+    },{
+        "c": "Estado Colombiano",
+        "p": "¿Cuál es la principal función constitucional del Consejo de Estado en Colombia?",
+        "o": ["Ejercer control fiscal sobre el gasto público", "Actuar como máximo tribunal de lo contencioso administrativo", "Investigar disciplinariamente a los funcionarios públicos", "Dirigir la política exterior colombiana"],
+        "r": 1
     },
-            # =========================
-        # ESTADO COLOMBIANO
-        # =========================
-        
-        {
-            "question": "¿Cuál es la principal función constitucional del Consejo de Estado en Colombia?",
-            "options": [
-                "Ejercer control fiscal sobre el gasto público",
-                "Actuar como máximo tribunal de lo contencioso administrativo",
-                "Investigar disciplinariamente a los funcionarios públicos",
-                "Dirigir la política exterior colombiana"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "¿Qué mecanismo constitucional protege de forma inmediata los derechos fundamentales en Colombia?",
-            "options": [
-                "Acción popular",
-                "Acción de grupo",
-                "Acción de tutela",
-                "Acción de cumplimiento"
-            ],
-            "answer": 2
-        },
-        
-        {
-            "question": "El bloque de constitucionalidad en Colombia incorpora principalmente:",
-            "options": [
-                "Normas tributarias internacionales",
-                "Tratados de libre comercio",
-                "Normas y tratados de derechos humanos",
-                "Decretos presidenciales"
-            ],
-            "answer": 2
-        },
-        
-        {
-            "question": "¿Cuál de los siguientes órganos es autónomo e independiente en Colombia?",
-            "options": [
-                "Ministerio del Interior",
-                "Banco de la República",
-                "Consejo de Ministros",
-                "Superintendencia de Industria"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La Procuraduría General de la Nación tiene como función principal:",
-            "options": [
-                "Controlar la política monetaria",
-                "Ejercer control disciplinario sobre funcionarios públicos",
-                "Administrar justicia penal",
-                "Dirigir las fuerzas militares"
-            ],
-            "answer": 1
-        },
-        
-        # =========================
-        # HISTORIA CONTEMPORÁNEA
-        # =========================
-        
-        {
-            "question": "El Frente Nacional en Colombia tuvo como propósito principal:",
-            "options": [
-                "Implementar el socialismo democrático",
-                "Alternar el poder entre liberales y conservadores",
-                "Eliminar los partidos políticos tradicionales",
-                "Crear un sistema federal"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La Constitución Política de 1991 se caracterizó por:",
-            "options": [
-                "Centralizar completamente el poder político",
-                "Eliminar la acción de tutela",
-                "Ampliar derechos fundamentales y participación ciudadana",
-                "Prohibir la descentralización administrativa"
-            ],
-            "answer": 2
-        },
-        
-        {
-            "question": "La apertura económica de los años noventa en Colombia estuvo asociada principalmente con:",
-            "options": [
-                "El cierre de importaciones",
-                "La reducción del comercio internacional",
-                "La liberalización comercial y arancelaria",
-                "La eliminación de exportaciones"
-            ],
-            "answer": 2
-        },
-        
-        # =========================
-        # DERECHO DEL MAR
-        # =========================
-        
-        {
-            "question": "La Zona Económica Exclusiva otorga al Estado ribereño derechos sobre:",
-            "options": [
-                "La libre navegación militar extranjera",
-                "La explotación de recursos naturales",
-                "La soberanía total sobre aguas internacionales",
-                "La regulación del espacio aéreo global"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "El paso inocente en derecho del mar se refiere a:",
-            "options": [
-                "La explotación pesquera extranjera",
-                "El tránsito pacífico por el mar territorial",
-                "La ocupación temporal de islas",
-                "La exploración minera submarina"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La plataforma continental permite al Estado ejercer derechos sobre:",
-            "options": [
-                "Recursos del subsuelo marino",
-                "Rutas comerciales terrestres",
-                "Espacio ultraterrestre",
-                "Pesca artesanal extranjera"
-            ],
-            "answer": 0
-        },
-        
-        # =========================
-        # ECONOMÍA INTERNACIONAL
-        # =========================
-        
-        {
-            "question": "Las remesas enviadas por migrantes se registran en la balanza de pagos como:",
-            "options": [
-                "Inversión extranjera directa",
-                "Cuenta corriente",
-                "Reservas internacionales",
-                "Cuenta financiera pública"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La inflación importada ocurre cuando:",
-            "options": [
-                "Disminuyen las exportaciones",
-                "Aumentan los precios internacionales de bienes importados",
-                "Se reducen las tasas de interés",
-                "Incrementa el desempleo interno"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "El Fondo Monetario Internacional tiene como función principal:",
-            "options": [
-                "Financiar patrimonio cultural",
-                "Regular conflictos armados",
-                "Promover estabilidad financiera internacional",
-                "Administrar tratados ambientales"
-            ],
-            "answer": 2
-        },
-        
-        {
-            "question": "¿Qué institución se enfoca principalmente en financiamiento para desarrollo y reducción de pobreza?",
-            "options": [
-                "OTAN",
-                "Banco Mundial",
-                "OEA",
-                "Interpol"
-            ],
-            "answer": 1
-        },
-        
-        # =========================
-        # ORGANISMOS INTERNACIONALES
-        # =========================
-        
-        {
-            "question": "La UNESCO tiene como objetivo principal:",
-            "options": [
-                "Coordinar operaciones militares",
-                "Promover educación, ciencia y cultura",
-                "Regular comercio internacional",
-                "Administrar deuda externa"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La Organización Internacional del Trabajo se especializa en:",
-            "options": [
-                "Regulación financiera global",
-                "Derechos laborales y condiciones de trabajo",
-                "Protección militar regional",
-                "Migración marítima"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La OMS es una agencia especializada de la ONU encargada de:",
-            "options": [
-                "Regular comercio agrícola",
-                "Coordinar cooperación sanitaria internacional",
-                "Supervisar conflictos diplomáticos",
-                "Administrar tratados energéticos"
-            ],
-            "answer": 1
-        },
-        
-        # =========================
-        # PATRIMONIO Y DIVERSIDAD
-        # =========================
-        
-        {
-            "question": "La consulta previa en Colombia busca proteger principalmente:",
-            "options": [
-                "Los intereses empresariales extranjeros",
-                "Los derechos de comunidades étnicas",
-                "Las políticas tributarias",
-                "La autonomía presidencial"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La Convención de la UNESCO de 1972 se relaciona con:",
-            "options": [
-                "Protección del patrimonio cultural y natural",
-                "Control de armas nucleares",
-                "Migración internacional",
-                "Comercio marítimo"
-            ],
-            "answer": 0
-        },
-        
-        {
-            "question": "El patrimonio cultural inmaterial incluye:",
-            "options": [
-                "Infraestructura portuaria",
-                "Tradiciones, saberes y expresiones culturales",
-                "Reservas de hidrocarburos",
-                "Fronteras marítimas"
-            ],
-            "answer": 1
-        },
-        
-        # =========================
-        # TRANSICIÓN ENERGÉTICA
-        # =========================
-        
-        {
-            "question": "El hidrógeno verde se produce principalmente mediante:",
-            "options": [
-                "Combustión de carbón",
-                "Energía nuclear militar",
-                "Electrólisis usando energías renovables",
-                "Refinación petrolera"
-            ],
-            "answer": 2
-        },
-        
-        {
-            "question": "La transición energética busca principalmente:",
-            "options": [
-                "Incrementar dependencia fósil",
-                "Reducir emisiones de gases de efecto invernadero",
-                "Eliminar energías renovables",
-                "Expandir exclusivamente el carbón"
-            ],
-            "answer": 1
-        },
-        
-        # =========================
-        # TEORÍA DE RRII
-        # =========================
-        
-        {
-            "question": "El realismo en relaciones internacionales considera que el actor principal del sistema internacional es:",
-            "options": [
-                "Las ONG",
-                "Las empresas multinacionales",
-                "El Estado",
-                "La sociedad civil global"
-            ],
-            "answer": 2
-        },
-        
-        {
-            "question": "El concepto de soft power fue desarrollado principalmente por:",
-            "options": [
-                "Hans Morgenthau",
-                "Joseph Nye",
-                "Kenneth Waltz",
-                "Samuel Huntington"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "La interdependencia compleja sostiene que:",
-            "options": [
-                "Las relaciones internacionales dependen únicamente del poder militar",
-                "Existen múltiples canales de relación entre los Estados",
-                "La guerra es inevitable",
-                "Las organizaciones internacionales carecen de importancia"
-            ],
-            "answer": 1
-        },
-        
-        {
-            "question": "El mundo multipolar se caracteriza por:",
-            "options": [
-                "La existencia de un único centro de poder",
-                "La desaparición de los Estados",
-                "La distribución del poder entre múltiples actores relevantes",
-                "La hegemonía absoluta de la ONU"
-            ],
-            "answer": 2
-        },
+    {
+        "c": "Estado Colombiano",
+        "p": "¿Qué mecanismo constitucional protege de forma inmediata los derechos fundamentales en Colombia?",
+        "o": ["Acción popular", "Acción de grupo", "Acción de tutela", "Acción de cumplimiento"],
+        "r": 2
+    },
+    {
+        "c": "Estado Colombiano",
+        "p": "El bloque de constitucionalidad en Colombia incorpora principalmente:",
+        "o": ["Normas tributarias internacionales", "Tratados de libre comercio", "Normas y tratados de derechos humanos", "Decretos presidenciales"],
+        "r": 2
+    },
+    {
+        "c": "Estado Colombiano",
+        "p": "¿Cuál de los siguientes órganos es autónomo e independiente en Colombia?",
+        "o": ["Ministerio del Interior", "Banco de la República", "Consejo de Ministros", "Superintendencia de Industria"],
+        "r": 1
+    },
+    {
+        "c": "Estado Colombiano",
+        "p": "La Procuraduría General de la Nación tiene como función principal:",
+        "o": ["Controlar la política monetaria", "Ejercer control disciplinario sobre funcionarios públicos", "Administrar justicia penal", "Dirigir las fuerzas militares"],
+        "r": 1
+    },
+    {
+        "c": "Historia Contemporánea",
+        "p": "El Frente Nacional en Colombia tuvo como propósito principal:",
+        "o": ["Implementar el socialismo democrático", "Alternar el poder entre liberales y conservadores", "Eliminar los partidos políticos tradicionales", "Crear un sistema federal"],
+        "r": 1
+    },
+    {
+        "c": "Historia Contemporánea",
+        "p": "La Constitución Política de 1991 se caracterizó por:",
+        "o": ["Centralizar completamente el poder político", "Eliminar la acción de tutela", "Ampliar derechos fundamentales y participación ciudadana", "Prohibir la descentralización administrativa"],
+        "r": 2
+    },
+    {
+        "c": "Historia Contemporánea",
+        "p": "La apertura económica de los años noventa en Colombia estuvo asociada principalmente con:",
+        "o": ["El cierre de importaciones", "La reducción del comercio internacional", "La liberalización comercial y arancelaria", "La eliminación de exportaciones"],
+        "r": 2
+    },
+    {
+        "c": "Derecho del Mar",
+        "p": "La Zona Económica Exclusiva otorga al Estado ribereño derechos sobre:",
+        "o": ["La libre navegación militar extranjera", "La explotación de recursos naturales", "La soberanía total sobre aguas internacionales", "La regulación del espacio aéreo global"],
+        "r": 1
+    },
+    {
+        "c": "Derecho del Mar",
+        "p": "El paso inocente en derecho del mar se refiere a:",
+        "o": ["La explotación pesquera extranjera", "El tránsito pacífico por el mar territorial", "La ocupación temporal de islas", "La exploración minera submarina"],
+        "r": 1
+    },
+    {
+        "c": "Derecho del Mar",
+        "p": "La plataforma continental permite al Estado ejercer derechos sobre:",
+        "o": ["Recursos del subsuelo marino", "Rutas comerciales terrestres", "Espacio ultraterrestre", "Pesca artesanal extranjera"],
+        "r": 0
+    },
+    {
+        "c": "Economía Internacional",
+        "p": "Las remesas enviadas por migrantes se registran en la balanza de pagos como:",
+        "o": ["Inversión extranjera directa", "Cuenta corriente", "Reservas internacionales", "Cuenta financiera pública"],
+        "r": 1
+    },
+    {
+        "c": "Economía Internacional",
+        "p": "La inflación importada ocurre cuando:",
+        "o": ["Disminuyen las exportaciones", "Aumentan los precios internacionales de bienes importados", "Se reducen las tasas de interés", "Incrementa el desempleo interno"],
+        "r": 1
+    },
+    {
+        "c": "Economía Internacional",
+        "p": "El Fondo Monetario Internacional tiene como función principal:",
+        "o": ["Financiar patrimonio cultural", "Regular conflictos armados", "Promover estabilidad financiera internacional", "Administrar tratados ambientales"],
+        "r": 2
+    },
+    {
+        "c": "Economía Internacional",
+        "p": "¿Qué institución se enfoca principalmente en financiamiento para desarrollo y reducción de pobreza?",
+        "o": ["OTAN", "Banco Mundial", "OEA", "Interpol"],
+        "r": 1
+    },
+    {
+        "c": "Organismos Internacionales",
+        "p": "La UNESCO tiene como objetivo principal:",
+        "o": ["Coordinar operaciones militares", "Promover educación, ciencia y cultura", "Regular comercio internacional", "Administrar deuda externa"],
+        "r": 1
+    },
+    {
+        "c": "Organismos Internacionales",
+        "p": "La Organización Internacional del Trabajo se especializa en:",
+        "o": ["Regulación financiera global", "Derechos laborales y condiciones de trabajo", "Protección militar regional", "Migración marítima"],
+        "r": 1
+    },
+    {
+        "c": "Organismos Internacionales",
+        "p": "La OMS es una agencia especializada de la ONU encargada de:",
+        "o": ["Regular comercio agrícola", "Coordinar cooperación sanitaria internacional", "Supervisar conflictos diplomáticos", "Administrar tratados energéticos"],
+        "r": 1
+    },
+    {
+        "c": "Patrimonio y Diversidad",
+        "p": "La consulta previa en Colombia busca proteger principalmente:",
+        "o": ["Los intereses empresariales extranjeros", "Los derechos de comunidades étnicas", "Las políticas tributarias", "La autonomía presidencial"],
+        "r": 1
+    },
+    {
+        "c": "Patrimonio y Diversidad",
+        "p": "La Convención de la UNESCO de 1972 se relaciona con:",
+        "o": ["Protección del patrimonio cultural y natural", "Control de armas nucleares", "Migración internacional", "Comercio marítimo"],
+        "r": 0
+    },
+    {
+        "c": "Patrimonio y Diversidad",
+        "p": "El patrimonio cultural inmaterial incluye:",
+        "o": ["Infraestructura portuaria", "Tradiciones, saberes y expresiones culturales", "Reservas de hidrocarburos", "Fronteras marítimas"],
+        "r": 1
+    },
+    {
+        "c": "Transición Energética",
+        "p": "El hidrógeno verde se produce principalmente mediante:",
+        "o": ["Combustión de carbón", "Energía nuclear militar", "Electrólisis usando energías renovables", "Refinación petrolera"],
+        "r": 2
+    },
+    {
+        "c": "Transición Energética",
+        "p": "La transición energética busca principalmente:",
+        "o": ["Incrementar dependencia fósil", "Reducir emisiones de gases de efecto invernadero", "Eliminar energías renovables", "Expandir exclusivamente el carbón"],
+        "r": 1
+    },
+    {
+        "c": "Teoría de RRII",
+        "p": "El realismo en relaciones internacionales considera que el Estado es el actor principal:",
+        "o": ["Las ONG", "Las empresas multinacionales", "El Estado", "La sociedad civil global"],
+        "r": 2
+    },
+    {
+        "c": "Teoría de RRII",
+        "p": "El concepto de soft power fue desarrollado principalmente por:",
+        "o": ["Hans Morgenthau", "Joseph Nye", "Kenneth Waltz", "Samuel Huntington"],
+        "r": 1
+    },
+    {
+        "c": "Teoría de RRII",
+        "p": "La interdependencia compleja sostiene que:",
+        "o": ["Las relaciones internacionales dependen únicamente del poder militar", "Existen múltiples canales de relación entre los Estados", "La guerra es inevitable", "Las organizaciones internacionales carecen de importancia"],
+        "r": 1
+    },
+    {
+        "c": "Teoría de RRII",
+        "p": "El mundo multipolar se caracteriza por:",
+        "o": ["La existencia de un único centro de poder", "La desaparición de los Estados", "La distribución del poder entre múltiples actores relevantes", "La hegemonía absoluta de la ONU"],
+        "r": 2
+    }
 ]
