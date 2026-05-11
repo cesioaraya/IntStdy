@@ -1461,4 +1461,94 @@
         "o": ["La adopción de leyes laborales y ambientales idénticas a las de los Estados Unidos.", "La garantía de aplicación efectiva de sus propias leyes laborales y ambientales nacionales para evitar ventajas competitivas desleales.", "La creación de una corte transnacional con jurisdicción sobre todos los conflictos laborales."],
         "r": 1
     }
+    {
+        "c": "Derecho del Mar",
+        "p": "¿Cuál es la anchura máxima del Mar Territorial establecida por la CONVEMAR?",
+        "o": ["12 millas náuticas", "24 millas náuticas", "200 millas náuticas", "10 millas náuticas"],
+        "r": 0
+    },
+    {
+        "c": "Geopolítica - Coyuntura",
+        "p": "¿Qué grupo de países emergentes invitó formalmente a nuevos miembros (como Egipto, Etiopía e Irán) a unirse al bloque en 2024?",
+        "o": ["G7", "OCDE", "BRICS", "MINT"],
+        "r": 2
+    },
+    {
+        "c": "Administración Pública",
+        "p": "Según el Decreto 1067 de 2015, ¿cuál es el objetivo principal del Sector Administrativo de Relaciones Exteriores?",
+        "o": ["Gestionar únicamente los pasaportes", "Formular, planear y ejecutar la política exterior de Colombia", "Controlar las aduanas nacionales", "Regular el comercio exterior exclusivamente"],
+        "r": 1
+    },
+    {
+        "c": "Derecho Internacional Humanitario",
+        "p": "Los Convenios de Ginebra de 1949 se centran principalmente en:",
+        "o": ["La protección de las víctimas de los conflictos armados", "La prohibición de armas químicas", "La regulación del comercio de armas", "El derecho al asilo político"],
+        "r": 0
+    },
+    {
+        "c": "Historia Diplomática de Colombia",
+        "p": "¿Quién fue el diplomático colombiano que presidió la Conferencia de San Francisco y firmó la Carta de la ONU en 1945?",
+        "o": ["Alberto Lleras Camargo", "Alfonso López Michelsen", "Gabriel Turbay", "Eduardo Santos"],
+        "r": 0
+    },
+    {
+        "c": "Protocolo y Etiqueta",
+        "p": "En el orden de precedencia diplomática, según la Convención de Viena de 1961, ¿qué criterio determina generalmente la prioridad entre jefes de misión de la misma clase?",
+        "o": ["La edad del embajador", "El orden alfabético de los países", "La fecha y hora de presentación de credenciales", "El poder económico del Estado que representan"],
+        "r": 2
+    },
+    {
+        "c": "Geografía y Límites",
+        "p": "¿Con cuál de estos países Colombia NO tiene frontera marítima en el Mar Caribe?",
+        "o": ["Jamaica", "Haití", "Costa Rica", "Guatemala"],
+        "r": 3
+    },
+    {
+        "c": "Organismos Internacionales",
+        "p": "¿Cuál es el órgano principal de la ONU encargado de mantener la paz y seguridad internacionales, con capacidad de emitir resoluciones vinculantes?",
+        "o": ["La Asamblea General", "El Consejo de Seguridad", "La Corte Internacional de Justicia", "El ECOSOC"],
+        "r": 1
+    },
+    {
+        "c": "Política Exterior - Migración",
+        "p": "¿Qué nombre recibe el mecanismo colombiano que otorga estatus migratorio regular por 10 años a los ciudadanos venezolanos?",
+        "o": ["Visa de Residente", "Estatuto Temporal de Protección (ETPV)", "Permiso Especial de Permanencia (PEP)", "Cédula de Extranjería Automática"],
+        "r": 1
+    },
+    {
+        "c": "Derecho de los Tratados",
+        "p": "Según la Convención de Viena de 1969, una 'Reserva' es:",
+        "o": ["Un anexo secreto del tratado", "Una declaración para excluir o modificar el efecto jurídico de ciertas disposiciones del tratado", "Una prórroga para la firma del documento", "El acto de cancelar el tratado unilateralmente"],
+        "r": 1
+    },
+    {
+        "c": "Corte Penal Internacional",
+        "p": "¿Cuál de los siguientes crímenes NO es competencia de la Corte Penal Internacional (Estatuto de Roma)?",
+        "o": ["Genocidio", "Crímenes de Lesa Humanidad", "Narcotráfico internacional", "Crimen de Agresión"],
+        "r": 2
+    },
+    {
+        "c": "Asuntos Consulares",
+        "p": "La 'Asistencia Consular' incluye, entre otros, el derecho del nacional detenido a:",
+        "o": ["Que el cónsul lo declare inocente", "Que el cónsul pague su fianza con fondos públicos", "Que se notifique a su consulado sobre su detención sin demora", "Recibir un pasaporte diplomático para salir del país"],
+        "r": 2
+    },
+    {
+        "c": "Teoría de RRII",
+        "p": "En la teoría realista, ¿cuál es el actor principal del sistema internacional?",
+        "o": ["Las empresas multinacionales", "Las organizaciones no gubernamentales", "El Estado", "El individuo"],
+        "r": 2
+    },
+    {
+        "c": "Economía Internacional",
+        "p": "¿Qué institución tiene como función principal vigilar la estabilidad del sistema monetario internacional y las tasas de cambio?",
+        "o": ["Banco Mundial", "Fondo Monetario Internacional (FMI)", "BPI (Banco de Pagos Internacionales)", "OMC"],
+        "r": 1
+    },
+    {
+        "c": "Derecho del Mar",
+        "p": "¿Qué es la Zona Económica Exclusiva (ZEE)?",
+        "o": ["Un área de 12 millas de soberanía absoluta", "Un área hasta las 200 millas donde el Estado tiene derechos de exploración y explotación de recursos", "El lecho marino de los océanos profundos", "Una zona donde no rigen las leyes nacionales"],
+        "r": 1
+    }
 ]
