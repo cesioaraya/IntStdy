@@ -7,27 +7,40 @@
     <style>
         * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f4f4f9; margin: 0; padding: 15px; display: flex; justify-content: center; }
-        .card { background: white; padding: 20px; border-radius: 15px; width: 100%; max-width: 500px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .card { background: white; padding: 20px; border-radius: 15px; width: 100%; max-width: 500px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; }
         .stats-bar { background: #004a99; color: white; padding: 12px; border-radius: 10px; text-align: center; margin-bottom: 20px; font-weight: bold; font-size: 0.9em; }
         .cat { color: #555; font-size: 0.75em; text-transform: uppercase; margin-bottom: 8px; font-weight: bold; }
         h2 { color: #333; font-size: 1.2rem; margin-top: 0; margin-bottom: 20px; line-height: 1.4; }
         
-        button { 
+        /* Contenedor de opciones para no alterar otros botones */
+        .opcion-btn { 
             display: block; width: 100%; margin: 12px 0; padding: 18px; 
             border: 2px solid #004a99; border-radius: 10px; cursor: pointer; 
             background: white; color: #004a99; font-weight: bold; font-size: 1rem;
             transition: transform 0.1s, background 0.2s;
             touch-action: manipulation;
+            text-align: left;
         }
-        button:active { transform: scale(0.98); }
-        button:disabled { cursor: default; opacity: 0.9; }
+        .opcion-btn:active { transform: scale(0.98); }
+        .opcion-btn:disabled { cursor: default; opacity: 0.9; }
         
         .correct { background-color: #28a745 !important; border-color: #28a745 !important; color: white !important; }
         .incorrect { background-color: #dc3545 !important; border-color: #dc3545 !important; color: white !important; }
         
+        /* Botón de navegación Siguiente estructurado con prioridad visual */
+        .next-btn {
+            display: none; width: 100%; margin: 20px 0 10px 0; padding: 18px;
+            background: #004a99; color: white; border: none; border-radius: 10px;
+            font-size: 1.1rem; font-weight: bold; cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0,74,153,0.2);
+            transition: background 0.2s;
+        }
+        .next-btn:hover { background: #003366; }
+
         .reset-btn { 
             background: #f8f9fa; color: #888; border: none; font-size: 0.8em; 
-            margin-top: 30px; padding: 10px; width: auto; margin-left: auto; margin-right: auto;
+            margin-top: 20px; padding: 10px; width: auto; margin-left: auto; margin-right: auto; cursor: pointer;
+            border-radius: 5px;
         }
     </style>
 </head>
@@ -38,6 +51,9 @@
     <div id="cat" class="cat">Cargando...</div>
     <h2 id="pregunta">Cargando...</h2>
     <div id="opciones"></div>
+    
+    <button id="btn-siguiente" class="next-btn" onclick="avanzarFlujo()">Continuar Siguiente →</button>
+    
     <button class="reset-btn" onclick="resetApp()">Reiniciar progreso</button>
 </div>
 
@@ -73,6 +89,9 @@
     }
 
     function mostrar() {
+        // Ocultar botón de continuar al renderizar nueva pregunta
+        document.getElementById('btn-siguiente').style.display = 'none';
+        
         const p = banco[indice];
         document.getElementById('cat').innerText = p.c + (pendientes.includes(indice) ? " (REFUERZO)" : "");
         document.getElementById('pregunta').innerText = p.p;
@@ -88,10 +107,13 @@
         
         opcionesMezcladas.forEach((op) => {
             const btn = document.createElement('button');
+            btn.className = 'opcion-btn';
             btn.innerText = op.texto;
             btn.onclick = () => {
-                document.querySelectorAll('button').forEach(b => b.disabled = true);
+                // Desactivar únicamente los botones de opciones
+                document.querySelectorAll('.opcion-btn').forEach(b => b.disabled = true);
                 stats.total++;
+                
                 if (op.esCorrecta) {
                     btn.classList.add('correct');
                     stats.aciertos++;
@@ -105,10 +127,17 @@
                     if (!pendientes.includes(indice)) pendientes.push(indice);
                 }
                 actualizarStats();
-                setTimeout(() => { seleccionarSiguiente(); mostrar(); }, 1000);
+                
+                // Hacer visible el botón para que controles tu tiempo de lectura analítica
+                document.getElementById('btn-siguiente').style.display = 'block';
             };
             div.appendChild(btn);
         });
+    }
+
+    function avanzarFlujo() {
+        seleccionarSiguiente();
+        mostrar();
     }
 
     function resetApp() {
