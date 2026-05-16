@@ -800,1071 +800,1445 @@
     "r": 1
   },
     {
-        "c": "MERCOSUR - Solución de Controversias",
-        "p": "El Protocolo de Olivos es el instrumento vigente para la solución de controversias en el bloque. ¿Cuál es la instancia jurisdiccional permanente prevista en este sistema?",
-        "o": [
-            "El Tribunal de Justicia de la Unión Sudamericana.",
-            "El Tribunal Permanente de Revisión (TPR).",
-            "La Corte Internacional de Justicia de La Haya.",
-            "El Consejo de Arbitraje Ad Hoc permanente."
-        ],
-        "r": 1
-    },
-    {
-        "c": "MERCOSUR - Relaciones Externas",
-        "p": "Debido a su naturaleza de Unión Aduanera, ¿qué restricción formal enfrentan los Estados Partes del MERCOSUR al momento de negociar acuerdos comerciales con terceros países?",
-        "o": [
-            "Pueden negociar individualmente, pero deben notificar a los demás miembros seis meses antes.",
-            "Deben negociar de manera conjunta o en bloque, manteniendo la coherencia del Arancel Externo Común.",
-            "Tienen prohibido negociar cualquier tipo de acuerdo comercial fuera de la región.",
-            "Pueden negociar libremente siempre que no incluyan productos agrícolas."
-        ],
-        "r": 1
-    },
-    {
-        "c": "MERCOSUR - Estados Asociados",
-        "p": "Países como Colombia, Chile, Perú y Ecuador participan en el MERCOSUR bajo una categoría jurídica específica. ¿Cuál es esa categoría?",
-        "o": [
-            "Miembros observadores sin derecho a voz.",
-            "Estados Asociados.",
-            "Miembros Plenos con voto condicionado.",
-            "Estados Cooperantes sin tratados comerciales."
-        ],
-        "r": 1
-    },
-    {
-        "c": "MERCOSUR - Cláusula Democrática",
-        "p": "Ante una ruptura del orden democrático en un Estado Parte, el MERCOSUR cuenta con un instrumento jurídico para suspender los derechos del Estado afectado. ¿Cómo se denomina?",
-        "o": [
-            "Protocolo de Ushuaia sobre Compromiso Democrático.",
-            "Cláusula de Salvaguardia de la Carta Democrática.",
-            "Decisión 01/91 de Asunción.",
-            "Convenio de Defensa de la Integridad Institucional."
-        ],
-        "r": 0
-    },
-    {
-        "c": "MERCOSUR - Desafíos Actuales",
-        "p": "Uno de los debates recurrentes en la agenda actual del MERCOSUR es la propuesta de 'flexibilización'. ¿Qué busca esta postura principalmente?",
-        "o": [
-            "La disolución del bloque para priorizar tratados bilaterales.",
-            "La posibilidad de que los Estados Partes puedan negociar tratados de libre comercio con terceros países de manera individual o a distintas velocidades.",
-            "La eliminación de la necesidad de consenso para todas las decisiones políticas.",
-            "La creación de una fuerza de seguridad regional bajo mando único."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Naturaleza Jurídica",
-        "p": "La CELAC se distingue de la OEA principalmente por su composición y alcance. ¿Cuál es la diferencia fundamental en cuanto a sus miembros?",
-        "o": [
-            "La CELAC incluye a Estados Unidos y Canadá, mientras que la OEA los excluye.",
-            "La CELAC está integrada exclusivamente por los 33 países de América Latina y el Caribe, excluyendo a Estados Unidos y Canadá.",
-            "La CELAC es una unión aduanera que excluye a los países del Caribe.",
-            "La CELAC es una organización militar que reemplazó a la Junta Interamericana de Defensa."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Objetivos Estratégicos",
-        "p": "¿Cuál es el objetivo principal de la CELAC como mecanismo de concertación regional?",
-        "o": [
-            "Establecer una moneda única para toda la región antes de 2030.",
-            "Promover la integración política, la concertación de intereses y la cooperación regional en temas globales con una voz unificada.",
-            "Eliminar todas las fronteras territoriales entre los países miembros.",
-            "Crear una zona de libre comercio que obligue a todos los miembros a eliminar aranceles."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Origen",
-        "p": "¿En qué año y contexto histórico se formalizó la creación de la CELAC como mecanismo de integración?",
-        "o": [
-            "En 1948, durante la Conferencia de Bogotá.",
-            "En 2011, durante la Cumbre de Caracas, consolidando la voluntad de unidad expresada en cumbres previas (CALC y Grupo de Río).",
-            "En 1991, junto con la creación del MERCOSUR.",
-            "En 1969, con la firma del Acuerdo de Cartagena."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Institucionalidad",
-        "p": "A diferencia de la CAN o el MERCOSUR, la CELAC se caracteriza por un diseño institucional específico. ¿Cómo se define su estructura?",
-        "o": [
-            "Es un organismo supranacional con un parlamento de elección directa y jueces permanentes.",
-            "Es un mecanismo de carácter intergubernamental, flexible, sin una burocracia supranacional permanente ni sede fija, que basa su toma de decisiones en el consenso.",
-            "Es una secretaría general con facultades para imponer sanciones comerciales a los miembros.",
-            "Es un foro de expertos técnicos sin ninguna capacidad de decisión política."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Gestión",
-        "p": "¿Cómo se coordina la dirección política y operativa de la CELAC?",
-        "o": [
-            "A través de un Secretario General elegido de forma vitalicia.",
-            "Mediante una Presidencia Pro Tempore que rota anualmente entre los Estados miembros.",
-            "Por decisión de los países con mayor Producto Interno Bruto de la región.",
-            "Por votación de mayoría simple en el Parlamento Andino."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Diplomacia Regional",
-        "p": "Una de las funciones más relevantes de la CELAC en la política exterior es:",
-        "o": [
-            "La negociación de tratados bilaterales de inversión en representación de cada país miembro.",
-            "La interlocución con otros bloques y potencias extrarregionales (como la Unión Europea o China) para presentar una agenda regional coordinada.",
-            "La supervisión de los procesos electorales internos de todos los países miembros.",
-            "La gestión de la deuda externa soberana de sus miembros ante el FMI."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Alcance Temático",
-        "p": "La agenda de la CELAC abarca diversos temas. ¿Qué área ha sido históricamente prioritaria para el bloque desde su creación?",
-        "o": [
-            "La creación de una alianza de defensa mutua contra ataques externos.",
-            "La cooperación en desarrollo social, seguridad alimentaria, reducción de desigualdades y crisis climática.",
-            "La privatización de todos los recursos naturales de los Estados miembros.",
-            "La adopción de un sistema de leyes penales unificado para toda la región."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CELAC - Relación con otros mecanismos",
-        "p": "Dado el 'hiper-regionalismo' latinoamericano, ¿cómo convive la CELAC con otros mecanismos como la CAN o el MERCOSUR?",
-        "o": [
-            "La CELAC absorbió y disolvió a todos los demás mecanismos comerciales.",
-            "La CELAC actúa como un foro de diálogo político de alto nivel que complementa a los mecanismos de integración económica y técnica preexistentes.",
-            "La CELAC prohíbe a sus miembros pertenecer a otros bloques regionales.",
-            "La CELAC es simplemente el nombre actual de la OEA."
-        ],
-        "r": 1
-    },
-    {
-        "c": "ONU - Carta de las Naciones Unidas",
-        "p": "La Carta de las Naciones Unidas es el tratado internacional fundador. Desde el punto de vista del Derecho Internacional, ¿cuál es la característica jurídica más relevante de este documento?",
-        "o": [
-            "Es una norma de carácter declarativo sin fuerza vinculante para los Estados miembros.",
-            "Establece una jerarquía normativa, donde las obligaciones contenidas en la Carta prevalecen sobre cualquier otro tratado internacional (Art. 103).",
-            "Su cumplimiento es voluntario y depende exclusivamente de la voluntad política de las grandes potencias.",
-            "Fue redactada exclusivamente por los países vencedores de la Segunda Guerra Mundial sin derecho a adhesión de terceros países."
-        ],
-        "r": 1
-    },
-    {
-        "c": "ONU - Consejo de Seguridad",
-        "p": "El Consejo de Seguridad es el único órgano de la ONU con capacidad de tomar decisiones vinculantes para todos los miembros. ¿En qué consiste el 'poder de veto' de los miembros permanentes?",
-        "o": [
-            "La facultad de un solo miembro permanente (P5) para bloquear la adopción de cualquier resolución de fondo, independientemente del apoyo del resto de los miembros.",
-            "La potestad de vetar las decisiones tomadas por la Asamblea General en temas de presupuesto.",
-            "La capacidad de prohibir el ingreso de nuevos miembros a la organización de manera permanente.",
-            "El derecho a solicitar la expulsión inmediata de cualquier país que incumpla sus directrices."
-        ],
-        "r": 0
-    },
-    {
-        "c": "ONU - Corte Internacional de Justicia",
-        "p": "Existe a menudo confusión entre la Corte Internacional de Justicia (CIJ) y la Corte Penal Internacional (CPI). ¿Cuál es la diferencia fundamental en cuanto a su competencia?",
-        "o": [
-            "La CIJ juzga individuos, mientras que la CPI resuelve controversias entre Estados.",
-            "La CIJ es el principal órgano judicial de la ONU para resolver controversias entre Estados; la CPI es un tribunal independiente que juzga individuos por crímenes internacionales graves.",
-            "Ambas tienen la misma competencia y funciones, diferenciándose solo por su ubicación geográfica (La Haya y Ginebra).",
-            "La CIJ solo interviene en conflictos internos de países en desarrollo."
-        ],
-        "r": 1
-    },
-    {
-        "c": "ONU - Secretario General",
-        "p": "El cargo de Secretario General es, según la Carta, el 'más alto funcionario administrativo'. ¿Qué facultad específica del Artículo 99 refuerza su peso político?",
-        "o": [
-            "La facultad de emitir sentencias judiciales en casos de violación de Derechos Humanos.",
-            "La posibilidad de llamar la atención del Consejo de Seguridad sobre cualquier asunto que, a su juicio, pueda amenazar el mantenimiento de la paz y seguridad internacionales.",
-            "La capacidad de imponer sanciones económicas a Estados miembros unilateralmente.",
-            "El derecho a dirigir las fuerzas militares de los cascos azules sin necesidad de autorización del Consejo."
-        ],
-        "r": 1
-    },
-    {
-        "c": "ONU - Asamblea General",
-        "p": "A diferencia del Consejo de Seguridad, las resoluciones de la Asamblea General tienen un carácter jurídico particular. ¿Cuál es?",
-        "o": [
-            "Son leyes internacionales de aplicación directa y obligatoria para todos los Estados.",
-            "Tienen, por regla general, el valor de recomendaciones y no son vinculantes, aunque pueden constituir evidencia de derecho consuetudinario o 'soft law'.",
-            "Son vinculantes solo para los países desarrollados.",
-            "Requieren ratificación individual de cada Congreso nacional para tener validez alguna."
-        ],
-        "r": 1
-    },
-    {
-        "c": "ONU - Misiones de Paz",
-        "p": "Las Operaciones de Mantenimiento de la Paz (OMP), conocidas como 'Cascos Azules', se rigen por tres principios fundamentales. ¿Cuáles son?",
-        "o": [
-            "Imposición de la paz, uso ofensivo de la fuerza y soberanía absoluta.",
-            "Consentimiento de las partes, imparcialidad y no uso de la fuerza (salvo en defensa propia o del mandato).",
-            "Intervención humanitaria, apoyo a regímenes democráticos y libre comercio.",
-            "Financiamiento privado, mandato permanente e independencia del Consejo de Seguridad."
-        ],
-        "r": 1
-    },
-    {
-        "c": "ONU - Agenda 2030",
-        "p": "Los Objetivos de Desarrollo Sostenible (ODS) forman parte de la Agenda 2030. ¿Qué enfoque caracteriza a esta agenda frente a los anteriores Objetivos de Desarrollo del Milenio (ODM)?",
-        "o": [
-            "Es una agenda exclusivamente para países pobres, financiada solo por países ricos.",
-            "Es una agenda universal y multidimensional que integra el desarrollo económico, la inclusión social y la sostenibilidad ambiental.",
-            "Busca la eliminación de las fronteras nacionales para facilitar la migración masiva.",
-            "Es una agenda de carácter técnico-militar para la defensa regional."
-        ],
-        "r": 1
-    },
-    {
-        "c": "ONU - ECOSOC",
-        "p": "El Consejo Económico y Social (ECOSOC) es uno de los órganos principales de la ONU. ¿Cuál es su rol principal en el sistema?",
-        "o": [
-            "Coordinar el trabajo de las agencias especializadas y abordar los problemas económicos, sociales y ambientales de la agenda global.",
-            "Actuar como la instancia máxima de justicia para conflictos comerciales.",
-            "Gestionar exclusivamente los recursos financieros para las misiones militares.",
-            "Ejercer como órgano legislativo que dicta leyes para los países miembros."
-        ],
-        "r": 0
-    },
-    {
-        "c": "OEA - Marco Jurídico",
-        "p": "La OEA tiene su origen en la Carta de Bogotá de 1948. ¿Cuál es el estatus de este documento en el derecho internacional regional?",
-        "o": [
-            "Es un tratado de asistencia militar exclusivamente.",
-            "Es el instrumento fundamental que define los propósitos, principios y la estructura institucional de la organización.",
-            "Es una resolución de la Asamblea General sin carácter vinculante para los Estados.",
-            "Es un acuerdo comercial que regula las tarifas arancelarias entre América y Europa."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OEA - Carta Democrática",
-        "p": "Adoptada en 2001, la Carta Democrática Interamericana es un hito de la OEA. ¿Cuál es su objetivo principal ante una ruptura del orden democrático en un Estado miembro?",
-        "o": [
-            "Autorizar una intervención militar directa por parte de los Estados vecinos.",
-            "Establecer mecanismos colectivos de preservación y defensa de la democracia cuando esta se vea afectada o amenazada.",
-            "Permitir que el Secretario General asuma el mando del poder ejecutivo del país afectado.",
-            "Expulsar automáticamente a cualquier país que tenga elecciones con baja participación."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OEA - Sistema Interamericano de Derechos Humanos",
-        "p": "El Sistema Interamericano de Derechos Humanos es uno de los mecanismos más robustos del continente. ¿Qué órgano ejerce la función de recibir peticiones individuales sobre presuntas violaciones de derechos humanos?",
-        "o": [
-            "La Asamblea General de la OEA.",
-            "La Comisión Interamericana de Derechos Humanos (CIDH).",
-            "El Consejo Permanente.",
-            "El Comité Jurídico Interamericano."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OEA - Órganos Principales",
-        "p": "El Consejo Permanente de la OEA es un órgano de carácter político esencial. ¿Cuál es una de sus funciones permanentes?",
-        "o": [
-            "Ejecutar el presupuesto de la organización sin control de los Estados.",
-            "Velar por el mantenimiento de las relaciones de amistad entre los Estados miembros y asistir a la Asamblea General.",
-            "Juzgar delitos penales cometidos por ciudadanos de los Estados miembros.",
-            "Negociar tratados comerciales de libre comercio a nombre de toda la región."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OEA - Seguridad Regional",
-        "p": "El Tratado Interamericano de Asistencia Recíproca (TIAR), estrechamente vinculado a la OEA, se fundamenta en un principio básico. ¿Cuál es?",
-        "o": [
-            "El principio de neutralidad absoluta frente a conflictos globales.",
-            "El principio de 'defensa hemisférica': un ataque contra un Estado americano se considera un ataque contra todos.",
-            "La renuncia voluntaria a tener fuerzas armadas nacionales.",
-            "La subordinación de las fuerzas militares nacionales al mando único del Secretario General."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OEA - Alcance Geopolítico",
-        "p": "En comparación con la CELAC, ¿cuál es una diferencia estructural clave de la OEA en cuanto a su composición?",
-        "o": [
-            "La OEA excluye a los países del Caribe.",
-            "La OEA incluye a Estados Unidos y Canadá, abarcando así a todo el continente americano.",
-            "La OEA no permite la participación de países con regímenes republicanos.",
-            "La OEA es una organización exclusiva de países que hablan español."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OEA - Secretaría General",
-        "p": "El Secretario General de la OEA es elegido por la Asamblea General. ¿Cuál es su rol según la Carta?",
-        "o": [
-            "Es el jefe de Estado de la organización con facultades legislativas.",
-            "Es el funcionario administrativo superior y tiene la facultad de llamar la atención del Consejo Permanente sobre asuntos que afecten la paz y seguridad.",
-            "Es un juez con potestad de dictar sentencias definitivas sobre conflictos limítrofes.",
-            "Es un cargo honorífico sin ninguna capacidad de gestión administrativa o política."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OEA - Corte IDH",
-        "p": "La Corte Interamericana de Derechos Humanos (Corte IDH) tiene funciones jurisdiccionales. ¿Cuál es su competencia principal?",
-        "o": [
-            "Supervisar la recaudación de impuestos aduaneros en los Estados miembros.",
-            "Interpretar y aplicar la Convención Americana sobre Derechos Humanos, dictando sentencias vinculantes para los Estados que han aceptado su competencia.",
-            "Organizar las elecciones presidenciales de los países miembros para garantizar transparencia.",
-            "Redactar leyes constitucionales obligatorias para todas las naciones del hemisferio."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OCDE - Naturaleza Jurídica",
-        "p": "A diferencia de organismos como la ONU o la CAN, la OCDE no tiene facultades legislativas supranacionales. ¿Qué define mejor su funcionamiento institucional?",
-        "o": [
-            "Es un organismo judicial internacional encargado de dirimir controversias comerciales entre Estados.",
-            "Es un foro de expertos y gobiernos donde se comparten experiencias, se recopilan datos y se generan recomendaciones de políticas públicas ('soft law').",
-            "Es una unión aduanera obligatoria que impone aranceles externos comunes a sus miembros.",
-            "Es un banco multilateral de desarrollo que financia exclusivamente proyectos de infraestructura."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OCDE - Antecedentes Históricos",
-        "p": "¿Cuál fue el antecedente directo de la OCDE, creado en 1948 para gestionar la reconstrucción de Europa tras la Segunda Guerra Mundial?",
-        "o": [
-            "La Organización Europea para la Cooperación Económica (OECE).",
-            "El Consejo de Europa.",
-            "La Comunidad Económica Europea (CEE).",
-            "El Fondo Monetario Internacional (FMI)."
-        ],
-        "r": 0
-    },
-    {
-        "c": "OCDE - Adhesión y Estándares",
-        "p": "El proceso de ingreso a la OCDE se caracteriza por ser extremadamente riguroso. ¿Qué mecanismo utiliza la Organización para evaluar a un país candidato?",
-        "o": [
-            "Votación popular en el país candidato.",
-            "Exámenes de pares ('peer reviews') y evaluaciones técnicas en múltiples comités especializados.",
-            "Auditoría externa realizada por empresas privadas de consultoría.",
-            "Referéndum obligatorio de los ciudadanos de todos los países miembros existentes."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OCDE - Política Fiscal (BEPS)",
-        "p": "La OCDE ha liderado el proyecto BEPS (Base Erosion and Profit Shifting). ¿Cuál es el objetivo principal de este proyecto en la diplomacia económica actual?",
-        "o": [
-            "Eliminar los impuestos corporativos en todos los países miembros.",
-            "Combatir la evasión fiscal internacional mediante la lucha contra la erosión de la base imponible y el traslado de beneficios por parte de empresas multinacionales.",
-            "Crear un impuesto global único gestionado directamente por la Secretaría de la OCDE.",
-            "Prohibir la inversión extranjera directa en los países en desarrollo."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OCDE - Instrumentos Jurídicos",
-        "p": "Las normas y recomendaciones de la OCDE se conocen como 'acervos'. ¿Qué valor jurídico tienen las recomendaciones adoptadas por el Consejo de la OCDE?",
-        "o": [
-            "Son vinculantes y obligan a los Estados a reformar su constitución de inmediato.",
-            "No son jurídicamente vinculantes por derecho internacional, pero los Estados se comprometen políticamente a su implementación para alinear sus estándares.",
-            "Solo aplican si el Parlamento nacional aprueba un tratado específico para cada recomendación.",
-            "Carecen de cualquier valor práctico, siendo documentos de carácter puramente académico."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OCDE - Colombia en la OCDE",
-        "p": "Tras el ingreso de Colombia a la OCDE (completado en 2020), ¿cuál es uno de los principales beneficios diplomáticos y técnicos que obtiene el país?",
-        "o": [
-            "Acceso directo a préstamos de emergencia ilimitados para la deuda externa.",
-            "Posicionamiento como un país con estándares robustos de gobernanza, transparencia y políticas públicas comparables con economías avanzadas.",
-            "La potestad de vetar las decisiones comerciales de Estados Unidos dentro del bloque.",
-            "La exención total de aranceles para todos los productos colombianos en el mercado mundial."
-        ],
-        "r": 1
-    },
-    {
-        "c": "OCDE - Gobernanza",
-        "p": "¿Quiénes toman las decisiones finales sobre las políticas y el presupuesto de la OCDE?",
-        "o": [
-            "El Consejo, compuesto por representantes de todos los Estados miembros (Embajadores ante la OCDE).",
-            "El Secretario General, que tiene poderes ejecutivos absolutos.",
-            "El Parlamento Europeo.",
-            "Una junta elegida exclusivamente por el sector privado de los países miembros."
-        ],
-        "r": 0
-    },
-    {
-        "c": "OCDE - Áreas de Acción",
-        "p": "La OCDE realiza estudios comparativos en diversas áreas. ¿Cuál de los siguientes es quizás su programa de evaluación educativa más conocido globalmente?",
-        "o": [
-            "PISA (Programa para la Evaluación Internacional de Alumnos).",
-            "Ranking de Universidades Globales.",
-            "Índice de Desarrollo Humano (IDH).",
-            "Protocolo de Kioto sobre educación."
-        ],
-        "r": 0
-    },
-    {
-        "c": "CIDH - Naturaleza Jurídica",
-        "p": "¿Cuál es la fuente jurídica principal que define la competencia y el funcionamiento de la CIDH en relación con los Estados que han ratificado dicho instrumento?",
-        "o": [
-            "La Carta Democrática Interamericana.",
-            "La Convención Americana sobre Derechos Humanos (Pacto de San José).",
-            "La Declaración Universal de los Derechos Humanos de la ONU.",
-            "El Tratado Interamericano de Asistencia Recíproca (TIAR)."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CIDH - Funciones",
-        "p": "La CIDH tiene un doble mandato: la promoción y la protección de los derechos humanos. ¿Cuál de las siguientes acciones es una función típica de protección?",
-        "o": [
-            "Organizar seminarios académicos sobre la importancia de la democracia.",
-            "Elaborar informes temáticos sobre la situación de los grupos vulnerables.",
-            "Recibir, analizar e investigar peticiones en las que se alegue que un Estado miembro ha violado derechos humanos.",
-            "Promover la firma de nuevos tratados internacionales entre los Estados miembros."
-        ],
-        "r": 2
-    },
-    {
-        "c": "CIDH - Sistema de Peticiones",
-        "p": "Para que la CIDH pueda admitir una petición individual, ¿cuál es uno de los requisitos fundamentales que debe cumplir el peticionario respecto a la jurisdicción interna?",
-        "o": [
-            "Haber agotado los recursos de la jurisdicción interna del Estado al que se acusa.",
-            "Haber ganado el caso previamente en la Corte Suprema de su país.",
-            "Contar con la autorización expresa del Presidente de la República del país demandado.",
-            "Que el caso haya sido presentado simultáneamente ante la Corte Internacional de Justicia de la ONU."
-        ],
-        "r": 0
-    },
-    {
-        "c": "CIDH - Medidas Cautelares",
-        "p": "La CIDH tiene la facultad de solicitar a los Estados miembros la adopción de medidas cautelares. ¿Bajo qué criterios se otorgan estas medidas?",
-        "o": [
-            "Solo cuando el Estado ha sido condenado previamente por la Corte IDH.",
-            "En situaciones de gravedad y urgencia, cuando se presenta un riesgo de daño irreparable a las personas o al objeto de la petición.",
-            "Únicamente para casos relacionados con temas económicos y comerciales.",
-            "Solo si el gobierno del Estado miembro acepta voluntariamente la solicitud de la Comisión."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CIDH - Relación con la Corte IDH",
-        "p": "¿Qué papel desempeña la CIDH en el proceso ante la Corte Interamericana de Derechos Humanos (Corte IDH)?",
-        "o": [
-            "Es el tribunal que juzga las sentencias de la Corte.",
-            "Actúa como una parte procesal (similar a una fiscalía), presentando el caso ante la Corte y compareciendo en todas las etapas del proceso.",
-            "Es un órgano de apelación que revisa las sentencias de la Corte.",
-            "No tiene ninguna participación en el proceso ante la Corte."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CIDH - Composición",
-        "p": "¿Cómo está compuesta la Comisión Interamericana de Derechos Humanos?",
-        "o": [
-            "Por jueces nombrados por el Consejo de Seguridad de la ONU.",
-            "Por 7 miembros elegidos por la Asamblea General de la OEA a título personal, expertos en derechos humanos.",
-            "Por los ministros de relaciones exteriores de los Estados miembros.",
-            "Por 33 representantes gubernamentales, uno por cada Estado miembro."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CIDH - Alcance",
-        "p": "La CIDH promueve la observancia de los derechos humanos en todos los Estados miembros de la OEA. ¿Qué sucede con los Estados que no han ratificado la Convención Americana sobre Derechos Humanos?",
-        "o": [
-            "La CIDH no tiene ninguna competencia sobre ellos.",
-            "La CIDH ejerce sus funciones con base en la Declaración Americana de los Derechos y Deberes del Hombre.",
-            "La CIDH actúa como un tribunal civil en sus territorios.",
-            "Deben abandonar la OEA automáticamente."
-        ],
-        "r": 1
-    },
-    {
-        "c": "CIDH - Informes de País",
-        "p": "Los informes de país publicados por la CIDH tienen como objetivo principal:",
-        "o": [
-            "Imponer sanciones económicas directas a los países analizados.",
-            "Visibilizar la situación de derechos humanos, analizar las causas estructurales y formular recomendaciones para mejorar la situación en el Estado.",
-            "Justificar una intervención militar en el país mencionado.",
-            "Cerrar las fronteras comerciales del Estado reportado."
-        ],
-        "r": 1
-    },
-    {
-        "c": "Corte IDH - Naturaleza Jurídica",
-        "p": "¿Cuál es la función principal de la Corte Interamericana de Derechos Humanos dentro del Sistema Interamericano?",
-        "o": [
-            "Es un órgano político encargado de mediar conflictos diplomáticos entre Estados.",
-            "Es una institución judicial autónoma cuyo objetivo es la aplicación e interpretación de la Convención Americana sobre Derechos Humanos.",
-            "Es un organismo administrativo que gestiona el presupuesto de la OEA.",
-            "Es un tribunal de arbitraje comercial para resolver disputas entre empresas multinacionales y Estados."
-        ],
-        "r": 1
-    },
-    {
-        "c": "Corte IDH - Competencias",
-        "p": "La Corte IDH posee dos tipos de competencias principales. ¿Cuáles son?",
-        "o": [
-            "Competencia legislativa y ejecutiva.",
-            "Competencia contenciosa (resolución de casos) y competencia consultiva (interpretación de normas).",
-            "Competencia penal (cárcel) y competencia civil (multas económicas).",
-            "Competencia de veto y competencia de intervención militar."
-        ],
-        "r": 1
-    },
-    {
-        "c": "Corte IDH - Acceso a la Justicia",
-        "p": "Un ciudadano que considera que sus derechos humanos han sido violados por un Estado parte, ¿puede presentar una demanda directamente ante la Corte IDH?",
-        "o": [
-            "Sí, cualquier ciudadano puede acudir directamente a la Corte si agota los recursos internos.",
-            "No, las personas no tienen 'locus standi' directo; primero deben acudir a la Comisión Interamericana (CIDH), la cual puede someter el caso a la Corte.",
-            "Sí, pero solo si el Estado demandado autoriza expresamente la demanda por escrito.",
-            "No, la Corte solo admite casos presentados por organizaciones no gubernamentales internacionales."
-        ],
-        "r": 1
-    },
-    {
-        "c": "Corte IDH - Vinculatoriedad",
-        "p": "Cuando la Corte IDH dicta una sentencia en un caso contencioso, ¿qué efecto jurídico tiene para el Estado condenado?",
-        "o": [
-            "Es una recomendación política que el Estado puede decidir ignorar sin consecuencias.",
-            "Es una decisión obligatoria y vinculante para el Estado, que debe cumplir con las reparaciones ordenadas.",
-            "Requiere la ratificación de los Congresos nacionales para ser válida.",
-            "Es una opinión técnica que solo sirve como guía doctrinal."
-        ],
-        "r": 1
-    },
-    {
-        "c": "Corte IDH - Control de Convencionalidad",
-        "p": "¿Qué implica la doctrina del 'control de convencionalidad' desarrollada por la Corte IDH?",
-        "o": [
-            "La obligación de los jueces nacionales de verificar que sus actos y leyes internas sean compatibles con la Convención Americana y la jurisprudencia de la Corte.",
-            "La potestad de la Corte para anular directamente leyes nacionales desde San José sin notificar al Estado.",
-            "La obligación de los Estados de adoptar leyes idénticas a las de los países europeos.",
-            "El derecho de la Corte a revisar los procesos electorales en tiempo real."
-        ],
-        "r": 0
-    },
-    {
-        "c": "Corte IDH - Composición",
-        "p": "¿Cuántos jueces componen la Corte IDH y cómo son elegidos?",
-        "o": [
-            "7 jueces, elegidos por la Asamblea General de la OEA.",
-            "11 jueces, designados por el Secretario General de la OEA.",
-            "5 jueces, nombrados por el Consejo Permanente de la OEA.",
-            "15 jueces, elegidos por votación universal en todo el continente."
-        ],
-        "r": 0
-    },
-    {
-        "c": "Corte IDH - Reparaciones",
-        "p": "En sus sentencias, la Corte IDH suele ordenar reparaciones. ¿Cuál es el objetivo principal de estas medidas?",
-        "o": [
-            "Castigar económicamente a los funcionarios públicos responsables.",
-            "La 'restitutio in integrum' o reparación integral, que busca devolver a la víctima a la situación anterior a la violación y, de no ser posible, ofrecer indemnizaciones y medidas de satisfacción.",
-            "Limitar la soberanía del Estado mediante la ocupación temporal de sus instituciones.",
-            "Eliminar todas las fuerzas militares del país condenado."
-        ],
-        "r": 1
-    },
-    {
-        "c": "Corte IDH - Alcance Jurisdiccional",
-        "p": "Para que un Estado sea juzgado por la Corte IDH en un caso contencioso, ¿qué requisito indispensable debe cumplirse?",
-        "o": [
-            "Que el Estado haya aceptado la competencia contenciosa de la Corte, ya sea de forma general o para un caso específico.",
-            "Que el Estado tenga un gobierno democrático reconocido por todos los demás miembros.",
-            "Que el Estado sea miembro de la Unión Europea.",
-            "Que el Estado haya pagado previamente una tasa judicial a la Secretaría de la OEA."
-        ],
-        "r": 0
-    },
-    {
-        "c": "DDHH - Fundamentos Normativos",
-        "p": "La 'Carta Internacional de Derechos Humanos' se compone de tres instrumentos principales. ¿Cuáles son?",
-        "o": [
-            "La Declaración Universal de los Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos y el Pacto Internacional de Derechos Económicos, Sociales y Culturales.",
-            "La Convención Americana, la Carta Democrática Interamericana y el Pacto de San José.",
-            "El Estatuto de Roma, la Convención de Ginebra y la Carta de la ONU.",
-            "La Declaración de Viena, el Pacto de derechos del niño y la Convención contra la Tortura."
-        ],
-        "r": 0
-    },
-    {
-        "c": "DDHH - Naturaleza de los Derechos",
-        "p": "El principio de 'indivisibilidad' de los derechos humanos implica que:",
-        "o": [
-            "Los derechos civiles y políticos son más importantes que los derechos económicos, sociales y culturales.",
-            "Los Estados pueden elegir qué derechos proteger según sus capacidades económicas.",
-            "No existe jerarquía entre los derechos; todos son interdependientes y el avance de uno facilita el avance de los demás.",
-            "Los derechos humanos solo pueden ser ejercidos en tiempos de paz absoluta."
-        ],
-        "r": 2
-    },
-    {
-        "c": "DDHH - Obligaciones del Estado",
-        "p": "En el Derecho Internacional de los Derechos Humanos, se reconoce que el Estado tiene tres niveles de obligaciones frente a los derechos: respetar, proteger y garantizar. ¿Qué implica la obligación de 'proteger'?",
-        "o": [
-            "Que el Estado debe abstenerse de interferir en el disfrute de los derechos.",
-            "Que el Estado debe prevenir que terceros (particulares o empresas) violen los derechos humanos de las personas bajo su jurisdicción.",
-            "Que el Estado debe realizar esfuerzos progresivos para asegurar la satisfacción plena de los derechos.",
-            "Que el Estado puede suspender derechos durante estados de excepción."],
-        "r": 1
-    },
-    {
-        "c": "DDHH - Derechos Intransferibles",
-        "p": "¿Qué caracteriza a los derechos denominados 'de no derogación' (non-derogable rights)?",
-        "o": [
-            "Que solo pueden ser suspendidos si el Congreso lo autoriza.",
-            "Que son derechos que no pueden ser suspendidos ni siquiera en situaciones de guerra, emergencia pública o amenaza a la seguridad nacional.",
-            "Que solo aplican para los ciudadanos nacionales y no para los extranjeros.",
-            "Que solo son aplicables durante procesos judiciales penales."],
-        "r": 1
-    },
-    {
-        "c": "DDHH - DIDH vs DIH",
-        "p": "Una distinción crucial en la práctica diplomática es la diferencia entre el DIDH (Derechos Humanos) y el DIH (Derecho Internacional Humanitario). ¿Cuál es la diferencia principal en su ámbito de aplicación?",
-        "o": [
-            "El DIDH se aplica en todo momento, mientras que el DIH se aplica primordialmente en situaciones de conflicto armado (conflicto internacional o no internacional).",
-            "El DIDH solo aplica en tiempo de paz y el DIH solo aplica en tiempo de guerra.",
-            "El DIDH es vinculante para las personas y el DIH solo para los Estados.",
-            "No existe diferencia; son términos sinónimos usados indistintamente por la ONU."],
-        "r": 0
-    },
-    {
-        "c": "DDHH - Institucionalidad ONU",
-        "p": "El Consejo de Derechos Humanos de la ONU es el principal órgano intergubernamental. ¿Cuál es uno de sus mecanismos más importantes para evaluar la situación de DDHH en todos los Estados miembros?",
-        "o": [
-            "El Examen Periódico Universal (EPU).",
-            "La Corte Penal Internacional.",
-            "El Consejo de Seguridad.",
-            "La Asamblea General de la OEA."],
-        "r": 0
-    },
-    {
-        "c": "DDHH - Derechos Económicos, Sociales y Culturales (DESC)",
-        "p": "Respecto a los DESC, el Pacto Internacional exige a los Estados su cumplimiento bajo el principio de 'realización progresiva'. ¿Qué significa esto en términos prácticos?",
-        "o": [
-            "Que el Estado puede no hacer nada hasta que tenga presupuesto suficiente.",
-            "Que el Estado debe adoptar medidas hasta el máximo de los recursos de que disponga para lograr gradualmente la plena efectividad de los derechos.",
-            "Que los derechos solo serán efectivos cuando el sector privado lo decida.",
-            "Que los derechos son aspiraciones políticas sin fuerza legal alguna."],
-        "r": 1
-    },
-    {
-        "c": "DDHH - Responsabilidad Internacional",
-        "p": "Cuando un Estado ratifica un tratado de derechos humanos, ¿ante quién responde por su cumplimiento?",
-        "o": [
-            "Únicamente ante sus propios tribunales nacionales.",
-            "Ante la comunidad internacional, mediante los órganos de control establecidos en los tratados (Comités o Cortes).",
-            "Ante el país vecino más cercano.",
-            "Ante el sector privado que financia las políticas públicas."],
-        "r": 1
-    },
-    {
-        "c": "DIH - Instrumentos Fundamentales",
-        "p": "¿Cuál es la piedra angular del Derecho Internacional Humanitario moderno, compuesto por cuatro tratados adoptados en 1949?",
-        "o": [
-            "La Carta de las Naciones Unidas.",
-            "Los cuatro Convenios de Ginebra.",
-            "El Estatuto de Roma de la Corte Penal Internacional.",
-            "Los Tratados de Versalles."],
-        "r": 1
-    },
-    {
-        "c": "DIH - Principios Generales",
-        "p": "El principio de 'Distinción' es fundamental en el DIH. ¿Qué exige este principio a las partes en conflicto?",
-        "o": [
-            "Que deben hacer todo lo posible por ganar el conflicto lo más rápido posible.",
-            "Que deben hacer una distinción entre los combatientes y la población civil, dirigiendo ataques únicamente contra objetivos militares.",
-            "Que deben distinguir entre diferentes nacionalidades de los soldados enemigos.",
-            "Que deben evitar el uso de armas nucleares exclusivamente."],
-        "r": 1
-    },
-    {
-        "c": "DIH - Proporcionalidad",
-        "p": "En la conducción de hostilidades, ¿qué establece el principio de 'Proporcionalidad'?",
-        "o": [
-            "Que el daño colateral a civiles o bienes civiles no debe ser excesivo en relación con la ventaja militar directa y concreta prevista.",
-            "Que el número de bajas enemigas debe ser proporcional a las bajas propias.",
-            "Que el ataque solo es legal si el enemigo tiene una fuerza militar equivalente.",
-            "Que todas las armas utilizadas deben tener el mismo nivel de letalidad."],
-        "r": 0
-    },
-    {
-        "c": "DIH - Conflictos no Internacionales",
-        "p": "¿Qué norma del DIH es considerada el 'mini-tratado' aplicable a los conflictos armados no internacionales (conflicto interno)?",
-        "o": [
-            "El Artículo 3 común a los cuatro Convenios de Ginebra.",
-            "El Protocolo Adicional II.",
-            "La Convención de La Haya.",
-            "El Estatuto de la Corte Internacional de Justicia."],
-        "r": 0
-    },
-    {
-        "c": "DIH - Prisioneros de Guerra",
-        "p": "¿Cuál es la protección jurídica principal que otorga el III Convenio de Ginebra a los combatientes capturados por el enemigo?",
-        "o": [
-            "El derecho a ser liberados inmediatamente tras el fin de las hostilidades principales.",
-            "El estatus de Prisionero de Guerra, que implica trato humano, protección contra la violencia y el derecho a no ser procesado por participar en las hostilidades.",
-            "La obligación de trabajar en obras de infraestructura para el estado captor.",
-            "La pérdida total de derechos humanos hasta que se firme un tratado de paz."],
-        "r": 1
-    },
-    {
-        "c": "DIH - Rol del CICR",
-        "p": "¿Cuál es la función principal del Comité Internacional de la Cruz Roja (CICR) en el contexto de un conflicto armado?",
-        "o": [
-            "Actuar como una fuerza de paz armada bajo mandato de la ONU.",
-            "Ser el guardián de los Convenios de Ginebra, visitando prisioneros de guerra y brindando asistencia humanitaria neutral e imparcial.",
-            "Juzgar crímenes de guerra cometidos por los combatientes.",
-            "Negociar el fin político del conflicto en representación de las partes."],
-        "r": 1
-    },
-    {
-        "c": "DIH - Prohibiciones",
-        "p": "¿Qué establece el DIH respecto al uso de armas?",
-        "o": [
-            "Que todas las armas son permitidas siempre que causen la victoria rápida.",
-            "Que se prohíben las armas que causan sufrimientos innecesarios o males superfluos, así como las de efectos indiscriminados.",
-            "Que solo se prohíben las armas de fuego automáticas.",
-            "Que el uso de armas químicas está permitido si se utiliza contra objetivos militares lejanos."],
-        "r": 1
-    },
-    {
-        "c": "DIH - Protección Sanitaria",
-        "p": "¿Qué simbolizan los emblemas de la Cruz Roja, la Media Luna Roja y el Cristal Rojo?",
-        "o": [
-            "La nacionalidad de los combatientes en el campo de batalla.",
-            "La protección especial de las unidades médicas, hospitales y personal sanitario durante un conflicto armado.",
-            "La pertenencia a una organización religiosa específica.",
-            "La ubicación de los campos de refugiados en el territorio."],
-        "r": 1
-    },
-    {
-        "c": "DAI - Caso Fundacional",
-        "p": "¿Qué caso arbitral internacional, fallado en 1941, estableció el principio consuetudinario de que un Estado no tiene derecho a utilizar su territorio de modo que cause daños por emanaciones a otro Estado?",
-        "o": [
-            "El Caso de la Plataforma Continental del Mar del Norte.",
-            "El Caso de la Fundición de Trail (Trail Smelter).",
-            "El Caso de las Pesquerías Islandesas.",
-            "El Caso Gabčíkovo-Nagymaros."],
-        "r": 1
-    },
-    {
-        "c": "DAI - Estructura Institucional",
-        "p": "¿Cuál es la función principal de la Conferencia de las Partes (COP) en los grandes tratados ambientales como la CMNUCC?",
-        "o": [
-            "Sancionar económicamente a los países que no cumplan sus metas de emisiones.",
-            "Revisar la implementación de la convención y adoptar decisiones para promover su aplicación efectiva.",
-            "Redactar nuevas leyes constitucionales para los países miembros.",
-            "Ejecutar los proyectos de infraestructura climática en los países en desarrollo."],
-        "r": 1
-    },
-    {
-        "c": "DAI - Protocolo de Montreal",
-        "p": "El Protocolo de Montreal se considera el acuerdo ambiental más exitoso de la historia. ¿Qué regula específicamente?",
-        "o": [
-            "La emisión de gases de efecto invernadero (GEI).",
-            "La protección de la capa de ozono mediante la eliminación de sustancias agotadoras del ozono (SAO).",
-            "El tráfico ilícito de especies en peligro de extinción.",
-            "La gestión de residuos nucleares en alta mar."],
-        "r": 1
-    },
-    {
-        "c": "DAI - Acuerdo de París",
-        "p": "A diferencia del Protocolo de Kioto, el Acuerdo de París (2015) utiliza un mecanismo de abajo hacia arriba ('bottom-up'). ¿En qué consiste?",
-        "o": [
-            "En la imposición de metas obligatorias fijadas por la ONU para todos los países.",
-            "En las Contribuciones Determinadas a Nivel Nacional (NDC), que son compromisos voluntarios y progresivos de cada Estado.",
-            "En la prohibición total de combustibles fósiles a nivel mundial.",
-            "En la transferencia de soberanía ambiental a una autoridad central de la ONU."],
-        "r": 1
-    },
-    {
-        "c": "DAI - Biodiversidad",
-        "p": "El Convenio sobre la Diversidad Biológica (CDB) tiene tres objetivos fundamentales. ¿Cuáles son?",
-        "o": [
-            "Comercio, pesca y minería responsable.",
-            "Conservación de la biodiversidad, uso sostenible de sus componentes y participación justa y equitativa en los beneficios de los recursos genéticos.",
-            "Deforestación, caza deportiva y biotecnología aplicada.",
-            "Patentes de semillas, exportación de madera y protección de parques nacionales."],
-        "r": 1
-    },
-    {
-        "c": "DAI - Derecho Consuetudinario",
-        "p": "¿Cómo se define el concepto de 'Evaluación de Impacto Ambiental' (EIA) en el Derecho Internacional Público?",
-        "o": [
-            "Una sugerencia académica sin relevancia jurídica.",
-            "Una obligación procesal de origen consuetudinario que requiere examinar los posibles efectos ambientales transfronterizos de una actividad antes de autorizarla.",
-            "Una medida que solo aplica para proyectos financiados por el Banco Mundial.",
-            "Un procedimiento interno que no compete a la diplomacia internacional."],
-        "r": 1
-    },
-    {
-        "c": "DAI - Agenda 2030",
-        "p": "Los Objetivos de Desarrollo Sostenible (ODS) integran la dimensión ambiental. ¿Qué principio rige la relación entre desarrollo y medio ambiente?",
-        "o": ["El desarrollo económico tiene prioridad absoluta sobre la conservación.", "La sostenibilidad, integrando equitativamente los pilares económico, social y ambiental.", "La conservación es incompatible con el crecimiento económico.", "El desarrollo es un concepto que solo aplica a los países desarrollados."],
-        "r": 1
-    },
-    {
-        "c": "TLC Colombia-EE.UU. - Temas Transversales",
-        "p": "Los capítulos sobre Trabajo y Medio Ambiente fueron integrados con fuerza en el TLC Colombia-EE.UU. ¿Qué obligación imponen fundamentalmente a las Partes?",
-        "o": ["La adopción de leyes laborales y ambientales idénticas a las de los Estados Unidos.", "La garantía de aplicación efectiva de sus propias leyes laborales y ambientales nacionales para evitar ventajas competitivas desleales.", "La creación de una corte transnacional con jurisdicción sobre todos los conflictos laborales."],
-        "r": 1
-    },
-    {
-        "c": "Derecho del Mar",
-        "p": "¿Cuál es la anchura máxima del Mar Territorial establecida por la CONVEMAR?",
-        "o": ["12 millas náuticas", "24 millas náuticas", "200 millas náuticas", "10 millas náuticas"],
-        "r": 0
-    },
-    {
-        "c": "Geopolítica - Coyuntura",
-        "p": "¿Qué grupo de países emergentes invitó formalmente a nuevos miembros (como Egipto, Etiopía e Irán) a unirse al bloque en 2024?",
-        "o": ["G7", "OCDE", "BRICS", "MINT"],
-        "r": 2
-    },
-    {
-        "c": "Administración Pública",
-        "p": "Según el Decreto 1067 de 2015, ¿cuál es el objetivo principal del Sector Administrativo de Relaciones Exteriores?",
-        "o": ["Gestionar únicamente los pasaportes", "Formular, planear y ejecutar la política exterior de Colombia", "Controlar las aduanas nacionales", "Regular el comercio exterior exclusivamente"],
-        "r": 1
-    },
-    {
-        "c": "Derecho Internacional Humanitario",
-        "p": "Los Convenios de Ginebra de 1949 se centran principalmente en:",
-        "o": ["La protección de las víctimas de los conflictos armados", "La prohibición de armas químicas", "La regulación del comercio de armas", "El derecho al asilo político"],
-        "r": 0
-    },
-    {
-        "c": "Historia Diplomática de Colombia",
-        "p": "¿Quién fue el diplomático colombiano que presidió la Conferencia de San Francisco y firmó la Carta de la ONU en 1945?",
-        "o": ["Alberto Lleras Camargo", "Alfonso López Michelsen", "Gabriel Turbay", "Eduardo Santos"],
-        "r": 0
-    },
-    {
-        "c": "Protocolo y Etiqueta",
-        "p": "En el orden de precedencia diplomática, según la Convención de Viena de 1961, ¿qué criterio determina generalmente la prioridad entre jefes de misión de la misma clase?",
-        "o": ["La edad del embajador", "El orden alfabético de los países", "La fecha y hora de presentación de credenciales", "El poder económico del Estado que representan"],
-        "r": 2
-    },
-    {
-        "c": "Geografía y Límites",
-        "p": "¿Con cuál de estos países Colombia NO tiene frontera marítima en el Mar Caribe?",
-        "o": ["Jamaica", "Haití", "Costa Rica", "Guatemala"],
-        "r": 3
-    },
-    {
-        "c": "Organismos Internacionales",
-        "p": "¿Cuál es el órgano principal de la ONU encargado de mantener la paz y seguridad internacionales, con capacidad de emitir resoluciones vinculantes?",
-        "o": ["La Asamblea General", "El Consejo de Seguridad", "La Corte Internacional de Justicia", "El ECOSOC"],
-        "r": 1
-    },
-    {
-        "c": "Política Exterior - Migración",
-        "p": "¿Qué nombre recibe el mecanismo colombiano que otorga estatus migratorio regular por 10 años a los ciudadanos venezolanos?",
-        "o": ["Visa de Residente", "Estatuto Temporal de Protección (ETPV)", "Permiso Especial de Permanencia (PEP)", "Cédula de Extranjería Automática"],
-        "r": 1
-    },
-    {
-        "c": "Derecho de los Tratados",
-        "p": "Según la Convención de Viena de 1969, una 'Reserva' es:",
-        "o": ["Un anexo secreto del tratado", "Una declaración para excluir o modificar el efecto jurídico de ciertas disposiciones del tratado", "Una prórroga para la firma del documento", "El acto de cancelar el tratado unilateralmente"],
-        "r": 1
-    },
-    {
-        "c": "Corte Penal Internacional",
-        "p": "¿Cuál de los siguientes crímenes NO es competencia de la Corte Penal Internacional (Estatuto de Roma)?",
-        "o": ["Genocidio", "Crímenes de Lesa Humanidad", "Narcotráfico internacional", "Crimen de Agresión"],
-        "r": 2
-    },
-    {
-        "c": "Asuntos Consulares",
-        "p": "La 'Asistencia Consular' incluye, entre otros, el derecho del nacional detenido a:",
-        "o": ["Que el cónsul lo declare inocente", "Que el cónsul pague su fianza con fondos públicos", "Que se notifique a su consulado sobre su detención sin demora", "Recibir un pasaporte diplomático para salir del país"],
-        "r": 2
-    },
-    {
-        "c": "Teoría de RRII",
-        "p": "En la teoría realista, ¿cuál es el actor principal del sistema internacional?",
-        "o": ["Las empresas multinacionales", "Las organizaciones no gubernamentales", "El Estado", "El individuo"],
-        "r": 2
-    },
-    {
-        "c": "Economía Internacional",
-        "p": "¿Qué institución tiene como función principal vigilar la estabilidad del sistema monetario internacional y las tasas de cambio?",
-        "o": ["Banco Mundial", "Fondo Monetario Internacional (FMI)", "BPI (Banco de Pagos Internacionales)", "OMC"],
-        "r": 1
-    },
-    {
-        "c": "Derecho del Mar",
-        "p": "¿Qué es la Zona Económica Exclusiva (ZEE)?",
-        "o": ["Un área de 12 millas de soberanía absoluta", "Un área hasta las 200 millas donde el Estado tiene derechos de exploración y explotación de recursos", "El lecho marino de los océanos profundos", "Una zona donde no rigen las leyes nacionales"],
-        "r": 1
-    },{
-        "c": "Estado Colombiano",
-        "p": "¿Cuál es la principal función constitucional del Consejo de Estado en Colombia?",
-        "o": ["Ejercer control fiscal sobre el gasto público", "Actuar como máximo tribunal de lo contencioso administrativo", "Investigar disciplinariamente a los funcionarios públicos", "Dirigir la política exterior colombiana"],
-        "r": 1
-    },
-    {
-        "c": "Estado Colombiano",
-        "p": "¿Qué mecanismo constitucional protege de forma inmediata los derechos fundamentales en Colombia?",
-        "o": ["Acción popular", "Acción de grupo", "Acción de tutela", "Acción de cumplimiento"],
-        "r": 2
-    },
-    {
-        "c": "Estado Colombiano",
-        "p": "El bloque de constitucionalidad en Colombia incorpora principalmente:",
-        "o": ["Normas tributarias internacionales", "Tratados de libre comercio", "Normas y tratados de derechos humanos", "Decretos presidenciales"],
-        "r": 2
-    },
-    {
-        "c": "Estado Colombiano",
-        "p": "¿Cuál de los siguientes órganos es autónomo e independiente en Colombia?",
-        "o": ["Ministerio del Interior", "Banco de la República", "Consejo de Ministros", "Superintendencia de Industria"],
-        "r": 1
-    },
-    {
-        "c": "Estado Colombiano",
-        "p": "La Procuraduría General de la Nación tiene como función principal:",
-        "o": ["Controlar la política monetaria", "Ejercer control disciplinario sobre funcionarios públicos", "Administrar justicia penal", "Dirigir las fuerzas militares"],
-        "r": 1
-    },
-    {
-        "c": "Historia Contemporánea",
-        "p": "El Frente Nacional en Colombia tuvo como propósito principal:",
-        "o": ["Implementar el socialismo democrático", "Alternar el poder entre liberales y conservadores", "Eliminar los partidos políticos tradicionales", "Crear un sistema federal"],
-        "r": 1
-    },
-    {
-        "c": "Historia Contemporánea",
-        "p": "La Constitución Política de 1991 se caracterizó por:",
-        "o": ["Centralizar completamente el poder político", "Eliminar la acción de tutela", "Ampliar derechos fundamentales y participación ciudadana", "Prohibir la descentralización administrativa"],
-        "r": 2
-    },
-    {
-        "c": "Historia Contemporánea",
-        "p": "La apertura económica de los años noventa en Colombia estuvo asociada principalmente con:",
-        "o": ["El cierre de importaciones", "La reducción del comercio internacional", "La liberalización comercial y arancelaria", "La eliminación de exportaciones"],
-        "r": 2
-    },
-    {
-        "c": "Derecho del Mar",
-        "p": "La Zona Económica Exclusiva otorga al Estado ribereño derechos sobre:",
-        "o": ["La libre navegación militar extranjera", "La explotación de recursos naturales", "La soberanía total sobre aguas internacionales", "La regulación del espacio aéreo global"],
-        "r": 1
-    },
-    {
-        "c": "Derecho del Mar",
-        "p": "El paso inocente en derecho del mar se refiere a:",
-        "o": ["La explotación pesquera extranjera", "El tránsito pacífico por el mar territorial", "La ocupación temporal de islas", "La exploración minera submarina"],
-        "r": 1
-    },
-    {
-        "c": "Derecho del Mar",
-        "p": "La plataforma continental permite al Estado ejercer derechos sobre:",
-        "o": ["Recursos del subsuelo marino", "Rutas comerciales terrestres", "Espacio ultraterrestre", "Pesca artesanal extranjera"],
-        "r": 0
-    },
-    {
-        "c": "Economía Internacional",
-        "p": "Las remesas enviadas por migrantes se registran en la balanza de pagos como:",
-        "o": ["Inversión extranjera directa", "Cuenta corriente", "Reservas internacionales", "Cuenta financiera pública"],
-        "r": 1
-    },
-    {
-        "c": "Economía Internacional",
-        "p": "La inflación importada ocurre cuando:",
-        "o": ["Disminuyen las exportaciones", "Aumentan los precios internacionales de bienes importados", "Se reducen las tasas de interés", "Incrementa el desempleo interno"],
-        "r": 1
-    },
-    {
-        "c": "Economía Internacional",
-        "p": "El Fondo Monetario Internacional tiene como función principal:",
-        "o": ["Financiar patrimonio cultural", "Regular conflictos armados", "Promover estabilidad financiera internacional", "Administrar tratados ambientales"],
-        "r": 2
-    },
-    {
-        "c": "Economía Internacional",
-        "p": "¿Qué institución se enfoca principalmente en financiamiento para desarrollo y reducción de pobreza?",
-        "o": ["OTAN", "Banco Mundial", "OEA", "Interpol"],
-        "r": 1
-    },
-    {
-        "c": "Organismos Internacionales",
-        "p": "La UNESCO tiene como objetivo principal:",
-        "o": ["Coordinar operaciones militares", "Promover educación, ciencia y cultura", "Regular comercio internacional", "Administrar deuda externa"],
-        "r": 1
-    },
-    {
-        "c": "Organismos Internacionales",
-        "p": "La Organización Internacional del Trabajo se especializa en:",
-        "o": ["Regulación financiera global", "Derechos laborales y condiciones de trabajo", "Protección militar regional", "Migración marítima"],
-        "r": 1
-    },
-    {
-        "c": "Organismos Internacionales",
-        "p": "La OMS es una agencia especializada de la ONU encargada de:",
-        "o": ["Regular comercio agrícola", "Coordinar cooperación sanitaria internacional", "Supervisar conflictos diplomáticos", "Administrar tratados energéticos"],
-        "r": 1
-    },
-    {
-        "c": "Patrimonio y Diversidad",
-        "p": "La consulta previa en Colombia busca proteger principalmente:",
-        "o": ["Los intereses empresariales extranjeros", "Los derechos de comunidades étnicas", "Las políticas tributarias", "La autonomía presidencial"],
-        "r": 1
-    },
-    {
-        "c": "Patrimonio y Diversidad",
-        "p": "La Convención de la UNESCO de 1972 se relaciona con:",
-        "o": ["Protección del patrimonio cultural y natural", "Control de armas nucleares", "Migración internacional", "Comercio marítimo"],
-        "r": 0
-    },
-    {
-        "c": "Patrimonio y Diversidad",
-        "p": "El patrimonio cultural inmaterial incluye:",
-        "o": ["Infraestructura portuaria", "Tradiciones, saberes y expresiones culturales", "Reservas de hidrocarburos", "Fronteras marítimas"],
-        "r": 1
-    },
-    {
-        "c": "Transición Energética",
-        "p": "El hidrógeno verde se produce principalmente mediante:",
-        "o": ["Combustión de carbón", "Energía nuclear militar", "Electrólisis usando energías renovables", "Refinación petrolera"],
-        "r": 2
-    },
-    {
-        "c": "Transición Energética",
-        "p": "La transición energética busca principalmente:",
-        "o": ["Incrementar dependencia fósil", "Reducir emisiones de gases de efecto invernadero", "Eliminar energías renovables", "Expandir exclusivamente el carbón"],
-        "r": 1
-    },
-    {
-        "c": "Teoría de RRII",
-        "p": "El realismo en relaciones internacionales considera que el Estado es el actor principal:",
-        "o": ["Las ONG", "Las empresas multinacionales", "El Estado", "La sociedad civil global"],
-        "r": 2
-    },
-    {
-        "c": "Teoría de RRII",
-        "p": "El concepto de soft power fue desarrollado principalmente por:",
-        "o": ["Hans Morgenthau", "Joseph Nye", "Kenneth Waltz", "Samuel Huntington"],
-        "r": 1
-    },
-    {
-        "c": "Teoría de RRII",
-        "p": "La interdependencia compleja sostiene que:",
-        "o": ["Las relaciones internacionales dependen únicamente del poder militar", "Existen múltiples canales de relación entre los Estados", "La guerra es inevitable", "Las organizaciones internacionales carecen de importancia"],
-        "r": 1
-    },
-    {
-        "c": "Teoría de RRII",
-        "p": "El mundo multipolar se caracteriza por:",
-        "o": ["La existencia de un único centro de poder", "La desaparición de los Estados", "La distribución del poder entre múltiples actores relevantes", "La hegemonía absoluta de la ONU"],
-        "r": 2
-    }
+    "c": "MERCOSUR - Solución de Controversias",
+    "p": "En el marco de un diferendo comercial intrabloque en el MERCOSUR respecto a la aplicación de barreras no arancelarias, las partes deciden agotar las instancias previstas en el Protocolo de Olivos. ¿Cuál es el órgano jurisdiccional de carácter permanente encargado de garantizar la interpretación uniforme y actuar como última instancia de revisión de los laudos arbitrales?",
+    "o": [
+      "El Tribunal Permanente de Revisión (TPR), con sede en Asunción, diseñado para resolver controversias, dictar medidas cautelares y emitir opiniones consultivas en el bloque",
+      "El Tribunal de Justicia de la Comunidad Andina, operando mediante una extensión jurisdiccional de complementariedad y convergencia institucional regional",
+      "La Corte Interamericana de Arbitraje Comercial, supeditada de manera directa a las directrices multilaterales de la ALADI"
+    ],
+    "r": 0
+  },
+  {
+    "c": "MERCOSUR - Relaciones Externas",
+    "p": "Un Estado parte del MERCOSUR plantea la posibilidad de suscribir, de manera unilateral y acelerada, un Tratado de Libre Comercio con una potencia extrarregional asiática. Evaluando la naturaleza jurídica del bloque como Unión Aduanera, ¿qué restricción normativa e institucional enfrenta este Estado?",
+    "o": [
+      "La obligación de negociar acuerdos comerciales de alcance pleno de manera conjunta o en bloque, preservando la integridad del Arancel Externo Común (AEC) según lo dispuesto por la Decisión 32/00 del Consejo del Mercado Común",
+      "La prohibición absoluta de entablar diálogos diplomáticos fuera del hemisferio occidental por mandatos imperativos del Tratado de Asunción",
+      "La necesidad de obtener una autorización vinculante expedida por voto calificado del Consejo Permanente de la OEA"
+    ],
+    "r": 0
+  },
+  {
+    "c": "MERCOSUR - Estados Asociados",
+    "p": "Colombia participa activamente en las deliberaciones y foros técnicos del MERCOSUR a pesar de no ser un miembro pleno. ¿Bajo qué categoría jurídica y con qué alcance institucional se regula la inserción de Colombia y otros países de la subregión en este mecanismo?",
+    "o": [
+      "Como Miembro Observador Especial con derecho a voto condicionado a los flujos de inversión minero-energética intrarregional",
+      "Como Estado Asociado, condición que le permite participar en reuniones de los órganos del bloque con derecho a voz pero sin voto, fundada en la suscripción previa de acuerdos de complementariedad económica bajo el marco de la ALADI",
+      "Como Estado Cooperante ad honorem, estatus puramente administrativo coordinado por la Secretaría Técnica de Montevideo"
+    ],
+    "r": 1
+  },
+  {
+    "c": "MERCOSUR - Cláusula Democrática",
+    "p": "Durante una crisis institucional en el Cono Sur, un gobierno altera el orden constitucional afectando la separación de poderes. Los demás miembros del MERCOSUR deciden activar los mecanismos de sanción política. ¿Qué instrumento normativo específico faculta al bloque para suspender los derechos de un Estado miembro ante la ruptura democrática?",
+    "o": [
+      "El Protocolo de Ushuaia sobre Compromiso Democrático en el MERCOSUR, el cual exige la plena vigencia de las instituciones democráticas como condición esencial para el proceso de integración",
+      "El Protocolo de Ouro Preto en sus cláusulas de salvaguardia de la balanza de pagos macroeconómica",
+      "El Tratado de Asunción en sus anexos de contingencia y defensa militar hemisférica coordinada"
+    ],
+    "r": 0
+  },
+  {
+    "c": "MERCOSUR - Desafíos Actuales",
+    "p": "En las discusiones ministeriales contemporáneas del MERCOSUR, se debate con insistencia el concepto de 'flexibilización' del bloque. Desde la perspectiva de las agendas de política exterior de los miembros más pequeños, ¿cuál es el propósito de esta propuesta de reforma?",
+    "o": [
+      "Abolir el principio del consenso en la toma de decisiones del Consejo para adoptar el modelo de mayoría ponderada según el tamaño del territorio nacional",
+      "Permitir que los Estados partes puedan negociar y suscribir acuerdos de libre comercio de forma bilateral e individual con terceros países, flexibilizando la rigidez de la Decisión 32/00",
+      "Sustituir el Arancel Externo Común por un sistema de cuotas agrícolas administrado de forma unilateral por la ALADI"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CELAC - Naturaleza Jurídica",
+    "p": "Al evaluar la arquitectura regional de concertación, un analista diferencia el alcance de la Comunidad de Estados Latinoamericanos y Caribeños (CELAC) frente al de la Organización de los Estados Americanos (OEA). ¿Qué factor estructural relativo a la membresía define conceptual y políticamente a la CELAC?",
+    "o": [
+      "La incorporación de países observadores de la Unión Europea con derecho a veto sobre las decisiones de cooperación sur-sur",
+      "La exclusión explícita de Estados Unidos y Canadá, agrupando de manera única e independiente a los 33 Estados soberanos de la América Latina y el Caribe",
+      "El requisito obligatorio de pertenecer a la OTAN como garantía de seguridad colectiva frente a amenazas extranjeras"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CELAC - Objetivos Estratégicos",
+    "p": "Desde su lanzamiento institucional, la CELAC ha sido descrita por la diplomacia colombiana como un mecanismo de concertación e integración con un diseño institucional flexible. ¿Cuál constituye la característica central de su gobernanza y funcionamiento operativo?",
+    "o": [
+      "Su naturaleza estrictamente intergubernamental y no supranacional, caracterizada por la ausencia de burocracias permanentes o sedes fijas, coordinando su agenda mediante una Presidencia Pro Tempore anual y la regla del consenso",
+      "Un modelo centralizado en una Secretaría General ejecutiva ubicada en Quito, con facultades legislativas directas sobre los Estados",
+      "La dependencia de un Parlamento Regional dotado de presupuesto vinculante para la creación de infraestructura transfronteriza"
+    ],
+    "r": 0
+  },
+  {
+    "c": "CELAC - Origen",
+    "p": "La formalización de la CELAC representó la culminación de un largo proceso de convergencia política en la región, buscando un espacio propio de interlocución. ¿Qué hito histórico y diplomático consolidó su nacimiento definitivo?",
+    "o": [
+      "La Conferencia Interamericana de Bogotá de 1948 que dio origen a la Carta fundacional de los Estados Americanos",
+      "La Cumbre de Caracas de 2011, que unificó el patrimonio político del Grupo de Río y de la Cumbre de América Latina y el Caribe sobre Integración y Desarrollo (CALC)",
+      "La firma del Tratado de Montevideo de 1980 que reestructuró la zona de libre comercio asociativa"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CELAC - Institucionalidad",
+    "p": "Dado su diseño no burocrático, la CELAC delega su dinamismo político en una instancia rotativa que lidera la ejecución de las declaraciones de las Cumbres de Jefes de Estado. ¿Cómo se denomina y estructura institucionalmente este órgano directivo?",
+    "o": [
+      "Una Presidencia Pro Tempore ejercida por el Estado miembro elegido unánimemente, apoyada por una estructura de 'Cuarteto' (integrado por la presidencia anterior, la presente, la posterior y la representación de CARICOM) para garantizar la continuidad",
+      "Un Consejo de Directores Vitalicios seleccionados con base en el aporte proporcional al presupuesto de la CEPAL",
+      "Una Comisaría Ejecutiva Transitoria integrada por los magistrados del Tribunal Andino de Justicia"
+    ],
+    "r": 0
+  },
+  {
+    "c": "CELAC - Gestión",
+    "p": "En el ejercicio de la diplomacia multilateral, la CELAC busca proyectar una voz unificada de la región en el escenario global. ¿Cómo se materializa esta estrategia en la práctica de las relaciones internacionales frente a actores extrarregionales?",
+    "o": [
+      "Mediante la delegación de la representación arancelaria de todos sus miembros ante las rondas de negociación de la OMC",
+      "A través del establecimiento de foros de diálogo estructurados de alto nivel con potencias y bloques globales (como el Foro CELAC-China o las Cumbres UE-CELAC) para negociar agendas de cooperación, inversión y desarrollo sostenible",
+      "Con la unificación de las misiones diplomáticas y embajadas de América Latina en un único cuerpo consular en el extranjero"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CELAC - Diplomacia Regional",
+    "p": "En la agenda histórica de concertación de la CELAC, ¿cuál ha sido uno de sus mayores logros de diplomacia preventiva y geopolítica regional, reafirmado por las Cancillerías de la región?",
+    "o": [
+      "La adopción de una política de defensa nuclear común basada en la disuasión frente a las potencias de Europa Oriental",
+      "La Proclama de América Latina y el Caribe como Zona de Paz, adoptada formalmente en la II Cumbre de la CELAC en La Habana, que consagra el compromiso de resolver controversias por medios pacíficos",
+      "La unificación de las leyes penales internas para crear una orden de captura transfronteriza automática sin mediación judicial"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CELAC - Alcance Temático",
+    "p": "Frente a las asimetrías estructurales de las economías caribeñas y latinoamericanas, la CELAC prioriza líneas de trabajo técnico que complementan las agendas nacionales. ¿Qué eje temático define el núcleo de su cooperación técnica regional?",
+    "o": [
+      "La privatización transfronteriza del espectro electromagnético y de la infraestructura satelital de defensa militar",
+      "El desarrollo social, la seguridad alimentaria (a través del Plan SAN-CELAC), la reducción de las desigualdades y la articulación de posiciones comunes ante la crisis climática",
+      "La desgravación arancelaria inmediata de los bienes industriales de capital importados desde zonas francas norteamericanas"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CELAC - Relación con otros mecanismos",
+    "p": "Analizando el fenómeno del 'hiper-regionalismo' o la fragmentación institucional en América Latina, ¿cómo se articula operativamente la CELAC con esquemas subregionales preexistentes como la CAN, el MERCOSUR o el CARICOM?",
+    "o": [
+      "Actúa como un foro de diálogo y concertación política de nivel político superior que no duplica las disciplinas comerciales, respetando y complementando la integración económica y técnica de los bloques subregionales",
+      "Ejerce una subordinación jerárquica que suspende la vigencia de los tribunales comerciales ad hoc de los bloques aduaneros",
+      "Exige la denuncia obligatoria de los tratados de libre comercio multilaterales que los Estados miembros mantengan con la OEA"
+    ],
+    "r": 0
+  },
+  {
+    "c": "ONU - Carta de las Naciones Unidas",
+    "p": "Al analizar la jerarquía normativa del Derecho Internacional Público, un aspirante a la carrera diplomática estudia las implicaciones de la Carta de las Naciones Unidas. De acuerdo con el Artículo 103 de dicho instrumento, ¿qué principio regula la incompatibilidad entre las obligaciones de la Carta y otros tratados bilaterales o regionales?",
+    "o": [
+      "La aplicación de la regla 'lex posterior derogat legi priori', otorgando preferencia automática a los tratados comerciales bilaterales más recientes",
+      "El principio de supremacía de la Carta, según el cual las obligaciones contraídas por los Estados miembros en virtud de ella prevalecerán sobre sus obligaciones derivadas de cualquier otro convenio internacional",
+      "La subordinación de las resoluciones de la Asamblea General a las directrices constitucionales internas de cada Estado parte"
+    ],
+    "r": 1
+  },
+  {
+    "c": "ONU - Consejo de Seguridad",
+    "p": "En el Consejo de Seguridad de la ONU, la adopción de una resolución de fondo sobre el uso de sanciones económicas se ve bloqueada a pesar de contar con catorce votos afirmativos de los miembros. ¿Qué regla procesal y política del sistema de votación del Consejo explica este desenlace?",
+    "o": [
+      "El derecho de veto de los miembros permanentes (P5), que estipula que las decisiones sobre cuestiones de fondo requieren el voto afirmativo o la aquiescencia de los cinco miembros permanentes, bastando un solo voto en contra para archivar la medida",
+      "La falta de quórum calificado de la Asamblea General, que exige la ratificación previa del presupuesto operativo de la misión",
+      "La aplicación de oficio del principio de no intervención consagrado por el Estatuto de Roma de la Corte Penal Internacional"
+    ],
+    "r": 0
+  },
+  {
+    "c": "ONU - Corte Internacional de Justicia",
+    "p": "Una delegación diplomática debe asesorar al gobierno sobre el curso de acción ante un diferendo limítrofe marítimo y la persecución de un exmandatario por crímenes de lesa humanidad. Para ello, debe distinguir claramente las competencias de la Corte Internacional de Justicia (CIJ) y la Corte Penal Internacional (CPI). ¿Cuál es la distinción sustantiva entre ambos tribunales?",
+    "o": [
+      "La CIJ administra únicamente el derecho comercial y marítimo transfronterizo, mientras que la CPI revisa los fallos de casación de las cortes constitucionales americanas",
+      "La CIJ es el órgano judicial principal de la ONU con competencia exclusiva para resolver litigios jurídicos entre Estados soberanos; la CPI es una institución independiente instituida por el Estatuto de Roma para juzgar a personas naturales por crímenes internacionales graves",
+      "Ambas cortes comparten idénticas funciones procesales, diferenciándose únicamente por el origen geográfico de los magistrados que las componen"
+    ],
+    "r": 1
+  },
+  {
+    "c": "ONU - Secretario General",
+    "p": "Ante una inminente crisis humanitaria derivada de un conflicto civil no internacional, el Secretario General de la ONU decide intervenir políticamente invocando el Artículo 99 de la Carta. ¿Qué facultad excepcional le otorga este precepto normativo para alterar el curso de la diplomacia preventiva?",
+    "o": [
+      "La potestad de llamar la atención del Consejo de Seguridad sobre cualquier asunto que, a su juicio, pueda poner en peligro el mantenimiento de la paz y la seguridad internacionales",
+      "La atribución de asumir de manera directa el mando operacional de las fuerzas militares conjuntas sin la autorización previa de los Estados miembros",
+      "La facultad de suspender de forma unilateral el derecho de veto de las potencias permanentes que hagan uso de la fuerza"
+    ],
+    "r": 0
+  },
+  {
+    "c": "ONU - Asamblea General",
+    "p": "Al estudiar la naturaleza jurídica de los actos emanados de los organismos multilaterales, un analista evalúa el valor normativo de las Resoluciones aprobadas por la Asamblea General de la ONU. ¿Cómo se tipifica el alcance vinculante de estos instrumentos desde las fuentes del Derecho Internacional?",
+    "o": [
+      "Constituyen leyes internacionales de aplicación inmediata y rango supraconstitucional, cuya inobservancia genera sanciones pecuniarias automáticas",
+      "Carecen, por regla general, de fuerza jurídica directamente vinculante u obligatoria para los Estados, adoptando el carácter de recomendaciones políticas, aunque pueden catalizar la formación de derecho consuetudinario o constituir estándares de 'soft law'",
+      "Son de obligatorio cumplimiento exclusivo para aquellas naciones clasificadas en la categoría de países de renta baja"
+    ],
+    "r": 1
+  },
+  {
+    "c": "ONU - Misiones de Paz",
+    "p": "El despliegue de una Operación de Mantenimiento de la Paz (OMP) de la ONU en una zona post-conflicto exige la observancia estricta de sus principios fundacionales. ¿Cuáles son las tres premisas doctrinales e institucionales esenciales que deben respetarse para legitimar la presencia de los 'Cascos Azules'?",
+    "o": [
+      "La imposición unilateral de la paz, la subordinación a las agencias privadas de seguridad y el uso ofensivo de armamento pesado",
+      "El consentimiento de las partes en conflicto, la imparcialidad en la ejecución del mandato y el no uso de la fuerza, excepto en legítima defensa o en resguardo del mandato autorizado",
+      "El alineamiento con los intereses del gobierno soberano local, el financiamiento mediante préstamos condicionados y la opacidad operativa"
+    ],
+    "r": 1
+  },
+  {
+    "c": "ONU - Agenda 2030",
+    "p": "Al formular planes de cooperación internacional, las cancillerías alinean sus prioridades con los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030 de la ONU. ¿Qué cambio de paradigma metodológico diferencia sustancialmente a esta agenda frente a los antiguos Objetivos de Desarrollo del Milenio (ODM)?",
+    "o": [
+      "Su carácter universal y multidimensional, concebido para ser aplicado de forma equitativa tanto en economías desarrolladas como en desarrollo, integrando los pilares económico, social y ambiental de manera indivisible",
+      "El enfoque centrado de forma exclusiva en la mitigación militar de las fronteras agrarias para contener los flujos de migración climática",
+      "La sustitución de los flujos de ayuda oficial al desarrollo por un sistema obligatorio de criptoactivos fiscales regulados por la OMC"
+    ],
+    "r": 0
+  },
+    [
+  {
+    "c": "ONU - ECOSOC",
+    "p": "Al evaluar el entramado institucional de la ONU para la formulación de políticas globales de desarrollo, ¿cuál es la función jurídica y operativa central del Consejo Económico y Social (ECOSOC)?",
+    "o": [
+      "Coordinar el trabajo económico y social de los 14 organismos especializados, las comisiones funcionales y las cinco comisiones regionales de la ONU, sirviendo como el foro central para la discusión de recomendaciones internacionales",
+      "Actuar como un tribunal arbitral de única instancia para dirimir controversias sobre barreras arancelarias recíprocas en el marco del soft law global",
+      "Aprobar los presupuestos operacionales de contingencia civil y misiones de mantenimiento de la paz de manera autónoma"
+    ],
+    "r": 0
+  },
+  {
+    "c": "OEA - Marco Jurídico",
+    "p": "La Organización de los Estados Americanos se fundamenta en la Carta de la OEA, suscrita originalmente en la Novena Conferencia Internacional Americana de Bogotá en 1948. Desde la perspectiva del Derecho Internacional Público, ¿cuál es el estatus y naturaleza de este documento?",
+    "o": [
+      "Un tratado constitutivo multilateral vinculante que define la estructura orgánica, los propósitos esenciales y las obligaciones jurídicas de los Estados miembros en el hemisferio",
+      "Una declaración política de principios rectores de carácter voluntario no sujeta a ratificación legislativa por los Congresos nacionales",
+      "Un acuerdo de alcance parcial comercial supeditado a las disciplinas arancelarias aduaneras de la ALADI"
+    ],
+    "r": 0
+  },
+  {
+    "c": "OEA - Carta Democrática",
+    "p": "La adopción de la Carta Democrática Interamericana en Lima (2001) redefinió el alcance de la soberanía estatal en el hemisferio. Ante una alteración que afecte gravemente el orden democrático de un Estado miembro, ¿cuál es el procedimiento multilateral inmediato contemplado en sus artículos 19 y 20?",
+    "o": [
+      "El despliegue automático de fuerzas militares conjuntas del TIAR para restablecer el control territorial institucional",
+      "La realización de gestiones diplomáticas preventivas por parte del Consejo Permanente o el Secretario General y, de persistir la alteración, la convocatoria a una Asamblea General extraordinaria para suspender al Estado con el voto de los dos tercios",
+      "La destitución del poder ejecutivo local mediante una sentencia supletoria expedida por el Comité Jurídico Interamericano"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OEA - Sistema Interamericano de Derechos Humanos",
+    "p": "El Sistema Interamericano de Derechos Humanos posee un diseño bicameral para el trámite de denuncias. ¿Qué órgano ejerce la competencia exclusiva de recibir, analizar e investigar peticiones individuales presentadas por ciudadanos que alegan violaciones a los derechos humanos antes de que el caso pueda llegar a una instancia judicial?",
+    "o": [
+      "El Consejo Permanente de la OEA mediante sus comisiones especiales de asuntos jurídicos y políticos",
+      "La Comisión Interamericana de Derechos Humanos (CIDH), con sede en Washington D.C., actuando como órgano autónomo de la OEA",
+      "El Comité Jurídico Interamericano a través de sus salas plenas de consulta constitucional regional"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OEA - Órganos Principales",
+    "p": "El Consejo Permanente de la OEA se reúne de manera ordinaria en la sede de la organización y está compuesto por un Embajador Representante por cada Estado miembro. ¿Cuál constituye una de sus facultades políticas y diplomáticas prioritarias según la Carta?",
+    "o": [
+      "Administrar de forma privativa e inapelable los fondos de inversión del Banco Interamericano de Desarrollo (BID)",
+      "Velar por el mantenimiento de las relaciones de amistad entre los Estados miembros, ejecutar decisiones de la Asamblea General y actuar provisionalmente como Órgano de Consulta en el marco de la seguridad hemisférica",
+      "Juzgar y dictar fallos penales en contra de los agentes diplomáticos que incurran en desacato civil transfronterizo"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OEA - Seguridad Regional",
+    "p": "El Tratado Interamericano de Asistencia Recíproca (TIAR), adoptado en Río de Janeiro en 1947, constituye un pilar histórico de la seguridad colectiva americana. ¿Cuál es el postulado doctrinal fundamental que rige la activación de este tratado?",
+    "o": [
+      "La renuncia explícita de los Estados partes a conformar alianzas bilaterales de seguridad con naciones del norte global",
+      "El principio de solidaridad hemisférica, según el cual un ataque armado por parte de cualquier Estado contra un Estado americano será considerado como un ataque contra todos los Estados americanos",
+      "La subordinación estatutaria del mando militar de las fuerzas armadas nacionales al Secretario General de la OEA"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OEA - Alcance Geopolítico",
+    "p": "Al trazar las diferencias de diseño institucional entre la OEA y la CELAC, ¿cuál constituye la divergencia estructural más significativa en cuanto al alcance geopolítico de su membresía?",
+    "o": [
+      "La OEA excluye de manera estatutaria a los Estados del Caribe anglófono por razones de asimetría económica",
+      "La OEA es de carácter continental e interamericano, integrando formalmente en su arquitectura jurídica e institucional a Estados Unidos y Canadá",
+      "La OEA es de carácter subregional restrictivo, permitiendo únicamente la adhesión de países con regímenes parlamentarios"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OEA - Secretaría General",
+    "p": "De acuerdo con las disposiciones normativas de la Carta de la OEA, el Secretario General ejerce la dirección del órgano central y permanente de la organización. ¿Cómo se define el alcance político de sus facultades administrativas?",
+    "o": [
+      "Se limita a la ejecución del presupuesto técnico fijado por la CEPAL, careciendo de iniciativa diplomática propia ante crisis de seguridad",
+      "Ejerce como el más alto funcionario administrativo de la Organización y ostenta la facultad de llevar a la atención del Consejo Permanente cualquier asunto que, a su juicio, pueda afectar la paz y la seguridad del Hemisferio",
+      "Posee prerrogativas de carácter legislativo supranacional para emitir directivas de obligatorio cumplimiento normativo interno"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OEA - Corte IDH",
+    "p": "La Corte Interamericana de Derechos Humanos (Corte IDH) representa la máxima instancia judicial del sistema regional. ¿Cuál es la condición sine qua non para que la Corte ejerza su competencia contenciosa y dicte una sentencia condenatoria vinculante contra un Estado?",
+    "o": [
+      "Que el Estado involucrado sea miembro pleno de la OEA y que, además, haya ratificado la Convención Americana sobre Derechos Humanos y declarado expresamente que reconoce como obligatoria la competencia de la Corte",
+      "La emisión previa de un dictamen aprobatorio unánime por parte del Consejo de Seguridad de las Naciones Unidas",
+      "Que el litigio involucre de forma simultánea a un Estado americano y a una potencia comercial extrarregional europea"
+    ],
+    "r": 0
+  },
+  {
+    "c": "OCDE - Naturaleza Jurídica",
+    "p": "La Organización para la Cooperación y el Desarrollo Económicos (OCDE) se diferencia sustancialmente de otros organismos multilaterales tradicionales. ¿Qué enunciado define con precisión su modus operandi y naturaleza institucional?",
+    "o": [
+      "Es una corte arbitral especializada encargada de resolver disputas comerciales derivadas de la aplicación de aranceles no compensatorios",
+      "Es un foro de gobernanza global e intergubernamental centrado en el análisis técnico que opera mediante la recopilación de datos, exámenes de pares ('peer reviews') y la generación de recomendaciones de políticas públicas ('soft law')",
+      "Es una unión aduanera con facultades supranacionales para imponer regímenes fiscales de obligatorio cumplimiento a los Congresos"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OCDE - Antecedentes Históricos",
+    "p": "La arquitectura económica multilateral de la posguerra sentó las bases para los foros técnicos modernos. ¿Cuál fue el antecedente institucional directo de la OCDE, establecido en 1948 con el propósito específico de administrar la ayuda económica del Plan Marshall?",
+    "o": [
+      "La Organización Europea para la Cooperación Económica (OECE)",
+      "La Comunidad Económica del Carbón y del Acero (CECA)",
+      "La Unión Europea de Pagos subordinada al Fondo Monetario Internacional"
+    ],
+    "r": 0
+  },
+  {
+    "c": "OCDE - Adhesión y Estándares",
+    "p": "El proceso de acceso de un nuevo miembro a la OCDE es un ejercicio riguroso de diplomacia económica. ¿Mediante qué mecanismo técnico la organización evalúa de manera vinculante si la legislación y las políticas del país candidato se alinean con sus estándares?",
+    "o": [
+      "A través de auditorías financieras externas licitadas y ejecutadas por corporaciones privadas de consultoría de riesgo",
+      "Mediante exámenes de pares ('peer reviews') detallados y la aprobación formal de comités técnicos especializados que evalúan áreas como gobernanza, fiscalidad, medio ambiente y competencia comercial",
+      "Por medio de un referéndum obligatorio vinculante convocado entre los ciudadanos de los países de renta alta"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OCDE - Política Fiscal (BEPS)",
+    "p": "En el marco de la gobernanza económica internacional contemporánea, la OCDE lidera el marco inclusivo sobre el proyecto BEPS (Erosión de la Base Imponible y Traslado de Beneficios). ¿Cuál es el propósito central de esta iniciativa global?",
+    "o": [
+      "Fomentar la eliminación total de los impuestos sobre la renta corporativa para atraer inversión extranjera directa",
+      "Combatir las estrategias de planificación fiscal transfronteriza que aprovechan las lagunas normativas para trasladar artificialmente los beneficios de empresas multinacionales a jurisdicciones de nula o baja tributación",
+      "Crear una agencia de recaudación fiscal unificada bajo el control exclusivo de la Secretaría General en París"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OCDE - Instrumentos Jurídicos",
+    "p": "Los instrumentos desarrollados en el seno de la OCDE integran lo que se conoce como el 'acervo' de la organización. ¿Qué fuerza legal y alcance diplomático poseen las Recomendaciones adoptadas por el Consejo de la OCDE?",
+    "o": [
+      "Son resoluciones de aplicación forzosa inmediata que imponen la reforma constitucional directa de los Estados bajo amenaza de embargo comercial",
+      "No son jurídicamente vinculantes según el derecho internacional estricto, pero conllevan una alta expectativa política de implementación y ejercen una fuerte presión moral al fijar estándares internacionales de gobernanza",
+      "Carecen de valor pragmático, siendo consideradas por las cancillerías como literatura de carácter puramente escolar"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OCDE - Colombia en la OCDE",
+    "p": "Colombia culminó su proceso formal de ingreso a la OCDE en el año 2020. Desde la perspectiva de la política exterior y el fortalecimiento técnico institucional del país, ¿cuál constituye el beneficio primordial de esta membresía?",
+    "o": [
+      "El acceso preferencial a líneas de crédito de contingencia macroeconómica con tasas de interés flotantes subsidiadas por el FMI",
+      "La inserción en un foro de alta exigencia que valida al país como un destino con estándares robustos de transparencia y gobernanza, permitiendo rediseñar las políticas públicas basadas en evidencia comparable con economías desarrolladas",
+      "La obtención de un derecho de veto comercial absoluto sobre las decisiones de inversión del Comité de Ayuda al Desarrollo"
+    ],
+    "r": 1
+  },
+  {
+    "c": "OCDE - Gobernanza",
+    "p": "La estructura de gobernanza de la OCDE asegura que el control técnico del organismo permanezca en manos de los Estados. ¿Qué órgano ostenta la máxima autoridad para la toma de decisiones presupuestarias y la definición de las prioridades estratégicas?",
+    "o": [
+      "El Consejo, integrado por los representantes permanentes (Embajadores) de todos los países miembros y presidido habitualmente por el Secretario General",
+      "La Dirección de Asuntos Económicos en coordinación directa con la mesa directiva del Parlamento Europeo",
+      "La Secretaría General Ejecutiva actuando bajo un mandato unificado con poderes discrecionales absolutos"
+    ],
+    "r": 0
+  },
+  {
+    "c": "OCDE - Áreas de Acción",
+    "p": "Los estudios e índices multidimensionales de la OCDE gozan de alto prestigio global y sirven como insumo para el diseño institucional. ¿Cuál es su programa insignia de evaluación en el sector educativo a nivel global?",
+    "o": [
+      "PISA (Programa para la Evaluación Internacional de Alumnos), que mide las competencias de estudiantes de 15 años en lectura, matemáticas y ciencias",
+      "El Índice de Capital Humano Estructural administrado en coordinación con la UNESCO",
+      "El Ranking de Sostenibilidad Universitaria de la Agenda de Competitividad Global"
+    ],
+    "r": 0
+  },
+  {
+    "c": "CIDH - Naturaleza Jurídica",
+    "p": "La Comisión Interamericana de Derechos Humanos posee competencias diferenciadas según el estatus convencional del Estado frente al que actúa. Para los Estados partes de la OEA que han ratificado el Pacto de San José, ¿cuál es el instrumento principal que define la base jurídica de su actuación contenciosa?",
+    "o": [
+      "La Declaración Americana de los Derechos y Deberes del Hombre interpretada bajo la Carta Democrática Interamericana",
+      "La Convención Americana sobre Derechos Humanos (Pacto de San José), en concordancia con su Estatuto aprobado por la Asamblea General de la OEA",
+      "El Protocolo General sobre Arbitraje Coercitivo adosado a las directrices del Comité Jurídico de Río de Janeiro"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CIDH - Funciones",
+    "p": "En el marco de su mandato dual de promoción y protección de los derechos humanos en el hemisferio, ¿cuál de las siguientes acciones representa una función típica de protección de carácter técnico-procesal a cargo de la CIDH?",
+    "o": [
+      "Organizar foros de difusión académica dirigidos a las escuelas de cadetes de las fuerzas armadas locales",
+      "Recibir, examinar y tramitar peticiones individuales para determinar la presunta responsabilidad internacional de un Estado por violaciones a los derechos humanos y, de ser el caso, remitir el asunto a la Corte IDH",
+      "Redactar proyectos de reforma constitucional penal en materia de debido proceso para los Congresos nacionales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CIDH - Sistema de Peticiones",
+    "p": "El trámite de una petición ante la CIDH exige el cumplimiento riguroso de requisitos procesales de admisibilidad. ¿Qué condición de procedibilidad es indispensable respecto al sistema judicial nacional de origen?",
+    "o": [
+      "Que se hayan interpuesto y agotado los recursos de la jurisdicción interna del Estado acusado, de conformidad con los principios del Derecho Internacional generalmente reconocidos, salvo excepciones específicas de denegación de justicia",
+      "Contar con un auto aprobatorio vinculante expedido por la sala de casación civil o constitucional del tribunal superior nacional",
+      "Demostrar que la demanda ha sido radicada de manera simultánea ante la secretaría judicial de la Corte Internacional de Justicia"
+    ],
+    "r": 0
+  },
+    [
+  {
+    "c": "CIDH - Medidas Cautelares",
+    "p": "La Comisión Interamericana de Derechos Humanos (CIDH) posee la facultad de solicitar a los Estados la adopción de medidas cautelares conforme al artículo 25 de su Reglamento. ¿Bajo qué criterios normativos concurrentes se otorga este mecanismo de protección tutelar?",
+    "o": [
+      "Únicamente cuando el Estado en cuestión ha sido previamente hallado responsable civil de manera unánime por el Consejo de Seguridad de la ONU",
+      "En situaciones de gravedad y urgencia que presenten un riesgo de daño irreparable a los derechos de las personas o al objeto de una petición pendiente ante el sistema",
+      "Solo si el poder ejecutivo del Estado destinatario ratifica de forma discrecional y voluntaria la procedencia judicial de la solicitud"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CIDH - Relación con la Corte IDH",
+    "p": "Dentro del diseño procesal del Sistema Interamericano, la CIDH cumple un rol fundamental ante la Corte Interamericana de Derechos Humanos (Corte IDH). ¿Cómo se tipifica formalmente su actuación en el marco de un caso contencioso sometido a control jurisdiccional?",
+    "o": [
+      "Actúa como un órgano de apelación de última instancia con potestades expresas para anular o casar los fallos emitidos por San José",
+      "Asume una función procesal cuasi-fiscal, sometiendo el caso ante la Corte en defensa del interés público del sistema y compareciendo en calidad de parte en todas las etapas del litigio",
+      "Ejerce funciones de secretaría administrativa subordinada, encargada de tasar las costas procesales y multas de las víctimas"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CIDH - Composición",
+    "p": "La estructura orgánica de la CIDH está diseñada para garantizar su autonomía técnica frente a las presiones diplomáticas de los gobiernos del hemisferio. ¿Cómo se compone este cuerpo colegiado?",
+    "o": [
+      "Por magistrados penales de carrera comisionados directamente por la Corte Internacional de Justicia de La Haya",
+      "Por siete miembros elegidos a título personal por la Asamblea General de la OEA a partir de listas propuestas por los Estados, debiendo ser personas de alta autoridad moral y reconocida competencia en derechos humanos",
+      "Por los 33 embajadores representantes permanentes ante el Consejo Permanente de la OEA que ostenten el rango de cancilleres"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CIDH - Alcance",
+    "p": "El alcance de las competencias de la CIDH genera recurrentes debates de derecho internacional público. En relación con aquellos Estados miembros de la OEA que no han ratificado la Convención Americana sobre Derechos Humanos, ¿bajo qué marco normativo ejerce la Comisión su mandato de supervisión?",
+    "o": [
+      "Carece de cualquier atribución o jurisdicción sobre sus territorios, quedando dichos Estados exentos de control interamericano",
+      "Ejerce sus facultades de protección y promoción con base en las obligaciones derivadas de la propia Carta de la OEA y de la Declaración Americana de los Derechos y Deberes del Hombre",
+      "Actúa de oficio aplicando de forma directa las leyes penales internas del país con mayor densidad poblacional de la subregión"
+    ],
+    "r": 1
+  },
+  {
+    "c": "CIDH - Informes de País",
+    "p": "Los informes de país emitidos por la CIDH constituyen herramientas complejas de monitoreo estructural en el hemisferio. ¿Cuál es el propósito central de estos instrumentos desde la perspectiva del derecho internacional?",
+    "o": [
+      "Establecer embargos comerciales transfronterizos y habilitar la congelación de activos soberanos en mercados internacionales",
+      "Visibilizar integralmente la situación de los derechos humanos en un Estado, analizar las causas institucionales de las violaciones y formular recomendaciones técnicas orientadas a reformas legales e internas",
+      "Servir de título ejecutivo habilitante para que las fuerzas militares de la OEA procedan con intervenciones de pacificación"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Corte IDH - Naturaleza Jurídica",
+    "p": "La Corte Interamericana de Derechos Humanos constituye una de las dos entidades del sistema regional encargadas de velar por el cumplimiento de las obligaciones convencionales. ¿Cómo se define su naturaleza jurídica esencial?",
+    "o": [
+      "Como una agencia consultiva apolítica supeditada a las directrices de la Comisión de Derecho Internacional de la ONU",
+      "Como una institución judicial autónoma cuyo objetivo prioritario es la aplicación e interpretación vinculante de la Convención Americana sobre Derechos Humanos",
+      "Como un tribunal de arbitraje comercial ad hoc destinado a resolver litigios contractuales entre corporaciones multinacionales y ministerios"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Corte IDH - Competencias",
+    "p": "Al estudiar la arquitectura del Pacto de San José, se advierte que la Corte IDH opera bajo un desdoblamiento funcional específico. ¿Cuáles son las dos competencias principales que configuran su mandato?",
+    "o": [
+      "La competencia ejecutiva presupuestaria y la competencia legislativa supranacional de tipificación penal",
+      "La competencia contenciosa, orientada a resolver litigios sobre la responsabilidad de los Estados, y la competencia consultiva, destinada a la interpretación de la Convención y otros tratados americanos",
+      "La competencia correccional militar hemisférica y la competencia civil ordinaria de cobro coactivo"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Corte IDH - Acceso a la Justicia",
+    "p": "Un peticionario individual alega que las instancias judiciales de su país vulneraron las garantías del debido proceso. Desde la perspectiva del 'locus standi' en el Sistema Interamericano, ¿puede esta persona interponer directamente una demanda contra su Estado ante la Corte IDH?",
+    "o": [
+      "Sí, el acceso a la jurisdicción de la Corte es directo para cualquier ciudadano que demuestre haber agotado los recursos internos de su país",
+      "No, las personas naturales carecen de legitimación directa para activar la jurisdicción contenciosa de la Corte; el caso debe ser sometido previamente ante la CIDH, único órgano (junto a los Estados) facultado para presentar la demanda",
+      "Sí, pero únicamente si el fiscal general del Estado demandado expide una certificación escrita que autorice el litigio internacional"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Corte IDH - Vinculatoriedad",
+    "p": "Las sentencias dictadas por la Corte IDH al concluir un proceso contencioso representan la culminación del control internacional. Conforme al artículo 68.1 de la Convención Americana, ¿qué eficacia jurídica poseen estos fallos?",
+    "o": [
+      "Constituyen exhortos políticos de carácter moral que los Estados partes pueden desatender basándose en su soberanía legislativa interna",
+      "Son decisiones de obligatorio cumplimiento definitivo e inapelable, generando para el Estado la obligación jurídica internacional de ejecutar las reparaciones dictadas",
+      "Son opiniones doctrinales condicionadas a que el Congreso de la República local apruebe una ley de validación por mayoría calificada"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Corte IDH - Control de Convencionalidad",
+    "p": "La doctrina del 'control de convencionalidad' desarrollada de forma pretoriana por la Corte IDH ha transformado el monismo y dualismo jurídico en la región. ¿Qué deber sustantivo impone esta doctrina a los operadores judiciales locales?",
+    "o": [
+      "La obligación de los jueces y órganos de la administración de justicia interna de confrontar las leyes y actos nacionales con las normas de la Convención Americana y la jurisprudencia interpretativa de la Corte IDH",
+      "La potestad discrecional de suspender la vigencia de los tratados internacionales si estos entran en contradicción con decretos presidenciales",
+      "La exigencia de unificar todos los códigos penales del hemisferio bajo los parámetros institucionales de la Unión Europea"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Corte IDH - Composición",
+    "p": "La representatividad de los diversos sistemas jurídicos de la región se refleja en la conformación de la magistratura de San José. ¿Cómo está compuesta la Corte IDH y cuál es el origen de su designación?",
+    "o": [
+      "Por siete jueces, elegidos a título personal en votación secreta por los Estados partes de la Convención Americana durante la Asamblea General de la OEA",
+      "Por once juristas de carrera designados de manera privativa y vitalicia por el Secretario General de la organización",
+      "Por quince magistrados nombrados de forma conjunta por los presidentes de las altas cortes constitucionales del Cono Sur"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Corte IDH - Reparaciones",
+    "p": "El régimen de reparaciones de la Corte IDH excede el mero resarcimiento civil monetario anglosajón, estructurándose bajo los estándares del derecho internacional avanzado. ¿Cuál es el núcleo doctrinario de estas medidas?",
+    "o": [
+      "El castigo pecuniario punitivo e inhabilitación perpetua de los agentes públicos involucrados en el hecho ilícito",
+      "La búsqueda del principio de reparación integral ('restitutio in integrum'), que engloba la restitución, la rehabilitación, las medidas de satisfacción, las garantías de no repetición y las indemnizaciones compensatorias",
+      "La intervención administrativa del aparato judicial del Estado infractor mediante comisionados de la Secretaría de la OEA"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Corte IDH - Alcance Jurisdiccional",
+    "p": "Para que un Estado parte de la OEA pueda ser formalmente demandado y sometido al escrutinio contencioso de la Corte IDH, ¿qué presupuesto procesal indispensable de la soberanía debe acreditarse?",
+    "o": [
+      "Que el Estado haya reconocido formalmente la competencia contenciosa de la Corte, bien de manera expresa por tiempo indefinido o mediante una cláusula ad hoc para un litigio específico",
+      "Que la nación posea un índice de desarrollo institucional validado anualmente por el Comité de Países de Renta Alta de la OCDE",
+      "Que el diferendo involucre disputas territoriales fronterizas reconocidas en la Carta fundacional de las Naciones Unidas"
+    ],
+    "r": 0
+  },
+  {
+    "c": "DDHH - Fundamentos Normativos",
+    "p": "En el análisis dogmático de los derechos humanos a nivel global, se utiliza el término 'Carta Internacional de Derechos Humanos' para delimitar el núcleo duro normativo del sistema universal. ¿Qué instrumentos integran formalmente este bloque?",
+    "o": [
+      "La Declaración Universal de Derechos Humanos de 1948, el Pacto Internacional de Derechos Civiles y Políticos (PIDCP) y el Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC), junto a sus protocolos facultativos",
+      "La Convención de Viena sobre el Derecho de los Tratados, el Estatuto de la CIJ y la Carta de las Naciones Unidas",
+      "La Declaración de Viena, el Estatuto de Roma de la Corte Penal Internacional y las Convenciones de Ginebra sobre Derecho de Guerra"
+    ],
+    "r": 0
+  },
+  {
+    "c": "DDHH - Naturaleza de los Derechos",
+    "p": "El andamiaje de los derechos humanos descansa sobre principios rectores adoptados en foros multilaterales. ¿Qué implica en términos conceptuales y prácticos el principio de 'indivisibilidad' e 'interdependencia' de estos derechos?",
+    "o": [
+      "Que los derechos civiles y políticos ostentan primacía jurídica sobre las agendas de desarrollo económico de los Estados",
+      "Que no existe una jerarquía intrínseca entre las diferentes categorías de derechos; la satisfacción de los derechos civiles es indisociable del cumplimiento de las garantías sociales, económicas y ambientales",
+      "Que los gobiernos soberanos conservan la facultad de priorizar qué derechos implementar de acuerdo con el ciclo político macroeconómico"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DDHH - Obligaciones del Estado",
+    "p": "La dogmática del Derecho Internacional de los Derechos Humanos impone obligaciones de estructura piramidal a las autoridades estatales. ¿Qué conducta específica le exige a un Estado el cumplimiento de su obligación de 'proteger'?",
+    "o": [
+      "Abstenerse de interferir de manera directa, a través de sus agentes armados o funcionarios, en el goce legítimo de las libertades individuales",
+      "Adoptar medidas normativas, policiales y regulatorias eficaces para impedir que terceras partes (actores particulares, corporaciones o grupos al margen de la ley) vulneren los derechos humanos de las personas bajo su jurisdicción",
+      "Garantizar la financiación ilimitada de los subsidios de desempleo mediante la emisión monetaria autónoma de su Banca Central"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DDHH - Derechos Intransferibles",
+    "p": "Durante estados de excepción, conmoción interior o guerra exterior, las convenciones internacionales autorizan la suspensión restrictiva de ciertas libertades. Sin embargo, existen los denominados derechos no derogables ('non-derogable rights'). ¿Cuál es su estatus jurídico?",
+    "o": [
+      "Aquellos derechos de carácter puramente patrimonial colectivos que pueden suspenderse temporalmente con aval de los órganos legislativos nacionales",
+      "Un núcleo inderogable de derechos fundamentales esenciales (como la vida, la prohibición de la tortura y la esclavitud) que no pueden suspenderse bajo ninguna circunstancia, ni siquiera ante las amenazas más graves a la seguridad del Estado",
+      "Garantías individuales sujetas a reciprocidad diplomática en caso de conflicto armado internacional"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DDHH - DIDH vs DIH",
+    "p": "Para un analista internacional, la delimitación de las fronteras jurídicas entre el Derecho Internacional de los Derechos Humanos (DIDH) y el Derecho Internacional Humanitario (DIH) es crucial. ¿Cuál constituye la distinción cardinal respecto a sus ámbitos de aplicación temporal y fáctico?",
+    "o": [
+      "El DIDH rige de manera continua y permanente tanto en tiempos de paz como de conflicto, mientras que el DIH se activa de forma exclusiva como lex specialis en situaciones de conflicto armado (sea este de carácter internacional o interno)",
+      "El DIDH obliga de forma exclusiva a los ciudadanos individuales y el DIH vincula de manera privativa a los ejércitos de las potencias del Consejo de Seguridad",
+      "Ambos cuerpos normativos son sinónimos absolutos desarrollados con fines retóricos por los comités de la Asamblea General de la ONU"
+    ],
+    "r": 0
+  },
+  {
+    "c": "DDHH - Institucionalidad ONU",
+    "p": "El Consejo de Derechos Humanos de las Naciones Unidas, con sede en Ginebra, implementa mecanismos de control político-técnico. ¿Cómo se denomina el ejercicio periódico intergubernamental mediante el cual se examina la situación general de DDHH de los 193 Estados miembros de la organización?",
+    "o": [
+      "El Examen Periódico Universal (EPU), un mecanismo basado en informes estatales, evaluaciones de expertos independientes y diálogo interactivo de pares",
+      "El Juicio de Responsabilidad Convencional de la Sala de Cuestiones Preliminares de la Corte Penal Internacional",
+      "La Auditoría General Multilateral de la Comisión del Estatuto Jurídico de las Minorías de la OEA"
+    ],
+    "r": 0
+  },
+  {
+    "c": "DDHH - Derechos Económicos, Sociales y Culturales (DESC)",
+    "p": "El Pacto Internacional de los DESC introduce una modulación operativa para las obligaciones estatales mediante la cláusula de 'realización progresiva' contenida en su artículo 2. ¿Qué alcance normativo tiene este concepto en el marco multilateral?",
+    "o": [
+      "Una licencia jurídica para que los Estados posterguen indefinidamente la ejecución de políticas sociales hasta alcanzar el pleno desarrollo industrial",
+      "La obligación de adoptar medidas inmediatas, deliberadas y concretas utilizando el máximo de los recursos disponibles para avanzar de forma constante y medible hacia la plena efectividad de estos derechos, prohibiendo la regresividad arbitraria",
+      "Un principio puramente programático que despoja a los DESC de exigibilidad jurídica ante los tribunales nacionales e internacionales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DDHH - Responsabilidad Internacional",
+    "p": "Cuando un Estado ratifica de manera soberana un tratado multilateral de derechos humanos, ¿cómo se configura su régimen de responsabilidad jurídica en el plano del Derecho Internacional Público?",
+    "o": [
+      "Se restringe a la órbita de sus propios tribunales nacionales constitucionales bajo el principio de soberanía absoluta",
+      "Responde ante la comunidad internacional y los sujetos del tratado a través de los órganos de control instituidos (como Comités de Tratados o Cortes Regionales), cuya competencia ha reconocido formalmente al obligarse",
+      "Queda condicionado de forma exclusiva a las transferencias de capital del sector privado que subsidia las agendas sociales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DIH - Instrumentos Fundamentales",
+    "p": "Al analizar la evolución dogmática de las restricciones a los medios y métodos de guerra, ¿cuál es considerada la piedra angular del Derecho Internacional Humanitario moderno surgida tras la Segunda Guerra Mundial?",
+    "o": [
+      "Los estatutos penales de los Tribunales Militares Internacionales de Núremberg y Tokio",
+      "Los cuatro Convenios de Ginebra del 12 de agosto de 1949, destinados a proteger a las víctimas de los conflictos armados y a los no combatientes",
+      "Los reglamentos anexos a las Conferencias de Paz de La Haya de 1899 y 1907"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DIH - Principios Generales",
+    "p": "En la conducción de operaciones militares, el principio de 'Distinción' constituye una norma imperativa de derecho consuetudinario. ¿Qué obligación sustantiva e inmediata impone este principio a los comandantes en el terreno?",
+    "o": [
+      "Optimizar la capacidad destructiva del armamento convencional para acelerar el colapso logístico del adversario",
+      "Distinguir en todo momento entre la población civil y los combatientes, así como entre bienes de carácter civil y objetivos militares, dirigiendo las hostilidades exclusivamente contra estos últimos",
+      "Categorizar a las fuerzas enemigas en función de su origen étnico o nacionalidad para modular el trato penitenciario"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DIH - Proporcionalidad",
+    "p": "Durante la planeación de un ataque contra un objetivo militar legítimo que alberga sistemas de comunicación del enemigo, los asesores jurídicos evalúan el principio de 'Proporcionalidad'. ¿Qué prohibición específica consagra este mandato doctrinal del DIH?",
+    "o": [
+      "Lanzar un ataque cuando sea previsible que cause de manera incidental muertos o heridos entre la población civil, o daños a bienes civiles, que sean excesivos en relación con la ventaja militar concreta y directa prevista",
+      "Utilizar armamento táctico cuya tasa de letalidad sea asimétrica respecto al arsenal defensivo desplegado por las fuerzas insurgentes",
+      "Efectuar ofensivas que generen un número de bajas combatientes superior al registrado en las propias filas de las fuerzas regulares"
+    ],
+    "r": 0
+  },
+  {
+    "c": "DIH - Conflictos no Internacionales",
+    "p": "En el marco de un conflicto armado interno que no alcanza los umbrales de intensidad del Protocolo Adicional II, ¿qué disposición convencional es catalogada unánimemente como un 'mini-tratado' autoejecutable que salvaguarda un núcleo mínimo humanitario?",
+    "o": [
+      "El Artículo 3 común a los cuatro Convenios de Ginebra de 1949, que prohíbe los tratos crueles, la tortura y las ejecuciones sin juicio previo",
+      "Las cláusulas de exclusión punitiva del Estatuto de la Corte Internacional de Justicia",
+      "La Convención sobre la imprescriptibilidad de los crímenes de guerra y de los crímenes de lesa humanidad de la ONU"
+    ],
+    "r": 0
+  },
+  {
+    "c": "DIH - Prisioneros de Guerra",
+    "p": "El Tercer Convenio de Ginebra regula el estatuto jurídico de los prisioneros de guerra en conflictos internacionales. ¿Cuál constituye la mayor garantía procesal e individual que este instrumento otorga al combatiente capturado por el enemigo?",
+    "o": [
+      "La repatriación obligatoria y el indulto financiero en las primeras setenta y dos horas posteriores a la captura física",
+      "La inmunidad de combate, que les prohíbe ser juzgados por el mero hecho de haber tomado parte legítima en las hostilidades, exigiendo además un trato humano y protección constante contra actos de violencia",
+      "El derecho a mantener el mando operacional de sus unidades subordinadas desde el interior de los centros de reclusión del estado captor"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DIH - Rol del CICR",
+    "p": "El Comité Internacional de la Cruz Roja (CICR) posee un mandato explícito conferido por la comunidad internacional. ¿Cuál es su función primordial en el teatro de un conflicto armado, de acuerdo con las Convenciones de Ginebra?",
+    "o": [
+      "Operar como una fuerza multinacional armada de interposición bajo el mando directo del Departamento de Operaciones de Paz de la ONU",
+      "Actuar como una organización humanitaria, neutral e independiente que funge como guardiana del DIH, supervisando el trato a los detenidos, buscando personas desaparecidas y prestando protección a las víctimas",
+      "Ejercer la potestad jurisdiccional penal para instruir cargos por crímenes de guerra contra los mandos militares"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DIH - Prohibiciones",
+    "p": "La codificación del DIH establece límites estrictos al derecho de las partes en conflicto a elegir los métodos y medios de hacer la guerra. ¿Qué criterio normativo rige la prohibición del uso de ciertas armas convencionales y no convencionales?",
+    "o": [
+      "La falta de patentes comerciales vigentes registradas ante la Organización Mundial de la Propiedad Intelectual",
+      "La prohibición de aquellas armas que, por su propia naturaleza, causen sufrimientos innecesarios o males superfluos a los combatientes, o que posean efectos indiscriminados que escapen al control militar",
+      "El costo macroeconómico de su fabricación en relación con el producto interno bruto de los Estados en desarrollo"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DIH - Protección Sanitaria",
+    "p": "El uso de los emblemas oficiales de la Cruz Roja, la Media Luna Roja y el Cristal Rojo está estrictamente regulado en el Derecho Internacional Humanitario. ¿Qué estatus jurídico confiere la exhibición legítima de estos símbolos en una zona de combate?",
+    "o": [
+      "Identifica la adscripción religiosa e ideológica de las autoridades civiles del territorio",
+      "Otorga protección especial visible a las unidades y medios de transporte médicos, hospitales civiles y militares, y al personal sanitario y religioso autorizado, volviendo ilegal cualquier ataque en su contra",
+      "Señala la ubicación de activos logísticos de almacenamiento de materias primas minero-energéticas"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DAI - Caso Fundacional",
+    "p": "Al estudiar el origen jurisprudencial del Derecho Internacional Ambiental (DAI), se analiza el laudo arbitral del Caso de la Fundición de Trail (Trail Smelter, 1941) entre Estados Unidos y Canadá. ¿Qué principio consuetudinario fundamental consagró este fallo?",
+    "o": [
+      "La soberanía absoluta del Estado sobre sus recursos naturales, sin responsabilidad por externalidades atmosféricas",
+      "La obligación de diligencia debida (sic utere tuo ut alienum non laedas), determinando que ningún Estado tiene derecho a usar o permitir el uso de su territorio de modo que cause daños por emanaciones en el territorio de otro Estado",
+      "El principio de responsabilidades compartidas pero diferenciadas fundamentado en el comercio de derechos de emisión"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DAI - Estructura Institucional",
+    "p": "Dentro de la gobernanza ambiental multilateral, los tratados de alcance global instituyen la Conferencia de las Partes (COP) como su órgano supremo. ¿Cuál es su competencia prioritaria en la arquitectura de un tratado como la CMNUCC?",
+    "o": [
+      "Ejercer facultades legislativas directas que modifican de manera automática las cartas constitucionales de los Estados miembros",
+      "Examinar periódicamente la implementación de la Convención y evaluar el cumplimiento de los compromisos, adoptando las decisiones e instrumentos necesarios para promover su aplicación efectiva",
+      "Sancionar pecuniariamente con multas coercitivas de cobro coactivo a las economías que registren déficit ambientales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DAI - Protocolo de Montreal",
+    "p": "El Protocolo de Montreal (1987) es citado por la diplomacia multilateral como el tratado ecológico más exitoso a nivel global. ¿Qué factor estructural y temático define el núcleo de su régimen normativo?",
+    "o": [
+      "La limitación de las emisiones industriales de dióxido de carbono derivadas del transporte transfronterizo",
+      "El establecimiento de controles jurídicos vinculantes para la producción y el consumo de Sustancias Agotadoras de la Capa de Ozono (SAO), con el fin de lograr su eliminación progresiva y total",
+      "La fiscalización internacional de los vertimientos de residuos radiactivos de alta actividad en aguas internacionales de alta mar"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DAI - Acuerdo de París",
+    "p": "El Acuerdo de París de 2015 modificó la gobernanza climática global al distanciarse de la rigidez vertical del Protocolo de Kioto. ¿En qué consiste conceptualmente su enfoque metodológico de abajo hacia arriba ('bottom-up')?",
+    "o": [
+      "En la imposición centralizada de topes de emisión dictados de forma obligatoria por el secretariado técnico de la ONU",
+      "En la adopción de las Contribuciones Determinadas a Nivel Nacional (NDC), mediante las cuales cada Estado formula, comunica y actualiza de manera soberana y progresiva sus propios compromisos de mitigación y adaptación",
+      "En la transferencia directa de la autoridad ambiental local a comités técnicos integrados exclusivamente por ONG ambientales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DAI - Biodiversidad",
+    "p": "El Convenio sobre la Diversidad Biológica (CDB), adoptado en la Cumbre de la Tierra de Río de Janeiro de 1992, representa un tratado sistémico. ¿Cuáles son los tres pilares u objetivos interconectados que configuran su mandato internacional?",
+    "o": [
+      "La veda comercial pesquera, el control de la caza deportiva transfronteriza y el patentamiento de semillas transgénicas",
+      "La conservación de la diversidad biológica, el uso sostenible de sus componentes y la participación justa y equitativa en los beneficios que se deriven de la utilización de los recursos genéticos",
+      "La reforestación obligatoria del espectro amazónico, la bioprospección corporativa y la abolición de las zonas francas agroindustriales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DAI - Derecho Consuetudinario",
+    "p": "En su jurisprudencia contemporánea, la Corte Internacional de Justicia ha delimitado el estatus normativo de la Evaluación de Impacto Ambiental (EIA) ante proyectos con potencial de afectación transfronteriza. ¿Cómo se tipifica esta figura en el Derecho Internacional Público?",
+    "o": [
+      "Como una recomendación doctrinal de carácter voluntario que los Estados pueden omitir fundándose en su seguridad nacional",
+      "Como una obligación general del derecho internacional consuetudinario, vinculada a la debida diligencia, que exige evaluar el impacto ambiental de actividades industriales susceptibles de causar un daño transfronterizo significativo",
+      "Como un requisito administrativo interno aplicable únicamente a aquellos países que reciben flujos de ayuda oficial al desarrollo"
+    ],
+    "r": 1
+  },
+  {
+    "c": "DAI - Agenda 2030",
+    "p": "Al integrar las variables ecológicas y de desarrollo en la Agenda 2030 de la ONU, la diplomacia multilateral reafirmó los principios de Río. ¿Qué premisa metodológica define la relación entre la mitigación ambiental y el crecimiento económico en los ODS?",
+    "o": [
+      "La subordinación absoluta de la conservación biológica a los ciclos de acumulación de capital de los mercados de renta alta",
+      "El principio de desarrollo sostenible, según el cual el progreso económico, la inclusión social y la protección ambiental son pilares interdependientes que deben integrarse de manera equilibrada e indivisible",
+      "La teoría del decrecimiento obligatorio inmediato, que cataloga a la industrialización como incompatible con los derechos de la naturaleza"
+    ],
+    "r": 1
+  },
+  {
+    "c": "TLC Colombia-EE.UU. - Temas Transversales",
+    "p": "El Acuerdo de Promoción Comercial entre Colombia y los Estados Unidos incorporó capítulos específicos sobre Trabajo (Capítulo 17) y Medio Ambiente (Capítulo 18). ¿Qué obligación jurídica sustantiva imponen estos apartados a las autoridades de las Partes?",
+    "o": [
+      "La derogación inmediata de sus códigos internos para asimilar de forma directa la legislación federal estadounidense",
+      "El deber de aplicar efectivamente sus propias leyes laborales y ambientales nacionales, prohibiendo explícitamente debilitar o reducir dichas protecciones con el propósito de incentivar el comercio o la inversión extranjera",
+      "La sumisión obligatoria de los diferendos salariales domésticos a la jurisdicción exclusiva de las salas de arbitraje de la OMC"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho del Mar",
+    "p": "La Convención de las Naciones Unidas sobre el Derecho del Mar (CONVEMAR) de 1982 establece una zonificación precisa de los espacios marítimos. Conforme a su artículo 3, ¿cuál es la extensión máxima permitida para fijar la anchura del Mar Territorial medido desde las líneas de base?",
+    "o": [
+      "Un límite que no supere las 12 millas náuticas, sobre el cual el Estado ribereño ejerce plena soberanía, sujeta al derecho de paso inocente",
+      "Una franja adyacente fija de 24 millas náuticas que delimita la zona de persecución aduanera y fiscal prioritaria",
+      "Una extensión de 200 millas náuticas computadas a partir del límite exterior de la plataforma continental geológica"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Geopolítica - Coyuntura",
+    "p": "La arquitectura global contemporánea experimenta transformaciones en sus foros de concertación económica, evidenciadas en la expansión de bloques de economías emergentes. ¿Qué mecanismo amplió significativamente su densidad geopolítica al incorporar formalmente a nuevos miembros de África y Medio Oriente en su cumbre reciente?",
+    "o": [
+      "El Grupo de los Siete (G7), fortaleciendo las alianzas estratégicas del Atlántico Norte",
+      "El bloque de los BRICS, proyectando un contrapeso al orden financiero tradicional mediante la inclusión de países como Egipto, Etiopía e Irán",
+      "La OCDE, a través de su Comité de Ayuda al Desarrollo destinado a las naciones de renta baja"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Administración Pública",
+    "p": "El Decreto Único Reglamentario 1067 de 2015 compila las normas del sector administrativo de Relaciones Exteriores en Colombia. Conforme a esta normativa, ¿cuál es el eje misional y la competencia exclusiva asignada a este sector del poder ejecutivo?",
+    "o": [
+      "La administración privativa de las aduanas nacionales y la fijación unilateral de los aranceles de importación",
+      "Formular, planear, ejecutar y evaluar la política exterior de Colombia, así como dirigir las relaciones diplomáticas y consulares y coordinar el Sistema de la Carrera Diplomática",
+      "El trámite y expedición exclusiva de los pasaportes ordinarios, desprovisto de iniciativa de concertación multilateral en la ONU"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Humanitario",
+    "p": "Los cuatro Convenios de Ginebra del 12 de agosto de 1949 constituyen el eje axiomático del derecho de los conflictos armados. ¿Hacia dónde se dirige principalmente el ámbito de protección de este régimen de 'lex specialis'?",
+    "o": [
+      "Hacia la salvaguarda de las víctimas de los conflictos armados y las personas rezagadas de los combates (heridos, enfermos, náufragos, prisioneros de guerra y población civil bajo ocupación)",
+      "Hacia la prohibición absoluta de la producción y el despliegue táctico de armas químicas y bacteriológicas en teatros de operaciones transfronterizos",
+      "Hacia la fiscalización y control del comercio de armamento convencional mediante licencias aduaneras multilaterales"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Historia Diplomática de Colombia",
+    "p": "Durante la reconfiguración del orden multilateral posterior a la Segunda Guerra Mundial, la delegación colombiana desempeñó un rol destacado en los foros constituyentes globales. ¿Qué jurista y estadista colombiano presidió la delegación que participó en la Conferencia de San Francisco y suscribió formalmente la Carta de las Naciones Unidas en 1945?",
+    "o": [
+      "Alberto Lleras Camargo, quien además impulsó el reconocimiento regional de la OEA frente al Consejo de Seguridad",
+      "Alfonso López Michelsen, en su calidad de jefe del ala constitucionalista de la diplomacia liberal",
+      "Eduardo Santos, actuando de forma privativa como enviado plenipotenciario ante el Comité de Sanciones de la Sociedad de Naciones"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Protocolo y Etiqueta",
+    "p": "Conforme a las reglas codificadas en la Convención de Viena sobre Relaciones Diplomáticas de 1961, el orden de precedencia es fundamental para la formalidad diplomática. ¿Qué criterio normativo determina con carácter general la prioridad entre los jefes de misión que ostentan exactamente la misma clase?",
+    "o": [
+      "El tamaño relativo del Producto Interno Bruto o el poder militar acumulado por el Estado acreditante",
+      "La fecha y la hora exacta en que el jefe de misión haya asumido sus funciones mediante la presentación formal de sus Cartas Credenciales ante el jefe de Estado receptor",
+      "El riguroso orden alfabético de las denominaciones oficiales de los Estados en el idioma oficial del Ministerio de Relaciones Exteriores local"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Geografía y Límites",
+    "p": "La delimitación de las fronteras marítimas de Colombia en la cuenca del Caribe está determinada por un complejo entramado de tratados multilaterales y bilaterales. ¿Con cuál de las siguientes naciones ribereñas Colombia NO comparte fronteras o límites marítimos en dicho espacio geográfico?",
+    "o": [
+      "Costa Rica, delimitado mediante instrumentos bilaterales sobre áreas marinas y submarinas",
+      "Haití, regulado bajo los parámetros del Tratado Liévano-Brutus",
+      "Guatemala, debido a la interposición geográfica de los espacios marítimos de las naciones del istmo centroamericano"
+    ],
+    "r": 2
+  },
+  {
+    "c": "Organismos Internacionales",
+    "p": "La Carta de las Naciones Unidas distribuye competencias específicas entre sus órganos principales para el mantenimiento del orden institucional mundial. ¿Cuál de ellos posee la facultad de dictar resoluciones de cumplimiento jurídico obligatorio ('vinculantes') para todos los Estados miembros?",
+    "o": [
+      "La Asamblea General, cuyas declaraciones revisten carácter predominantemente recomendatorio o de 'soft law'",
+      "El Consejo de Seguridad, actuando bajo las prerrogativas del Capítulo VII de la Carta fundacional",
+      "La Corte Internacional de Justicia, restringida exclusivamente a la emisión de opiniones consultivas no vinculantes para las partes litigantes"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior - Migración",
+    "p": "En respuesta a la crisis de flujos migratorios mixtos procedentes de Venezuela, Colombia diseñó un instrumento de regularización migratoria fundamentado en razones humanitarias. ¿Qué denominación técnica recibe este mecanismo que otorga un marco de regularidad por un lapso de 10 años?",
+    "o": [
+      "El Estatuto Temporal de Protección para Migrantes Venezolanos (ETPV), instrumentado bajo un registro único y un sistema de control biométrico",
+      "El Permiso Especial de Permanencia (PEP), concebido de manera temporal para la convalidación de títulos universitarios extranjeros",
+      "La Visa de Residente de Oficio por Razones de Emergencia Humanitaria, supeditada a cuotas fijadas por el Ministerio del Trabajo"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho de los Tratados",
+    "p": "La Convención de Viena sobre el Derecho de los Tratados de 1969 define con precisión los actos jurídicos unilaterales. Según su artículo 2.1.d, ¿qué constituye sustantivamente una 'Reserva'?",
+    "o": [
+      "Un protocolo aclaratorio de carácter reservado que los Estados pactan bilateralmente para no divulgar el financiamiento de un acuerdo",
+      "Una declaración unilateral hecha por un Estado al firmar, ratificar, aceptar o aprobar un tratado, con el objeto de excluir o modificar los efectos jurídicos de ciertas disposiciones en su aplicación a ese Estado",
+      "Un mecanismo suspensivo que posterga indefinidamente la entrada en vigor del instrumento internacional hasta que se verifique la reciprocidad diplomática"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Corte Penal Internacional",
+    "p": "El Estatuto de Roma consagra el principio de complementariedad y delimita estrictamente la competencia material de la Corte Penal Internacional (CPI). ¿Cuál de las siguientes conductas típicas transnacionales NO está incluida dentro de su jurisdicción?",
+    "o": [
+      "El crimen de agresión, conforme a las enmiendas adoptadas por la Conferencia de Kampala",
+      "El narcotráfico internacional de estupefacientes y el lavado de activos transfronterizo, los cuales permanecen bajo la competencia de las jurisdicciones penales nacionales",
+      "Los crímenes de lesa humanidad perpetrados como parte de un ataque generalizado o sistemático contra una población civil"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Asuntos Consulares",
+    "p": "La asistencia consular representa uno de los pilares de la protección de los nacionales en el exterior. Conforme al artículo 36 de la Convención de Viena sobre Relaciones Consulares de 1963, ¿qué prerrogativa asiste inmediatamente a un ciudadano extranjero al ser privado de la libertad?",
+    "o": [
+      "El derecho a exigir que las autoridades del Estado receptor informen sin demora a la oficina consular competente sobre su arresto o detención, y a que se transmitan sus comunicaciones",
+      "El derecho a que el cuerpo consular asuma de forma coactiva la representación judicial directa penal y sufrague la fianza correspondiente con cargo al tesoro público",
+      "La expedición automática de un pasaporte diplomático que suspenda de forma inmediata la competencia penal del tribunal del Estado receptor"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Teoría de RRII",
+    "p": "La escuela del realismo político clásico y estructural (neorrealismo) ofrece un marco analítico riguroso sobre la estabilidad internacional. ¿Cuál es el actor central y preferente del sistema según los supuestos fundamentales de esta corriente teórica?",
+    "o": [
+      "Las corporaciones multinacionales y los bloques de integración económica regional",
+      "El Estado soberano, caracterizado como un actor racional, unitario y autónomo que opera bajo condiciones de anarquía internacional",
+      "Las organizaciones no gubernamentales transnacionales dedicadas al litigio estratégico"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Economía Internacional",
+    "p": "En el marco de la arquitectura financiera multilateral surgida de los acuerdos de Bretton Woods, cada institución posee un mandato especializado. ¿Qué entidad tiene la misión de supervisar la estabilidad del sistema monetario internacional, promover la estabilidad cambiaria y brindar liquidez temporal ante crisis de balanza de pagos?",
+    "o": [
+      "El Banco Internacional de Reconstrucción y Fomento (Banco Mundial)",
+      "El Fondo Monetario Internacional (FMI), mediante la asignación de Derechos Especiales de Giro (DEG) y programas de ajuste estructural",
+      "La Organización Mundial del Comercio (OMC), a través de sus paneles de solución de diferencias arancelarias"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho del Mar",
+    "p": "La Convención de las Naciones Unidas sobre el Derecho del Mar (CONVEMAR) de 1982 codificó el estatus de la Zona Económica Exclusiva (ZEE). ¿Cómo se delimita jurídicamente este espacio y qué derechos ejerce allí el Estado ribereño?",
+    "o": [
+      "Una franja de 12 millas náuticas donde el Estado ejerce soberanía absoluta e irrestricta sobre el espacio aéreo y el lecho marino",
+      "Un área adyacente al mar territorial que se extiende hasta las 200 millas náuticas, donde el Estado ribereño goza de derechos de soberanía para los fines de exploración, explotación, conservación y administración de los recursos naturales",
+      "Un espacio de alta mar exento de regulaciones ambientales nacionales, destinado exclusivamente al libre tránsito de flotas pesqueras de bandera extranjera"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Estado Colombiano",
+    "p": "Dentro de la estructura orgánica del poder público en Colombia, la jurisdicción de lo contencioso administrativo cuenta con un órgano de cierre. ¿Cuál es la principal función constitucional que ejerce el Consejo de Estado?",
+    "o": [
+      "Actuar como el máximo tribunal de la jurisdicción contencioso-administrativa y desempeñarse como cuerpo supremo consultivo del Gobierno nacional en asuntos de administración",
+      "Ejercer el control preferente disciplinario sobre los empleados públicos y dictar sentencias de inhabilitación política corporativa",
+      "Efectuar la auditoría externa del gasto público y resolver las apelaciones en materia de responsabilidad fiscal"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Estado Colombiano",
+    "p": "La Carta Política de 1991 introdujo mecanismos de protección ciudadana para robustecer el Estado Social de Derecho. ¿Qué instrumento constitucional permite reclamar ante los jueces la protección inmediata de los derechos fundamentales cuando estos resulten vulnerados o amenazados?",
+    "o": [
+      "La Acción Popular, orientada a salvaguardar la moralidad administrativa y el equilibrio ecológico",
+      "La Acción de Tutela, caracterizada por ser un procedimiento preferente, sumario y subsidiario ante la inexistencia de otros medios de defensa judicial eficaces",
+      "La Acción de Cumplimiento, diseñada de manera privativa para obligar a la administración a ejecutar leyes sustantivas de carácter arancelario"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Estado Colombiano",
+    "p": "En el constitucionalismo colombiano, la doctrina del 'bloque de constitucionalidad' modula la jerarquía normativa de las fuentes de derecho. ¿Qué premisa sustenta la incorporación de este concepto según la jurisprudencia de la Corte Constitucional?",
+    "o": [
+      "La asimilación de los Tratados de Libre Comercio dentro de la categoría de normas con supremacía legal sobre los códigos internos",
+      "La integración de ciertas normas y principios internacionales (como los tratados de derechos humanos ratificados que prohíben su limitación en estados de excepción y las normas de DIH) que poseen el mismo rango que el texto constitucional",
+      "El reconocimiento de que los decretos reglamentarios expedidos por el poder ejecutivo prevalecen sobre el texto sustantivo de la Carta Política"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Estado Colombiano",
+    "p": "La Constitución de 1991 descentralizó y distribuyó funciones institucionales mediante órganos autónomos encargados de tareas especializadas. ¿Cuál de las siguientes entidades goza de autonomía constitucional e independencia frente a las ramas del poder público?",
+    "o": [
+      "El Ministerio del Interior, adscrito al sector central del poder ejecutivo",
+      "El Banco de la República, encargado en su calidad de banca central de velar por el mantenimiento del poder adquisitivo de la moneda y coordinar la política monetaria",
+      "La Superintendencia de Industria y Comercio, subordinada a los lineamientos del sector administrativo de desarrollo económico"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Estado Colombiano",
+    "p": "El Ministerio Público en Colombia está estructurado para salvaguardar el orden constitucional y los derechos ciudadanos. ¿Cuál constituye la función medular de la Procuraduría General de la Nación dentro de este diseño institucional?",
+    "o": [
+      "Dirigir de forma privativa la investigación del delito y coordinar el despliegue judicial de los cuerpos policiales de inteligencia",
+      "Ejercer el control disciplinario preferente sobre los servidores públicos y particulares que ejercen funciones públicas, adelantando las investigaciones e imponiendo las sanciones respectivas",
+      "Administrar el presupuesto general de la judicatura y definir el mapa de competencias territoriales de los juzgados penales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Historia Contemporánea",
+    "p": "El Frente Nacional (1958-1974) representó una fórmula político-institucional de transición en la historia del siglo XX colombiano. ¿Cuál fue el propósito central de este acuerdo de coalición bipartidista?",
+    "o": [
+      "Promover una reforma agraria de carácter socialista e industrializar el aparato productivo rural mediante la sustitución de importaciones",
+      "Estabilizar el orden público y mitigar la violencia civil mediante la alternancia periódica de la presidencia y la distribución equitativa de los cargos burocráticos entre los partidos Liberal y Conservador",
+      "Derogar la vigencia del régimen representativo para instituir un modelo de federalismo confederado en las regiones"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Historia Contemporánea",
+    "p": "La Asamblea Nacional Constituyente de 1991 significó un punto de inflexión en la evolución democrática del país. ¿Qué transformación cualitativa caracterizó la adopción del nuevo texto constitucional frente al régimen precedente de 1886?",
+    "o": [
+      "La centralización absoluta de las rentas públicas y la eliminación del control difuso de constitucionalidad judicial",
+      "El tránsito hacia un Estado Social de Derecho, caracterizado por la ampliación democrática, el reconocimiento del pluralismo cultural, la consagración de una robusta carta de derechos fundamentales y nuevos mecanismos de participación ciudadana",
+      "La prohibición de la descentralización territorial y la abolición definitiva del control de convencionalidad interamericano"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Historia Contemporánea",
+    "p": "Durante la administración del presidente César Gaviria Trujillo, la política económica colombiana experimentó un viraje estructural conocido como la 'Apertura Económica'. ¿En qué consistió fundamentalmente esta estrategia de desarrollo?",
+    "o": [
+      "En el fortalecimiento del modelo de industrialización por sustitución de importaciones (ISI) mediante el incremento de barreras no arancelarias",
+      "En la liberalización comercial y desregulación de los mercados, orientada a la reducción sustancial de los aranceles y a la inserción de la economía nacional en los flujos comerciales globales",
+      "En la nacionalización de los activos minero-energéticos y el monopolio estatal de los canales de comercio exterior"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho del Mar",
+    "p": "La Convención de las Naciones Unidas sobre el Derecho del Mar (CONVEMAR) define el estatus de la Zona Económica Exclusiva (ZEE). ¿Sobre qué variables ejerce derechos de soberanía el Estado ribereño en dicha franja marítima?",
+    "o": [
+      "Sobre la soberanía territorial plena y absoluta con facultad implícita de restringir el paso inocente o sobrevuelo de naves extranjeras",
+      "Para los fines de exploración, explotación, conservación y administración de los recursos naturales, tanto vivos como no vivos, de las aguas suprayacentes al lecho, del lecho y del subsuelo marino",
+      "Sobre la regulación, control y fiscalización del espacio aéreo global adyacente a la alta mar"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho del Mar",
+    "p": "El derecho de 'Paso Inocente' constituye una limitación consuetudinaria clásica a la soberanía del Estado ribereño en su Mar Territorial. ¿Bajo qué condiciones sustantivas se tipifica válidamente esta figura jurídica?",
+    "o": [
+      "Como el tránsito rápido e ininterrumpido por el mar territorial, que no sea perjudicial para la paz, el buen orden o la seguridad del Estado ribereño, prohibiendo actividades como la pesca o el espionaje",
+      "Como la facultad discrecional de flotas pesqueras industriales extranjeras para efectuar capturas biológicas de forma estacionaria",
+      "Como el derecho de ocupación temporal y encallamiento logístico en islas artificiales sin autorización ministerial previa"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho del Mar",
+    "p": "La delimitación de la Plataforma Continental otorga derechos específicos diferenciados de la Zona Económica Exclusiva. ¿Cuál es el ámbito material exclusivo de aplicación de las prerrogativas soberanas del Estado ribereño sobre este espacio?",
+    "o": [
+      "La exploración y la explotación de los recursos naturales no vivos del lecho del mar y del subsuelo, así como de los organismos vivos pertenecientes a especies sedentarias",
+      "El control aduanero, sanitario, fiscal y de inmigración en la columna de agua suprayacente que conecta con la zona contigua",
+      "El monopolio irrestricto de las rutas de navegación comercial terrestre y el control de órbitas satelitales en el espacio ultraterrestre"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Economía Internacional",
+    "p": "En la contabilidad macroeconómica de un país, las remesas transnacionales enviadas por los trabajadores migrantes a sus hogares de origen representan un flujo financiero significativo. ¿En qué rúbrica de la Balanza de Pagos se asientan formalmente estos recursos?",
+    "o": [
+      "En la Cuenta Financiera, computados de forma idéntica a la Inversión Extranjera Directa (IED) de portafolio",
+      "En la Cuenta Corriente, específicamente bajo la subcuenta de Ingreso Secundario (Transferencias Corrientes)",
+      "En la variación neta de activos de la Cuenta de Capital del sector público descentralizado"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Economía Internacional",
+    "p": "El fenómeno macroeconómico denominado 'inflación importada' restringe los márgenes de maniobra de la política monetaria local. ¿Cuál constituye la causa estructural de este choque de oferta?",
+    "o": [
+      "La contracción agregada del volumen de las exportaciones de bienes primarios de exportación no tradicional",
+      "El incremento sostenido en los precios internacionales de los bienes e insumos intermedios importados, exacerbado frecuentemente por una depreciación del tipo de cambio nominal",
+      "Una reducción coordinada de las tasas de interés de intervención por parte de la Junta Directiva de la Banca Central"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Economía Internacional",
+    "p": "En el marco institucional financiero surgido de Bretton Woods, el Fondo Monetario Internacional (FMI) posee un diseño misional específico. ¿Cuál es su eje funcional prioritario en la gobernanza económica multilateral?",
+    "o": [
+      "Financiar planes estructurales a largo plazo destinados a la preservación del patrimonio cultural material e inmaterial",
+      "Asegurar la estabilidad del sistema monetario internacional, vigilar las políticas de tipo de cambio y proveer asistencia financiera temporal a los Estados miembros que afrontan crisis de balanza de pagos",
+      "Administrar los tribunales multilaterales de arbitraje destinados a dirimir infracciones a tratados ambientales transfronterizos"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Economía Internacional",
+    "p": "El financiamiento del desarrollo global se encuentra canalizado a través de agencias multilaterales especializadas. ¿Qué institución del sistema global se enfoca prioritariamente en la provisión de préstamos de largo plazo, créditos institucionales y asistencia técnica para la reducción de la pobreza en economías en desarrollo?",
+    "o": [
+      "El Grupo del Banco Mundial (incluyendo el BIRF y la AIF)",
+      "La Organización del Tratado del Atlántico Norte (OTAN), mediante sus fondos de cohesión civil",
+      "La Organización de los Estados Americanos (OEA), a través de su Secretaría de Seguridad Multilateral"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Organismos Internacionales",
+    "p": "La Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) responde a un mandato constitucional específico. ¿Cuál constituye su objetivo estratégico central en el plano multilateral?",
+    "o": [
+      "Coordinar el despliegue estratégico de contingentes militares multilaterales para la pacificación de zonas en conflicto",
+      "Contribuir a la paz y a la seguridad estrechamente mediante la cooperación internacional en educación, ciencia, cultura, comunicación e información, con el fin de asegurar el respeto universal a la justicia",
+      "Fiscalizar los acuerdos de reestructuración de deuda externa soberana frente a los acreedores del Club de París"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Organismos Internacionales",
+    "p": "La Organización Internacional del Trabajo (OIT) se caracteriza por un modelo de gobernanza único en el sistema de agencias de la ONU. ¿Qué aspecto define su estructura institucional y su ámbito de especialización normativa?",
+    "o": [
+      "Una gobernanza tripartita (Gobiernos, empleadores y trabajadores) orientada a la formulación de normas internacionales del trabajo, la promoción del trabajo decente y la protección de los derechos laborales fundamentales",
+      "La regulación técnica y supervisión prudencial de los flujos de capitales financieros especulativos transfronterizos",
+      "El control operacional de los flujos de migración irregular marítima en el hemisferio occidental"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Organismos Internacionales",
+    "p": "Como agencia especializada de las Naciones Unidas, la Organización Mundial de la Salud (OMS) opera bajo un marco reglamentario sanitario global. ¿Cuál constituye su función principal en situaciones de emergencia internacional?",
+    "o": [
+      "Dirigir y coordinar la acción sanitaria internacional, establecer normas y directrices técnicas, y articular la cooperación global ante amenazas epidemiológicas interconectadas",
+      "Supervisar de manera punitiva los diferendos diplomáticos territoriales derivados del acceso a recursos hídricos transfronterizos",
+      "Administrar los derechos de propiedad intelectual y patentes farmacéuticas comerciales de los laboratorios transnacionales"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Patrimonio y Diversidad",
+    "p": "El derecho fundamental a la consulta previa, consagrado en el Convenio 169 de la OIT e integrado al bloque de constitucionalidad en Colombia, posee un estatus normativo preferente. ¿Cuál es su finalidad esencial según la jurisprudencia constitucional?",
+    "o": [
+      "Garantizar la viabilidad macroeconómica expedita de los proyectos de infraestructura vial reduciendo costos operativos de licenciamiento",
+      "Asegurar la participación real, libre e informada de las comunidades étnicas (indígenas, afrodescendientes, raizales y palenqueras) respecto a medidas legislativas o proyectos que afecten directamente su integridad cultural, social y económica",
+      "Validar de manera unilateral las directrices presidenciales en materia tributaria y aduanera sin control judicial posterior"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Patrimonio y Diversidad",
+    "p": "La Convención de la UNESCO de 1972 introdujo una categoría jurídica disruptiva para la conservación de la herencia colectiva de la humanidad. ¿Qué régimen de protección instituye formalmente este tratado internacional?",
+    "o": [
+      "El mecanismo de identificación, protección y preservación del Patrimonio Cultural y Natural de valor universal excepcional, mediante la creación de la Lista del Patrimonio Mundial",
+      "El control y salvaguarda de la proliferación de armas nucleares tácticas en ecosistemas de alta biodiversidad",
+      "La regulación de los aranceles preferenciales aplicables al comercio transfronterizo de bienes de capital e insumos industriales"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Patrimonio y Diversidad",
+    "p": "La Convención de la UNESCO de 2003 amplió el espectro tutelar del derecho cultural al codificar el 'Patrimonio Cultural Inmaterial'. ¿Qué manifestaciones quedan cobijadas bajo esta tipificación dogmática?",
+    "o": [
+      "Los monumentos arquitectónicos, la infraestructura portuaria histórica y los yacimientos arqueológicos subacuáticos",
+      "Los usos, representaciones, expresiones, conocimientos y técnicas —junto con los instrumentos, objetos y espacios culturales que les son inherentes— que las comunidades reconocen como parte integrante de su patrimonio cultural",
+      "Las reservas probadas de hidrocarburos no convencionales ubicadas en zonas fronterizas continentales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Transición Energética",
+    "p": "En las estrategias globales de descarbonización y transición energética, el 'hidrógeno verde' es catalogado como un vector energético de gran potencial. ¿Qué proceso técnico determina sustantivamente su condición ecológica de neutralidad climática?",
+    "o": [
+      "La gasificación a alta temperatura de variedades de carbón térmico combinada con técnicas de captura geológica de carbono",
+      "La producción de gas sintético mediante procesos de fisión en centrales nucleares de agua pesada de uso militar",
+      "La electrólisis del agua alimentada exclusivamente por fuentes de generación eléctrica renovables (como energía solar, eólica o hidroeléctrica), sin emisiones incidentes de gases de efecto invernadero"
+    ],
+    "r": 2
+  },
+  {
+    "c": "Transición Energética",
+    "p": "A nivel diplomático global, las negociaciones climáticas de la CMNUCC impulsan de manera prioritaria la transición energética. ¿Cuál constituye el objetivo macroestructural de esta transformación sistémica de las matrices de consumo?",
+    "o": [
+      "Mitigar el cambio climático mediante la sustitución progresiva de los combustibles fósiles por fuentes de energía de bajas o cero emisiones, con el fin de estabilizar el aumento de la temperatura global",
+      "Promover la seguridad energética incrementando de forma sostenida la dependencia industrial de los derivados del petróleo y el carbón",
+      "Fomentar la desregulación total de los mercados eléctricos para eliminar los incentivos fiscales dirigidos a las energías renovables no convencionales"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Teoría de RRII",
+    "p": "La escuela del realismo político (estructural y neorrealista) articula su armazón conceptual sobre supuestos deterministas del comportamiento de los actores. ¿Cuál es la premisa ontológica fundamental de esta teoría respecto al sistema internacional?",
+    "o": [
+      "Las redes de la sociedad civil global y los movimientos transnacionales configuran la agenda prioritaria de seguridad",
+      "El Estado soberano constituye el actor central, racional y unitario del sistema, el cual opera bajo un entorno estructural de anarquía donde la distribución de capacidades determina la estabilidad",
+      "Las corporaciones de integración económica y las empresas multinacionales han desplazado el monopolio de la fuerza estatal"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Teoría de RRII",
+    "p": "El concepto de 'Soft Power' (poder blando) transformó el análisis del equilibrio estratégico en la teoría de las Relaciones Internacionales contemporáneas. ¿Qué politólogo acuñó y sistematizó esta categoría analítica?",
+    "o": [
+      "Hans Morgenthau, en el marco del realismo clásico basado en el interés definido en términos de poder militar",
+      "Joseph Nye, definiéndolo como la capacidad de un Estado de persuadir y cooptar a otros actores a través de la atracción cultural, los valores políticos y la legitimidad de su política exterior",
+      "Kenneth Waltz, como variable explicativa de la estabilidad de los sistemas polares en el neorrealismo defensivo"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Teoría de RRII",
+    "p": "La escuela del neoliberalismo institucional introdujo la teoría de la 'interdependencia compleja' para controvertir las rigideces del realismo estructural. ¿Qué postulado define sustantivamente este enfoque teórico?",
+    "o": [
+      "Que el sistema internacional está caracterizado por la existencia de múltiples canales de contacto (gubernamentales, transgubernamentales y transnacionales), la ausencia de una jerarquía clara de temas y la pérdida de la efectividad de la fuerza militar como instrumento ordinario de política",
+      "Que la guerra interestatal es un fenómeno matemáticamente inevitable debido a la escasez absoluta de materias primas",
+      "Que las organizaciones internacionales carecen de relevancia institucional autónoma, operando meramente como reflejos pasivos de los Estados hegemónicos"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Teoría de RRII",
+    "p": "La dinámica geopolítica del siglo XXI es caracterizada de forma recurrente como un escenario en transición hacia la multipolaridad. ¿Qué rasgos definen estructuralmente la configuración de un sistema multipolar?",
+    "o": [
+      "La concentración asimétrica y monopólica de las capacidades de coerción militar e influencia financiera en una sola superpotencia global",
+      "La obsolescencia definitiva de las fronteras nacionales y la asimilación del poder de decisión por comités ejecutivos de la ONU",
+      "La distribución del poder, las capacidades estratégicas y la influencia política entre tres o más Estados o centros de poder relevantes, lo que exige equilibrios de poder más dinámicos y alianzas flexibles"
+    ],
+    "r": 2
+  },
+        {
+    "c": "Derecho Internacional Público",
+    "p": "Un tratado multilateral ratificado por Colombia entra en contradicción directa con una ley nacional posterior en materia comercial. Ante un escenario de litigio interno, ¿cuál es el fundamento que determina la prevalencia del instrumento internacional según el régimen constitucional y convencional vigente?",
+    "o": [
+      "El principio de supremacía legislativa posterior regulado por la Ley 153 de 1887",
+      "La primacía del derecho internacional sobre el derecho interno consagrada en el artículo 27 de la Convención de Viena de 1969 y el bloque de constitucionalidad",
+      "La aplicación automática del control de convencionalidad difuso supeditado exclusivamente al criterio de la Corte Suprema de Justicia"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho del Mar",
+    "p": "Un Estado ribereño detecta un buque extranjero realizando perforaciones exploratorias en el subsuelo marino a 180 millas náuticas de su línea de base. ¿Bajo qué figura jurídica internacional ejerce su jurisdicción para sancionar dicha actividad?",
+    "o": [
+      "Soberanía absoluta sobre el Mar Territorial",
+      "Derechos soberanos de exploración y explotación de recursos naturales en su Zona Económica Exclusiva y Plataforma Continental",
+      "Derecho de persecución caliente (hot pursuit) iniciado en la Zona Contigua"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Jerarquía Jurídica y DDHH",
+    "p": "Una autoridad administrativa colombiana emite un acto que vulnera un derecho protegido por la Convención Americana sobre Derechos Humanos, argumentando apego estricto a una ley interna vigente. ¿Qué obligación jurídica le asiste al operador judicial en este escenario bajo el marco normativo actual?",
+    "o": [
+      "Aplicar la ley nacional優先 sobre la Convención en virtud del principio de soberanía del legislador",
+      "Ejercer un control de convencionalidad ex officio, confrontando la norma interna con el corpus iuris interamericano",
+      "Suspender el proceso y remitir el expediente de forma obligatoria a la Comisión Interamericana de Derechos Humanos"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Híbrido: Cambio Climático + Comercio",
+    "p": "Un bloque económico impone un gravamen arancelario compensatorio a los productos colombianos argumentando que sus procesos productivos violan los topes de emisiones del Acuerdo de París. Colombia alega discriminación comercial arbitraria. ¿Qué tensión conceptual define este litigio en la gobernanza global?",
+    "o": [
+      "El choque entre las medidas comerciales unilaterales y el principio de responsabilidades comunes pero diferenciadas",
+      "La primacía absoluta de las directrices de la OMC sobre cualquier tratado ambiental vinculante",
+      "La ausencia de mecanismos de solución de controversias en el marco de la CMNUCC"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Interpretación Institucional",
+    "p": "Para determinar si un Estado parte ha incurrido en violaciones sistemáticas a la Carta de la OEA en materia democrática, ¿cuál es la diferencia fundamental en las competencias de la Reunión de Consulta de Ministros de Relaciones Exteriores frente al Consejo Permanente?",
+    "o": [
+      "La Reunión de Consulta tiene carácter político-deliberativo, mientras que el Consejo Permanente ejerce funciones puramente judiciales transnacionales",
+      "La Reunión de Consulta atiende situaciones de urgencia y amenazas a la paz hemisférica, mientras que el Consejo Permanente vela de forma continua por el mantenimiento de las relaciones de amistad y solución pacífica de controversias",
+      "El Consejo Permanente requiere unanimidad absoluta para sesionar, mientras que la Reunión de Consulta opera por mayoría simple en todos los casos"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Híbrido: Migración + Soberanía",
+    "p": "Bajo la vigencia del Estatuto Temporal de Protección para Migrantes Venezolanos (ETPV), el Estado colombiano decide revocar la permanencia de un ciudadano extranjero aduciendo razones de seguridad nacional, sin realizar un proceso administrativo previo. ¿Cómo se evalúa esta actuación a la luz del derecho internacional?",
+    "o": [
+      "Es plenamente válida, dado que la seguridad nacional constituye una prerrogativa soberana absoluta no sujeta a revisión judicial",
+      "Configura una violación al debido proceso y al principio de no devolución (non-refoulement) si implica un riesgo de persecución para el individuo",
+      "Es improcedente, puesto que el ETPV otorga un estatus de inmunidad diplomática asimilada a los connacionales beneficiarios"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Economía Internacional",
+    "p": "Ante una crisis súbita de balanza de pagos y una devaluación descontrolada de la moneda nacional, ¿cuál es el alcance de la asistencia financiera que Colombia solicitaría primariamente al Fondo Monetario Internacional (FMI) a diferencia del Banco Mundial?",
+    "o": [
+      "Financiamiento concesional a largo plazo destinado exclusivamente a infraestructura social y reducción de la pobreza",
+      "Apoyo financiero de corto o mediano plazo condicionado a reformas estructurales para la estabilización macroeconómica y la liquidez de reservas",
+      "Líneas de crédito indexadas para subsidiar directamente las pérdidas del sector exportador privado"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Interpretación Institucional - CAN",
+    "p": "En el marco del Sistema Andino de Integración, si un ciudadano colombiano considera que una aduana nacional viola una Decisión del Consejo Andino de Ministros, ¿ante qué órgano debe interponerse formalmente el recurso definitivo para garantizar la aplicación uniforme del ordenamiento jurídico comunitario?",
+    "o": [
+      "Ante la Secretaría General de la CAN para que emita un dictamen, con opción de escalar el caso ante el Tribunal de Justicia de la Comunidad Andina",
+      "Directamente ante la Comisión de la CAN para la reforma inmediata del arancel externo común",
+      "Ante el Parlamento Andino para que ejerza el control de legalidad y anule la medida aduanera interna"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Teoría de Relaciones Internacionales",
+    "p": "Un Estado mediano decide no alinearse militarmente con ninguna potencia global en un escenario de renovada competencia bipolar, y en su lugar fortalece foros plurilaterales y redes de conectividad comercial variables. ¿Qué enfoque teórico explica mejor esta conducta de diversificación de riesgos?",
+    "o": [
+      "El realismo ofensivo a través de una estrategia de maximización de poder militar unilateral",
+      "El neorrealismo estructural bajo la lógica de 'bandwagoning' (alinearse con el más fuerte)",
+      "El institucionalismo neoliberal y el concepto de 'hedging' (cobertura estratégica) en una interdependencia compleja"
+    ],
+    "r": 2
+  },
+  {
+    "c": "Derecho Internacional Humanitario",
+    "p": "Durante un conflicto armado interno, una facción armada ataca una represa hidroeléctrica argumentando que suministra energía a los centros de mando militares del adversario, causando inundaciones masivas en zonas residenciales. ¿Qué principio del DIH se vulneró de forma primaria?",
+    "o": [
+      "El principio de distinción, al perder la represa su estatus civil por el solo hecho de estar conectada a la red nacional",
+      "El principio de proporcionalidad y la protección especial a obras e instalaciones que contienen fuerzas peligrosas",
+      "El principio de reciprocidad, justificado por los ataques previos del enemigo a la infraestructura civil"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Híbrido: Propiedad Intelectual + Salud",
+    "p": "En el contexto de una emergencia sanitaria nacional, el gobierno colombiano evalúa emitir una licencia obligatoria para producir genéricos de un medicamento patentado. ¿Qué instrumento internacional regula esta excepción al derecho de patentes salvaguardando la salud pública?",
+    "o": [
+      "La Declaración de Doha relativa al Acuerdo sobre los ADPIC y la Salud Pública en el marco de la OMC",
+      "El Tratado de Cooperación en materia de Patentes (PCT) de la OMPI",
+      "La Convención Única sobre Estupefacientes de las Naciones Unidas"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Corte Penal Internacional",
+    "p": "La Fiscalía de la Corte Penal Internacional (CPI) evalúa reabrir una investigación por crímenes de lesa humanidad en un Estado parte. El gobierno de dicho país argumenta que sus tribunales locales ya están procesando a mandos medios de las fuerzas de seguridad. ¿Qué principio rige la admisibilidad del caso ante la CPI en este escenario?",
+    "o": [
+      "El principio de jurisdicción universal absoluta sin consideración de los procesos internos",
+      "El principio de complementariedad, que faculta a la CPI si se demuestra la falta de disposición o incapacidad real del Estado para juzgar a los máximos responsables",
+      "El principio de supremacía judicial derivado automáticamente del Estatuto de Roma sobre los fueros militares nacionales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Asuntos Consulares y Viena 1963",
+    "p": "Un ciudadano colombiano es detenido en un Estado extranjero bajo cargos graves. Las autoridades locales omiten informarle sobre su derecho a comunicarse con el consulado de Colombia hasta después de formular la acusación formal. ¿Qué estándar internacional se infringió y qué recurso técnico asiste al cónsul?",
+    "o": [
+      "El artículo 36 de la Convención de Viena sobre Relaciones Consulares; el cónsul debe exigir la notificación consular inmediata y asistencia jurídica para garantizar el debido proceso",
+      "El principio de inmunidad de jurisdicción; el cónsul puede decretar la nulidad del juicio penal extranjero",
+      "El derecho de asilo diplomático, obligando al Estado receptor a trasladar al detenido a los locales de la misión"
+    ],
+    "r": 0
+  },
+  {
+    "c": "Jerarquía del Derecho Internacional",
+    "p": "Un tratado bilateral de protección de inversiones ratificado por Colombia contiene una cláusula que impide la restitución de tierras a comunidades indígenas si esto afecta la rentabilidad de una multinacional. El Estado alega la invalidez de dicha cláusula por chocar con una norma de ius cogens. ¿Cómo opera técnicamente esta figura?",
+    "o": [
+      "La norma interna constitucional deroga automáticamente el tratado bilateral por favorabilidad económica",
+      "La cláusula es nula de pleno derecho en virtud del artículo 53 de la Convención de Viena de 1969, al colisionar con una norma imperativa de derecho internacional general",
+      "El tratado se mantiene intacto, pero su ejecución se suspende temporalmente hasta que intervenga la OMC"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Interpretación Institucional - ONU",
+    "p": "Ante una situación que amenaza la paz internacional donde un miembro permanente del Consejo de Seguridad ejerce su derecho a veto, imposibilitando la adopción de medidas coercitivas, ¿qué mecanismo institucional faculta a la Asamblea General de la ONU para recomendar acciones colectivas?",
+    "o": [
+      "La activación inmediata del artículo 2.7 de la Carta sobre la no intervención en asuntos internos",
+      "La Resolución 377 A (V) 'Unión pro paz' (Uniting for Peace), que permite a la Asamblea General asumir la responsabilidad de recomendar medidas si el Consejo de Seguridad falla en actuar",
+      "La remisión automática y vinculante del diferendo ante el Consejo Económico y Social (ECOSOC)"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Diplomacia Digital",
+    "p": "El uso estratégico de campañas de desinformación automatizada mediante inteligencia artificial por parte de un Estado extranjero para influir en los procesos electorales de otro, ¿en qué categoría conceptual se enmarca dentro de las transformaciones de la diplomacia contemporánea?",
+    "o": [
+      "El ejercicio legítimo del Soft Power y la diplomacia pública abierta",
+      "Una manifestación de Sharp Power (poder agudo), orientado a la subversión, la manipulación de la opinión pública y el desgaste de la legitimidad institucional del adversario",
+      "Una violación directa al principio de libre tránsito en el espacio ultraterrestre regulado por la UIT"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Híbrido: Comercio + DDHH",
+    "p": "Un Tratado de Libre Comercio negociado por Colombia incluye una 'cláusula democrática' que permite la suspensión de las preferencias arancelarias si se constata un quiebre del orden constitucional en el país. ¿Qué naturaleza jurídica posee esta disposición en la práctica convencional?",
+    "o": [
+      "Es una norma de Soft Law de carácter puramente declarativo y sin efectos vinculantes",
+      "Es una condición resolutoria vinculante que hibrida el derecho económico internacional con los estándares internacionales de protección de la democracia y los DDHH",
+      "Es una reserva extemporánea contraria al principio de reciprocidad de la OMC"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Administración Pública y Cancillería",
+    "p": "De acuerdo con el Decreto 1067 de 2015, si surge un conflicto de competencias entre el Ministerio de Relaciones Exteriores y el Ministerio de Comercio Exterior respecto a la representación de Colombia ante un foro de la OCDE, ¿cómo se dirime jurídicamente bajo la estructura del sector central?",
+    "o": [
+      "El Ministerio de Comercio exterior prevalece automáticamente por tratarse de un asunto estrictamente financiero",
+      "La Cancillería ejerce la rectoría y coordinación de la política exterior, por lo cual toda representación internacional debe articularse bajo sus lineamientos e instrucciones directas",
+      "El conflicto debe ser escalado obligatoriamente ante el Tribunal Contencioso Administrativo para un fallo de legalidad"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Teoría de Relaciones Internacionales",
+    "p": "La formulación de la 'Diplomacia para la Vida' de la política exterior colombiana actual, que prioriza la justicia climática global y la descarbonización sobre las alianzas geopolíticas basadas en recursos fósiles, ¿con qué corriente teórica rompe de forma más evidente?",
+    "o": [
+      "Con el constructivismo, al ignorar la construcción social de las identidades estatales",
+      "Con el realismo clásico y neorrealismo, que supeditan la política exterior a la maximización del interés nacional definido en términos de poder material, seguridad energética y supervivencia económica",
+      "Con el idealismo wilsoniano y su apuesta por el fortalecimiento institucional multilateral"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho de los Tratados",
+    "p": "Tras la firma de un tratado bilateral de delimitación marítima, el Presidente de la República decide aplicar provisionalmente sus disposiciones antes de recibir la aprobación del Congreso y la revisión de la Corte Constitucional. ¿Bajo qué condiciones es válida esta actuación según la Convención de Viena de 1969?",
+    "o": [
+      "Es válida de forma absoluta en cualquier tipo de tratado por tratarse de una competencia discrecional de la dirección de las relaciones internacionales",
+      "Solo es admisible si el propio tratado así lo dispone o si los Estados negociadores han convenido en ello, y siempre que no afecte materias de reserva constitucional absoluta que exijan aprobación legislativa previa",
+      "Es nula ipso facto, dado que el derecho internacional prohíbe explícitamente la aplicación provisional de instrumentos bilaterales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Interpretación Institucional - DDHH",
+    "p": "Un peticionario colombiano interpone una queja por la violación de su derecho a la propiedad privada ante el Sistema Interamericano de Derechos Humanos. ¿Cuál es la diferencia fundamental en la naturaleza jurídica y el alcance de las decisiones que adoptan la Comisión IDH frente a la Corte IDH?",
+    "o": [
+      "La Comisión IDH emite sentencias de obligatorio cumplimiento financiero, mientras que la Corte IDH emite recomendaciones políticas",
+      "La Comisión IDH actúa como órgano de instrucción y emite informes con recomendaciones, mientras que la Corte IDH es el órgano judicial cuyas sentencias son definitivas, vinculantes e inapelables",
+      "Ambos órganos poseen exactamente las mismas competencias jurisdiccionales y el usuario puede elegir a cuál acudir de forma directa"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Híbrido: Transición Energética + DIP",
+    "p": "Un Estado desarrollado suspende la transferencia de fondos de cooperación ambiental comprometidos con Colombia tras un cambio en la política minera del gobierno nacional. Colombia argumenta el principio de buena fe. Si el compromiso estatal estaba contenido en un memorando de entendimiento (MoU), ¿qué limitación jurídica enfrenta el reclamo colombiano?",
+    "o": [
+      "Los MoU son instrumentos de Hard Law que exigen obligatoriamente indemnizaciones financieras por incumplimiento",
+      "Al tratarse de un instrumento de Soft Law, carece de fuerza vinculante obligatoria en el sentido de un tratado, por lo que su cumplimiento descansa en la presión diplomática y la reciprocidad política",
+      "Los compromisos ambientales transnacionales están exentos del principio pacta sunt servanda en todos los foros internacionales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Historia Diplomática de Colombia",
+    "p": "La sustitución histórica de la doctrina del 'Respice Polum' por la del 'Respice Similia' propuesta durante la presidencia de Alfonso López Michelsen, ¿qué transformación sustancial implicó para la inserción internacional de Colombia?",
+    "o": [
+      "La subordinación absoluta a las directrices de seguridad hemisférica de la OTAN",
+      "El tránsito de un alineamiento incondicional con Estados Unidos hacia una apertura pragmática y prioritaria orientada a la integración regional con América Latina y los países en desarrollo (No Alineados)",
+      "El cierre de las fronteras comerciales y el retorno a un modelo de autarquía económica radical"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Asuntos Consulares: Ley de Retorno",
+    "p": "Un ciudadano colombiano que residió en el exterior durante seis años retorna al país y solicita los beneficios fiscales y de inserción de la Ley de Retorno (Ley 1565 de 2012). La autoridad competente rechaza la solicitud porque el ciudadano no realizó la inscripción consular previa en el país de origen. ¿Es jurídicamente correcto este rechazo?",
+    "o": [
+      "Sí, la inscripción consular es el único medio de prueba que el derecho administrativo acepta para validar la residencia en el extranjero",
+      "No, la ley permite acreditar el tiempo de permanencia en el exterior mediante otros medios probatorios válidos (como pasaportes, contratos laborales u opiniones consulares) ante la comisión intersectorial encargada",
+      "Sí, puesto que la Ley de Retorno aplica exclusivamente para diplomáticos en cese de funciones internacionales"
+    ],
+    "r": 1
+  },
+  {
+    "c": "Jerarquía Jurídica: Bloque de Constitucionalidad",
+    "p": "Al evaluar la constitucionalidad de un tratado de libre comercio, la Corte Constitucional constata que una norma de propiedad intelectual del acuerdo limita el acceso a semillas nativas para comunidades afrodescendientes. ¿Cómo resuelve la Corte esta colisión normativa aplicando el bloque de constitucionalidad?",
+    "o": [
+      "El tratado comercial prevalece de forma automática por encima de los derechos étnicos territoriales en virtud de la seguridad jurídica inversionista",
+      "Los derechos de las comunidades étnicas y el Convenio 169 de la OIT forman parte del bloque de constitucionalidad en sentido estricto, prevaleciendo sobre las disposiciones comerciales del tratado y forzando una declaración de inexequibilidad o una reserva obligatoria",
+      "La Corte carece de competencia para revisar tratados comerciales internacionales una vez han sido firmados por el Presidente"
+    ],
+    "r": 1
+  }
 ]
