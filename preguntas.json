@@ -2238,5 +2238,605 @@
                "La Corte carece de competencia para revisar tratados comerciales internacionales una vez han sido firmados por el Presidente"
             ],
             "r":1
-         }
+         },
+         {
+          "c": "Alianza del Pacífico y Regionalismo",
+          "p": "A 13 años de la firma del acuerdo de la Alianza del Pacífico, ¿cuál es la conclusión central respecto a su evolución según el análisis de Martha Ardila?",
+          "o": [
+            "Ha alcanzado una integración económica profunda y vinculante que supera a cualquier otro bloque regional.",
+            "Los resultados muestran que se ha consolidado más como una estrategia de cooperación que de integración formal.",
+            "El bloque se disolvió debido a la falta de acuerdos arancelarios en el sector manufacturero."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Alianza del Pacífico y Regionalismo",
+          "p": "De acuerdo con el documento de Ardila (2024), ¿qué característica define el liderazgo y el regionalismo actual en el entorno de la Alianza del Pacífico frente al panorama político latinoamericano?",
+          "o": [
+            "Un regionalismo y un liderazgo blando y pendular.",
+            "Un liderazgo hegemónico e inmutable ejercido exclusivamente por México.",
+            "Un regionalismo cerrado y proteccionista enfocado en el comercio atlántico."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Macroeconomía y Remesas (BanRep)",
+          "p": "Según el reporte del Banco de la República de octubre de 2024, ¿a qué proporción histórica con respecto al Producto Interno Bruto (PIB) llegaron los ingresos por remesas en Colombia?",
+          "o": [
+            "Apenas alcanzaron el 0,5% debido a las restricciones migratorias globales.",
+            "Representaron el 5,4% superando los ingresos totales por exportaciones de petróleo.",
+            "Alcanzaron un máximo histórico del 2,8% en el año 2024."
+          ],
+          "r": 2
+        },
+        {
+          "c": "Macroeconomía y Remesas (BanRep)",
+          "p": "De acuerdo con el Banco de la República, ¿cuáles son los dos principales países de destino de la migración colombiana que explican el mayor flujo de remesas hacia el país?",
+          "o": [
+            "Venezuela y Ecuador.",
+            "Estados Unidos y España.",
+            "Canadá y el Reino Unido."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Migración y Remesas Regionales (BID)",
+          "p": "El informe del BID de mayo de 2024 señala que las remesas recibidas en América Latina y el Caribe en 2023 alcanzaron los 154.511 millones de dólares. ¿A qué se debió que la cifra fuera un 0,9% inferior a la proyección anual?",
+          "o": [
+            "Al menor crecimiento de lo esperado en la masa salarial total de los trabajadores migrantes en Estados Unidos.",
+            "A los altos costos transaccionales impuestos por los bancos centrales europeos.",
+            "A un retorno masivo e imprevisto de emigrantes latinoamericanos desde España."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Diplomacia Digital",
+          "p": "Según el Oxford Handbook of Digital Diplomacy (2024), ¿cuál es una de las tácticas narrativas utilizadas de forma creciente por los diplomáticos en plataformas digitales, ilustrada en el texto con el uso de la figura de Yuri Gagarin por parte de Rusia?",
+          "o": [
+            "El uso de ciberataques coordinados para bloquear la comunicación del adversario.",
+            "El empleo de tropos nostálgicos para reinterpretar el pasado y proyectar versiones idílicas que generen afinidad global.",
+            "La eliminación absoluta de las cuentas de redes sociales para pasar a una comunicación cifrada."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Diplomacia Digital",
+          "p": "Dentro del estudio de la diplomacia digital, ¿a qué se refiere el concepto de 'wolf-warrior diplomacy' mencionado en el texto y asociado a las directrices de política exterior de Xi Jinping?",
+          "o": [
+            "Una estrategia pacifista basada exclusivamente en la cooperación multilateral del medio ambiente.",
+            "Un estilo de diplomacia asertiva y confrontacional utilizada para defender los intereses internos y consolidar apoyo político.",
+            "Un tratado de defensa militar conjunta firmado entre los países miembros del Golfo (GCC)."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Comisión Histórica del Conflicto y sus Víctimas",
+          "p": "A diferencia de las comisiones anteriores creadas en Colombia desde 1958, ¿cuál fue la particularidad de origen de la CHCV instalada en La Habana en 2014?",
+          "o": [
+            "Fue decretada de manera unilateral por la Junta Militar de Gobierno.",
+            "Sus miembros fueron seleccionados por votación popular en elecciones legislativas.",
+            "No fue una designación exclusiva del gobierno, sino fruto de un acuerdo bilateral entre el Gobierno Nacional y las FARC-EP."
+          ],
+          "r": 2
+        },
+        {
+          "c": "Comisión Histórica del Conflicto y sus Víctimas",
+          "p": "De acuerdo con el mandato de la Mesa de Diálogos de La Habana, ¿cuál era el objetivo analítico central encomendado a los doce expertos de la CHCV?",
+          "o": [
+            "Determinar responsabilidades penales individuales y enjuiciar a los actores del conflicto.",
+            "Investigar los orígenes, las múltiples causas, los factores de persistencia y los impactos del conflicto armado sobre la población.",
+            "Redactar el texto definitivo de la reforma agraria y los acuerdos comerciales internacionales."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Persistencia del Conflicto (CHCV)",
+          "p": "En las relatorías y ensayos de la CHCV, al referirse a los problemas estructurales de Colombia (como la cuestión agraria, la debilidad institucional y la desigualdad), ¿qué metáfora analítica neutra se adopta para definirlos?",
+          "o": [
+            "Fallas o fracturas geológicas de la nación.",
+            "Dilemas asimétricos de frontera.",
+            "Falsos positivos institucionales."
+          ],
+          "r": 0
+        },
+         {
+          "c": "Diplomacia Digital",
+          "p": "De acuerdo con las discusiones del Oxford Handbook of Digital Diplomacy (2024), ¿cuál es uno de los mayores riesgos que introduce el uso de la Inteligencia Artificial (IA) y los algoritmos de recomendación en la comunicación de las cancillerías?",
+          "o": [
+            "La descentralización absoluta de los servidores diplomáticos hacia redes locales.",
+            "La creación de 'cámaras de eco' y la amplificación de la polarización, dificultando la construcción de consensos internacionales.",
+            "La sustitución total y legal de los embajadores por avatares automatizados en la ONU."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Diplomacia Digital",
+          "p": "El texto de Bjola y Manor describe cómo los Estados utilizan las plataformas digitales no solo para informar, sino para proyectar poder. ¿Qué término se utiliza para describir la manipulación coordinada de información digital destinada a socavar la credibilidad de un Estado adversario?",
+          "o": [
+            "Guerra narrativa o desinformación estructurada (Disinformation campaigns).",
+            "Neutralidad de red asimétrica.",
+            "Diplomacia de bajo impacto regulatorio."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Alianza del Pacífico y Regionalismo",
+          "p": "Martha Ardila (2024) señala que la Alianza del Pacífico nació bajo los preceptos del 'regionalismo abierto'. ¿Qué implicación tiene este concepto en los objetivos comerciales originales del bloque?",
+          "o": [
+            "La creación de un mercado común cerrado con aranceles prohibitivos para cualquier país fuera de América Latina.",
+            "La liberación comercial interna combinada con una proyección hacia mercados externos, especialmente enfocada en la inserción en la región del Asia-Pacífico.",
+            "La unificación de las monedas nacionales de los cuatro países miembros bajo un banco central regional."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Alianza del Pacífico y Regionalismo",
+          "p": "Al analizar el estancamiento de la Alianza del Pacífico en los últimos años, ¿qué factor de la política doméstica de los países miembros identifica Ardila como un fuerte limitante para la integración profunda?",
+          "o": [
+            "La falta de conectividad marítima e infraestructura portuaria en el océano Pacífico.",
+            "La divergencia ideológica entre los mandatarios de turno y la politización de la agenda del bloque, lo que genera vaivenes y tensiones diplomáticas.",
+            "La sustitución del comercio de manufacturas por el intercambio exclusivo de criptoactivos."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Macroeconomía y Remesas (BanRep)",
+          "p": "El informe del Banco de la República (2024) detalla el impacto microeconómico de las remesas en el territorio nacional. ¿Cuál es el destino principal que los hogares colombianos receptores le dan a estos flujos de dinero?",
+          "o": [
+            "La inversión exclusiva en fondos de capital de riesgo y bonos del Estado.",
+            "El incremento del ingreso disponible para cubrir gastos corrientes de consumo básico (alimentación, educación y salud) y la adquisición de vivienda.",
+            "La financiación de campañas políticas locales y subsidios a la exportación industrial."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Macroeconomía y Remesas (BanRep)",
+          "p": "A partir del análisis gráfico y conceptual del Banco de la República, ¿qué comportamiento demuestran las remesas hacia Colombia durante periodos de desaceleración o crisis económica en el país receptor?",
+          "o": [
+            "Un comportamiento procíclico, disminuyendo drásticamente ante la caída del PIB interno.",
+            "Un comportamiento contracíclico o de resiliencia, ya que los migrantes tienden a enviar más recursos para apoyar a sus familias en momentos de dificultad económica.",
+            "Una congelación total debido a las bandas cambiarias fijadas por la Junta Directiva."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Migración y Remesas Regionales (BID)",
+          "p": "Según los datos del BID (2024), ¿cuál es el factor clave en el mercado laboral de los Estados Unidos que determina directamente la fluctuación en los montos de las remesas que se envían hacia América Latina?",
+          "o": [
+            "La tasa de sindicalización en el sector de servicios tecnológicos avanzados.",
+            "La evolución del empleo en sectores económicos clave para la población migrante (como la construcción, la hostelería y los servicios) y el crecimiento de su masa salarial.",
+            "Las fluctuaciones en las tasas de interés de la Reserva Federal dirigidas al consumo corporativo."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Comisión Histórica del Conflicto y sus Víctimas",
+          "p": "Al revisar la conformación de la CHCV en 2014, ¿cuál fue la metodología acordada para la entrega de los resultados analíticos debido a la falta de un consenso único y cerrado entre todos los expertos?",
+          "o": [
+            "La redacción de un único informe oficial aprobado por mayoría de votos obligatoria.",
+            "La presentación de ensayos individuales autónomos por parte de cada experto y dos relatorías sintéticas e independientes que reflejan la pluralidad de visiones.",
+            "La delegación de la redacción final a un comité técnico de las Naciones Unidas."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Comisión Histórica del Conflicto y sus Víctimas",
+          "p": "En el marco de los debates de la CHCV, ¿cuál de los siguientes temas constituyó uno de los ejes de discusión más complejos y con visiones encontradas respecto al origen cronológico de la violencia armada contemporánea en Colombia?",
+          "o": [
+            "La fecha exacta de la delimitación fronteriza con el Brasil bajo el régimen virreinal.",
+            "La periodización del conflicto, debatiéndose si su génesis se sitúa en la violencia bipartidista de los años 40 y 50, en las reformas agrarias truncadas, o en los hitos de los años 60.",
+            "La influencia exclusiva de la globalización financiera de la década de los noventa."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Persistencia del Conflicto (CHCV)",
+          "p": "De acuerdo con las relatorías de la CHCV, ¿qué papel jugó el fenómeno del narcotráfico a partir de la década de los setenta y ochenta en la dinámica del conflicto armado interno?",
+          "o": [
+            "Funcionó como la causa ideológica fundacional de las primeras guerrillas campesinas.",
+            "Actuó como un factor de persistencia y degradación que alimentó económicamente a los actores armados (guerrillas y paramilitares) y multiplicó la violencia en los territorios.",
+            "Fue un elemento marginal que no alteró las capacidades operativas de las Fuerzas Militares ni de los insurgentes."
+          ],
+          "r": 1
+        },
+         {
+          "c": "Negociaciones Climáticas Internacionales",
+          "p": "De acuerdo con el análisis de Raymond Clémençon (2023) sobre los 30 años de negociaciones climáticas internacionales, ¿cuál es su tesis central respecto al papel real de la diplomacia multilateral en la reducción de emisiones?",
+          "o": [
+            "La diplomacia multilateral ha sido el motor vinculante definitivo que ha forzado a las grandes potencias a cumplir con las metas de descarbonización.",
+            "La diplomacia climática multilateral ha dejado de ser el motor de las acciones nacionales, las cuales están determinadas realmente por las estructuras de oportunidad política doméstica, factores económicos y transiciones normativas internas.",
+            "Los tratados internacionales como el Acuerdo de París han fracasado totalmente debido a la falta de un tribunal penal ambiental con jurisdicción militar."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Negociaciones Climáticas Internacionales",
+          "p": "Clémençon (2023) sugiere un cambio de enfoque analítico respecto a las cumbres climáticas globales (COP). ¿Cómo propone que deben ser tratadas en la actualidad dentro de la gobernanza global?",
+          "o": [
+            "Como la solución jurídica definitiva y la única autoridad legítima para regular los mercados financieros internacionales.",
+            "Como un 'espectáculo secundario' (sideshow) indispensable para mantener bases normativas, pero no como la solución directa al problema del calentamiento global.",
+            "Como organismos obsoletos que deben ser disueltos de inmediato para regresar al modelo de acuerdos bilaterales secretos."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Política Exterior Feminista",
+          "p": "Según el Informe Ejecutivo de 2024 sobre la Incorporación del Enfoque de Género en la política exterior de Colombia, ¿cuál es el hito fundamental que define la adopción de esta estrategia por parte del Ministerio de Relaciones Exteriores?",
+          "o": [
+            "La ratificación del Tratado de Libre Comercio con la Unión Europea bajo un enfoque exclusivo de aranceles diferenciados.",
+            "El compromiso gubernamental e institucional de implementar una Política Exterior Feminista (PEF), actuando a nivel bilateral y multilateral para promover la igualdad de género y los derechos de las mujeres.",
+            "La creación de una cuota obligatoria de embajadoras basada únicamente en la edad de jubilación obligatoria."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Política Exterior Feminista",
+          "p": "De acuerdo con el marco bibliográfico y operativo citado en el documento de género de la Cancillería, ¿qué instrumento internacional de 1979 constituye la base jurídica obligatoria para los Estados en la eliminación de la discriminación contra la mujer?",
+          "o": [
+            "La Declaración de Beijing de 1995 sobre los derechos del niño.",
+            "La Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW).",
+            "El estatuto de Roma constitutivo de la Corte Penal Internacional."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Debates sobre Cambio Climático",
+          "p": "Mike Hulme (2015) en su ensayo sobre por qué discrepamos acerca del cambio climático, sostiene que los hechos científicos por sí mismos no resuelven las disputas políticas. ¿Cuál es la razón fundamental de esta postura?",
+          "o": [
+            "Porque los científicos alteran los datos meteorológicos deliberadamente para obtener mayor financiación internacional.",
+            "Porque para actuar políticamente las personas deben emitir juicios de valor y pasar los hechos científicos por el tamiz de sus culturas, cosmovisiones, prioridades éticas y sistemas de creencias.",
+            "Porque el cambio climático es un fenómeno natural que la ciencia médica actual ha demostrado que carece de origen antropogénico."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Debates sobre Cambio Climático",
+          "p": "Al definir la naturaleza del cambio climático dentro de las políticas públicas y sociales, ¿bajo qué categoría analítica lo sitúan autores como Hulme para explicar su resistencia a soluciones normativas absolutas y cerradas?",
+          "o": [
+            "Un problema perverso o de alta complejidad estructural (Wicked problem).",
+            "Un dilema técnico lineal de fácil resolución presupuestal.",
+            "Una externalidad macroeconómica puramente marginal y transitoria."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Gestión Diplomática e Informes al Congreso",
+          "p": "Al revisar las Memorias al Congreso 2022-2023 presentadas por el canciller Álvaro Leyva, ¿cuál es el eje doctrinal transversal que guía la inserción internacional de Colombia y la redefinición de sus fronteras estratégicas?",
+          "o": [
+            "La consolidación de un eje geopolítico basado en la disuasión militar y el realismo estructural clásico.",
+            "El posicionamiento de Colombia como una 'Potencia Mundial de la Vida', promoviendo la paz total, la justicia ambiental y una proyección plural hacia el mundo.",
+            "La subordinación absoluta de la agenda multilateral a las decisiones arancelarias del Consenso de Washington."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Gestión Diplomática e Informes al Congreso",
+          "p": "De acuerdo con el Informe al Congreso del periodo 2024-2025 de la Cancillería bajo la dirección de la ministra Rosa Yolanda Villavicencio Mapy, ¿cuál de las siguientes opciones describe correctamente una autoridad del viceministerio en la estructura del sector?",
+          "o": [
+            "El Viceministerio de Relaciones Exteriores y el Viceministerio de Asuntos Multilaterales operan de forma coordinada bajo las directrices de la Ministra para ejecutar la política exterior.",
+            "El Viceministerio de Asuntos Multilaterales fue eliminado de la planta de personal para centralizar las funciones en la Secretaría General.",
+            "Los viceministros tienen la facultad constitucional exclusiva de ratificar tratados internacionales sin revisión posterior de la Corte Constitucional."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Carrera Diplomática y Consular",
+          "p": "En los informes sectoriales de la Cancillería presentados ante el Congreso de la República (2023-2025), ¿cuál es el propósito institucional recurrente que se reporta dentro del componente de la Carrera Diplomática y Consular?",
+          "o": [
+            "La eliminación progresiva del concurso público de méritos para favorecer la discrecionalidad política absoluta.",
+            "El fortalecimiento, profesionalización y fomento de la transparencia en el ingreso y ascenso por mérito a través de la Academia Diplomática Augusto Ramírez Ocampo.",
+            "La tercerización de los servicios consulares globales a través de agencias privadas de empleo temporal."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Ejecución Presupuestal y Finanzas",
+          "p": "Al analizar las tablas financieras de ejecución presupuestal de la Unidad Administrativa Especial de la Migración Colombia (UAEMC) incluidas en el Informe al Congreso 2025, ¿cuál es la tendencia general en la eficiencia del gasto sectorial reflejada en las cifras consolidadas?",
+          "o": [
+            "Un colapso técnico total en el que menos del 10% de los recursos de funcionamiento fueron comprometidos.",
+            "Un avance significativo y un alto porcentaje de ejecución del presupuesto vigente en materia de obligaciones, superando el 90% en el balance total consolidado de la vigencia reportada.",
+            "La eliminación total del gasto de inversión para transferir todos los recursos a cuentas bancarias en el extranjero."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho Internacional y Agenda Legislativa",
+          "p": "Dentro del capítulo de Asuntos Jurídicos Internacionales de las Memorias de la Cancillería, ¿cuál es el procedimiento estándar que el Ministerio de Relaciones Exteriores debe seguir ante el Congreso tras la firma de un tratado internacional por parte del Presidente?",
+          "o": [
+            "El tratado entra en vigencia de forma automática y secreta sin requerir intervención del órgano legislativo.",
+            "Se debe radicar y promover el trámite de un proyecto de ley aprobatoria de tratado internacional ante el Congreso de la República para su debate legislativo.",
+            "El tratado debe ser sometido a un plebiscito obligatorio en cada uno de los consulados de Colombia en el exterior."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Gobernanza Climática Global",
+          "p": "Raymond Clémençon (2023) argumenta que el Acuerdo de París de 2015 representó un cambio de paradigma en el derecho ambiental internacional. ¿En qué consistió fundamentalmente este cambio metodológico?",
+          "o": [
+            "En el establecimiento de metas de reducción de emisiones obligatorias impuestas verticalmente por un consejo técnico de la ONU.",
+            "En el abandono del enfoque de objetivos vinculantes de arriba hacia abajo, sustituyéndolo por un sistema de abajo hacia arriba basado en Contribuciones Determinadas a Nivel Nacional (NDC) voluntarias.",
+            "En la unificación de los impuestos al carbono de todos los países bajo un arancel aduanero único regulado por la OMC."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Política Exterior Feminista",
+          "p": "Según la descripción de los proyectos de inversión consignados en el documento de género de la Cancillería (2024), ¿cuál es un indicador de gestión clave para medir la incorporación del enfoque de género a nivel bilateral?",
+          "o": [
+            "El número de misiones diplomáticas colombianas en el extranjero que logran transversalizar el enfoque de equidad en sus planes de acción y agendas de diálogo político con los Estados receptores.",
+            "El volumen total de exportaciones de carbón hacia países que cuentan con presidentas mujeres.",
+            "La supresión de las visas de turismo para los ciudadanos de los países miembros de la OCDE."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Debates sobre Cambio Climático",
+          "p": "De acuerdo con el análisis de los discursos y narrativas climáticas expuestos por Hulme, ¿a qué se refiere el término 'imaginación apocalíptica' en el debate ambiental contemporáneo?",
+          "o": [
+            "A una teoría de conspiración que niega la existencia de variaciones en la temperatura global.",
+            "A una estructura narrativa que utiliza el miedo al colapso ecológico total inminente como una herramienta de movilización política y responsabilidad moral, la cual a veces puede saturar o polarizar al público.",
+            "A la cartografía digital de las zonas desérticas realizada por los satélites de la NASA."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Desarrollo e Integración Fronteriza",
+          "p": "Al revisar los informes al Congreso de los años 2024 y 2025, ¿cuál es el enfoque estratégico prioritario que la Cancillería asigna a las Direcciones encargadas del desarrollo e integración fronteriza?",
+          "o": [
+            "El cierre comercial total y la militarización de los pasos fronterizos informales para restringir la movilidad humana.",
+            "El impulso del desarrollo social, la conectividad, los proyectos productivos comunitarios y el fortalecimiento de las Comisiones Vecinales de Integración con los países limítrofes.",
+            "La anexión territorial de zonas marítimas en disputa mediante declaraciones unilaterales."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Negociaciones Climáticas Internacionales",
+          "p": "Clémençon (2023) subraya que un obstáculo persistente en las negociaciones de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) es la justicia distributiva. ¿Qué concepto resume esta tensión histórica entre países desarrollados y en desarrollo?",
+          "o": [
+            "El principio de soberanía alimentaria restringida.",
+            "El principio de Responsabilidades Compartidas pero Diferenciadas (CBDR) y las capacidades respectivas.",
+            "El protocolo unificado de compensación militar por daños colaterales."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Política Exterior Feminista",
+          "p": "El Informe del Proyecto de Inversión de Género de 2024 detalla que la formulación de la Política Exterior Feminista en Colombia busca una alineación con la 'Feminist Foreign Policy Collaborative'. ¿Cuál es un eje operativo prioritario según estos estándares de política?",
+          "o": [
+            "Garantizar la representación paritaria, la asignación de recursos con perspectiva de género y la defensa de los derechos humanos de las mujeres y poblaciones diversas en los escenarios multilaterales.",
+            "Excluir a los funcionarios varones de todos los cargos de la Dirección de Asuntos Políticos Multilaterales.",
+            "Condicionar la ayuda humanitaria internacional al cumplimiento de reformas constitucionales inmediatas en los países receptores."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Asuntos Consulares y Servicio al Ciudadano",
+          "p": "Al revisar el componente de atención al ciudadano extranjero y nacional en el exterior consignado en las Memorias del Sector Relaciones Exteriores ante el Congreso, ¿cuál es el objetivo tecnológico recurrente de la Dirección de Asuntos Consulares y Migratorios?",
+          "o": [
+            "La eliminación de los trámites digitales para regresar al uso exclusivo de archivos físicos en papel sellado.",
+            "La modernización tecnológica, la optimización en la expedición de pasaportes y visados, y la digitalización de los servicios notariales en la red consular colombiana.",
+            "La delegación de la soberanía en la expedición de pasaportes a las embajadas de terceros países."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Debates sobre Cambio Climático",
+          "p": "Hulme (2015) afirma que las predicciones de los modelos climáticos futuros están científicamente 'bajo-determinadas' (underdetermined). ¿Qué significa este concepto en términos metodológicos?",
+          "o": [
+            "Que la ciencia del clima es un fraude absoluto y carece de cualquier validez estadística empírica.",
+            "Que aunque la ciencia demuestra con certeza la existencia del calentamiento global, los impactos precisos en los ecosistemas socio-tecnológicos futuros poseen márgenes inevitables de incertidumbre que la ciencia sola no puede eliminar de manera absoluta.",
+            "Que el número de satélites meteorológicos en órbita es insuficiente para registrar las variaciones diarias de temperatura."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho Internacional y Agenda Legislativa",
+          "p": "Una vez que el Congreso de la República aprueba una ley aprobatoria de un tratado internacional, ¿cuál es el paso constitucional obligatorio que se reporta de forma sistemática en los capítulos de Asuntos Jurídicos de los Informes al Congreso antes de que el Ejecutivo proceda al perfeccionamiento internacional del instrumento?",
+          "o": [
+            "La sanción presidencial inmediata sin posibilidad de objeción política por parte de los ministerios.",
+            "La revisión automática e integral de constitucionalidad de la ley y del tratado por parte de la Corte Constitucional colombiana.",
+            "La remisión del expediente a la Secretaría General de la Organización de los Estados Americanos (OEA) para su veto preventivo."
+          ],
+          "r": 1
+        },
+         {
+          "c": "Derecho Diplomático (Viena 1961)",
+          "p": "Según el artículo 22 de la Convención de Viena sobre Relaciones Diplomáticas de 1961, ¿cuál es el alcance de la obligación del Estado receptor respecto a los locales de la misión diplomática?",
+          "o": [
+            "Los agentes del Estado receptor pueden ingresar libremente en caso de sospecha de delitos comunes menores.",
+            "Los locales de la misión son inviolables. Los agentes del Estado receptor no podrán penetrar en ellos sin consentimiento del jefe de la misión, y el Estado receptor tiene el deber especial de protegerlos contra toda intrusión o daño.",
+            "La inviolabilidad de los locales cesa automáticamente si el Estado acreditante suspende el pago de sus obligaciones tributarias bilaterales."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho Diplomático (Viena 1961)",
+          "p": "De acuerdo con lo estipulado en la Convención de Viena de 1961, ¿qué exención específica se concede a la valija diplomática para garantizar la confidencialidad de las comunicaciones oficiales?",
+          "o": [
+            "Puede ser abierta o retenida únicamente si cuenta con una orden judicial expedida por el tribunal supremo del Estado receptor.",
+            "La valija diplomática no podrá ser abierta ni retenida en ningún caso por las autoridades del Estado receptor.",
+            "Debe ser sometida de forma obligatoria a inspección de rayos X en presencia de un delegado de la Organización de Aviación Civil Internacional (OACI)."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho Consular (Viena 1963)",
+          "p": "El artículo 31 de la Convención de Viena sobre Relaciones Consulares de 1963 regula la inviolabilidad de los locales consulares. ¿Qué diferencia metodológica sustancial presenta frente a la regulación de las misiones diplomáticas de 1961?",
+          "o": [
+            "No existe ninguna diferencia; ambos regímenes otorgan exactamente el mismo grado de inviolabilidad absoluta a la totalidad de las instalaciones.",
+            "El consentimiento del jefe de la oficina consular para el ingreso de las autoridades locales se puede presumir en caso de incendio u otro siniestro que exija medidas de protección inmediata.",
+            "Los locales consulares pueden ser expropiados unilateralmente por razones de utilidad pública sin necesidad de indemnización previa."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho Consular (Viena 1963)",
+          "p": "Según la Convención de Viena de 1963, ¿cuál es la principal función de los funcionarios consulares en relación con las personas naturales o jurídicas de su Estado acreditante que se encuentran en el Estado receptor?",
+          "o": [
+            "Ejercer la representación penal sustitutiva ante los tribunales del Estado receptor sin necesidad de poder legal.",
+            "Proteger los intereses de su Estado y de sus nacionales, personas naturales o jurídicas, dentro de los límites permitidos por el derecho internacional.",
+            "Otorgar asilo diplomático incondicional dentro de las oficinas del consulado a cualquier ciudadano perseguido por delitos políticos."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho de los Tratados (Viena 1969)",
+          "p": "La Convención de Viena sobre el Derecho de los Tratados de 1969 consagra el principio fundamental 'Pacta sunt servanda' en su artículo 26. ¿Cómo se define normativamente este principio?",
+          "o": [
+            "Todo tratado en vigor obliga a las partes y debe ser cumplido por ellas de buena fe.",
+            "Los tratados solo obligan a los Estados firmantes si su legislación interna no se opone formalmente a ellos de forma posterior.",
+            "Un Estado puede invocar las disposiciones de su derecho interno como justificación del incumplimiento de un tratado vigente."
+          ],
+          "r": 0
+        },
+        {
+          "c": "Derecho de los Tratados (Viena 1969)",
+          "p": "De acuerdo con el artículo 53 de la Convención de Viena de 1969, ¿cuál es el efecto jurídico sobre un tratado internacional si este surge en conflicto con una norma imperativa de derecho internacional general (jus cogens)?",
+          "o": [
+            "El tratado se suspende de manera provisional hasta que las partes renegocien sus cláusulas.",
+            "El tratado es nulo en su totalidad.",
+            "El tratado conserva su validez general pero el Estado afectado queda eximido de pagar indemnizaciones por incumplimiento."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Institucionalidad y Evaluación de Políticas",
+          "p": "A partir de la Resolución 16083 de 2025 de la Cancillería, ¿cuál es el objetivo central de la creación del Observatorio de Política Exterior (OPE)?",
+          "o": [
+            "Sustituir formalmente a la Dirección de Asuntos Políticos Multilaterales en el diseño de las votaciones ante la ONU.",
+            "Desarrollar análisis sistemáticos, investigación prospectiva e innovación de datos que retroalimenten la formulación y evaluación de la política exterior con base en evidencia y criterios técnicos.",
+            "Auditar exclusivamente los estados financieros e informes de ejecución presupuestal de los fondos rotatorios de las embajadas."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Institucionalidad y Evaluación de Políticas",
+          "p": "La Resolución 16083 de 2025 fundamenta la creación del OPE invocando lineamientos del CONPES 4083 de 2022. ¿Qué cultura de la administración pública nacional busca fortalecer dicho documento CONPES?",
+          "o": [
+            "La descentralización total de los consulados hacia los entes territoriales de frontera.",
+            "La cultura evaluativa en el sector público, impulsando el uso e institucionalidad de las evaluaciones para la mejora de la toma de decisiones.",
+            "La digitalización del trámite de apostilla mediante tecnologías cerradas de software propietario."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Planificación Estratégica Sectorial",
+          "p": "El Plan Estratégico Institucional (PEI 2023-2026) articula los objetivos de la Cancillería con el Plan Nacional de Desarrollo. ¿Bajo qué lema doctrinal y estratégico general se enmarcan estos objetivos sectoriales?",
+          "o": [
+            "Colombia: Apertura Económica Integral y Seguridad Inversionista.",
+            "Colombia Potencia Mundial de la Vida: Una política exterior para la paz total y la justicia ambiental.",
+            "Alianza Atlántica y Consolidación de Fronteras de Alta Disuasión."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Planificación Estratégica Sectorial",
+          "p": "Según el PEI 2023-2026, ¿cómo se articula formalmente la planeación estratégica de la Cancillería con la gestión interna del Estado colombiano bajo los lineamientos del Departamento Administrativo de la Función Pública?",
+          "o": [
+            "Mediante la delegación de las metas misionales a consorcios privados bajo contratos de concesión.",
+            "A través de la articulación del Plan Estratégico Institucional con el Modelo Integrado de Planeación y Gestión (MIPG).",
+            "Mediante la supresión de las auditorías de control interno para agilizar los trámites de contratación directa."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Relacionamiento Étnico e Internacional",
+          "p": "De acuerdo con el Informe de Pueblos y Comunidades Indígenas 2025 de la Cancillería, ¿qué compromiso estratégico se reporta en el marco del Plan Nacional de Desarrollo 2022-2026 para garantizar su participación?",
+          "o": [
+            "La creación de una cuota fija de diplomáticos indígenas seleccionados por orden alfabético de sus resguardos.",
+            "Construir, implementar y promover un protocolo de relacionamiento para la participación plena y efectiva de los pueblos y organizaciones indígenas en la agenda internacional del Estado en los asuntos que los afecten.",
+            "La exención total del uso de pasaportes para los miembros de comunidades amazónicas en cualquier aeropuerto del mundo."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Relacionamiento Étnico e Internacional",
+          "p": "Frente a los compromisos del cuatrienio 2022-2026, ¿cómo se contempla la financiación de las acciones concertadas con los pueblos indígenas para el año 2026 según el balance presupuestal del informe de 2025?",
+          "o": [
+            "Se suspenderán las actividades debido a la ausencia de una partida presupuestal asignada por ley especial de crédito.",
+            "Se dará cumplimiento a los compromisos a partir de recursos propios del funcionamiento de la entidad, ante la no asignación presupuestal específica de inversión para ese año terminal.",
+            "Serán financiadas en su totalidad por transferencias directas de la Secretaría General de la OEA."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Retos Estructurales de Colombia",
+          "p": "En el libro compilado por Mauricio Nieto (2017) sobre los retos de la Colombia contemporánea, ¿qué transformación socioeconómica en el sector rural latinoamericano se define bajo el concepto de 'descampesinización'?",
+          "o": [
+            "El retorno masivo de los ciudadanos urbanos hacia la producción agrícola tradicional familiar.",
+            "El proceso mediante el cual los campesinos tradicionales pierden su condición de productores independientes y tienden a desaparecer como clase social al convertirse en trabajadores agrarios asalariados por la agroindustria intensiva en capital.",
+            "La tecnificación ecológica absoluta del 100% de los minifundios mediante subsidios directos del Estado."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Retos Estructurales de Colombia",
+          "p": "De acuerdo con los análisis de ciencias sociales compilados por Nieto (2017), ¿a qué se refiere el término 'nueva ruralidad' al estudiar los efectos de la globalización en el campo colombiano?",
+          "o": [
+            "A la separación total y absoluta de los mercados agrarios frente a las dinámicas de consumo urbano.",
+            "A una concepción donde el sector rural se torna más heterogéneo, complejo e interconectado, obligando a los analistas a superar las viejas visiones dualistas (rural-urbana o tradicional-moderna).",
+            "A la desaparición definitiva de los latifundios gracias al uso exclusivo de monedas digitales en el comercio veredal."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho de los Tratados (Viena 1969)",
+          "p": "De acuerdo con la Convención de Viena de 1969, ¿qué funcionario de un Estado posee plenos poderes por la naturaleza de sus funciones y sin necesidad de presentar un documento de autorización formal para celebrar un tratado internacional?",
+          "o": [
+            "Cualquier miembro electo de la comisión de relaciones exteriores del parlamento nacional.",
+            "El Jefe del Estado, el Jefe del Gobierno y el Ministro de Relaciones Exteriores.",
+            "Los secretarios generales de los ministerios sectoriales encargados de la ejecución técnica del acuerdo."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho Diplomático (Viena 1961)",
+          "p": "Bajo las reglas de la Convención de Viena de 1961, ¿cuál es el estatuto jurídico que define la situación de la correspondencia oficial de una misión diplomática?",
+          "o": [
+            "Puede ser interceptada de manera excepcional en el marco de investigaciones antiterroristas coordinadas con la Interpol.",
+            "Gozará de inviolabilidad absoluta, lo que significa que no puede ser objeto de censura, apertura ni retención.",
+            "Debe ser radicada en copia magnética ante el archivo nacional del Estado receptor de manera trimestral."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho Consular (Viena 1963)",
+          "p": "El artículo 36 de la Convención de Viena de 1963 regula la comunicación con los nacionales del Estado acreditante. ¿Qué derecho fundamental establece en favor de un extranjero detenido por las autoridades del Estado receptor?",
+          "o": [
+            "El derecho a la libertad condicional automática bajo fianza costeada por el consulado de su país.",
+            "El derecho a exigir que las autoridades competentes informen de inmediato a la oficina consular de su Estado sobre su arresto o detención, y a que se transmitan sus comunicaciones oficiales.",
+            "El derecho a ser juzgado exclusivamente por un tribunal compuesto por cónsules de países neutrales."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Planificación Estratégica Sectorial",
+          "p": "Dentro de la estructura de seguimiento descrita en el PEI 2023-2026 de la Cancillería colombiana, ¿cuál es el instrumento oficial del gobierno nacional utilizado para verificar el avance de los indicadores sectoriales del Plan Nacional de Desarrollo?",
+          "o": [
+            "La matriz de riesgos del Fondo Monetario Internacional.",
+            "El sistema de seguimiento Sinergia, coordinado por el Departamento Nacional de Planeación (DNP).",
+            "El balance consolidado de la ventanilla única de comercio exterior (VUCE)."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Institucionalidad y Evaluación de Políticas",
+          "p": "La Resolución 16083 de 2025 estipula que los productos analíticos y de conocimiento generados por el Observatorio de Política Exterior (OPE) deben tener un impacto específico en la sociedad civil. ¿Cuál es ese propósito?",
+          "o": [
+            "Cobrar tarifas de suscripción comercial corporativa para financiar las misiones diplomáticas del país.",
+            "Fomentar la producción y socialización del conocimiento abierto, sirviendo como insumo técnico para investigadores, academia y actores públicos interesados en las relaciones internacionales.",
+            "Restringir el debate político mediante la clasificación de los documentos analíticos bajo reserva de seguridad nacional absoluta."
+          ],
+          "r": 1
+        },
+        {
+          "c": "Derecho de los Tratados (Viena 1969)",
+          "p": "Si un Estado desea manifestar su objeción a una reserva formulada por otro Estado en un tratado multilateral bajo las reglas de la Convención de Viena de 1969, ¿cuál es el plazo general supletorio fijado por la Convención si el tratado no dispone otra cosa?",
+          "o": [
+            "Un periodo perentorio de 30 días hábiles a partir de la firma del instrumento en la sede de la secretaría.",
+            "Un plazo de doce meses desde la fecha en que recibió la notificación de la reserva, o en la fecha en que manifestó su consentimiento en obligarse por el tratado, si esta última es posterior.",
+            "Un término indefinido que puede reactivarse en cualquier momento mediante nota diplomática unilateral de queja."
+          ],
+          "r": 1
+        }
 ]
