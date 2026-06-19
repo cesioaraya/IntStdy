@@ -1,824 +1,824 @@
 [
    {
-      "c":"Contexto, Historia y Estado",
-      "p":"Un sindicato de servidores públicos interpone una acción de nulidad contra el nombramiento de un Tercer Secretario en el exterior, argumentando que el Ministerio de Relaciones Exteriores desconoció las normas del estatuto general de contratación pública y de la carrera administrativa general. Ante la jurisdicción contencioso-administrativa, ¿cuál es el régimen normativo especial y preferente que el comité evaluador debe invocar para blindar la legalidad del proceso?",
-      "o":[
-         "El Decreto Ley 274 de 2000, por el cual se regula el Servicio Exterior y la Carrera Diplomática y Consular como un régimen de carrera especial de origen legal",
-         "La jurisprudencia unificada del Consejo de Estado sobre el libre nombramiento y remoción supeditada a la Ley 909 de 2004",
-         "Las directrices presupuestarias de la Ley 80 de 1993, interpretadas bajo los principios de idoneidad y libre concurrencia meritocrática"
-      ],
-      "r":0
-   },
-   {
-      "c":"Derecho Internacional Público",
-      "p":"Durante un período de alta tensión política, el Estado receptor realiza un cerco perimetral e inspecciona los vehículos de los visitantes que ingresan a una misión diplomática, argumentando la prevención de delitos comunes. El Estado acreditante denuncia una violación de sus prerrogativas. ¿Cuál es el fundamento doctrinal y el propósito central de la Convención de Viena de 1961 que resuelve esta controversia?",
-      "o":[
-         "El principio de extraterritorialidad absoluta de los locales comerciales de la embajada como prolongación soberana del territorio del Estado acreditante",
-         "El carácter vinculante de la reciprocidad comercial bilateral regulada por los foros de solución de diferencias de la OMC",
-         "La concesión de privilegios e inmunidades orientada no a beneficiar a las personas, sino a garantizar el desempeño eficaz de las funciones de las misiones diplomáticas"
-      ],
-      "r":2
-   },
-   {
-      "c":"Desarrollo Económico",
-      "p":"Al evaluar la vulnerabilidad del sector externo en el marco de los objetivos macroeconómicos del Plan Estratégico Institucional (PEI) de la Cancillería, se analiza la participación de las remesas de los trabajadores en el exterior dentro del Producto Interno Bruto (PIB) de 2023. Si un analista sostiene que esta fuente de divisas equivale a un margen estructural aproximado del 3.3% del PIB, ¿qué implicación técnica tiene este dato para el diseño de la política exterior?",
-      "o":[
-         "Evidencia una alta dependencia socioeconómica del consumo doméstico frente a las fluctuaciones del mercado laboral de los Estados de acogida, impactando las prioridades de la agenda de asuntos consulares",
-         "Demuestra la autosuficiencia de la balanza comercial colombiana frente a la necesidad de suscribir nuevos acuerdos de complementación económica",
-         "Refleja que el flujo migratorio ha cesado de tener un impacto real sobre las reservas internacionales y la tasa de cambio real"
-      ],
-      "r":0
-   },
-   {
-      "c":"Diplomacia y RRII",
-      "p":"Un tercer secretario en periodo de prueba requiere identificar las competencias normativas internas que rigen la administración de la Carrera Diplomática, diferenciando las funciones de ejecución y docencia de las de alta dirección del Ministerio. Según la estructura del sector descentralizado y central, ¿cuál es la competencia misional y exclusiva de la Academia Diplomática Augusto Ramírez Ocampo?",
-      "o":[
-         "Ejercer la representación judicial exclusiva del Estado colombiano ante la Corte Internacional de Justicia y la Corte Penal Internacional",
-         "Planear, organizar y ejecutar los concursos institucionales de ingreso y ascenso de la Carrera, así como la formación integral de los aspirantes y funcionarios",
-         "Aprobar mediante acto administrativo vinculante los tratados internacionales ad referendum antes de su envío al Congreso de la República"
-      ],
-      "r":1
-   },
-   {
-      "c":"Sostenibilidad",
-      "p":"En el marco de la implementación del Acuerdo de París, la delegación colombiana ante la CMNUCC debe sustentar sus Contribuciones Nacionalmente Determinadas (NDC). Según los lineamientos ambientales vigentes del sector exterior, ¿cuál es el reto estructural y la prioridad de la 'Diplomacia para la Vida' para cumplir con las metas de mitigación del país?",
-      "o":[
-         "Supeditar el cumplimiento de las metas ambientales a la firma previa de tratados de libre comercio con economías industrializadas del Norte Global",
-         "Articular de manera transversal la transición energética justa con estrategias efectivas de control de la deforestación, la restauración ecológica y el combate a la minería ilegal",
-         "Restringir las acciones de captura de carbono al sector industrial urbano, excluyendo el ordenamiento del suelo y los derechos territoriales étnicos"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1961 - Diplomacia",
-      "p":"Un Estado receptor, aplicando el artículo 9 de la Convención de Viena de 1961, decide declarar 'persona non grata' a un Ministro Consejero de la embajada de Colombia debido a presuntas actividades incompatibles con su estatus. Ante la exigencia formal de la Cancillería colombiana de recibir un informe con las pruebas y la motivación del acto, ¿qué solución determina el derecho internacional?",
-      "o":[
-         "El Estado receptor está obligado a motivar judicialmente la decisión ante una comisión arbitral bilateral antes de que surta efectos la expulsión",
-         "El Estado receptor podrá en cualquier momento, y sin tener que motivar su decisión, notificar al Estado acreditante dicha declaración, constituyendo una prerrogativa soberana discrecional",
-         "La obligación de motivar el acto de expulsión solo se activa si el funcionario diplomático posee inmunidad de ejecución penal por delitos de lesa humanidad"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1963 - Consular",
-      "p":"Un funcionario consular de carrera se ve involucrado en un litigio civil por daños y perjuicios derivados de un accidente de tránsito ocurrido en un vehículo particular durante un día no laborable en el Estado receptor. Al invocarse la Convención de Viena de 1963 para alegar inmunidad de jurisdicción, ¿cómo debe resolver técnicamente el tribunal local?",
-      "o":[
-         "Reconocer la inmunidad absoluta, puesto que los funcionarios consulares gozan de una esfera de protección idéntica e indivisible a la de los agentes diplomáticos en materia civil",
-         "Declararse competente y negar la inmunidad, ya que los funcionarios consulares solo gozan de inmunidad de jurisdicción respecto de los actos ejecutados en el ejercicio de las funciones oficiales",
-         "Suspender el proceso hasta que la Comisión Interamericana de Derechos Humanos dirima la colisión entre el derecho penal local y el derecho internacional público"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1969 - Tratados",
-      "p":"Durante la negociación de un tratado bilateral de cooperación judicial, las partes incorporan una cláusula que permite la repatriación forzada de refugiados políticos sin verificar el riesgo de tortura, contraviniendo el principio de no devolución (*non-refoulement*). ¿Cuál es la consecuencia jurídica exacta de esta colisión según el artículo 53 de la Convención de Viena de 1969?",
-      "o":[
-         "La cláusula específica es declarada nula, pero el resto de las disposiciones del tratado bilateral conservan su vigencia y exigibilidad",
-         "Es nulo todo tratado que, en el momento de su celebración, esté en oposición con una norma imperativa de derecho internacional general (jus cogens)",
-         "El tratado es plenamente válido ante los Estados signatarios, pero se torna inoponible frente a terceros Estados miembros de la Asamblea General de la ONU"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1961 - Diplomacia",
-      "p":"Las autoridades de control fronterizo de un aeropuerto internacional alegan indicios graves de que una valija diplomática, que porta los signos exteriores visibles de su carácter, contiene mercancías suntuarias prohibidas por la legislación fiscal. ¿Cuál es el procedimiento legal y la regla de protección que ampara este envío según la Convención de 1961?",
-      "o":[
-         "La valija diplomática no podrá ser abierta ni retenida bajo ninguna circunstancia, prevaleciendo el principio de inviolabilidad absoluta sobre la sospecha del Estado receptor",
-         "Las autoridades locales pueden proceder a la apertura obligatoria del bulto consular, siempre que sea en presencia de un testigo de la Cancillería receptora",
-         "El Estado receptor tiene la facultad de exigir el escaneo mediante rayos X y, en caso de negativa, proceder a la confiscación provisional del material confidencial"
-      ],
-      "r":0
-   },
-   {
-      "c":"Viena 1963 - Consular",
-      "p":"Un connacional es detenido en un Estado extranjero por infracción a la ley penal local. Las autoridades del Estado receptor proceden a su reclusión en un centro penitenciario de alta seguridad. Conforme al artículo 36 de la Convención de Viena sobre Relaciones Consulares de 1963, ¿qué estándar rige la comunicación consular?",
-      "o":[
-         "Las autoridades del Estado receptor deben notificar de oficio y de forma obligatoria a los familiares del detenido en un plazo no mayor a 24 horas",
-         "Las autoridades competentes del Estado receptor deberán informar sin dilación alguna a la oficina consular del Estado acreditante sobre la detención, siempre y cuando el interesado lo solicite",
-         "El derecho a la notificación consular está supeditado a que exista un acuerdo de extradición vigente o un tratado bilateral de asistencia judicial recíproca"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1969 - Tratados",
-      "p":"Colombia decide adherirse a una convención multilateral sobre derecho del mar, pero introduce una reserva destinada a excluir los efectos jurídicos de una cláusula sobre delimitación de áreas marítimas. ¿Cuál es el criterio técnico medular para determinar la validez jurídica de dicha reserva bajo el régimen de la Convención de Viena de 1969?",
-      "o":[
-         "Que el instrumento de reserva haya sido aprobado por unanimidad absoluta por el Consejo de Seguridad de las Naciones Unidas",
-         "Que la reserva no esté prohibida por el tratado y que no sea incompatible con el objeto y el fin que persigue el instrumento multilateral",
-         "Que el Estado reservante demuestre que la disposición vulnera normas del derecho administrativo o procesal interno posterior"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1961 vs 1963",
-      "p":"En un análisis comparativo sobre el estatuto de privilegios, un asesor jurídico debe delimitar el alcance de la protección judicial de un Agente Diplomático frente a la de un Funcionario Consular. ¿Cuál es la diferencia sustancial respecto a la inmunidad de jurisdicción civil en el Estado receptor?",
-      "o":[
-         "El agente diplomático goza de inmunidad total frente a la jurisdicción civil (salvo contadas excepciones inmobiliarias o sucesorias); el funcionario consular solo posee inmunidad respecto de los actos ejecutados en ejercicio de sus funciones",
-         "El funcionario consular cuenta con una esfera de protección civil más amplia debido a su rol directo en la promoción de intercambios comerciales bilaterales",
-         "Ambas categorías ostentan un régimen de inmunidad idéntico e indivisible en virtud de la fusión institucional de las misiones diplomáticas y oficinas consulares"
-      ],
-      "r":0
-   },
-   {
-      "c":"Viena 1969 - Tratados",
-      "p":"Durante una fase de inestabilidad política regional, se demuestra que los plenipotenciarios de un Estado firmaron un acuerdo fronterizo definitivo bajo la coacción y amenaza directa del uso de la fuerza militar por parte del Estado contraparte. ¿Cuál es la sanción jurídica y el efecto que contempla la Convención de 1969?",
-      "o":[
-         "El tratado es anulable únicamente si el Estado afectado interpone un recurso de revisión ante la Corte Constitucional local en un plazo de cinco años",
-         "El tratado carece de todo efecto jurídico y es nulo de pleno derecho (*ab initio*) si la celebración se ha obtenido por la amenaza o el uso de la fuerza en violación del derecho internacional",
-         "El acuerdo conserva su validez internacional, pero genera una obligación correlativa de indemnización financiera por daños emergentes a favor del Estado coaccionado"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1961 - Diplomacia",
-      "p":"Con el fin de optimizar el gasto presupuestal en el servicio exterior, el Ministerio de Relaciones Exteriores evalúa nombrar a un solo Embajador para que ejerza la jefatura de misión ante tres Estados de la región de forma simultánea. Conforme al artículo 5 de la Convención de Viena de 1961, ¿bajo qué condición es viable esta figura?",
-      "o":[
-         "Es una práctica prohibida por violar el principio de exclusividad y la doctrina de la soberanía recíproca de las naciones receptoras",
-         "Es viable siempre que el Estado acreditante lo notifique formalmente a los Estados receptores interesados y ninguno de ellos se oponga expresamente",
-         "Solo es admisible si el nombramiento cuenta con el aval previo y la certificación presupuestal de la Secretaría General de la OEA"
-      ],
-      "r":1
-   },
-   {
-      "c":"Viena 1969 - Tratados",
-      "p":"En las fases finales del proceso de celebración de un instrumento internacional multilateral, las delegaciones declaran agotada la etapa de negociación y proceden a la 'autenticación' del texto. ¿Cuál es el alcance y el efecto jurídico preciso de este acto según el marco de la Convención de Viena de 1969?",
-      "o":[
-         "Determinar la entrada en vigor inmediata y vinculante de los derechos y obligaciones del tratado en el ordenamiento interno",
-         "Establecer el texto del tratado como definitivo y auténtico, haciendo que el documento sea inalterable antes de la manifestación del consentimiento en obligarse",
-         "Convalidar de forma automática la revisión previa de constitucionalidad por parte de los tribunales locales de los Estados signatarios"
-      ],
-      "r":1
-   },
-   {
-      "c":"Convención Viena 1961",
-      "p":"Un agregado diplomático alega ante las autoridades tributarias locales que la exención de impuestos indirectos y tasas aduaneras constituye un derecho subjetivo inherente a su persona, el cual le permite realizar importaciones comerciales privadas. ¿Cómo se desvirtúa técnicamente esta postura con base en el preámbulo y articulado de la Convención de Viena de 1961?",
-      "o":[
-         "Los privilegios e inmunidades se conciben como un fuero personal e inalienable destinado a jerarquizar el estatus social del funcionario en el extranjero",
-         "Dichas prerrogativas se otorgan con el único fin de garantizar el desempeño eficaz de las funciones de las misiones diplomáticas en su calidad de órganos de representación del Estado",
-         "Las exenciones fiscales diplomáticas están condicionadas a que el funcionario demuestre un superávit comercial continuo en la balanza bilateral de su país de origen"
-      ],
-      "r":1
-   },
-   {
-      "c":"Convención Viena 1963",
-      "p":"Las autoridades policiales de un puerto de aduanas sospechan de forma fundada que una valija consular contiene mercancías peligrosas o explosivos ajenos a la correspondencia oficial. Conforme al artículo 35 de la Convención de Viena de 1963, ¿cuál es el procedimiento legal y regular que asiste al Estado receptor?",
-      "o":[
-         "Proceder a la apertura forzosa e inmediata del bulto invocando razones de orden público y seguridad nacional del Estado",
-         "Confiscar de manera definitiva el material confidencial y remitir un informe punitivo ante la Asamblea General de las Naciones Unidas",
-         "Solicitar que la valija sea abierta en su presencia por un representante autorizado del Estado acreditante; si las autoridades de este se niegan, la valija será devuelta a su lugar de origen"
-      ],
-      "r":2
-   },
-   {
-      "c":"Convención Viena 1969",
-      "p":"Un Estado alega dificultades de orden macroeconómico y cambios imprevistos en su plan nacional de desarrollo para justificar el cese del cumplimiento de un tratado comercial de reciprocidad arancelaria. ¿De qué manera opera el principio *Pacta sunt servanda* frente a este escenario de derecho internacional público?",
-      "o":[
-         "Faculta al Estado afectado a modificar unilateralmente los términos del instrumento convencional aduciendo la primacía de su interés nacional",
-         "Determina que todo tratado en vigor obliga a las partes y debe ser cumplido por ellas de buena fe, sin que un Estado pueda invocar disposiciones de su derecho interno como justificación del incumplimiento",
-         "Subordina la vigencia del tratado a que las condiciones macroeconómicas iniciales del mercado se mantengan idénticas y sin alteraciones estructurales"
-      ],
-      "r":1
-   },
-   {
-      "c":"Convención Viena 1961",
-      "p":"En un contexto de conmoción civil, las autoridades de policía judicial del Estado receptor intentan ingresar a los locales de una embajada extranjera para ejecutar una orden de captura contra un ciudadano local que solicitó refugio. ¿Qué límite e inmunidad de carácter real impone el artículo 22 de la Convención de Viena de 1961?",
-      "o":[
-         "Los locales de la misión son inviolables; los agentes del Estado receptor no podrán penetrar en ellos sin el consentimiento del jefe de la misión, y sus bienes gozan de inmunidad contra registro o ejecución",
-         "El jefe de misión cuenta con inmunidad de jurisdicción penal personal, pero dicha protección no se extiende a los bienes muebles o inmuebles de la planta física de la embajada",
-         "La inviolabilidad de la sede diplomática queda suspendida automáticamente si el Estado receptor demuestra la existencia de un delito flagrante contra el orden público interno"
-      ],
-      "r":0
-   },
-   {
-      "c":"Convención Viena 1969",
-      "p":"Al analizar la validez jurídica de un instrumento de cooperación ambiental que incluye a ministerios sectoriales y agencias multilaterales, se debate la definición formal de un acuerdo internacional. Según el artículo 2 de la Convención de Viena de 1969, ¿cuáles son los elementos concurrentes que configuran un tratado?",
-      "o":[
-         "Un pacto solemne suscrito de forma exclusiva por jefes de Estado soberanos que adopta la forma de una convención constitucional inmodificable",
-         "Un acuerdo de voluntades celebrado entre agencias estatales y organizaciones no gubernamentales internacionales, regulado por los principios del Soft Law del desarrollo sostenible",
-         "Un acuerdo internacional celebrado por escrito entre Estados y regido por el derecho internacional, ya conste en un instrumento único o en dos o más instrumentos conexos y cualquiera que sea su denominación"
-      ],
-      "r":2
-   },
-   {
-      "c":"Política Exterior - PEI 2023-2026",
-      "p":"En un foro hemisférico sobre movilidad humana, la delegación colombiana debe defender el viraje estratégico de su política migratoria frente a las narrativas tradicionales centradas exclusivamente en la seguridad fronteriza. Con base en los ejes transversales del Plan Estratégico Institucional (PEI) vigente, ¿cuál es el argumento técnico que sustenta la posición del Estado?",
-      "o":[
-         "La adopción de un modelo securitista que delega el control biométrico de los flujos a agencias de cooperación multilateral del Norte Global",
-         "Una aproximación basada en la seguridad humana, la protección integral de los derechos de los connacionales en el exterior y el principio de corresponsabilidad internacional",
-         "La restricción temporal del tránsito de extranjeros en zonas de frontera para salvaguardar la estabilidad laboral del mercado interno"
-      ],
-      "r":1
-   },
-   {
-      "c":"Contexto Colombiano - Comisión de la Verdad",
-      "p":"El volumen territorial 'Colombia Adentro' del Informe Final de la Comisión de la Verdad examina las dinámicas de violencia en regiones cuya bonanza económica y estabilidad institucional aparente ocultaban lógicas de victimización sistemática. Para el caso específico del Eje Cafetero, ¿cuál es la categoría conceptual que utiliza el informe para describir la coexistencia de un desarrollo agroindustrial próspero con la violencia paramilitar silenciada?",
-      "o":[
-         "Invisibilización del conflicto bajo una fachada de calma y control territorial hegemónico",
-         "Institucionalidad de excepción promovida por la ausencia absoluta de autoridades policiales",
-         "Resiliencia comunitaria endógena orientada a la resolución pacífica de controversias agrarias"
-      ],
-      "r":0
-   },
-   {
-      "c":"Política Exterior - PEI 2023-2026",
-      "p":"La estrategia 'Fronteras para la vida' del Ministerio de Relaciones Exteriores busca transformar el enfoque histórico de la periferia nacional, caracterizado por el abandono estatal o la intervención puramente militar. Según el marco programático del PEI, ¿en qué consiste la redefinición operativa de esta política en los límites binacionales?",
-      "o":[
-         "El despliegue de infraestructura de contención aduanera para impedir el tránsito de bienes no minero-energéticos",
-         "Consolidar las zonas limítrofes como polos de desarrollo sostenible, gobernanza local e integración comunitaria con los Estados vecinos",
-         "La tercerización de los pasos fronterizos formales mediante la creación de zonas francas administradas por operadores privados"
-      ],
-      "r":1
-   },
-   {
-      "c":"Política Exterior - PEI 2023-2026",
-      "p":"Colombia ha anunciado la implementación progresiva de una 'Política Exterior Feminista'. Ante cuestionamientos sobre la viabilidad y neutralidad de este enfoque en foros multilaterales tradicionales, un diplomático de carrera debe sustentar su naturaleza jurídica con base en los lineamientos de la Cancillería. ¿Cuál es su fin primordial?",
-      "o":[
-         "Establecer cuotas de género rígidas que limiten el ingreso de personal masculino a la Carrera Diplomática y Consular",
-         "Garantizar la igualdad sustantiva, el empoderamiento y la participación vinculante de mujeres y comunidades LGBTIQ+ en la formulación de los asuntos internacionales",
-         "Alinear la agenda bilateral de seguridad nacional de forma exclusiva con los movimientos sociales no gubernamentales de Occidente"
-      ],
-      "r":1
-   },
-   {
-      "c":"Contexto Colombiano - Comisión de la Verdad",
-      "p":"Durante la presentación del Legado de la Comisión de la Verdad ante un panel académico internacional, se debate el rigor de la metodología de recolección de información basada en la centralidad de las víctimas, argumentando que los testimonios orales carecen del carácter fáctico y verificable propio del estándar judicial. ¿Cómo se justifica metodológicamente la validez del Informe Final frente a esta crítica?",
-      "o":[
-         "La Comisión supeditó la validez de los testimonios a que estos contaran con una sentencia penal ejecutoriada previa en la justicia ordinaria",
-         "El mandato de la Comisión se orientó a la búsqueda del encuentro humano, el esclarecimiento histórico y la construcción de sentido, donde la narrativa de la víctima posee un valor restaurativo irreemplazable por el dato estadístico",
-         "Los informes de la Comisión operan como pruebas documentales con valor vinculante y superior sobre los fallos emitidos por la Jurisdicción Especial para la Paz"
-      ],
-      "r":1
-   },
-   {
-      "c":"Análisis Estratégico (PEI + Comisión)",
-      "p":"Al intentar ejecutar las metas de la 'Diplomacia para la Vida' y el fortalecimiento consular en subregiones históricamente afectadas por el conflicto armado que la Comisión de la Verdad tipificó bajo 'invisibilización institucional', la Cancillería enfrenta tensiones de articulación en el territorio. ¿Cuál constituye el mayor obstáculo estructural para la legitimidad de la política exterior en estas zonas?",
-      "o":[
-         "La imposibilidad de suscribir acuerdos de libre comercio directos entre los municipios PDET y bloques económicos multilaterales",
-         "Superar la desconfianza histórica de las comunidades étnicas y campesinas hacia un Estado central percibido tradicionalmente solo a través de su brazo militar o de la ausencia institucional",
-         "La exclusión normativa de las gobernaciones departamentales en la gestión de los fondos de la cooperación internacional"
-      ],
-      "r":1
-   },
-   {
-      "c":"Política Exterior (PEI - Migración)",
-      "p":"La transversalización de la 'aproximación humana' en la política migratoria colombiana exige armonizar la prerrogativa soberana del Estado de controlar sus fronteras con los compromisos internacionales de derechos humanos. Según los objetivos de gobernanza global del PEI, ¿cómo se resuelve técnicamente este equilibrio en la práctica diplomática?",
-      "o":[
-         "Concibiendo la migración no como una amenaza a la seguridad nacional, sino como un fenómeno global multidimensional que requiere corresponsabilidad, inclusión socioeconómica y codesarrollo",
-         "Priorizando la firma de memorandos de entendimiento bilaterales destinados a la repatriación obligatoria y expedita de flujos migratorios irregulares",
-         "Restringiendo el acceso a servicios públicos básicos en las zonas de frontera para desincentivar los asentamientos irregulares de larga duración"
-      ],
-      "r":0
-   },
-   {
-      "c":"Contexto Territorial (Comisión de la Verdad)",
-      "p":"El Informe de la Comisión de la Verdad devela que la narrativa del 'milagro económico' del Eje Cafetero operó en ocasiones como un mecanismo discursivo para silenciar el despojo de tierras y la impunidad estructural, protegiendo la reputación empresarial de la región ante los mercados internacionales. ¿Qué imperativo ético y técnico impone este hallazgo para el ejercicio de la diplomacia colombiana contemporánea?",
-      "o":[
-         "Sostener la primacía de la diplomacia comercial tradicional, aislando los debates de memoria histórica de las misiones de promoción de inversiones en el exterior",
-         "Fundamentar la proyección internacional del país en la transparencia, el reconocimiento explícito de la verdad histórica y la reparación como garantías de no repetición y predictibilidad jurídica",
-         "Solicitar la impugnación de los capítulos del informe que afecten los indicadores de confianza inversionista y riesgo país ante la OCDE"
-      ],
-      "r":1
-   },
-   {
-      "c":"Análisis Estratégico (PEI)",
-      "p":"La traducción operativa de la directriz política de consolidar a Colombia como 'Potencia Mundial de la Vida' dentro del Plan Estratégico Institucional de la Cancillería implica un rediseño de las prioridades de la agenda exterior. ¿En qué pilar se materializa este cambio conceptual?",
-      "o":[
-         "En el liderazgo diplomático internacional enfocado en la transición energética justa, la justicia ambiental global, la paz total y la centralidad de los derechos humanos",
-         "En el fortalecimiento de alianzas estratégicas orientadas exclusivamente a la flexibilización de licencias de explotación de recursos fósiles convencionales",
-         "En la adopción de una postura aislacionista que reduce la participación en foros multilaterales para priorizar la soberanía jurídica local"
-      ],
-      "r":0
-   },
-   {
-      "c":"Nivel Experto: Integración",
-      "p":"Un funcionario de la carrera diplomática es comisionado ante el Consejo de Derechos Humanos de la ONU para exponer los avances de Colombia en materia de consolidación de la paz, utilizando el Informe Final de la Comisión de la Verdad como insumo oficial. De acuerdo con el enfoque del PEI vigente, ¿cuál es el tratamiento técnico adecuado que debe dársele al informe en este escenario bilateral?",
-      "o":[
-         "Presentarlo como un análisis sociológico minoritario que no vincula las políticas públicas del nivel central del Estado",
-         "Utilizarlo de manera proactiva como una herramienta que demuestra la solidez democrática del Estado, su capacidad de autocrítica institucional y su compromiso inquebrantable con los estándares internacionales de verdad y justicia",
-         "Omitir las secciones referidas a la responsabilidad de agentes estatales para evitar demandas de responsabilidad internacional ante tribunales transnacionales"
-      ],
-      "r":1
-   },
-   {
-      "c":"Indicadores - Economía y Migración",
-      "p":"Las remesas enviadas por los trabajadores colombianos desde el exterior constituyen un componente macroeconómico crítico para la estabilidad de la balanza de pagos. Conforme a las metas de vinculación del PEI 2023-2026, ¿cómo aborda estratégicamente la política exterior este flujo de capitales privados?",
-      "o":[
-         "Como un indicador del éxito de las políticas de externalización laboral masiva que permite reducir el gasto público en subsidios internos",
-         "Como una fuente esencial de divisas que demanda el diseño de políticas públicas de co-inversión productiva, inclusión financiera y fortalecimiento del tejido vincular con la diáspora",
-         "Como un fondo impositivo directo cuyas tasas aduaneras deben ser recaudadas por los consulados para financiar las misiones diplomáticas"
-      ],
-      "r":1
-   },
-   {
-      "c":"Indicadores - Comercio Exterior",
-      "p":"En el marco de las transformaciones del comercio global analizadas por la UNCTAD, las 'medidas no arancelarias' (MNA) han adquirido una relevancia superior a los aranceles tradicionales en la determinación del acceso real de los productos colombianos a los mercados de economías industrializadas. ¿Qué naturaleza jurídica y técnica poseen principalmente estas medidas?",
-      "o":[
-         "Gravámenes porcentuales fijos aplicados exclusivamente a la importación de bienes de capital y tecnologías de la información",
-         "Regulaciones técnicas, normativas sanitarias, fitosanitarias y requisitos de evaluación de la conformidad que condicionan o restringen el ingreso físico de las mercancías",
-         "Subsidios directos a la producción doméstica permitidos de forma excepcional por el Acuerdo General sobre Aranceles Aduaneros y Comercio"
-      ],
-      "r":1
-   },
-   {
-      "c":"Indicadores - Sostenibilidad",
-      "p":"Para consolidar el rol de Colombia como un actor relevante de la diplomacia climática bajo la narrativa de 'Potencia Mundial de la Vida', el Ministerio de Relaciones Exteriores monitorea indicadores de cumplimiento frente al Acuerdo de París. Según la guía de orientación y el bloque de sostenibilidad, ¿cuáles son las variables medulares evaluadas en los foros de la CMNUCC?",
-      "o":[
-         "El incremento porcentual en el volumen de exportación de carbón térmico hacia economías emergentes del Asia-Pacífico",
-         "La reducción sustantiva de las tasas de deforestación amazónica, el aumento de la ambición en las NDC y la aceleración de una transición energética justa y planificada",
-         "La unificación de las licencias ambientales bajo un solo estándar regulado de forma preferente por la Organización de los Estados Americanos"
-      ],
-      "r":1
-   },
-   {
-      "c":"Contexto - Geopolítica",
-      "p":"La diversificación estratégica de socios y la profundización de las relaciones con el Sur Global constituyen pilares fundamentales para mitigar la vulnerabilidad internacional del país. En el marco de un orden multipolar en transición, ¿qué implica técnicamente para Colombia la ejecución de esta doctrina?",
-      "o":[
-         "La denuncia unilateral de los tratados de libre comercio suscritos con socios históricos del Atlántico Norte para evitar dependencias ideológicas",
-         "Fortalecer la inserción en mercados emergentes de Asia, África y América Latina a través de un multilateralismo selectivo y pragmático, sin que ello signifique la ruptura de las alianzas preexistentes",
-         "Adoptar de forma automática las directrices monetarias y de seguridad de bloques cerrados de economías de planificación centralizada"
-      ],
-      "r":1
-   },
-   {
-      "c":"Indicadores - Social y Conflicto",
-      "p":"Dentro del marco del Sistema Integral de Verdad, Justicia, Reparación y No Repetición, se hace indispensable comprender la articulación entre las distintas tipologías de verdad para orientar la política exterior de paz. ¿Cuál es la distinción conceptual y operativa medular entre la 'verdad judicial' y la 'verdad restauradora o histórica'?",
-      "o":[
-         "La verdad judicial se orienta a la determinación de responsabilidades penales individuales mediante un proceso adversarial, mientras que la verdad restauradora busca la comprensión colectiva del conflicto, la dignificación de las víctimas y la recomposición del tejido social",
-         "La verdad judicial posee un carácter puramente declarativo y administrativo, mientras que la verdad restauradora es la única que produce efectos jurídicos sancionatorios vinculantes en el orden interno",
-         "Ambas categorías persiguen idénticos fines metodológicos, diferenciándose únicamente en que la verdad judicial es administrada de forma exclusiva por organismos de carácter transnacional"
-      ],
-      "r":0
-   },
-   {
-      "c":"DIP - Teoría de las Fuentes",
-      "p":"En un litigio ante la Corte Internacional de Justicia (CIJ), un Estado argumenta que una disposición contenida en un tratado bilateral ratificado debe prevalecer de forma absoluta sobre una norma consuetudinaria de derecho internacional general anterior. Aplicando el artículo 38 del Estatuto de la CIJ y la teoría de las fuentes, ¿cuál es la interpretación jurídica correcta?",
-      "o":[
-         "Existe una jerarquía formal y pétrea que supedita la costumbre internacional a las fuentes escritas en todos los casos de colisión normativa",
-         "No existe una jerarquía formal rígida entre tratados y costumbre; ambas son fuentes principales que interactúan dinámicamente, resolviéndose sus conflictos mediante principios generales como *lex posterior* o *lex specialis*",
-         "La doctrina de los publicistas de mayor competencia es una fuente principal que prevalece sobre la costumbre ante la ausencia de un tratado vinculante"
-      ],
-      "r":1
-   },
-   {
-      "c":"DIP - Jus Cogens vs Erga Omnes",
-      "p":"Durante la revisión de un acuerdo multilateral sobre la protección de la biodiversidad marina, surge un debate doctrinal sobre la aplicabilidad de los conceptos de normas de *jus cogens* y obligaciones *erga omnes*. ¿Cuál es la distinción técnica exacta que un asesor de la Cancillería debe precisar?",
-      "o":[
-         "Son nociones conceptualmente idénticas que no admiten diferenciación operativa en el derecho convencional contemporáneo",
-         "El *jus cogens* refiere a la naturaleza jerárquica e inderogable de una norma imperativa de derecho internacional general, mientras que las obligaciones *erga omnes* refieren al alcance y la estructura de la obligación, la cual se debe frente a la comunidad internacional en su conjunto",
-         "El *jus cogens* emana exclusivamente de los tratados multilaterales codificados por la ONU, mientras que las obligaciones *erga omnes* nacen de actos unilaterales de los Estados"
-      ],
-      "r":1
-   },
-   {
-      "c":"DIP - Teoría de la Responsabilidad",
-      "p":"Un Estado es acusado ante un tribunal internacional por las violaciones de derechos humanos cometidas por un grupo paramilitar que opera dentro de su territorio. Según los artículos sobre Responsabilidad del Estado por Hechos Internacionalmente Ilícitos de la CDI, ¿bajo qué condición técnica es atribuible dicha conducta al Estado?",
-      "o":[
-         "Por el solo hecho de que los ilícitos ocurran dentro del espacio geográfico bajo la soberanía formal del Estado, independientemente de quién sea el autor material",
-         "Si se demuestra de forma fehaciente que el grupo armado actuó de hecho bajo la dirección, instigación o el control efectivo del Estado al ejecutar la conducta ilícita específica",
-         "Únicamente si los miembros de la facción armada cuentan con un nombramiento formal como servidores públicos mediante un decreto del poder ejecutivo central"
-      ],
-      "r":1
-   },
-   {
-      "c":"DIP - Monismo vs Dualismo",
-      "p":"En un debate constitucional sobre la aplicación interna del derecho internacional, se analiza un escenario donde una ley comercial nacional posterior entra en contradicción directa con un tratado internacional de derechos humanos ratificado con anterioridad. Si el Estado adopta una postura monista con primacía del derecho internacional, ¿cómo opera técnicamente la solución de este conflicto?",
-      "o":[
-         "La ley interna posterior deroga tácitamente al tratado internacional en virtud del principio de temporalidad legislativa",
-         "El tratado internacional prevalece de forma automática e inmediata sobre la norma interna ordinaria, inaplicándose la ley posterior sin necesidad de un acto de transformación legislativa previo",
-         "El tratado internacional queda suspendido en sus efectos hasta que el Congreso de la República apruebe una ley de enmienda constitucional"
-      ],
-      "r":1
-   },
-   {
-      "c":"DIP - Reconocimiento",
-      "p":"En el análisis de la formación de nuevos sujetos de derecho internacional, las escuelas doctrinales discrepan sobre los efectos jurídicos del reconocimiento de Estados. ¿Cuál es la diferencia medular entre la teoría constitutiva y la teoría declarativa del reconocimiento?",
-      "o":[
-         "La constitutiva supedita la existencia del Estado al aval de la Asamblea General de la ONU, mientras que la declarativa exige la ratificación del Estatuto de Roma",
-         "La teoría constitutiva sostiene que el acto de reconocimiento crea por sí mismo la personalidad jurídica internacional del nuevo Estado, mientras que la teoría declarativa afirma que el Estado existe plenamente desde que reúne los elementos constitutivos (territorio, población, poder político) y el reconocimiento solo constata dicha realidad de hecho",
-         "La teoría constitutiva aplica exclusivamente para los Estados surgidos por procesos de descolonización, mientras que la declarativa rige la sucesión de gobiernos en regímenes de facto"
-      ],
-      "r":1
-   },
-   {
-      "c":"Teoría IR - Waltz (Neorrealismo)",
-      "p":"Un analista de la Cancillería evalúa el alineamiento estratégico de las potencias medias en el orden internacional contemporáneo. Desde la perspectiva del neorrealismo estructural de Kenneth Waltz, ¿cuál es la premisa medular que determina la conducta de supervivencia de los Estados en el sistema?",
-      "o":[
-         "La existencia de un ordenamiento jerárquico global regulado por normas vinculantes emanadas de la Asamblea General de la ONU",
-         "La naturaleza anárquica del sistema internacional, que impone una lógica de autoayuda (*self-help*) donde los Estados actúan según la distribución de sus capacidades materiales de poder",
-         "El papel de los regímenes internacionales interdependientes como moduladores definitivos de las preferencias de los agentes estatales"
-      ],
-      "r":1
-   },
-   {
-      "c":"Teoría IR - Wallerstein (Sistemas-Mundo)",
-      "p":"Al formular un documento de posición sobre la reforma del sistema financiero multilateral, una delegación diplomática utiliza la teoría de los Sistemas-Mundo de Immanuel Wallerstein para explicar las asimetrías estructurales del comercio global. ¿Cuál es el postulado económico básico que sostiene este enfoque?",
-      "o":[
-         "La existencia de una división internacional del trabajo donde se produce una transferencia continua de excedentes desde la periferia hacia el centro, consolidando una desigualdad estructural e histórica",
-         "El beneficio mutuo y la nivelación automática de los factores productivos mediante la libre movilidad transfronteriza del capital",
-         "La sustitución definitiva de los Estados soberanos por corporaciones multinacionales como únicos titulares de derechos en el comercio global"
-      ],
-      "r":0
-   },
-   {
-      "c":"Teoría IR - Nye (Soft Power)",
-      "p":"La estrategia de diplomacia pública de Colombia busca consolidar el liderazgo del país en foros internacionales mediante la promoción de la biodiversidad y la diversidad cultural. A la luz del enfoque conceptual de Joseph Nye sobre el *Soft Power*, ¿cómo se define técnicamente esta dimensión del poder?",
-      "o":[
-         "La capacidad de coerción económica ejercida mediante la imposición de aranceles punitivos y sanciones aduaneras unilaterales",
-         "La habilidad de un Estado para moldear las preferencias de otros actores internacionales a través de la atracción basada en sus valores culturales, legitimidad política y prestigio exterior",
-         "El volumen acumulado de capacidades materiales reflejado en el presupuesto de defensa y la capacidad de despliegue militar transfronterizo"
-      ],
-      "r":1
-   },
-   {
-      "c":"Aplicación - Análisis de Colombia",
-      "p":"En un escenario hipotético de cierre de fronteras en el hemisferio provocado por una crisis de movilidad humana masiva, se le solicita a usted un memorando de recomendaciones con un enfoque neorrealista estricto. ¿Cuál sería el eje central de su argumentación jurídica y política?",
-      "o":[
-         "Supeditar los flujos migratorios de forma exclusiva a las directrices éticas y humanitarias del derecho convencional de los derechos humanos",
-         "Priorizar el análisis del impacto de la crisis de movilidad sobre la seguridad nacional, la soberanía territorial y el mantenimiento del equilibrio de poder estatal",
-         "Transferir de forma absoluta la gestión fronteriza y la asignación presupuestal a organizaciones no gubernamentales transnacionales"
-      ],
-      "r":1
-   },
-   {
-      "c":"Integración Teórica",
-      "p":"La formulación institucional de la 'Diplomacia para la Vida' del Plan Estratégico Institucional de la Cancillería plantea una ruptura doctrinal con las aproximaciones clásicas de las Relaciones Internacionales. ¿En qué aspecto operativo se evidencia el alejamiento más claro frente a los postulados de la *Realpolitik*?",
-      "o":[
-         "El diseño de una estrategia exterior orientada a la maximización de alianzas militares defensivas convencionales",
-         "La estructuración de una agenda global focalizada en la paz total, la justicia ambiental y el multilateralismo inclusivo sobre la lógica tradicional del equilibrio de poder material",
-         "La priorización del gasto armamentista fronterizo como disuasión estratégica ante amenazas vecinales"
-      ],
-      "r":1
-   },
-   {
-      "c":"GATT y OMC - Evolución Normativa",
-      "p":"El GATT de 1947 funcionó durante décadas como un acuerdo multilateral provisional sin una estructura orgánica permanente. Al dar tránsito a la creación de la Organización Mundial del Comercio (OMC) en 1995 mediante el Acuerdo de Marrakech, ¿cuál fue el cambio jurídico-institucional más trascendental para la gobernanza comercial?",
-      "o":[
-         "La eliminación total, inmediata e incondicional de los aranceles consolidados de los Estados miembros",
-         "El establecimiento de una organización internacional dotada de personalidad jurídica propia y un Sistema de Solución de Diferencias unificado con carácter vinculante",
-         "La cesión de las facultades aduaneras nacionales a la jurisdicción exclusiva de la Corte Internacional de Justicia"
-      ],
-      "r":1
-   },
-   {
-      "c":"OMC - Principios Fundamentales",
-      "p":"En el marco del derecho multilateral de la OMC, la cláusula de la Nación Más Favorecida (NMF) actúa como una de las obligaciones medulares del sistema. ¿Cuál es el alcance operativo de esta norma frente al comercio de mercancías extranjeras?",
-      "o":[
-         "Exigir que todo favor, ventaja o privilegio concedido por un Estado miembro a un producto originario de cualquier otro país sea extendido inmediata e incondicionalmente a los productos similares de todos los demás Miembros",
-         "Garantizar que las industrias nacionales de los países en desarrollo reciban subsidios de compensación automáticos por parte del Órgano de Apelación",
-         "Facilitar la creación de zonas de libre comercio regionales cerradas que restrinjan el acceso de mercancías de terceros Estados"
-      ],
-      "r":0
-   },
-   {
-      "c":"OMC - Principios Fundamentales",
-      "p":"El principio de 'Trato Nacional' regulado en el Artículo III del GATT de 1994 es indispensable para garantizar condiciones de competencia leal. ¿Cuál es la obligación que asume el Estado colombiano en virtud de este principio una vez que un producto extranjero se ha nacionalizado legalmente?",
-      "o":[
-         "El producto importado no puede ser objeto de tributos internos ni de reglamentaciones nacionales discriminatorias o menos favorables que las aplicadas a los productos nacionales similares",
-         "El Estado conserva la facultad de imponer gravámenes internos compensatorios superiores a la producción local para equilibrar las ventajas tecnológicas de origen",
-         "Las mercancías extranjeras quedan automáticamente exentas del cumplimiento de reglamentos técnicos y medidas sanitarias internas"
-      ],
-      "r":0
-   },
-   {
-      "c":"OMC - Solución de Diferencias",
-      "p":"A diferencia de los mecanismos diplomáticos del GATT, el Sistema de Solución de Diferencias (SSD) de la OMC introdujo un procedimiento dotado de mayor previsibilidad jurídica. ¿En qué consiste técnicamente el mecanismo de 'adopción por consenso negativo' del Órgano de Solución de Diferencias?",
-      "o":[
-         "Un informe de un Grupo Especial o del Órgano de Apelación se considera aprobado de forma obligatoria a menos que el Órgano de Solución de Diferencias decida por consenso de todos sus miembros no adoptarlo",
-         "La adopción del fallo requiere el voto unánime y favorable de todos los miembros del bloque comercial, facultando al Estado perdedor a vetar la sanción",
-         "El proceso judicial internacional solo surte efectos vinculantes si las partes en litigio han ratificado previamente una cláusula compromisoria extemporánea"
-      ],
-      "r":0
-   },
-   {
-      "c":"OMC - Medidas de Defensa Comercial",
-      "p":"Una investigación de la autoridad investigadora comercial de Colombia determina que un tipo de acero extranjero ingresa al mercado nacional a un precio inferior a su valor normal en el país de origen (precio de exportación menor que el valor en aduana), causando un daño material a la rama de producción nacional similar. ¿Qué instrumento legal de la OMC fundamenta la imposición de medidas remediales?",
-      "o":[
-         "La aplicación de una Medida de Salvaguardia global basada en el aumento imprevisto de las importaciones",
-         "La imposición de Derechos Antidumping, de conformidad con el Artículo VI del GATT de 1994 y el Acuerdo relativo a la Aplicación del Artículo VI",
-         "El establecimiento de restricciones cuantitativas discrecionales mediante la asignación de cuotas de mercado"
-      ],
-      "r":1
-   },
-   {
-      "c":"OMC - Ronda de Doha",
-      "p":"Lanzada en 2001, la Ronda de Doha de la OMC fue catalogada formalmente como la 'Agenda de Doha para el Desarrollo'. ¿Cuál constituye el núcleo técnico y el principal escollo geopolítico que ha impedido la conclusión integral de este mandato negociador multilateral?",
-      "o":[
-         "La exigencia de los países en desarrollo de eliminar las distorsiones comerciales generadas por los subsidios agrícolas y las ayudas internas de las economías industrializadas, frente al acceso a mercados en bienes no agrícolas",
-         "El intento de las potencias de centralizar el control aduanero global bajo la supervisión presupuestal del Fondo Monetario Internacional",
-         "La prohibición absoluta de los acuerdos comerciales regionales y de los tratados de libre comercio de carácter bilateral"
-      ],
-      "r":0
-   },
-   {
-      "c":"OMC - Regulación Sanitaria",
-      "p":"El Acuerdo sobre la Aplicación de Medidas Sanitarias y Fitosanitarias (MSF) de la OMC reconoce el derecho de los miembros de dictar normas para proteger la vida humana, animal o vegetal. Para evitar que estas regulaciones operen como barreras comerciales injustificadas, ¿qué estándar internacional impone el acuerdo?",
-      "o":[
-         "Las medidas deben estar sustentadas en principios científicos, no mantenerse sin testimonios científicos suficientes y basarse en una adecuada evaluación del riesgo, utilizando preferentemente normas internacionales de referencia",
-         "Toda medida sanitaria de carácter transfronterizo debe contar con la aprobación y ratificación unánime del Consejo de Seguridad de las Naciones Unidas",
-         "El acuerdo prohíbe de forma absoluta la aplicación del principio de precaución ante la ausencia de certidumbre científica completa"
-      ],
-      "r":0
-   },
-   {
-      "c":"OMC - Geopolítica",
-      "p":"El multilateralismo comercial enfrenta una crisis institucional profunda caracterizada por la parálisis de su instancia judicial de última palabra. ¿Cuál es la causa técnica e institucional que explica el cese operativo del Órgano de Apelación de la OMC?",
-      "o":[
-         "La falta de competencia del órgano para pronunciarse sobre los diferendos comerciales relativos al comercio de servicios (AGCS)",
-         "El bloqueo sistemático en la nominación y designación de sus miembros vacantes por parte de actores clave, lo que impide alcanzar el quórum mínimo de tres integrantes requerido para resolver las controversias",
-         "La expedición de una resolución de la Asamblea General de la ONU que transfirió el control del SSD a la Corte Penal Internacional"
-      ],
-      "r":1
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Objetivos Estratégicos",
-      "p":"Al sustentar los impactos de la inserción comercial internacional de Colombia, un asesor de la Cancillería debe precisar la naturaleza jurídica y el objetivo del Acuerdo de Promoción Comercial entre Colombia y los Estados Unidos. ¿Cuál es la definición técnica correcta?",
-      "o":[
-         "Constituye una Unión Aduanera orientada al establecimiento de un arancel externo común y la libre movilidad de factores productivos",
-         "Es un Tratado de Libre Comercio que busca consolidar un acceso preferencial, estable y permanente para la oferta exportable colombiana, reduciendo barreras no arancelarias y atrayendo inversión bajo un marco de seguridad jurídica",
-         "Un memorando de entendimiento de Soft Law destinado a la cooperación financiera en proyectos exclusivos de reconversión industrial rural"
-      ],
-      "r":1
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Reglas de Origen",
-      "p":"Un importador estadounidense de textiles colombianos argumenta que la aduana de su país le exige el pago del arancel de Nación Más Favorecida a pesar de que el bien fue confeccionado en territorio colombiano. Desde la perspectiva técnica del TLC, ¿qué requisito procedimental y sustantivo debe acreditarse para acceder al beneficio de la desgravación arancelaria?",
-      "o":[
-         "El cumplimiento estricto de los criterios de transformación sustancial y las 'Reglas de Origen' específicas que determinen que el bien califica como originario según los insumos permitidos por el tratado",
-         "La certificación de que el transporte logístico fue realizado en su totalidad por empresas navieras con bandera de los Estados Unidos",
-         "El pago previo de una tasa de compensación arancelaria ante el Órgano de Solución de Diferencias de la OMC"
-      ],
-      "r":0
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Propiedad Intelectual",
-      "p":"Durante las negociaciones del TLC Colombia-Estados Unidos, el capítulo sobre Propiedad Intelectual concentró intensos debates normativos. ¿Cuál constituyó el objetivo regulatorio central impulsado por la delegación de los Estados Unidos en este apartado del acuerdo?",
-      "o":[
-         "Elevar los estándares de protección y observancia de patentes, derechos de autor y marcas por encima de los mínimos del Acuerdo sobre los ADPIC (estándares ADPIC-plus), ampliando la protección de datos de prueba",
-         "Establecer la prohibición total de la importación y comercialización de medicamentos genéricos en el mercado interno colombiano",
-         "Lograr la subordinación automática del régimen de marcas de la Superintendencia de Industria y Comercio a las leyes federales de la Oficina de Patentes de EE.UU."
-      ],
-      "r":0
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Agricultura",
-      "p":"El tratamiento del sector agropecuario fue uno de los componentes de mayor sensibilidad en la negociación del TLC con los Estados Unidos debido a las asimetrías de subsidios en el país norteamericano. ¿Qué mecanismo técnico se incorporó en el tratado para mitigar el impacto sobre los productos nacionales considerados 'sensibles'?",
-      "o":[
-         "La exclusión permanente del sector agrícola del ámbito de aplicación del tratado",
-         "El establecimiento de contingentes arancelarios (cuotas libres de arancel) combinados con plazos de desgravación gradual a largo plazo y mecanismos de salvaguardia agropecuaria excepcional",
-         "La eliminación arancelaria inmediata y generalizada orientada a reducir la inflación de la canasta básica de consumo doméstico"
-      ],
-      "r":1
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Solución de Controversias",
-      "p":"Si surge una diferencia entre el Estado colombiano y el gobierno de los Estados Unidos respecto de la interpretación o aplicación de una disposición contenida en el TLC que afecte el acceso real de bienes agrícolas nacionales, ¿cuál es el procedimiento formal establecido en el acuerdo para resolver el conflicto?",
-      "o":[
-         "La interposición de una demanda judicial directa ante los tribunales de circuito federal de la ciudad de Washington D.C.",
-         "Un proceso escalonado regulado en el capítulo de Solución de Controversias del tratado que inicia con consultas bilaterales, puede avanzar a la intervención de la Comisión Administradora y, en última instancia, recurrir a la constitución de un panel arbitral",
-         "La remisión automática del diferendo ante la Sala de Casación Civil de la Corte Suprema de Justicia para un fallo de legalidad nacional"
-      ],
-      "r":1
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Temas Transversales",
-      "p":"A diferencia de los tratados comerciales tradicionales de primera generación, el TLC Colombia-Estados Unidos integró capítulos robustos en materia laboral y ambiental. ¿Cuál es la obligación jurídica central que estos apartados imponen de manera vinculante a las partes firmantes?",
-      "o":[
-         "La adopción obligatoria y simétrica de la estructura normativa y los códigos laborales internos del Estado de Delaware",
-         "El compromiso de aplicar de manera efectiva sus propias legislaciones nacionales laborales y ambientales, evitando la flexibilización o el debilitamiento de los estándares domésticos como medio para atraer el comercio o la inversión",
-         "La transferencia de la potestad sancionatoria ambiental interna a un tribunal transnacional independiente de la jurisdicción local"
-      ],
-      "r":1
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Compras Públicas",
-      "p":"El capítulo de Contratación Pública del TLC define las condiciones bajo las cuales las empresas de ambas partes pueden participar en los procesos de compras del Estado. ¿Cuál es el beneficio normativo directo que este capítulo otorga a los proveedores de servicios colombianos?",
-      "o":[
-         "El derecho a la adjudicación directa de licitaciones federales de defensa sin cumplir con los requisitos presupuestales del mercado",
-         "Garantizar un trato nacional y no discriminatorio en los procesos de contratación de las entidades del gobierno federal estadounidense que estén cubiertas por el tratado y superen los umbrales financieros pactados",
-         "La exención total de presentar pólizas de cumplimiento o garantías bancarias ante las entidades contratantes del Estado receptor"
-      ],
-      "r":1
-   },
-   {
-      "c":"TLC Colombia-EE.UU. - Servicios",
-      "p":"Durante una ronda de consultas bilaterales, surgen discrepancias sobre la imposición de una cuota máxima al número de proveedores extranjeros autorizados para operar plataformas de servicios financieros en el mercado local. Evaluando la situación desde los compromisos normativos del TLC con los Estados Unidos, ¿qué obligación específica se vulneraría al establecer dicha restricción cuantitativa?",
-      "o":[
-         "El principio de Acceso a Mercados, el cual prohíbe de forma taxativa a las Partes imponer limitaciones al número de proveedores de servicios o al valor total de las transacciones en los sectores abiertos",
-         "La obligación de trato nacional, al aplicarse una medida de exención tributaria exclusiva a favor de corporaciones multinacionales del Norte Global",
-         "El principio de asimetría regulatoria, que faculta al Estado importador a suspender unilateralmente las licencias profesionales de servicios de ingeniería"
-      ],
-      "r":0
-   },
-   {
-      "c":"Alianza del Pacífico - Naturaleza Jurídica",
-      "p":"Al analizar los modelos de integración en América Latina, un diplomático evalúa el diseño institucional de la Alianza del Pacífico frente a esquemas tradicionales. ¿Qué característica metodológica y jurídica define la naturaleza de este mecanismo desde su Acuerdo Marco fundacional?",
-      "o":[
-         "La creación de una estructura supranacional dotada de un parlamento vinculante cuyas directrices derogan de forma automática la legislación de los Congresos nacionales",
-         "Una plataforma de integración profunda orientada por el regionalismo abierto y el pragmatismo institucional, que carece de burocracias supranacionales y prioriza la flexibilidad de los acuerdos técnicos",
-         "Un modelo cerrado de unión aduanera que supedita la política arancelaria exterior de sus miembros a las decisiones del Consejo de Seguridad de la OEA"
-      ],
-      "r":1
-   },
-   {
-      "c":"Alianza del Pacífico - Pilares Fundamentales",
-      "p":"La consolidación de la Alianza del Pacífico como un bloque competitivo a nivel global exige el cumplimiento simultáneo de sus mandatos de libre circulación. Según el marco constitutivo suscrito por Colombia, ¿cuáles son los cuatro componentes medulares que configuran este mercado común en construcción?",
-      "o":[
-         "La libre circulación de bienes, servicios, capitales y personas",
-         "La unificación monetaria, la libre circulación de fuerzas armadas, la homologación de subsidios de defensa y la libertad de prensa transfronteriza",
-         "La exención general de registros sanitarios, el libre comercio de material bélico, la asignación de cuotas de pesca y la unificación de fronteras físicas"
-      ],
-      "r":0
-   },
-   {
-      "c":"Alianza del Pacífico - Estrategia Externa",
-      "p":"La proyección geopolítica de la Alianza del Pacífico responde a una lectura estratégica de los flujos de capital y el comercio internacional en el siglo XXI. ¿Cuál constituye el vector de política exterior prioritario definido en su carta de navegación para contrarrestar la pérdida de dinamismo de los mercados tradicionales?",
-      "o":[
-         "La firma de un tratado de defensa mutua para restringir el tránsito de buques comerciales extranjeros en el mar territorial americano",
-         "El fortalecimiento de la articulación económica, comercial y diplomática con la región del Asia-Pacífico, posicionando al bloque como un eslabón clave en las cadenas globales de valor",
-         "La denuncia colectiva de los tratados de libre comercio vigentes con los países del Atlántico para priorizar el abastecimiento intrarregional"
-      ],
-      "r":1
-   },
-   {
-      "c":"Alianza del Pacífico - Reglas de Origen",
-      "p":"Una empresa manufacturera colombiana diseña un plan de exportación hacia un mercado asiático utilizando insumos intermedios importados de Chile y Perú. Para que el producto final se beneficie de las preferencias negociadas por el bloque, ¿qué mecanismo técnico de facilitación comercial resulta indispensable aplicar?",
-      "o":[
-         "La triangulación aduanera diferida bajo la supervisión presupuestal del Banco de Desarrollo de América Latina (CAF)",
-         "El principio de acumulación de origen, que permite considerar los insumos de cualquier Estado miembro como originarios del país exportador, promoviendo la integración productiva regional",
-         "La exención automática de los requisitos de evaluación de la conformidad técnica y fitosanitaria en la aduana de destino"
-      ],
-      "r":1
-   },
-   {
-      "c":"Alianza del Pacífico - Diplomacia y Pragmática",
-      "p":"A diferencia de otros mecanismos institucionales de la región que han experimentado parálisis estructurales debido a los virajes políticos de sus mandatarios, la Alianza del Pacífico ha mostrado una notable resiliencia operativa. ¿Qué premisa de su gestión diplomática explica esta estabilidad?",
-      "o":[
-         "La existencia de una secretaría técnica permanente dotada de capacidades de coerción militar sobre los gobiernos nacionales",
-         "Un enfoque netamente pragmático centrado en el avance de agendas técnicas, comerciales y de cooperación, aislando el funcionamiento del bloque de las divergencias ideológicas de los gobiernos de turno",
-         "El poder de veto absoluto otorgado a las cámaras de comercio privadas sobre los decretos presidenciales de política exterior"
-      ],
-      "r":1
-   },
-   {
-      "c":"Alianza del Pacífico - Cooperación",
-      "p":"La 'Plataforma de Movilidad Estudiantil y Académica' constituye uno de los ejes de cooperación más dinámicos de la Alianza del Pacífico. Desde la perspectiva de la diplomacia cultural y las relaciones internacionales, ¿cuál es el objetivo estratégico subyacente a este instrumento?",
-      "o":[
-         "Fomentar la integración regional mediante el desarrollo de capital humano avanzado y la construcción de un tejido social de gobernanza e identidad compartida entre los futuros tomadores de decisión",
-         "Sustituir de manera progresiva los currículos de las universidades públicas nacionales por lineamientos dictados por la OCDE",
-         "Establecer un mecanismo exclusivo de reclutamiento de personal técnico para el servicio exterior que prescinda del concurso público de carrera"
-      ],
-      "r":0
-   },
-   {
-      "c":"Alianza del Pacífico - Comercio e Inversión",
-      "p":"El Protocolo Comercial de la Alianza del Pacífico consagra un capítulo específico a la facilitación del comercio y la cooperación aduanera. ¿Cómo se materializa normativamente esta directriz en la gestión cotidiana de las Cancillerías y las agencias de control transfronterizo?",
-      "o":[
-         "Mediante la simplificación, armonización y automatización de los regímenes aduaneros, el uso interoperable de Ventanillas Únicas de Comercio Exterior (VUCE) y la implementación de sistemas de gestión de riesgos logísticos",
-         "A través de la supresión de las inspecciones físicas y sanitarias para todas las mercancías agrícolas perecederas de origen minero",
-         "Con la obligación de unificar las tarifas impositivas del IVA comercial interno en los cuatro países bajo un estándar fijo"
-      ],
-      "r":0
-   },
-   {
-      "c":"Alianza del Pacífico - Geopolítica Regional",
-      "p":"En los debates contemporáneos sobre la arquitectura de la integración latinoamericana, se discute la relación estratégica entre los países orientados al Pacífico y el bloque del MERCOSUR. ¿Cuál es la postura oficial de la diplomacia colombiana respecto a la coexistencia de ambos esquemas?",
-      "o":[
-         "Asumir la Alianza del Pacífico como un modelo antagónico que persigue el aislamiento económico e institucional de las economías del Cono Sur",
-         "Promover la convergencia en la diversidad, entendiendo que ambos mecanismos representan distintas profundizaciones de integración que pueden complementarse mediante la flexibilización de cadenas de valor",
-         "Exigir la disolución formal de los esquemas subregionales intergubernamentales para centralizar la representación ante la OMC en una sola voz hemisférica"
-      ],
-      "r":1
-   },
-   {
-      "c":"CAN - Fundamentos Jurídicos",
-      "p":"La Comunidad Andina (CAN) representa el proceso de integración más antiguo e institucionalizado de Sudamérica. Al evaluar su estructura normativa frente a otros bloques, ¿cuál constituye el rasgo jurídico distintivo de su ordenamiento comunitario originado en el Acuerdo de Cartagena?",
-      "o":[
-         "Su naturaleza estrictamente intergubernamental, que exige la ratificación parlamentaria unánime de cada directriz para que adquiera validez jurídica local",
-         "Un carácter supranacional cimentado en la autonomía de sus órganos, cuyas Decisiones gozan de aplicabilidad directa y preeminencia jerárquica sobre el derecho interno de los Estados miembros",
-         "La ausencia de un tribunal judicial de control, delegando la solución de controversias a las cláusulas arbitrales de la Convención de Nueva York"
-      ],
-      "r":1
-   },
-   {
-      "c":"CAN - Composición",
-      "p":"La fisonomía geopolítica de la Comunidad Andina ha experimentado transformaciones significativas a lo largo de su historia debido al retiro y reingreso de diversos actores estatales. ¿Cómo está configurada la membresía plena de este bloque de integración en la actualidad?",
-      "o":[
-         "Colombia, el Estado Plurinacional de Bolivia, la República del Ecuador y la República del Perú",
-         "Colombia, la República de Chile, la República del Ecuador y la República Bolivariana de Venezuela",
-         "Colombia, el Estado Plurinacional de Bolivia, la República del Perú y la República de Panamá"
-      ],
-      "r":0
-   },
-   {
-      "c":"CAN - Institucionalidad",
-      "p":"Un juez de la República de Colombia debe fallar un litigio comercial interno donde una de las partes invoca una presunta incompatibilidad entre la legislación nacional sobre patentes y la Decisión 486 de la CAN. De acuerdo con el marco procesal andino, ¿qué acción institucional debe adelantarse antes de dictar sentencia?",
-      "o":[
-         "Solicitar al Tribunal de Justicia de la Comunidad Andina una interpretación prejudicial para garantizar la aplicación uniforme de la norma comunitaria en el bloque",
-         "Inaplicar de forma oficiosa el derecho comunitario andino invocando la doctrina de la soberanía legislativa absoluta del Congreso",
-         "Remitir el expediente al Parlamento Andino para que actúe como tribunal arbitral de casación de última instancia"
-      ],
-      "r":0
-   },
-   {
-      "c":"CAN - Derechos Ciudadanos",
-      "p":"El Estatuto Andino de Migraciones representa un avance sustancial en la dimensión social de la integración subregional. ¿Qué prerrogativa jurídica consagra de manera vinculante este instrumento para los nacionales de los países miembros de la CAN?",
-      "o":[
-         "El derecho a circular, residir y ejercer actividades laborales por cuenta propia o ajena en cualquier país miembro, bajo condiciones de igualdad de trato y oportunidades respecto a los nacionales",
-         "La expedición de un pasaporte diplomático unificado que exime a los ciudadanos del cumplimiento de los controles de seguridad aduanera",
-         "La facultad de ejercer el derecho al voto activo y pasivo en las elecciones presidenciales del Estado receptor sin requisitos de residencia"
-      ],
-      "r":0
-   },
-   {
-      "c":"CAN - Derecho Comunitario",
-      "p":"En el marco del derecho de la integración, los principios fundamentales determinan la eficacia de las normas comunes. ¿Qué implicación técnico-jurídica posee el principio de 'Efecto Directo' de las Decisiones de la Comisión de la CAN?",
-      "o":[
-         "Exigir que las normas aprobadas en Lima sean promulgadas mediante ley de la República y revisadas por la Corte Constitucional antes de su entrada en vigor",
-         "Otorgar a las Decisiones la capacidad de crear derechos y obligaciones exigibles por los ciudadanos ante los tribunales nacionales desde su publicación en la Gaceta Oficial, sin requerir un acto de transposición interno",
-         "Facultar al poder ejecutivo a suspender de forma discrecional las normas comunitarias que afecten los indicadores de recaudo tributario nacional"
-      ],
-      "r":1
-   },
-   {
-      "c":"CAN - Estrategia Regional",
-      "p":"A nivel macroeconómico, los países de la cuenca andina participan de manera simultánea en la CAN y en la Alianza del Pacífico. Frente a los riesgos de duplicidad normativa en el comercio intra-regional, ¿cómo se articula técnicamente la coexistencia de ambos regímenes?",
-      "o":[
-         "Los bloques operan bajo un principio de exclusión jurídica absoluta, obligando al Estado a suspender sus compromisos andinos al aplicar el Protocolo de la Alianza",
-         "Coexisten de manera armónica, permitiendo que los Estados apliquen de forma flexible los mecanismos de acumulación de origen y facilitación comercial para potenciar la convergencia en la diversidad",
-         "La estructura orgánica de la CAN absorbió las competencias arancelarias de la Alianza del Pacífico por mandato de la OMC"
-      ],
-      "r":1
-   },
-   {
-      "c":"CAN - Secretaría General",
-      "p":"El Sistema Andino de Integración (SAI) distribuye competencias específicas entre órganos de dirección, deliberación y ejecución. ¿Qué instancia detenta la máxima facultad de decisión política y potestad legislativa mediante la expedición de Decisiones vinculantes?",
-      "o":[
-         "La Secretaría General de la CAN con sede ejecutiva en la ciudad de Lima",
-         "El Consejo Andino de Ministros de Relaciones Exteriores y la Comisión de la Comunidad Andina",
-         "El Parlamento Andino en articulación con las comisiones sextas constitucionales de los Congresos nacionales"
-      ],
-      "r":1
-   },
-   {
-      "c":"CAN - Propiedad Intelectual",
-      "p":"La regulación común sobre Propiedad Industrial contenida en la Decisión 486 de la CAN es uno de los activos más estables de la integración andina. ¿Cuál constituye la justificación técnica de mantener este régimen armonizado en el bloque frente a las presiones de acuerdos bilaterales externos?",
-      "o":[
-         "Garantizar un marco regulatorio homogéneo de predictibilidad jurídica que unifica los criterios de patentabilidad y protección de marcas, resguardando la biodiversidad y los conocimientos tradicionales de los países miembros",
-         "Establecer la gratuidad absoluta para el registro de patentes biotecnológicas desarrolladas por laboratorios de capital nacional",
-         "Eliminar de forma permanente la vigencia de los derechos de autor sobre las obras científicas y los desarrollos de software transnacionales"
-      ],
-      "r":0
-   },
-   {
-      "c":"MERCOSUR - Naturaleza Jurídica",
-      "p":"Al evaluar el grado de integración alcanzado por el MERCOSUR frente a las meras Zonas de Libre Comercio, un economista internacional debe tipificar su estatus normativo actual. ¿Qué elemento estructural define técnicamente al MERCOSUR en su estadio de integración económica?",
-      "o":[
-         "La libre circulación de factores productivos complementada con la adopción de una política monetaria unificada y un banco central común",
-         "El libre comercio intrarregional de bienes y la adopción de un Arancel Externo Común (AEC) que regula las relaciones comerciales con terceros Estados",
-         "La supresión total de las fronteras físicas aduaneras y de las potestades de recaudo tributario de los Ministerios de Hacienda nacionales"
-      ],
-      "r":1
-   },
-   {
-      "c":"MERCOSUR - Origen",
-      "p":"La arquitectura del Mercado Común del Sur se edificó sobre compromisos jurídicos multilaterales que marcaron el fin de las rivalidades estratégicas en el Cono Sur. ¿Qué tratado internacional dio nacimiento formal al bloque en 1991, delineando su programa de desgravación arancelaria?",
-      "o":[
-         "El Tratado de Asunción, suscrito por Argentina, Brasil, Paraguay y Uruguay",
-         "El Protocolo de Ouro Preto, que fijó la estructura institucional definitiva del bloque",
-         "La Declaración de Montevideo sobre la convergencia de la ALADI"
-      ],
-      "r":0
-   },
-   {
-      "c":"MERCOSUR - Institucionalidad",
-      "p":"La gobernanza del MERCOSUR recae sobre órganos intergubernamentales de alta sensibilidad política, como el Consejo del Mercado Común. Según las reglas de procedimiento vigentes, ¿bajo qué mecanismo técnico se adopta la normativa comercial en este bloque?",
-      "o":[
-         "Mediante votación de mayoría ponderada calculada de forma proporcional al tamaño del PIB de cada Estado Parte",
-         "Por consenso, requiriéndose de manera obligatoria la presencia de la totalidad de los Estados Partes en las instancias decisorias",
-         "A través de decisiones ejecutivas unilaterales expedidas por la Secretaría del MERCOSUR con sede en Montevideo"
-      ],
-      "r":1
-   },
-   {
-      "c":"MERCOSUR - Solución de Controversias",
-      "p":"En el marco de un diferendo comercial intrabloque en el MERCOSUR respecto a la aplicación de barreras no arancelarias, las partes deciden agotar las instancias previstas en el Protocolo de Olivos. ¿Cuál es el órgano jurisdiccional de carácter permanente encargado de garantizar la interpretación uniforme y actuar como última instancia de revisión de los laudos arbitrales?",
-      "o":[
-         "El Tribunal Permanente de Revisión (TPR), con sede en Asunción, diseñado para resolver controversias, dictar medidas cautelares y emitir opiniones consultivas en el bloque",
-         "El Tribunal de Justicia de la Comunidad Andina, operando mediante una extensión jurisdiccional de complementariedad y convergencia institucional regional",
-         "La Corte Interamericana de Arbitraje Comercial, supeditada de manera directa a las directrices multilaterales de la ALADI"
-      ],
-      "r":0
-   },
-   {
-      "c":"MERCOSUR - Relaciones Externas",
-      "p":"Un Estado parte del MERCOSUR plantea la posibilidad de suscribir, de manera unilateral y acelerada, un Tratado de Libre Comercio con una potencia extrarregional asiática. Evaluando la naturaleza jurídica del bloque como Unión Aduanera, ¿qué restricción normativa e institucional enfrenta este Estado?",
-      "o":[
-         "La obligación de negociar acuerdos comerciales de alcance pleno de manera conjunta o en bloque, preservando la integridad del Arancel Externo Común (AEC) según lo dispuesto por la Decisión 32/00 del Consejo del Mercado Común",
-         "La prohibición absoluta de entablar diálogos diplomáticos fuera del hemisferio occidental por mandatos imperativos del Tratado de Asunción",
-         "La necesidad de obtener una autorización vinculante expedida por voto calificado del Consejo Permanente de la OEA"
-      ],
-      "r":0
-   },
+    "c": "Contexto, Historia y Estado",
+    "p": "Un sindicato de servidores públicos interpone una acción de nulidad contra el nombramiento de un Tercer Secretario en el exterior, argumentando que el Ministerio de Relaciones Exteriores desconoció las normas del estatuto general de contratación pública y de la carrera administrativa general. Ante la jurisdicción contencioso-administrativa, ¿cuál es el régimen normativo especial y preferente que el comité evaluador debe invocar para blindar la legalidad del proceso?",
+    "o": [
+      "El Decreto Ley 274 de 2000, por el cual se regula el Servicio Exterior y la Carrera Diplomática y Consular como un régimen de carrera especial de origen legal.",
+      "La jurisprudencia unificada del Consejo de Estado sobre el libre nombramiento y remoción supeditada a la Ley 909 de 2004.",
+      "Las directrices presupuestarias de la Ley 80 de 1993, interpretadas bajo los principios de idoneidad y libre concurrencia meritocrática."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Durante un período de alta tensión política, el Estado receptor realiza un cerco perimetral e inspecciona los vehículos de los visitantes que ingresan a una misión diplomática, argumentando la prevención de delitos comunes. El Estado acreditante denuncia una violación de sus prerrogativas. ¿Cuál es el fundamento doctrinal y el propósito central de la Convención de Viena de 1961 que resuelve esta controversia?",
+    "o": [
+      "El principio de extraterritorialidad absoluta de los locales comerciales de la embajada como prolongación soberana del territorio del Estado acreditante.",
+      "El carácter vinculante de la reciprocidad comercial bilateral regulada por los foros de solución de diferencias de la OMC.",
+      "La concesión de privilegios e inmunidades orientada no a beneficiar a las personas, sino a garantizar el desempeño eficaz de las funciones de las misiones diplomáticas."
+    ],
+    "r": 2
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "Al evaluar la vulnerabilidad del sector externo en el marco de los objetivos macroeconómicos del Plan Estratégico Institucional (PEI) de la Cancillería, se analiza la participación de las remesas de los trabajadores en el exterior dentro del Producto Interno Burto (PIB). Si esta fuente de divisas equivale a un margen estructural aproximado del 3.3% del PIB, ¿qué implicación técnica tiene este dato para el diseño de la política exterior?",
+    "o": [
+      "Evidencia una alta dependencia socioeconómica del consumo doméstico frente a las fluctuaciones del mercado laboral de los Estados de acogida, impactando las prioridades de la agenda de asuntos consulares.",
+      "Demuestra la autosuficiencia de la balanza comercial colombiana frente a la necesidad de suscribir nuevos acuerdos de complementación económica.",
+      "Refleja que el flujo migratorio ha cesado de tener un impacto real sobre las reservas internacionales y la tasa de cambio real."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Contexto, Historia y Estado",
+    "p": "Un tercer secretario en periodo de prueba requiere identificar las competencias normativas internas que rigen la administración de la Carrera Diplomática,分iendo las funciones de ejecución de las de alta dirección del Ministerio. Según la estructura institucional, ¿cuál es la competencia misional y exclusiva de la Academia Diplomática Augusto Ramírez Ocampo?",
+    "o": [
+      "Ejercer la representación judicial exclusiva del Estado colombiano ante la Corte Internacional de Justicia y la Corte Penal Internacional.",
+      "Planear, organizar y ejecutar los concursos institucionales de ingreso y ascenso de la Carrera, así como la formación integral de los aspirantes y funcionarios.",
+      "Aprobar mediante acto administrativo vinculante los tratados internacionales ad referendum antes de su envío al Congreso de la República."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "En el marco de la implementación del Acuerdo de París, la delegación colombiana ante la CMNUCC debe sustentar sus Contribuciones Nacionalmente Determinadas (NDC). Según los lineamientos ambientales vigentes del sector exterior, ¿cuál es el reto estructural y la prioridad de la 'Diplomacia para la Vida' para cumplir con las metas de mitigación del país?",
+    "o": [
+      "Supeditar el cumplimiento de las metas ambientales a la firma previa de tratados de libre comercio con economías industrializadas del Norte Global.",
+      "Articular de manera transversal la transición energética justa con estrategias efectivas de control de la deforestación, la restauración ecológica y el combate a la minería ilegal.",
+      "Restringir las acciones de captura de carbono al sector industrial urbano, excluyendo el ordenamiento del suelo y los derechos territoriales étnicos."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Un Estado receptor, aplicando el artículo 9 de la Convención de Viena de 1961, decide declarar 'persona non grata' a un Ministro Consejero de la embajada de Colombia debido a presuntas actividades incompatibles con su estatus. Ante la exigencia formal de la Cancillería colombiana de recibir un informe con las pruebas y la motivación del acto, ¿qué solución determina el derecho internacional?",
+    "o": [
+      "El Estado receptor está obligado a motivar judicialmente la decisión ante una comisión arbitral bilateral antes de que surta efectos la expulsión.",
+      "El Estado receptor podrá en cualquier momento, y sin tener que motivar su decisión, notificar al Estado acreditante dicha declaración, constituyendo una prerrogativa soberana discrecional.",
+      "La obligación de motivar el acto de expulsión solo se activa si el funcionario diplomático posee inmunidad de ejecución penal por delitos de lesa humanidad."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Un funcionario consular de carrera se ve involucrado en un litigio civil por daños derivados de un accidente de tránsito ocurrido en un vehículo particular durante un día no laborable en el Estado receptor. Al invocarse la Convención de Viena de 1963 para alegar inmunidad de jurisdicción, ¿cómo debe resolver técnicamente el tribunal local?",
+    "o": [
+      "Reconocer la inmunidad absoluta, puesto que los funcionarios consulares gozan de una esfera de protección idéntica e indivisible a la de los agentes diplomáticos en materia civil.",
+      "Declararse competente y negar la inmunidad, ya que los funcionarios consulares solo gozan de inmunidad de jurisdicción respecto de los actos ejecutados en el ejercicio de las funciones oficiales.",
+      "Suspender el proceso hasta que la Comisión Interamericana de Derechos Humanos dirima la colisión entre el derecho penal local y el derecho internacional público."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho de los Tratados (Viena 1969)",
+    "p": "Durante la negociación de un tratado bilateral de cooperación judicial, las partes incorporan una cláusula que permite la repatriación forzada de refugiados políticos sin verificar el riesgo de tortura, contraviniendo el principio de no devolución (non-refoulement). ¿Cuál es la consecuencia jurídica exacta de esta colisión según el artículo 53 de la Convención de Viena de 1969?",
+    "o": [
+      "La cláusula específica es declarada nula, pero el resto de las disposiciones del tratado bilateral conservan su vigencia y exigibilidad.",
+      "Es nulo todo tratado que, en el momento de su celebración, esté en oposición con una norma imperativa de derecho internacional general (jus cogens).",
+      "El tratado es plenamente válido ante los Estados signatarios, pero se torna inoponible frente a terceros Estados miembros de la Asamblea General de la ONU."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Las autoridades de control fronterizo de un aeropuerto internacional alegan indicios graves de que una valija diplomática, que porta los signos exteriores visibles de su carácter, contiene mercancías suntuarias prohibidas por la legislación fiscal. ¿Cuál es el procedimiento legal y la regla de protección que ampara este envío según la Convención de Viena de 1961?",
+    "o": [
+      "La valija diplomática no podrá ser abierta ni retenida bajo ninguna circunstancia, prevaleciendo el principio de inviolabilidad absoluta sobre la sospecha del Estado receptor.",
+      "Las autoridades locales pueden proceder a la apertura obligatoria del bulto consular, siempre que sea en presencia de un testigo de la Cancillería receptora.",
+      "El Estado receptor tiene la facultad de exigir el escaneo mediante rayos X y, en caso de negativa, proceder a la confiscación provisional del material confidencial."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Un connacional es detenido en un Estado extranjero por infracción a la ley penal local. Las autoridades del Estado receptor proceden a su reclusión en un centro penitenciario. Conforme al artículo 36 de la Convención de Viena sobre Relaciones Consulares de 1963, ¿qué estándar rige la comunicación y asistencia consular?",
+    "o": [
+      "Las autoridades del Estado receptor deben notificar de oficio y de forma obligatoria a los familiares del detenido en un plazo no mayor a 24 horas.",
+      "Las autoridades competentes del Estado receptor deberán informar sin dilación alguna a la oficina consular del Estado acreditante sobre la detención, siempre y cuando el interesado lo solicite.",
+      "El derecho a la notificación consular está supeditado a que exista un acuerdo de extradición vigente o un tratado bilateral de asistencia judicial recíproca."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho de los Tratados (Viena 1969)",
+    "p": "Colombia decide adherirse a una convención multilateral sobre derecho del mar, pero introduce una reserva destinada a excluir los efectos jurídicos de una cláusula sobre delimitación de áreas marítimas. ¿Cuál es el criterio técnico medular para determinar la validez jurídica de dicha reserva bajo el régimen de la Convención de Viena de 1969?",
+    "o": [
+      "Que el instrumento de reserva haya sido aprobado por unanimidad absoluta por el Consejo de Seguridad de las Naciones Unidas.",
+      "Que la reserva no esté prohibida por el tratado y que no sea incompatible con el objeto y el fin que persigue el instrumento multilateral.",
+      "Que el Estado reservante demuestre que la disposición vulnera normas del derecho administrativo o procesal interno posterior."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En un análisis comparativo sobre el estatuto de privilegios, un asesor jurídico debe delimitar el alcance de la protección judicial de un Agente Diplomático frente a la de un Funcionario Consular. ¿Cuál es la diferencia sustancial respecto a la inmunidad de jurisdicción civil en el Estado receptor?",
+    "o": [
+      "El agente diplomático goza de inmunidad total frente a la jurisdicción civil (salvo contadas excepciones inmobiliarias o sucesorias); el funcionario consular solo posee inmunidad respecto de los actos ejecutados en ejercicio de sus funciones.",
+      "El funcionario consular cuenta con una esfera de protección civil más amplia debido a su rol directo en la promoción de intercambios comerciales bilaterales.",
+      "Ambas categorías ostentan un régimen de inmunidad idéntico e indivisible en virtud de la fusión institucional de las misiones diplomáticas y oficinas consulares."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho de los Tratados (Viena 1969)",
+    "p": "Durante una fase de inestabilidad política regional, se demuestra que los plenipotenciarios de un Estado firmaron un acuerdo fronterizo definitivo bajo la coacción y amenaza directa del uso de la fuerza militar por parte del Estado contraparte. ¿Cuál es la sanción jurídica y el efecto que contempla la Convención de Viena de 1969?",
+    "o": [
+      "El tratado es rentable únicamente si el Estado afectado interpone un recurso de revisión ante la Corte Constitucional local en un plazo de cinco años.",
+      "El tratado carece de todo efecto jurídico y es nulo de pleno derecho (ab initio) si la celebración se ha obtenido por la amenaza o el uso de la fuerza en violación del derecho internacional.",
+      "El acuerdo conserva su validez internacional, pero genera una obligación correlativa de indemnización financiera por daños emergentes a favor del Estado coaccionado."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Con el fin de optimizar el gasto presupuestal en el servicio exterior, el Ministerio de Relaciones Exteriores evalúa nombrar a un solo Embajador para que ejerza la jefatura de misión ante tres Estados de la región de forma simultánea. Conforme al artículo 5 de la Convención de Viena de 1961, ¿bajo qué condición es viable esta figura?",
+    "o": [
+      "Es una práctica prohibida por violar el principio de exclusividad y la doctrina de la soberanía recíproca de las naciones receptoras.",
+      "Es viable siempre que el Estado acreditante lo notifique formalmente a los Estados receptores interesados y ninguno de ellos se oponga expresamente.",
+      "Solo es admisible si el nombramiento cuenta con el aval previo y la certificación presupuestal de la Secretaría General de la OEA."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho de los Tratados (Viena 1969)",
+    "p": "En las fases finales del proceso de celebración de un instrumento internacional multilateral, las delegaciones declaran agotada la etapa de negociación y proceden a la 'autenticación' del texto. ¿Cuál es el alcance y el efecto jurídico preciso de este acto según el marco de la Convención de Viena de 1969?",
+    "o": [
+      "Determinar la entrada en vigor inmediata y vinculante de los derechos y obligaciones del tratado en el ordenamiento interno.",
+      "Establecer el texto del tratado como definitivo y auténtico, haciendo que el documento sea inalterable antes de la manifestación del consentimiento en obligarse.",
+      "Convalidar de forma automática la revisión previa de constitucionalidad por parte de los tribunales locales de los Estados signatarios."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Un agregado diplomático alega ante las autoridades tributarias locales que la exención de impuestos indirectos y tasas aduaneras constituye un derecho subjetivo inherente a su persona, el cual le permite realizar importaciones comerciales privadas. ¿Cómo se desvirtúa técnicamente esta postura con base en el marco de la Convención de Viena de 1961?",
+    "o": [
+      "Los privilegios e inmunidades se conciben como un fuero personal e inalienable destinado a jerarquizar el estatus social del funcionario en el extranjero.",
+      "Dichas prerrogativas se otorgan con el único fin de garantizar el desempeño eficaz de las funciones de las misiones diplomáticas en su calidad de órganos de representación del Estado.",
+      "Las exenciones fiscales diplomáticas están condicionadas a que el funcionario demuestre un superávit comercial continuo en la balanza bilateral de su país de origen."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Las autoridades policiales de un puerto de aduanas sospechan de forma fundada que una valija consular contiene mercancías peligrosas o elementos ajenos a la correspondencia oficial. Conforme al artículo 35 de la Convención de Viena de 1963, ¿cuál es el procedimiento legal y regular que asiste al Estado receptor?",
+    "o": [
+      "Proceder a la apertura forzosa e inmediata del bulto de forma unilateral, invocando razones de orden público y seguridad nacional del Estado.",
+      "Confiscar de manera definitiva el material confidencial y remitir un informe punitivo ante la Asamblea General de las Naciones Unidas.",
+      "Solicitar que la valija sea abierta en su presencia por un representante autorizado del Estado acreditante; si las autoridades de este se niegan, la valija será devuelta a su lugar de origen."
+    ],
+    "r": 2
+  },
+  {
+    "c": "Derecho de los Tratados (Viena 1969)",
+    "p": "Un Estado alega dificultades de orden macroeconómico y cambios imprevistos en su plan nacional de desarrollo para justificar el cese del cumplimiento de un tratado comercial de reciprocidad arancelaria. ¿De qué manera opera el principio Pacta sunt servanda frente a este escenario de derecho internacional público?",
+    "o": [
+      "Faculta al Estado afectado a modificar unilateralmente los términos del instrumento convencional aduciendo la primacía de su interés nacional.",
+      "Determina que todo tratado en vigor obliga a las partes y debe ser cumplido por ellas de buena fe, sin que un Estado pueda invocar disposiciones de su derecho interno como justificación del incumplimiento.",
+      "Subordina la vigencia del tratado a que las condiciones macroeconómicas iniciales del mercado se mantengan idénticas y sin alteraciones estructurales."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En un contexto de conmoción civil, las autoridades de policía de un Estado receptor intentan ingresar a los locales de una embajada extranjera para ejecutar una orden de captura contra un ciudadano local. ¿Qué límite e inmunidad de carácter real impone el artículo 22 de la Convención de Viena de 1961?",
+    "o": [
+      "Los locales de la misión son inviolables; los agentes del Estado receptor no podrán penetrar en ellos sin el consentimiento del jefe de la misión, y sus bienes gozan de inmunidad contra registro.",
+      "El jefe de misión cuenta con inmunidad de jurisdicción penal personal, pero dicha protección no se extiende a los bienes muebles o inmuebles de la planta física de la embajada.",
+      "La inviolabilidad de la sede diplomática queda suspendida automáticamente si el Estado receptor demuestra la existencia de un delito flagrante contra el orden público interno."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho de los Tratados (Viena 1969)",
+    "p": "Al analizar la validez jurídica de un instrumento de cooperación ambiental que incluye a ministerios sectoriales y agencias multilaterales, se debate la definición formal de un acuerdo internacional. Según el artículo 2 de la Convención de Viena de 1969, ¿cuáles son los elementos concurrentes que configuran un tratado?",
+    "o": [
+      "Un pacto solemne suscrito de forma exclusiva por jefes de Estado soberanos que adopta la forma de una convención constitucional inmodificable.",
+      "Un acuerdo de voluntades celebrado entre agencias estatales y organizaciones no gubernamentales internacionales, regulado por los principios del Soft Law.",
+      "Un acuerdo internacional celebrado por escrito entre Estados y regido por el derecho internacional, ya conste en un instrumento único o en dos o más instrumentos conexos y cualquiera que sea su denominación."
+    ],
+    "r": 2
+  },
+   {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "En un foro hemisférico sobre movilidad humana, la delegación colombiana debe defender el viraje estratégico de su política migratoria frente a las narrativas tradicionales centradas exclusivamente en la seguridad fronteriza. Con base en los ejes transversales del Plan Estratégico Institucional (PEI) vigente, ¿cuál es el argumento técnico que sustenta la posición del Estado?",
+    "o": [
+      "La adopción de un modelo securitista que delega el control biométrico de los flujos a agencias de cooperación multilateral del Norte Global.",
+      "Una aproximación basada en la seguridad humana, la protección integral de los derechos de los connacionales en el exterior y el principio de corresponsabilidad internacional.",
+      "La restricción temporal del tránsito de extranjeros en zonas de frontera para salvaguardar la estabilidad laboral del mercado interno."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Contexto, Historia y Estado",
+    "p": "El volumen territorial 'Colombia Adentro' del Informe Final de la Comisión de la Verdad examina las dinámicas de violencia en regiones cuya bonanza económica y estabilidad institucional aparente ocultaban lógicas de victimización sistemática. Para el caso específico del Eje Cafetero, ¿cuál es la categoría conceptual que utiliza el informe para describir la coexistencia de un desarrollo agroindustrial próspero con la violencia paramilitar silenciada?",
+    "o": [
+      "Invisibilización del conflicto bajo una fachada de calma y control territorial hegemónico.",
+      "Institucionalidad de excepción promovida por la ausencia absoluta de autoridades policiales.",
+      "Resiliencia comunitaria endógena orientada a la resolución pacífica de controversias agrarias."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "La estrategia 'Fronteras para la vida' del Ministerio de Relaciones Exteriores busca transformar el enfoque histórico de la periferia nacional, caracterizado por el abandono estatal o la intervención puramente militar. Según el marco programático del PEI, ¿en qué consiste la redefinición operativa de esta política en los límites binacionales?",
+    "o": [
+      "El despliegue de infraestructura de contención aduanera para impedir el tránsito de bienes no minero-energéticos.",
+      "Consolidar las zonas limítrofes como polos de desarrollo sostenible, gobernanza local e integración comunitaria con los Estados vecinos.",
+      "La tercerización de los pasos fronterizos formales mediante la creación de zonas francas administradas por operadores privados."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "Colombia ha anunciado la implementación progresiva de una 'Política Exterior Feminista'. Ante cuestionamientos sobre la viabilidad y neutralidad de este enfoque en foros multilaterales tradicionales, un diplomático de carrera debe sustentar su naturaleza jurídica con base en los lineamientos de la Cancillería. ¿Cuál es su fin primordial?",
+    "o": [
+      "Establecer cuotas de género rígidas que limiten el ingreso de personal masculino a la Carrera Diplomática y Consular.",
+      "Garantizar la igualdad sustantiva, el empoderamiento y la participación vinculante de mujeres y comunidades LGBTIQ+ en la formulación de los asuntos internacionales.",
+      "Alinear la agenda bilateral de seguridad nacional de forma exclusiva con los movimientos sociales no gubernamentales de Occidente."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Contexto, Historia y Estado",
+    "p": "Durante la presentación del Legado de la Comisión de la Verdad ante un panel académico internacional, se debate el rigor de la metodología de recolección de información basada en la centralidad de las víctimas, argumentando que los testimonios orales carecen del carácter fáctico y verificable propio del estándar judicial. ¿Cómo se justifica metodológicamente la validez del Informe Final frente a esta crítica?",
+    "o": [
+      "La Comisión supeditó la validez de los testimonios a que estos contaran con una sentencia penal ejecutoriada previa en la justicia ordinaria.",
+      "El mandato de la Comisión se orientó a la búsqueda del encuentro humano, el esclarecimiento histórico y la construcción de sentido, donde la narrativa de la víctima posee un valor restaurativo irreemplazable por el dato estadístico.",
+      "Los informes de la Comisión operan como pruebas documentales con valor vinculante y superior sobre los fallos emitidos por la Jurisdicción Especial para la Paz."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Al intentar ejecutar las metas de la 'Diplomacia para la Vida' y el fortalecimiento consular en subregiones históricamente afectadas por el conflicto armado que la Comisión de la Verdad tipificó bajo 'invisibilización institucional', la Cancillería enfrenta tensiones de articulación en el territorio. ¿Cuál constituye el mayor obstáculo estructural para la legitimidad de la política exterior en estas zonas?",
+    "o": [
+      "La imposibilidad de suscribir acuerdos de libre comercio directos entre los municipios PDET y bloques económicos multilaterales.",
+      "Superar la desconfianza histórica de las comunidades étnicas y campesinas hacia un Estado central percibido tradicionalmente solo a través de su brazo militar o de la ausencia institucional.",
+      "La exclusión normativa de las gobernaciones departamentales en la gestión de los fondos de la cooperación internacional."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "La transversalización de la 'aproximación humana' en la política migratoria colombiana exige armonizar la prerrogativa soberana del Estado de controlar sus fronteras con los compromisos internacionales de derechos humanos. Según los objetivos de gobernanza global del PEI, ¿cómo se resuelve técnicamente este equilibrio en la práctica diplomática?",
+    "o": [
+      "Concibiendo la migración no como una amenaza a la seguridad nacional, sino como un fenómeno global multidimensional que requiere corresponsabilidad, inclusión socioeconómica y codesarrollo.",
+      "Priorizando la firma de memorandos de entendimiento bilaterales destinados a la repatriación obligatoria y expedita de flujos migratorios irregulares.",
+      "Restringiendo el acceso a servicios públicos básicos en las zonas de frontera para desincentivar los asentamientos irregulares de larga duración."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Contexto, Historia y Estado",
+    "p": "El Informe de la Comisión de la Verdad devela que la narrativa del 'milagro económico' del Eje Cafetero operó en ocasiones como un mecanismo discursivo para silenciar el despojo de tierras y la impunidad estructural, protegiendo la reputación empresarial de la región ante los mercados internacionales. ¿Qué imperativo ético y técnico impone este hallazgo para el ejercicio de la diplomacia colombiana contemporánea?",
+    "o": [
+      "Sostener la primacía de la diplomacia comercial tradicional, aislando los debates de memoria histórica de las misiones de promoción de inversiones en el exterior.",
+      "Fundamentar la proyección internacional del país en la transparencia, el reconocimiento explícito de la verdad histórica y la reparación como garantías de no repetición y predictibilidad jurídica.",
+      "Solicitar la impugnación de los capítulos del informe que afecten los indicadores de confianza inversionista y riesgo país ante la OCDE."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "La traducción operativa de la directriz política de consolidar a Colombia como 'Potencia Mundial de la Vida' dentro del Plan Estratégico Institucional de la Cancillería implica un rediseño de las prioridades de la agenda exterior. ¿En qué pilar se materializa este cambio conceptual?",
+    "o": [
+      "En el liderazgo diplomático internacional enfocado en la transición energética justa, la justicia ambiental global, la paz total y la centralidad de los derechos humanos.",
+      "En el fortalecimiento de alianzas estratégicas orientadas exclusivamente a la flexibilización de licencias de explotación de recursos fósiles convencionales.",
+      "En la adopción de una postura aislacionista que reduce la participación en foros multilaterales para priorizar la soberanía jurídica local."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Un funcionario de la carrera diplomática es comisionado ante el Consejo de Derechos Humanos de la ONU para exponer los avances de Colombia en materia de consolidación de la paz, utilizando el Informe Final de la Comisión de la Verdad como insumo oficial. De acuerdo con el enfoque del PEI vigente, ¿cuál es el tratamiento técnico adecuado que debe dársele al informe en este escenario multilateral?",
+    "o": [
+      "Presentarlo como un análisis sociológico minoritario que no vincula las políticas públicas del nivel central del Estado.",
+      "Utilizarlo de manera proactiva como una herramienta que demuestra la solidez democrática del Estado, su capacidad de autocrítica institucional y su compromiso inquebrantable con los estándares internacionales de verdad y justicia.",
+      "Omitir las secciones referidas a la responsabilidad de agentes estatales para evitar demandas de responsabilidad internacional ante tribunales transnacionales."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "Las remesas enviadas por los trabajadores colombianos desde el exterior constituyen un componente macroeconómico crítico para la estabilidad de la balanza de pagos. Conforme a las metas de vinculación del PEI 2023-2026, ¿cómo aborda estratégicamente la política exterior este flujo de capitales privados?",
+    "o": [
+      "Como un indicador del éxito de las políticas de externalización laboral masiva que permite reducir el gasto público en subsidios internos.",
+      "Como una fuente esencial de divisas que demanda el diseño de políticas públicas de co-inversión productiva, inclusión financiera y fortalecimiento del tejido vincular con la diáspora.",
+      "Como un fondo impositivo directo cuyas tasas aduaneras deben ser recaudadas por los consulados para financiar las misiones diplomáticas."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "En el marco de las transformaciones del comercio global analizadas por la UNCTAD, las 'medidas no arancelarias' (MNA) han adquirido una relevancia superior a los aranceles tradicionales en la determinación del acceso real de los productos colombianos a los mercados de economías industrializadas. ¿Qué naturaleza jurídica y técnica poseen principalmente estas medidas?",
+    "o": [
+      "Gravámenes porcentuales fijos aplicados exclusivamente a la importación de bienes de capital y tecnologías de la información.",
+      "Regulaciones técnicas, normativas sanitarias, fitosanitarias y requisitos de evaluación de la conformidad que condicionan o restringen el ingreso físico de las mercancías.",
+      "Subsidios directos a la producción doméstica permitidos de forma excepcional por el Acuerdo General sobre Aranceles Aduaneros y Comercio."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "Para consolidar el rol de Colombia como un actor relevante de la diplomacia climática bajo la narrativa de 'Potencia Mundial de la Vida', el Ministerio de Relaciones Exteriores monitorea indicadores de cumplimiento frente al Acuerdo de París. Según la guía de orientación y el bloque de sostenibilidad, ¿cuáles son las variables medulares evaluadas en los foros de la CMNUCC?",
+    "o": [
+      "El incremento porcentual en el volumen de exportación de carbón térmico hacia economías emergentes del Asia-Pacífico.",
+      "La reducción sustantiva de las tasas de deforestación amazónica, el aumento de la ambición en las NDC y la aceleración de una transición energética justa y planificada.",
+      "La unificación de las licencias ambientales bajo un solo estándar regulado de forma preferente por la Organización de los Estados Americanos."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "La diversificación estratégica de socios y la profundización de las relaciones con el Sur Global constituyen pilares fundamentales para mitigar la vulnerabilidad internacional del país. En el marco de un orden multipolar en transición, ¿qué implica técnicamente para Colombia la ejecución de esta doctrina?",
+    "o": [
+      "La denuncia unilateral de los tratados de libre comercio suscritos con socios históricos del Atlántico Norte para evitar dependencias ideológicas.",
+      "Fortalecer la inserción en mercados emergentes de Asia, África y América Latina a través de un multilateralismo selectivo y pragmático, sin que ello signifique la ruptura de las alianzas preexistentes.",
+      "Adoptar de forma automática las directrices monetarias y de seguridad de bloques cerrados de economías de planificación centralizada."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Contexto, Historia y Estado",
+    "p": "Dentro del marco del Sistema Integral de Verdad, Justicia, Reparación y No Repetición, se hace indispensable comprender la articulación entre las distintas tipologías de verdad para orientar la política exterior de paz. ¿Cuál es la distinción conceptual y operativa medular entre la 'verdad judicial' y la 'verdad restauradora o histórica'?",
+    "o": [
+      "La verdad judicial se orienta a la determinación de responsabilidades penales individuales mediante un proceso adversarial, mientras que la verdad restauradora busca la comprensión colectiva del conflicto, la dignificación de las víctimas y la recomposición del tejido social.",
+      "La verdad judicial posee un carácter puramente declarativo y administrativo, mientras que la verdad restauradora es la única que produce efectos jurídicos sancionatorios vinculantes en el orden interno.",
+      "Ambas categorías persiguen idénticos fines metodológicos, diferenciándose únicamente en que la verdad judicial es administrada de forma exclusiva por organismos de carácter transnacional."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En un litigio ante la Corte Internacional de Justicia (CIJ), un Estado argumenta que una disposición contenida en un tratado bilateral ratificado debe prevalecer de forma absoluta sobre una norma consuetudinaria de derecho internacional general anterior. Aplicando el artículo 38 del Estatuto de la CIJ y la teoría de las fuentes, ¿cuál es la interpretación jurídica correcta?",
+    "o": [
+      "Existe una jerarquía formal y pétrea que supedita la costumbre internacional a las fuentes escritas en todos los casos de colisión normativa.",
+      "No existe una jerarquía formal rígida entre tratados y costumbre; ambas son fuentes principales que interactúan dinámicamente, resolviéndose sus conflictos mediante principios generales como lex posterior o lex specialis.",
+      "La doctrina de los publicistas de mayor competencia es una fuente principal que prevalece sobre la costumbre ante la ausencia de un tratado de alcance vinculante."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Durante la revisión de un acuerdo multilateral sobre la protección de la biodiversidad marina, surge un debate doctrinal sobre la aplicabilidad de los conceptos de normas de jus cogens y obligaciones erga omnes. ¿Cuál es la distinción técnica exacta que un asesor de la Cancillería debe precisar?",
+    "o": [
+      "Son nociones conceptualmente idénticas que no admiten diferenciación operativa en el derecho convencional contemporáneo.",
+      "El jus cogens refiere a la naturaleza jerárquica e inderogable de una norma imperativa de derecho internacional general, mientras que las obligaciones erga omnes refieren al alcance y la estructura de la obligación, la cual se debe frente a la comunidad internacional en su conjunto.",
+      "El jus cogens emana exclusivamente de los tratados multilaterales codificados por la ONU, mientras que las obligaciones erga omnes nacen de actos unilaterales de los Estados."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Un Estado es acusado ante un tribunal internacional por las violaciones de derechos humanos cometidas por un grupo paramilitar que opera dentro de su territorio. Según los artículos sobre Responsabilidad del Estado por Hechos Internacionalmente Ilícitos de la CDI, ¿bajo qué condición técnica es atribuible dicha conducta al Estado?",
+    "o": [
+      "Por el solo hecho de que los ilícitos ocurran dentro del espacio geográfico bajo la soberanía formal del Estado, independientemente de quién sea el autor material.",
+      "Si se demuestra de forma fehaciente que el grupo armado actuó de hecho bajo la dirección, instigación o el control efectivo del Estado al ejecutar la conducta ilícita específica.",
+      "Únicamente si los miembros de la facción armada cuentan con un nombramiento formal como servidores públicos mediante un decreto del poder ejecutivo central."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En un debate constitucional sobre la aplicación interna del derecho internacional, se analiza un escenario donde una ley comercial nacional posterior entra en contradicción directa con un tratado internacional de derechos humanos ratificado con anterioridad. Si el Estado adopta una postura monista con primacía del derecho internacional, ¿cómo opera técnicamente la solución de este conflicto?",
+    "o": [
+      "La ley interna posterior deroga tácitamente al tratado internacional en virtud del principio de temporalidad legislativa.",
+      "El tratado internacional prevalece de forma automática e inmediata sobre la norma interna ordinaria, inaplicándose la ley posterior sin necesidad de un acto de transformación legislativa previo.",
+      "El tratado internacional queda suspendido en sus efectos hasta que el Congreso de la República apruebe una ley de enmienda constitucional."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En el análisis de la formación de nuevos sujetos de derecho internacional, las escuelas doctrinales discrepan sobre los efectos jurídicos del reconocimiento de Estados. ¿Cuál es la diferencia medular entre la teoría constitutiva y la teoría declarativa del reconocimiento?",
+    "o": [
+      "La constitutiva supedita la existencia del Estado al aval de la Asamblea General de la ONU, mientras que la declarativa exige la ratificación del Estatuto de Roma.",
+      "La teoría constitutiva sostiene que el acto de reconocimiento crea por sí mismo la personalidad jurídica internacional del nuevo Estado, mientras que la teoría declarativa afirma que el Estado existe plenamente desde que reúne los elementos constitutivos (territorio, población, poder político) y el reconocimiento solo constata dicha realidad de hecho.",
+      "La teoría constitutiva aplica exclusivamente para los Estados surgidos por procesos de descolonización, mientras que la declarativa rige la sucesión de gobiernos en regímenes de facto."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Un analista de la Cancillería evalúa el alineamiento estratégico de las potencias medias en el orden internacional contemporáneo. Desde la perspectiva del neorrealismo estructural de Kenneth Waltz, ¿cuál es la premisa medular que determina la conducta de supervivencia de los Estados en el sistema?",
+    "o": [
+      "La existencia de un ordenamiento jerárquico global regulado por normas vinculantes emanadas de la Asamblea General de la ONU.",
+      "La naturaleza anárquica del sistema internacional, que impone una lógica de autoayuda (self-help) donde los Estados actúan según la distribución de sus capacidades materiales de poder.",
+      "El papel de los regímenes internacionales interdependientes como moduladores definitivos de las preferencias de los agentes estatales."
+    ],
+    "r": 1
+  },
+   {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Al formular un documento de posición sobre la reforma del sistema financiero multilateral, una delegación diplomática utiliza la teoría de los Sistemas-Mundo de Immanuel Wallerstein para explicar las asimetrías estructurales del comercio global. ¿Cuál es el postulado económico básico que sostiene este enfoque?",
+    "o": [
+      "La existencia de una división internacional del trabajo donde se produce una transferencia continua de excedentes desde la periferia hacia el centro, consolidando una desigualdad estructural e histórica.",
+      "El beneficio mutuo y la nivelación automática de los factores productivos mediante la libre movilidad transfronteriza del capital.",
+      "La sustitución definitiva de los Estados soberanos por corporaciones multinacionales como únicos titulares de derechos en el comercio global."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "La estrategia de diplomacia pública de Colombia busca consolidar el liderazgo del país en foros internacionales mediante la promoción de la biodiversidad y la diversidad cultural. A la luz del enfoque conceptual de Joseph Nye sobre el Soft Power, ¿cómo se define técnicamente esta dimensión del poder?",
+    "o": [
+      "La capacidad de coerción económica ejercida mediante la imposición de aranceles punitivos y sanciones aduaneras unilaterales.",
+      "La habilidad de un Estado para moldear las preferencias de otros actores internacionales a través de la atracción basada en sus valores culturales, legitimidad política y prestigio exterior.",
+      "El volumen acumulado de capacidades materiales reflejado en el presupuesto de defensa y la capacidad de despliegue militar transfronterizo."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "En un escenario hipotético de cierre de fronteras en el hemisferio provocado por una crisis de movilidad humana masiva, se le solicita a un diplomático un memorando de recomendaciones con un enfoque neorrealista estricto. ¿Cuál sería el eje central de su argumentación jurídica y política?",
+    "o": [
+      "Supeditar los flujos migratorios de forma exclusiva a las directrices éticas y humanitarias del derecho convencional de los derechos humanos.",
+      "Priorizar el análisis del impacto de la crisis de movilidad sobre la seguridad nacional, la soberanía territorial y el mantenimiento del equilibrio de poder estatal.",
+      "Transferir de forma absoluta la gestión fronteriza y la asignación presupuestal a organizaciones no gubernamentales transnacionales."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Política Exterior y Lineamientos Estratégicos",
+    "p": "La formulación institucional de la 'Diplomacia para la Vida' del Plan Estratégico Institucional de la Cancillería plantea una ruptura doctrinal con las aproximaciones clásicas de las Relaciones Internacionales. ¿En qué aspecto operativo se evidencia el alejamiento más claro frente a los postulados de la Realpolitik?",
+    "o": [
+      "El diseño de una estrategia exterior orientada a la maximización de alianzas militares defensivas convencionales.",
+      "La estructuración de una agenda global focalizada en la paz total, la justicia ambiental y el multilateralismo inclusivo sobre la lógica tradicional del equilibrio de poder material.",
+      "La priorización del gasto armamentista fronterizo como disuasión estratégica ante amenazas vecinales."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "El GATT de 1947 funcionó durante décadas como un acuerdo multilateral provisional sin una estructura orgánica permanente. Al dar tránsito a la creación de la Organización Mundial del Comercio (OMC) en 1995 mediante el Acuerdo de Marrakech, ¿cuál fue el cambio jurídico-institucional más trascendental para la gobernanza comercial?",
+    "o": [
+      "La eliminación total, inmediata e incondicional de los aranceles consolidados de los Estados miembros.",
+      "El establishment de una organización internacional dotada de personalidad jurídica propia y un Sistema de Solución de Diferencias unificado con carácter vinculante.",
+      "La cesión de las facultades aduaneras nacionales a la jurisdicción exclusiva de la Corte Internacional de Justicia."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En el marco del derecho multilateral de la OMC, la cláusula de la Nación Más Favorecida (NMF) actúa como una de las obligaciones medulares del sistema. ¿Cuál es el alcance operativo de esta norma frente al comercio de mercancías extranjeras?",
+    "o": [
+      "Exigir que todo favor, ventaja o privilegio concedido por un Estado miembro a un producto originario de cualquier otro país sea extendido inmediata e incondicionalmente a los productos similares de todos los demás Miembros.",
+      "Garantizar que las industrias nacionales de los países en desarrollo reciban subsidios de compensación automáticos por parte del Órgano de Apelación.",
+      "Facilitar la creación de zonas de libre comercio regionales cerradas que restrinjan el acceso de mercancías de terceros Estados."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "El principio de 'Trato Nacional' regulado en el Artículo III del GATT de 1994 es indispensable para garantizar condiciones de competencia leal. ¿Cuál es la obligación que asume el Estado colombiano en virtud de este principio una vez que un producto extranjero se ha nacionalizado legalmente?",
+    "o": [
+      "El producto importado no puede ser objeto de tributos internos ni de reglamentaciones nacionales discriminatorias o menos favorables que las aplicadas a los productos nacionales similares.",
+      "El Estado conserva la facultad de imponer gravámenes internos compensatorios superiores a la producción local para equilibrar las ventajas tecnológicas de origen.",
+      "Las mercancías extranjeras quedan automáticamente exentas del cumplimiento de reglamentos técnicos y medidas sanitarias internas."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "A diferencia de los mecanismos diplomáticos del GATT, el Sistema de Solución de Diferencias (SSD) de la OMC introdujo un procedimiento dotado de mayor previsibilidad jurídica. ¿En qué consiste técnicamente el mecanismo de 'adopción por consenso negativo' del Órgano de Solución de Diferencias?",
+    "o": [
+      "Un informe de un Grupo Especial o del Órgano de Apelación se considera aprobado de forma obligatoria a menos que el Órgano de Solución de Diferencias decida por consenso de todos sus miembros no adoptarlo.",
+      "La adopción del fallo requiere el voto unánime y favorable de todos los miembros del bloque comercial, facultando al Estado perdedor a vetar la sanción.",
+      "El proceso judicial internacional solo surte efectos vinculantes si las partes en litigio han ratificado previamente una cláusula compromisoria extemporánea."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Una investigación de la autoridad investigadora comercial de Colombia determina que un tipo de acero extranjero ingresa al mercado nacional a un precio inferior a su valor normal en el país de origen, causando un daño material a la rama de producción nacional similar. ¿Qué instrumento legal de la OMC fundamenta la imposición de medidas remediales?",
+    "o": [
+      "La aplicación de una Medida de Salvaguardia global basada en el aumento imprevisto de las importaciones.",
+      "La imposición de Derechos Antidumping, de conformidad con el Artículo VI del GATT de 1994 y el Acuerdo relativo a la Aplicación del Artículo VI.",
+      "El establecimiento de restricciones cuantitativas discrecionales mediante la asignación de cuotas de mercado."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Lanzada en 2001, la Ronda de Doha de la OMC fue catalogada formalmente como la 'Agenda de Doha para el Desarrollo'. ¿Cuál constituye el núcleo técnico y el principal escollo geopolítico que ha impedido la conclusión integral de este mandato negociador multilateral?",
+    "o": [
+      "La exigencia de los países en desarrollo de eliminar las distorsiones comerciales generadas por los subsidios agrícolas y las ayudas internas de las economías industrializadas, frente al acceso a mercados en bienes no agrícolas.",
+      "El intento de las potencias de centralizar el control aduanero global bajo la supervisión presupuestal del Fondo Monetario Internacional.",
+      "La prohibición absoluta de los acuerdos comerciales regionales y de los tratados de libre comercio de carácter bilateral."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "El Acuerdo sobre la Aplicación de Medidas Sanitarias y Fitosanitarias (MSF) de la OMC reconoce el derecho de los miembros de dictar normas para proteger la vida humana, animal o vegetal. Para evitar que estas regulaciones operen como barreras comerciales injustificadas, ¿qué estándar internacional impone el acuerdo?",
+    "o": [
+      "Las medidas deben estar sustentadas en principios científicos, no mantenerse sin testimonios científicos suficientes y basarse en una adecuada evaluación del riesgo, utilizando preferentemente normas internacionales de referencia.",
+      "Toda medida sanitaria de carácter transfronterizo debe contar con la aprobación y ratificación unánime del Consejo de Seguridad de las Naciones Unidas.",
+      "El acuerdo prohíbe de forma absoluta la aplicación del principio de precaución ante la ausencia de certidumbre científica completa."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "El multilateralismo comercial enfrenta una crisis institucional profunda caracterizada por la parálisis de su instancia judicial de última palabra. ¿Cuál es la causa técnica e institucional que explica el cese operativo del Órgano de Apelación de la OMC?",
+    "o": [
+      "La falta de competencia del órgano para pronunciarse sobre los diferendos comerciales relativos al comercio de servicios (AGCS).",
+      "El bloqueo sistemático en la nominación y designación de sus miembros vacantes por parte de actores clave, lo que impide alcanzar el quórum mínimo de tres integrantes requerido para resolver las controversias.",
+      "La expedición de una resolución de la Asamblea General de la ONU que transfirió el control del SSD a la Corte Penal Internacional."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Al sustentar los impactos de la inserción comercial internacional de Colombia, un asesor de la Cancillería debe precisar la naturaleza jurídica y el objetivo del Acuerdo de Promoción Comercial entre Colombia y los Estados Unidos. ¿Cuál es la definición técnica correcta?",
+    "o": [
+      "Constituye una Unión Aduanera orientada al establecimiento de un arancel externo común y la libre movilidad de factores productivos.",
+      "Es un Tratado de Libre Comercio que busca consolidar un acceso preferencial, estable y permanente para la oferta exportable colombiana, reduciendo barreras no arancelarias y atrayendo inversión bajo un marco de seguridad jurídica.",
+      "Un memorando de entendimiento de Soft Law destinado a la cooperación financiera en proyectos exclusivos de reconversión industrial rural."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Un importador estadounidense de textiles colombianos argumenta que la aduana de su país le exige el pago del arancel de Nación Más Favorecida a pesar de que el bien fue confeccionado en territorio colombiano. Desde la perspectiva técnica del TLC, ¿qué requisito procedimental y sustantivo debe acreditarse para acceder al beneficio de la desgravación arancelaria?",
+    "o": [
+      "El cumplimiento estricto de los criterios de transformación sustancial y las 'Reglas de Origen' específicas que determinen que el bien califica como originario según los insumos permitidos por el tratado.",
+      "La certificación de que el transporte logístico fue realizado en su totalidad por empresas navieras con bandera de los Estados Unidos.",
+      "El pago previo de una tasa de compensación arancelaria ante el Órgano de Solución de Diferencias de la OMC."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Durante las negociaciones del TLC Colombia-Estados Unidos, el capítulo sobre Propiedad Intelectual concentró intensos debates normativos. ¿Cuál constituyó el objetivo regulatorio central impulsado por la delegación de los Estados Unidos en este apartado del acuerdo?",
+    "o": [
+      "Elevar los estándares de protección y observancia de patentes, derechos de autor y marcas por encima de los mínimos del Acuerdo sobre los ADPIC (estándares ADPIC-plus), ampliando la protección de datos de prueba.",
+      "Establecer la prohibición total de la importación y comercialización de medicamentos genéricos en el mercado interno colombiano.",
+      "Lograr la subordinación automática del régimen de marcas de la Superintendencia de Industria y Comercio a las leyes federales de la Oficina de Patentes de EE.UU."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "El tratamiento del sector agropecuario fue uno de los componentes de mayor sensibilidad en la negociación del TLC con los Estados Unidos debido a las asimetrías de subsidios en el país norteamericano. ¿Qué mecanismo técnico se incorporó en el tratado para mitigar el impacto sobre los productos nacionales considerados 'sensibles'?",
+    "o": [
+      "La exclusión permanente del sector agrícola del ámbito de aplicación del tratado.",
+      "El establecimiento de contingentes arancelarios (cuotas libres de arancel) combinados con plazos de desgravación gradual a largo plazo y mecanismos de salvaguardia agropecuaria excepcional.",
+      "La eliminación arancelaria inmediata y generalizada orientada a reducir la inflación de la canasta básica de consumo doméstico."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Si surge una diferencia entre el Estado colombiano y el gobierno de los Estados Unidos respecto de la interpretación o aplicación de una disposición contenida en el TLC que afecte el acceso real de bienes agrícolas nacionales, ¿cuál es el procedimiento formal establecido en el acuerdo para resolver el conflicto?",
+    "o": [
+      "La interposición de una demanda judicial directa ante los tribunales de circuito federal de la ciudad de Washington D.C.",
+      "Un proceso escalonado regulado en el capítulo de Solución de Controversias del tratado que inicia con consultas bilaterales, puede avanzar a la intervención de la Comisión Administradora y, en última instancia, recurrir a la constitución de un panel arbitral.",
+      "La remisión automática del diferendo ante la Sala de Casación Civil de la Corte Suprema de Justicia para un fallo de legalidad nacional."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "A diferencia de los tratados comerciales tradicionales de primera generación, el TLC Colombia-Estados Unidos integró capítulos robustos en materia laboral y ambiental. ¿Cuál es la obligación jurídica central que estos capítulos imponen de manera vinculante a las partes firmantes?",
+    "o": [
+      "La modificación obligatoria y simétrica de la estructura normativa y los códigos laborales internos conforme al marco regulatorio federal estadounidense.",
+      "El compromiso de aplicar de manera efectiva sus propias legislaciones nacionales laborales y ambientales, evitando la flexibilización o el debilitamiento de los estándares domésticos como medio para atraer el comercio o la inversión.",
+      "La transferencia de la potestad sancionatoria ambiental interna a un tribunal transnacional independiente de la jurisdicción local."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "El capítulo de Contratación Pública del TLC define las condiciones bajo las cuales las empresas de ambas partes pueden participar en los procesos de compras del Estado. ¿Cuál es el beneficio normativo directo que este capítulo otorga a los proveedores de servicios colombianos?",
+    "o": [
+      "El derecho a la adjudicación directa de licitaciones federales de defensa sin cumplir con los requisitos presupuestales del mercado.",
+      "Garantizar un trato nacional y no discriminatorio en los procesos de contratación de las entidades del gobierno federal estadounidense que estén cubiertas por el tratado y superen los umbrales financieros pactados.",
+      "La exención total de presentar pólizas de cumplimiento o garantías bancarias ante las entidades contratantes del Estado receptor."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "Durante una ronda de consultas bilaterales, surgen discrepancias sobre la imposición de una cuota máxima al número de proveedores extranjeros autorizados para operar plataformas de servicios financieros en el mercado local. Evaluando la situación desde los compromisos normativos del TLC con los Estados Unidos, ¿qué obligación específica se vulneraría al establecer dicha restricción cuantitativa?",
+    "o": [
+      "El principio de Acceso a Mercados, el cual prohíbe de forma taxativa a las Partes imponer limitaciones al número de proveedores de servicios o al valor total de las transacciones en los sectores abiertos.",
+      "La obligación de trato nacional, al aplicarse una medida de exención tributaria exclusiva a favor de corporaciones multinacionales del Norte Global.",
+      "El principio de asimetría regulatoria, que faculta al Estado importador a suspender unilateralmente las licencias profesionales de servicios de ingeniería."
+    ],
+    "r": 0
+  },
+   {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "Al analizar los modelos de integración en América Latina, un diplomático evalúa el diseño institucional de la Alianza del Pacífico frente a esquemas tradicionales. ¿Qué característica metodológica y jurídica define la naturaleza de este mecanismo desde su Acuerdo Marco fundacional?",
+    "o": [
+      "La creación de una estructura supranacional dotada de un parlamento de carácter vinculante cuyas directrices derogan de forma automática la legislación de los Congresos nacionales.",
+      "Una plataforma de integración profunda orientada por el regionalismo abierto y el pragmatismo institucional, que carece de burocracias supranacionales y prioriza la flexibilidad de los acuerdos técnicos.",
+      "Un modelo cerrado de unión aduanera que supedita la política arancelaria exterior de sus miembros a las decisiones del Consejo de Seguridad de la OEA."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "La consolidación de la Alianza del Pacífico como un bloque competitivo a nivel global exige el cumplimiento simultáneo de sus mandatos de libre circulación. Según el marco constitutivo suscrito por Colombia, ¿cuáles son los cuatro componentes medulares que configuran este mercado común en construcción?",
+    "o": [
+      "La libre circulación de bienes, servicios, capitales y personas.",
+      "La unificación monetaria, la libre circulación de fuerzas armadas, la homologación de subsidios de defensa y la libertad de prensa transfronteriza.",
+      "La exención general de registros sanitarios, el libre comercio de material bélico, la asignación de cuotas de pesca y la unificación de fronteras físicas."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "La proyección geopolítica de la Alianza del Pacífico responde a una lectura estratégica de los flujos de capital y el comercio internacional en el siglo XXI. ¿Cuál constituye el vector de política exterior prioritario definido en su carta de navegación para contrarrestar la pérdida de dinamismo de los mercados tradicionales?",
+    "o": [
+      "La firma de un tratado de defensa mutua para restringir el tránsito de buques comerciales extranjeros en el mar territorial americano.",
+      "El fortalecimiento de la articulación económica, comercial y diplomática con la región del Asia-Pacífico, posicionando al bloque como un eslabón clave en las cadenas globales de valor.",
+      "La denuncia colectiva de los tratados de libre comercio vigentes con los países del Atlántico para priorizar el abastecimiento intrarregional."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "Una empresa manufacturera colombiana diseña un plan de exportación hacia un mercado asiático utilizando insumos intermedios importados de Chile y Perú. Para que el producto final se beneficie de las preferencias negociadas por el bloque, ¿qué mecanismo técnico de facilitación comercial resulta indispensable aplicar?",
+    "o": [
+      "La triangulación aduanera diferida bajo la supervisión presupuestal del Banco de Desarrollo de América Latina (CAF).",
+      "El principio de acumulación de origen, que permite considerar los insumos de cualquier Estado miembro como originarios del país exportador, promoviendo la integración productiva regional.",
+      "La exención automática de los requisitos de evaluación de la conformidad técnica y fitosanitaria en la aduana de destino."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "A diferencia de otros mecanismos institucionales de la región que han experimentado parálisis estructurales debido a los virajes políticos de sus mandatarios, la Alianza del Pacífico ha mostrado una notable resiliencia operativa. ¿Qué premisa de su gestión diplomática explica esta estabilidad?",
+    "o": [
+      "La existencia de una secretaría técnica permanente dotada de capacidades de coerción militar sobre los gobiernos nacionales.",
+      "Un enfoque netamente pragmático centrado en el avance de agendas técnicas, comerciales y de cooperación, aislando el funcionamiento del bloque de las divergencias ideológicas de los gobiernos de turno.",
+      "El poder de veto absoluto otorgado a las cámaras de comercio privadas sobre los decretos presidenciales de política exterior."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "La 'Plataforma de Movilidad Estudiantil y Académica' constituye uno de los ejes de cooperación más dinámicos de la Alianza del Pacífico. Desde la perspectiva de la diplomacia cultural y las relaciones internacionales, ¿cuál es el objetivo estratégico subyacente a este instrumento?",
+    "o": [
+      "Fomentar la integración regional mediante el desarrollo de capital humano avanzado y la construcción de un tejido social de gobernanza e identidad compartida entre los futuros tomadores de decisión.",
+      "Sustituir de manera progresiva los currículos de las universidades públicas nacionales por lineamientos normativos dictados por la OCDE.",
+      "Establecer un mecanismo exclusivo de reclutamiento de personal técnico para el servicio exterior que prescinda del concurso público de carrera."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "El Protocolo Comercial de la Alianza del Pacífico consagra un capítulo específico a la facilitación del comercio y la cooperación aduanera. ¿Cómo se materializa normativamente esta directriz en la gestión cotidiana de las Cancillerías y las agencias de control transfronterizo?",
+    "o": [
+      "Mediante la simplificación, armonización y automatización de los regímenes aduaneros, el uso interoperable de Ventanillas Únicas de Comercio Exterior (VUCE) y la implementación de sistemas de gestión de riesgos logísticos.",
+      "A través de la supresión de las inspecciones físicas y sanitarias para todas las mercancías agrícolas perecederas de origen minero.",
+      "Con la obligación de unificar las tarifas impositivas del IVA comercial interno en los cuatro países bajo un estándar monetario fijo."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Comprensión y Análisis Geopolítico Estratégico",
+    "p": "En los debates contemporáneos sobre la arquitectura de la integración latinoamericana, se discute la relación estratégica entre los países orientados al Pacífico y el bloque del MERCOSUR. ¿Cuál es la postura oficial de la diplomacia colombiana respecto a la coexistencia de ambos esquemas?",
+    "o": [
+      "Asumir la Alianza del Pacífico como un modelo antagónico que persigue el aislamiento económico e institucional de las economías del Cono Sur.",
+      "Promover la convergencia en la diversidad, entendiendo que ambos mecanismos representan distintas profundizaciones de integración que pueden complementarse mediante la flexibilización de cadenas de valor.",
+      "Exigir la disolución formal de los esquemas subregionales intergubernamentales para centralizar la representación ante la OMC en una sola voz hemisferica."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "La Comunidad Andina (CAN) representa el proceso de integración más antiguo e institucionalizado de Sudamérica. Al evaluar su estructura normativa frente a otros bloques, ¿cuál constituye el rasgo jurídico distintivo de su ordenamiento comunitario originado en el Acuerdo de Cartagena?",
+    "o": [
+      "Su naturaleza estrictamente intergubernamental, que exige la ratificación parlamentaria unánime de cada directriz para que adquiera validez jurídica local.",
+      "Un carácter supranacional cimentado en la autonomía de sus órganos, cuyas Decisiones gozan de aplicabilidad directa y preeminencia jerárquica sobre el derecho interno de los Estados miembros.",
+      "La ausencia de un tribunal judicial de control, delegando la solución de controversias a las cláusulas arbitrales de la Convención de Nueva York."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "La fisonomía geopolítica de la Comunidad Andina ha experimentado transformaciones significativas a lo largo de su historia debido al retiro y reingreso de diversos actores estatales. ¿Cómo está configurada la membresía plena de este bloque de integración en la actualidad?",
+    "o": [
+      "Colombia, el Estado Plurinacional de Bolivia, la República del Ecuador y la República del Perú.",
+      "Colombia, la República de Chile, la República del Ecuador y la República Bolivariana de Venezuela.",
+      "Colombia, el Estado Plurinacional de Bolivia, la República del Perú y la República de Panamá."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Un juez de la República de Colombia debe fallar un litigio comercial interno donde una de las partes invoca una presunta incompatibilidad entre la legislación nacional sobre patentes y la Decisión 486 de la CAN. De acuerdo con el marco procesal andino, ¿qué acción institucional debe adelantarse antes de dictar sentencia?",
+    "o": [
+      "Solicitar al Tribunal de Justicia de la Comunidad Andina una interpretación prejudicial para garantizar la aplicación uniforme de la norma comunitaria en el bloque.",
+      "Inaplicar de forma oficiosa el derecho comunitario andino invocando la doctrina de la soberanía legislativa absoluta del Congreso.",
+      "Remitir el expediente al Parlamento Andino para que actúe como tribunal arbitral de casación de última instancia."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "El Estatuto Andino de Migraciones representa un avance sustancial en la dimensión social de la integración subregional. ¿Qué prerrogativa jurídica consagra de manera vinculante este instrumento para los nacionales de los países miembros de la CAN?",
+    "o": [
+      "El derecho a circular, residir y ejercer actividades laborales por cuenta propia o ajena en cualquier país miembro, bajo condiciones de igualdad de trato y oportunidades respecto a los nacionales.",
+      "La expedición de un pasaporte diplomático unificado que exime a los ciudadanos del cumplimiento de los controles de seguridad aduanera.",
+      "La facultad de ejercer el derecho al voto activo y pasivo en las elecciones presidenciales del Estado receptor sin requisitos de residencia."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En el marco del derecho de la integración, los principios fundamentales determinan la eficacia de las normas comunes. ¿Qué implicación técnico-jurídica posee el principio de 'Efecto Directo' de las Decisiones de la Comisión de la CAN?",
+    "o": [
+      "Exigir que las normas aprobadas en Lima sean promulgadas mediante ley de la República y revisadas por la Corte Constitucional antes de su entrada en vigor.",
+      "Otorgar a las Decisiones la capacidad de crear derechos y obligaciones exigibles por los ciudadanos ante los tribunales nacionales desde su publicación en la Gaceta Oficial, sin requerir un acto de transposición interno.",
+      "Facultar al poder ejecutivo a suspender de forma discrecional las normas comunitarias que afecten los indicadores de recaudo tributario nacional."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "A nivel macroeconómico, los países de la cuenca andina participan de manera simultánea en la CAN y en la Alianza del Pacífico. Frente a los riesgos de duplicidad normativa en el comercio intra-regional, ¿cómo se articula técnicamente la coexistencia de ambos regímenes?",
+    "o": [
+      "Los bloques operan bajo un principio de exclusión jurídica absoluta, obligando al Estado a suspender sus compromisos andinos al aplicar el Protocolo de la Alianza.",
+      "Coexisten de manera armónica, permitiendo que los Estados apliquen de forma flexible los mecanismos de acumulación de origen y facilitación comercial para potenciar la convergencia en la diversidad.",
+      "La estructura orgánica de la CAN absorbió las competencias arancelarias de la Alianza del Pacífico por mandato de la OMC."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "El Sistema Andino de Integración (SAI) distribuye competencias específicas entre órganos de dirección, deliberación y ejecución. ¿Qué instancia detenta la máxima facultad de decisión política y potestad legislativa mediante la expedición de Decisiones vinculantes?",
+    "o": [
+      "La Secretaría General de la CAN con sede ejecutiva en la ciudad de Lima.",
+      "El Consejo Andino de Ministros de Relaciones Exteriores y la Comisión de la Comunidad Andina.",
+      "El Parlamento Andino en articulación con las comisiones sextas constitucionales de los Congresos nacionales."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "La regulación común sobre Propiedad Industrial contenida en la Decisión 486 de la CAN es uno de los activos más estables de la integración andina. ¿Cuál constituye la justificación técnica de mantener este régimen armonizado en el bloque frente a las presiones de acuerdos bilaterales externos?",
+    "o": [
+      "Garantizar un marco regulatorio homogéneo de predictibilidad jurídica que unifica los criterios de patentabilidad y protección de marcas, resguardando la biodiversidad y los conocimientos tradicionales de los países miembros.",
+      "Establecer la gratuidad absoluta para el registro de patentes biotecnológicas desarrolladas por laboratorios de capital nacional.",
+      "Eliminar de forma permanente la vigencia de los derechos de autor sobre las obras científicas y los desarrollos de software transnacionales."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "Al evaluar el grado de integración alcanzado por el MERCOSUR frente a las meras Zonas de Libre Comercio, un economista internacional debe tipificar su estatus normativo actual. ¿Qué elemento estructural define técnicamente al MERCOSUR en su estadio de integración económica?",
+    "o": [
+      "La libre circulación de factores productivos complementada con la adopción de una política monetaria unificada y un banco central común.",
+      "El libre comercio intrarregional de bienes y la adopción de un Arancel Externo Común (AEC) que regula las relaciones comerciales con terceros Estados.",
+      "La supresión total de las fronteras físicas aduaneras y de las potestades de recaudo tributario de los Ministerios de Hacienda nacionales."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "La arquitectura del Mercado Común del Sur se edificó sobre compromisos jurídicos multilaterales que marcaron el fin de las rivalidades estratégicas en el Cono Sur. ¿Qué tratado internacional dio nacimiento formal al bloque en 1991, delineando su programa de desgravación arancelaria?",
+    "o": [
+      "El Tratado de Asunción, suscrito por Argentina, Brasil, Paraguay y Uruguay.",
+      "El Protocolo de Ouro Preto, que fijó la estructura institucional definitiva del bloque.",
+      "La Declaración de Montevideo sobre la convergencia de la ALADI."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Mecanismos de Integración Concertación Regionales y Subregionales",
+    "p": "La gobernanza del MERCOSUR recae sobre órganos intergubernamentales de alta sensibilidad política, como el Consejo del Mercado Común. Según las reglas de procedimiento vigentes, ¿bajo qué mecanismo técnico se adopta la normativa comercial en este bloque?",
+    "o": [
+      "Mediante votación de mayoría ponderada calculada de forma proporcional al tamaño del PIB de cada Estado Parte.",
+      "Por consenso, requiriéndose de manera obligatoria la presencia de la totalidad de los Estados Partes en las instancias decisorias.",
+      "A través de decisiones ejecutivas unilaterales expedidas por la Secretaría del MERCOSUR con sede en Montevideo."
+    ],
+    "r": 1
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "En el marco de un diferendo comercial intrabloque en el MERCOSUR respecto a la aplicación de barreras no arancelarias, las partes deciden agotar las instancias previstas en el Protocolo de Olivos. ¿Cuál es el órgano jurisdiccional de carácter permanente encargado de garantizar la interpretación uniforme y actuar como última instancia de revisión de los laudos arbitrales?",
+    "o": [
+      "El Tribunal Permanente de Revisión (TPR), con sede en Asunción, diseñado para resolver controversias, dictar medidas cautelares y emitir opiniones consultivas en el bloque.",
+      "El Tribunal de Justicia de la Comunidad Andina, operando mediante una extensión jurisdiccional de complementariedad y convergencia institucional regional.",
+      "La Corte Interamericana de Arbitraje Comercial, supeditada de manera directa a las directrices multilaterales de la ALADI."
+    ],
+    "r": 0
+  },
+  {
+    "c": "Derecho Internacional Público",
+    "p": "Un Estado parte del MERCOSUR plantea la posibilidad de suscribir, de manera unilateral y acelerada, un Tratado de Libre Comercio con una potencia extrarregional asiática. Evaluando la naturaleza jurídica del bloque como Unión Aduanera, ¿qué restricción normativa e institucional enfrenta este Estado?",
+    "o": [
+      "La obligación de negociar acuerdos comerciales de alcance pleno de manera conjunta o en bloque, preservando la integridad del Arancel Externo Común (AEC) según lo dispuesto por la Decisión 32/00 del Consejo del Mercado Común.",
+      "La prohibición absoluta de entablar diálogos diplomáticos fuera del hemisferio occidental por mandatos imperativos del Tratado de Asunción.",
+      "La necesidad de obtener una autorización vinculante expedida por voto calificado del Consejo Permanente de la OEA."
+    ],
+    "r": 0
+  },
    {
       "c":"MERCOSUR - Estados Asociados",
       "p":"Colombia participa activamente en las deliberaciones y foros técnicos del MERCOSUR a pesar de no ser un miembro pleno. ¿Bajo qué categoría jurídica y con qué alcance institucional se regula la inserción de Colombia y otros países de la subregión en este mecanismo?",
